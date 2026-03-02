@@ -1,0 +1,40 @@
+name: Bug Dedektifi
+on:
+  schedule:
+    - cron: '0 4 * * *'  # UTC 04:00 = TR 07:00
+  workflow_dispatch:       # Manuel tetikleme butonu
+
+permissions:
+  contents: write
+  issues: read
+
+jobs:
+  bug-scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Bug Detective
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TARGET_REPO: batuhansen340-star/StoryPal
+        run: python scripts/bug_detective.py
+
+      - name: Commit data updates
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'actions@github.com'
+          git add data/
+          git diff --staged --quiet || git commit -m 'data: bug scan update'
+          git push

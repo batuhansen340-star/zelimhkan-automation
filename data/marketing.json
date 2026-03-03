@@ -5,5 +5,35 @@
       "contents": [],
       "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CYdjpQU3ncA3ML2r6E6yM'}"
     }
+  },
+  {
+    "date": "2026-03-03T05:55:03.179713",
+    "content": {
+      "contents": [
+        {
+          "platform": "twitter",
+          "type": "thread",
+          "content": "Tweet 1: 'Anne bana bambaşka bir hikaye oku!' diye ısrar eden çocuğunuz mu var? 🤔 StoryPal ile her gece yepyeni bir macera! Çocuğunuz sadece dinleyici değil, hikayenin başrol oyuncusu olsun. 🌟\n\nTweet 2: Kendi ismi, sevdiği hayvan, en sevdiği renk... Her detay hikayeye yansıyor. AI destekli görsellerle hayal gücü sınır tanımıyor! 3 yaşından 10 yaşına kadar her çocuğa özel içerik. 📚✨\n\nTweet 3: Günde 3 hikaye ÜCRETSİZ! Premium'la sınırsız hikaye + PDF export özelliği. Bugün App Store'dan indirin, bu gece masalınızı birlikte yaratalım! 🎁\n\nTweet 4: Link bio'da 👆 #ÜcretsizDene #3HikayeBedava",
+          "hashtags": [
+            "#StoryPal",
+            "#KişiselleştirilmişHikaye",
+            "#ÇocukKitapları",
+            "#AileZamanı",
+            "#AIileEbeveynlik"
+          ]
+        },
+        {
+          "platform": "instagram",
+          "type": "caption",
+          "content": "Salı günü gerçeği: Çocuğunuz aynı hikayeyi 47. kez dinlemek istediğinde... 😅\n\nAma ya her gece FARKLI bir hikaye olsaydı? Hem de çocuğunuzun ismini duyduğu, kendini hikayede bulduğu bir macera! 🦸‍♀️🦸‍♂️\n\nStoryPal ile:\n✨ Çocuğunuz ejderha avcısı, uzay kaşifi ya da peri diyarı kahramanı olabilir\n📖 Her hikaye çocuğunuzun ilgi alanlarına göre özel üretiliyor\n🎨 AI görseller hayal dünyasını renklendiriyor\n💾 Favori hikayelerinizi PDF olarak saklayın, tekrar tekrar okuyun\n\nGünde 3 hikaye tamamen ÜCRETSİZ! Premium'la sınırsız maceraya hazır mısınız?\n\n👉 Bio'daki linkten App Store'a git\n👉 İlk hikayeni 2 dakikada oluştur\n👉 Çocuğunun yüzündeki o gülümsemeye hazır ol! 😍\n\n#StoryPal #SalıMotivasyonu #HerÇocukBirKahraman",
+          "visual_idea": "Carousel post (3 slayt): 1) Tablette StoryPal uygulamasını kullanan anne-çocuk fotoğrafı (sıcak ışık, rahat ortam), 2) Uygulama arayüzü screenshot'u (hikaye oluşturma ekranı), 3) Mutlu çocuk + AI görselli hikaye örneği mockup"
+        },
+        {
+          "platform": "blog",
+          "type": "outline",
+          "content": "Başlık: 'Çocuğunuzun Okuma Sevgisi Nasıl Gelişir? Kişiselleştirmenin Gücü'\n\n1. Kişiselleştirme Neden Önemli: Araştırmalar, kendi isimlerini duyan çocukların %73 daha fazla hikayeye odaklandığını gösteriyor. Çocuklar kendilerini hikayede gördüklerinde duygusal bağ kuruyor ve okuma aktivitesi 'zorunluluk' olmaktan çıkıp 'keyifli vakit' oluyor.\n\n2. Teknoloji ve Hayal Gücü El Ele: AI destekli hikayelerin çocuk gelişimine katkıları - yaratıcı düşünme becerileri, kelime dağarcığı genişlemesi, problem çözme yetenekleri. Ekran süresini kaliteli içerikle değerlendirmenin yolları.\n\n3. StoryPal ile Pratik Uygulama: Günlük rutin oluşturma önerileri, farklı yaş gruplarına göre hikaye seçimi, ebeveyn-çocuk etkileşimini artırma teknikleri. Ücretsiz deneme ile başlayarak nasıl alışkanlık oluşturulur, gerçek ebeveyn deneyimleri ve sonuçları."
+        }
+      ]
+    }
   }
 ]

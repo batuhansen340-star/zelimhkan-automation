@@ -38,6 +38,6 @@ def ask_claude(prompt, json_mode=False, model='claude-sonnet-4-5-20250929'):
             return json.loads(text)
         except json.JSONDecodeError:
             print(f"JSON parse hatası, raw text sarmalanıyor")
-            return {"raw_response": text}
+            return {"raw_analysis": text}
 
     return text

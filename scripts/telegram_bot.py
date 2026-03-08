@@ -34,3 +34,27 @@ def send_telegram(message, parse_mode='Markdown'):
     except Exception as e:
         print(f'Telegram bağlantı hatası: {e}')
         return False
+
+
+def send_document(file_path, caption=""):
+    """Telegram'a dosya gönder
+
+    Args:
+        file_path: Gönderilecek dosyanın yolu
+        caption: Dosya açıklaması (opsiyonel)
+    """
+    url = f'https://api.telegram.org/bot{BOT_TOKEN}/sendDocument'
+    try:
+        with open(file_path, 'rb') as f:
+            resp = requests.post(
+                url,
+                data={'chat_id': CHAT_ID, 'caption': caption[:1024]},
+                files={'document': f},
+                timeout=30
+            )
+        if resp.status_code != 200:
+            print(f'Telegram dosya hatası: {resp.status_code} - {resp.text}')
+        return resp.status_code == 200
+    except Exception as e:
+        print(f'Telegram dosya gönderim hatası: {e}')
+        return False

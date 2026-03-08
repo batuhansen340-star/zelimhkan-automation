@@ -2,7 +2,8 @@ name: TrendPulse
 
 on:
   schedule:
-    - cron: '0 4 * * *'  # 07:00 TR (UTC+3)
+    - cron: '0 4 * * *'   # 07:00 TR (sabah raporu)
+    - cron: '0 16 * * *'  # 19:00 TR (aksam raporu)
   workflow_dispatch:
 
 env:
@@ -26,3 +27,11 @@ jobs:
 
       - name: Run TrendPulse
         run: python scripts/trend_pulse.py
+
+      - name: Save trend history
+        run: |
+          git config user.name 'TrendPulse Bot'
+          git config user.email 'bot@trendpulse.dev'
+          git add data/trend_history.json || true
+          git diff --staged --quiet || git commit -m "data: update trend history [skip ci]"
+          git push || true

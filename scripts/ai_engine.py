@@ -3,6 +3,7 @@
 
 import os
 import json
+import re
 import anthropic
 
 client = anthropic.Anthropic(api_key=os.environ['ANTHROPIC_API_KEY'])
@@ -10,7 +11,7 @@ client = anthropic.Anthropic(api_key=os.environ['ANTHROPIC_API_KEY'])
 
 def ask_claude(prompt, json_mode=False, model='claude-sonnet-4-5-20250929'):
     """Claude API ile soru sor
-    
+
     Args:
         prompt: Sorulacak metin
         json_mode: True ise sadece JSON döndürür
@@ -22,7 +23,7 @@ def ask_claude(prompt, json_mode=False, model='claude-sonnet-4-5-20250929'):
 
     message = client.messages.create(
         model=model,
-        max_tokens=4096,
+        max_tokens=8192,
         system=system,
         messages=[{'role': 'user', 'content': prompt}]
     )
@@ -30,14 +31,22 @@ def ask_claude(prompt, json_mode=False, model='claude-sonnet-4-5-20250929'):
     text = message.content[0].text
 
     if json_mode:
-        # JSON parçala (bazen markdown fence içinde gelir)
         text = text.strip()
+        # Markdown fence temizligi (```json ... ``` veya ``` ... ```)
         if text.startswith('```'):
-            text = text.split('\n', 1)[1].rsplit('```', 1)[0]
+            text = re.sub(r'^```(?:json)?\s*\n?', '', text)
+            text = re.sub(r'\n?```\s*$', '', text)
+            text = text.strip()
         try:
             return json.loads(text)
         except json.JSONDecodeError:
-            print(f"JSON parse hatası, raw text sarmalanıyor")
-            return {"raw_analysis": text}
+            print(f"JSON parse hatası (ilk deneme), backtick temizleniyor...")
+            # Ikinci deneme: tum backtick'leri kaldir
+            cleaned = re.sub(r'```(?:json)?', '', text).strip()
+            try:
+                return json.loads(cleaned)
+            except json.JSONDecodeError:
+                print(f"JSON parse hatası (ikinci deneme), raw text sarmalanıyor")
+                return {"raw_analysis": text, "parse_error": True}
 
     return text

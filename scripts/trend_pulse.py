@@ -1,5 +1,5 @@
 # scripts/trend_pulse.py
-# TrendPulse - Gunluk trend raporu pipeline'i
+# TrendPulse - Kisisel girisim danismani
 # 7 ucretsiz kaynaktan veri ceker, Claude ile analiz eder, DOCX rapor olusturur, Telegram'a gonderir
 
 import os
@@ -9,15 +9,16 @@ import requests
 import feedparser
 from datetime import datetime, timedelta
 from docx import Document
-from docx.shared import Pt, RGBColor
+from docx.shared import Pt, RGBColor, Cm
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 from docx.enum.table import WD_TABLE_ALIGNMENT
+from docx.oxml.ns import qn
 
 sys.path.insert(0, os.path.dirname(__file__))
 from ai_engine import ask_claude
 from telegram_bot import send_telegram, send_document
 
-HEADERS = {'User-Agent': 'TrendPulse/1.0 (by /u/trendpulse_bot)'}
+HEADERS = {'User-Agent': 'TrendPulse/2.0 (by /u/trendpulse_bot)'}
 TODAY = datetime.now().strftime('%Y-%m-%d')
 YESTERDAY = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
 
@@ -80,6 +81,9 @@ def fetch_reddit():
             headers=HEADERS,
             timeout=15
         )
+        if resp.status_code != 200:
+            print(f"  -> Reddit HTTP {resp.status_code}, atlaniyor")
+            return []
         try:
             data = resp.json()
         except (json.JSONDecodeError, ValueError):
@@ -109,7 +113,7 @@ def fetch_github_trending():
     try:
         week_ago = (datetime.now() - timedelta(days=7)).strftime('%Y-%m-%d')
         gh_headers = {
-            'User-Agent': 'TrendPulse/1.0',
+            'User-Agent': 'TrendPulse/2.0',
             'Accept': 'application/vnd.github.v3+json',
         }
         gh_token = os.environ.get('GITHUB_TOKEN', '')
@@ -149,7 +153,6 @@ def fetch_techcrunch():
         feed = feedparser.parse('https://techcrunch.com/feed/')
         articles = []
         for entry in feed.entries[:15]:
-            # Fonlama, AI, startup haberlerini filtrele
             title = entry.get('title', '')
             summary = entry.get('summary', '')[:300]
             tags = [t.get('term', '') for t in entry.get('tags', [])]
@@ -228,7 +231,7 @@ def fetch_arxiv():
 # ============================================================
 
 def analyze_trends(sources):
-    """Toplanan verileri Claude ile analiz et"""
+    """Toplanan verileri Claude ile analiz et — kisisel girisim danismani"""
     print("\nClaude ile analiz ediliyor...")
 
     raw_data = f"""
@@ -241,7 +244,7 @@ def analyze_trends(sources):
 ## Reddit (r/artificial + r/startups + r/technology + r/SideProject, score > 30):
 {json.dumps(sources['reddit'], ensure_ascii=False, indent=2)}
 
-## GitHub Trending (100+ yildiz, dun push edilen repolar):
+## GitHub Trending (Son 7 gun, en cok yildiz):
 {json.dumps(sources['github'], ensure_ascii=False, indent=2)}
 
 ## TechCrunch (Son haberler, fonlama, startup dunyasi):
@@ -254,83 +257,88 @@ def analyze_trends(sources):
 {json.dumps(sources['arxiv'], ensure_ascii=False, indent=2)}
 """
 
-    prompt = f"""Sen Zelimkhan mentalitesinde bir trend analisti + girisim danismanisin.
-Hedef kitle: Turkiye'de tek kisi calisan, AI araclarini aktif kullanan bir gelistirici-girisimci.
-Bu kisi sabah kahvesini icerken 2 dakikada "bugun ne onemli, ne yapmaliyim?" ogrenmek istiyor.
+    prompt = f"""Sen benim kisisel girisim danismanim. Adim Batuhan, Turkiye'de bankacilik BI analisti + solo gelistirici + girisimciyim. AI araclarini aktif kullaniyorum. Su an StoryPal (AI cocuk hikaye uygulamasi) ve TrendPulse (bu rapor) uzerinde calisiyorum.
 
-Asagidaki veriler GERCEK API'lerden cekilmistir. SADECE bu verilerden analiz yap. Veri UYDURMA.
-Emin olmadigin bir sey varsa "Yeterli veri yok" de.
+Asagidaki veriler GERCEK API'lerden CEKILMISTIR. SADECE bu verilerden analiz yap. Veri UYDURMA. Emin olmadigin bir sey varsa "Yeterli veri yok" de.
+
+SENIN GOREVIN: Her sabah bana "bugun ne yapmaliyim, nereye bakmaliyim, hangi firsat var?" soylemek. Haber bulteni YAZMA. Beni harekete gecir.
 
 Tarih: {TODAY}
 
-KAYNAKLARIN:
-- Hacker News: Tech dunyasinin nabzi
-- Product Hunt: Yeni urun/startup lansmanlari
-- Reddit: Topluluk tartismalari ve viral konular
-- GitHub: Acik kaynak trendleri ve gelistirici araclari
-- TechCrunch: Fonlama haberleri ve startup ekosistemi
-- Dev.to: Gelistirici community icgörüleri
-- ArXiv: AI/ML arastirma makaleleri
-
-KURALLARIN:
-1. Her trendin SONUNDA "Peki Bana Ne?" sorusunu cevapla — solo gelistirici icin ne anlama geliyor?
-2. Turkiye pazari acisi: Bu trend Turkiye'de firsat mi tehdit mi?
-3. Zelimkhan Prensibi uygula: "Once ihtiyac yarat, sonra cozum sat"
-4. Jargonsuz yaz — bankaci, ogretmen, pazarlamaci da anlasin
-5. Her firsat icin gercekci "tek kisi MVP" suresi ver
-6. TechCrunch verilerini ozellikle "Para Nereye Akiyor" bolumu icin kullan
-7. Dev.to verilerini gelistirici trendleri icin degerlendir
+KURALLAR:
+1. Her trend icin "BU SANA NE IFADE EDIYOR?" sorusunu cevapla — solo gelistirici olarak bugun ne yapmaliyim?
+2. Firsat varsa NET soyle: "Bu alanda Turkiye'de bosluk var, sunu yap"
+3. Tool/urun cikmissa: "Bunu bugun dene, link bu" de
+4. StoryPal'a uygulanabilecek bir sey varsa direkt soyle
+5. Jargon YASAK — herkesin anlayacagi dilde yaz
+6. "Ilginc bir gelisme" gibi pasif ifadeler YASAK — "Sunu yap", "Bunu dene", "Bu firsati kacirma" gibi aktif ifadeler kullan
+7. Turkiye pazari acisi HER trendte olsun
 
 Gorevlerin:
-1. En onemli 5 trendi belirle (puan, tekrar sikligi, kaynak sayisina gore)
-2. Her trend icin: kisa baslik (max 8 kelime) + 2-3 cumle neden onemli + "Peki Bana Ne?" (1 cumle aksiyon) + etki puani (1-10)
-3. AI/ML ozel: yeni model/paper/framework varsa 1 paragrafta ozetle, teknik olmadan anlat
-4. BUGUN NE YAPMALI: Bu trendlerden bugun uygulanabilecek 1 somut aksiyon
-5. Firsat Radar: En guclu uygulama firsati — ne, kime, nasil, tek kisi MVP suresi, tahmini maliyet, Turkiye'de rakip var mi?
-6. Para Nereye Akiyor: yatirim/fonlama haberleri (TechCrunch verisine dayanarak)
-7. Turkiye Acisi: Bu trendler Turkiye teknoloji ekosistemine nasil yansir?
+1. MANSET: Bugunun en onemli 1 cumlelik ozeti — gazete manseti gibi, vurucu
+2. BUGUN NE YAP: Bu trendlerden BUGUN uygulanabilecek 3 somut aksiyon (link dahil). "Ilginc" degil, "SIMDI YAP" formatinda.
+3. TOP 5 TREND: Her trend icin:
+   - Kisa baslik (max 8 kelime)
+   - 2 cumle neden onemli (jargonsuz)
+   - "Sana ne:" 1 cumle — solo gelistirici olarak bana ne ifade ediyor, ne yapmaliyim
+   - "Turkiye:" 1 cumle — bu trend Turkiye'de firsat mi, tehdit mi
+   - Etki puani (1-10)
+4. FIRSAT RADAR: En guclu 1 uygulama firsati — detayli:
+   - Fikir adi + 1 cumle aciklama
+   - Kime satilir?
+   - Turkiye'de rakip var mi? (Varsa adini yaz)
+   - Tek kisi MVP: kac hafta, hangi tech stack, tahmini maliyet
+   - Zelimkhan modeli: ucretsiz ne verilir, ucretli ne satilir?
+   - "Bu firsati kacirma cunku..." 1 cumle
+5. AI SPOTLIGHT: Yeni cikan 1 AI tool/model/paper — teknik olmadan, "bunu su isine kullanabilirsin" formatinda
+6. PARA NEREYE AKIYOR: Yatirim haberleri (varsa). Yoksa "Bu hafta one cikan fonlama haberi yok" de.
+7. STORYPAL ICIN: Bu trendlerden StoryPal'a uygulanabilecek 1 sey varsa yaz. Yoksa null dondur.
 
-Format: Sadece JSON dondur, baska hicbir sey yazma:
+Format: Sadece JSON dondur, baska hicbir sey yazma, markdown formati kullanma:
 {{
   "date": "{TODAY}",
-  "daily_headline": "Bugunun 1 cumlelik ozeti (gazete manseti gibi, max 15 kelime)",
-  "executive_summary": "3 cumle ozet — teknik degil, herkesin anlayacagi dilde",
+  "headline": "Vurucu manset, max 15 kelime",
+  "today_actions": [
+    {{"action": "Sunu yap (aktif cumle)", "link": "url", "why": "Cunku..."}},
+    {{"action": "Bunu dene", "link": "url", "why": "Cunku..."}},
+    {{"action": "Suna bak", "link": "url", "why": "Cunku..."}}
+  ],
+  "executive_summary": "3 cumle, herkesin anlayacagi dilde, aktif",
   "top_trends": [
     {{
-      "title": "Max 8 kelime baslik",
+      "title": "Max 8 kelime",
       "emoji": "tek emoji",
       "impact_score": 8,
-      "why_important": "2-3 cumle, jargonsuz",
-      "so_what": "Peki bana ne? Solo gelistirici icin 1 cumle aksiyon",
-      "turkey_angle": "Turkiye'de bu ne anlama geliyor? 1 cumle",
-      "sources": ["kaynak1"],
+      "why": "2 cumle, jargonsuz",
+      "action_for_you": "Solo gelistirici olarak bugun ne yapmaliyim, 1 cumle",
+      "turkey": "Turkiye'de bu ne anlama geliyor, 1 cumle",
+      "sources": ["url1"],
       "category": "AI|Startup|Altyapi|Yaratici|Arastirma"
     }}
   ],
-  "ai_spotlight": {{
-    "title": "Baslik",
-    "detail": "2-3 cumle, teknik olmadan",
-    "practical_use": "Bunu bugun nasil kullanabilirim? 1 cumle"
-  }},
-  "today_action": "Bugun yapilabilecek 1 somut sey (link dahil)",
-  "opportunity_radar": {{
-    "idea": "Urun fikri adi",
-    "one_liner": "1 cumle aciklama",
-    "target_market": "Kim icin?",
-    "turkey_potential": "Turkiye'de potansiyeli var mi?",
-    "mvp_time": "Tek kisi MVP suresi",
+  "opportunity": {{
+    "name": "Fikir adi",
+    "one_liner": "1 cumle",
+    "who_buys": "Kime satilir",
+    "turkey_competitor": "Rakip var mi, adi ne",
+    "mvp_weeks": "Kac hafta",
+    "mvp_stack": "Hangi teknolojiler",
     "mvp_cost": "Tahmini maliyet",
-    "competitors": "Rakipler",
-    "zelimkhan_hook": "Ucretsiz deger olarak ne verilir, ucretli ne satilir?"
+    "free_hook": "Ucretsiz ne verilir",
+    "paid_product": "Ucretli ne satilir",
+    "why_now": "Bu firsati kacirma cunku..."
   }},
-  "money_flow": {{
-    "title": "Baslik",
-    "detail": "1-2 cumle (TechCrunch verisine dayali)"
+  "ai_tool": {{
+    "name": "Tool/model adi",
+    "what": "Ne yapiyor, 1 cumle",
+    "use_case": "Sen bunu su isine kullanabilirsin",
+    "link": "url"
   }},
-  "turkey_corner": "Turkiye ekosistemi icin 2-3 cumle yorum",
-  "source_links": ["url1","url2"]
+  "money_flow": "1-2 cumle veya 'Bu hafta one cikan fonlama haberi yok'",
+  "storypal_tip": "StoryPal'a uygulanabilecek 1 sey veya null",
+  "sources": ["url1", "url2"]
 }}
-Turkce yaz. Kisa ve oz ol. Emoji kullan ama abartma.
+Turkce yaz. Kisa, net, aksiyon odakli. Beni harekete gecir.
 
 VERILER:
 {raw_data}
@@ -345,32 +353,36 @@ VERILER:
 # DOCX RAPOR OLUSTURMA
 # ============================================================
 
+def _set_cell_shading(cell, color_hex):
+    """Hucreye arka plan rengi ekle"""
+    shading = cell._element.get_or_add_tcPr()
+    shading_elem = shading.makeelement(qn('w:shd'), {
+        qn('w:val'): 'clear',
+        qn('w:color'): 'auto',
+        qn('w:fill'): color_hex
+    })
+    shading.append(shading_elem)
+
+
 def create_docx_report(analysis):
-    """Profesyonel DOCX rapor olustur — 10/10 kalite"""
+    """Kisisel girisim danismani DOCX raporu"""
     print("\nDOCX rapor olusturuluyor...")
 
     doc = Document()
 
-    # Stil ayarlari
     style = doc.styles['Normal']
     font = style.font
-    font.name = 'Calibri'
     font.size = Pt(11)
 
     # Renk paleti
     BLUE_DARK = RGBColor(0x1B, 0x4F, 0x72)
+    BLUE_MED = RGBColor(0x2E, 0x86, 0xC1)
     ORANGE = RGBColor(0xF3, 0x9C, 0x12)
     GREEN = RGBColor(0x27, 0xAE, 0x60)
-    GRAY = RGBColor(0x5D, 0x6D, 0x7E)
-    GRAY_LIGHT = RGBColor(0x85, 0x92, 0x9E)
+    GRAY = RGBColor(0x7F, 0x8C, 0x8D)
+    GRAY_LIGHT = RGBColor(0x95, 0xA5, 0xA6)
 
-    def add_styled_heading(text, level=1):
-        h = doc.add_heading(text, level=level)
-        for run in h.runs:
-            run.font.color.rgb = BLUE_DARK
-        return h
-
-    def add_run_to_para(para, text, color=None, bold=False, italic=False, size=None):
+    def add_run(para, text, color=None, bold=False, italic=False, size=None):
         run = para.add_run(text)
         if color:
             run.font.color.rgb = color
@@ -382,11 +394,17 @@ def create_docx_report(analysis):
             run.font.size = Pt(size)
         return run
 
-    def add_separator():
+    def heading(text, level=1):
+        h = doc.add_heading(text, level=level)
+        for run in h.runs:
+            run.font.color.rgb = BLUE_DARK
+        return h
+
+    def separator():
         p = doc.add_paragraph()
-        run = p.add_run('_' * 60)
-        run.font.color.rgb = GRAY_LIGHT
-        run.font.size = Pt(8)
+        r = p.add_run('_' * 65)
+        r.font.color.rgb = GRAY_LIGHT
+        r.font.size = Pt(6)
 
     def stars(score):
         try:
@@ -395,40 +413,74 @@ def create_docx_report(analysis):
             s = 5
         return '\u2B50' * s + '\u2606' * (10 - s)
 
-    # === KAPAK ===
-    doc.add_paragraph()
+    # ========== KAPAK ==========
     doc.add_paragraph()
     cover = doc.add_paragraph()
     cover.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    add_run_to_para(cover, '\U0001F4C8 TrendPulse', color=BLUE_DARK, bold=True, size=28)
+    add_run(cover, '\U0001F4C8 TrendPulse', color=BLUE_DARK, bold=True, size=28)
 
     date_p = doc.add_paragraph()
     date_p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    add_run_to_para(date_p, analysis.get('date', TODAY), color=GRAY, size=14)
+    add_run(date_p, analysis.get('date', TODAY), color=GRAY, size=12)
 
-    headline_p = doc.add_paragraph()
-    headline_p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    add_run_to_para(headline_p, analysis.get('daily_headline', ''), italic=True, color=BLUE_DARK, size=16)
+    hl = analysis.get('headline', analysis.get('daily_headline', ''))
+    if hl:
+        hl_p = doc.add_paragraph()
+        hl_p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        add_run(hl_p, hl, italic=True, color=BLUE_MED, size=18)
 
-    add_separator()
+    separator()
     doc.add_page_break()
 
-    # === YONETICI OZETI ===
-    add_styled_heading('\u2615 Yonetici Ozeti', level=1)
-    summary_p = doc.add_paragraph()
-    add_run_to_para(summary_p, analysis.get('executive_summary', 'Ozet mevcut degil.'), size=12)
-    note_p = doc.add_paragraph()
-    add_run_to_para(note_p, '\u2615 2 dk okuma | 7 kaynaktan derlendi', color=GRAY_LIGHT, italic=True, size=9)
+    # ========== BUGUN NE YAP (en ust, en gorunur) ==========
+    heading('\U0001F3AF BUGUN NE YAP', level=1)
+
+    actions = analysis.get('today_actions', [])
+    if actions:
+        for i, act in enumerate(actions[:3], 1):
+            action_text = act.get('action', '') if isinstance(act, dict) else str(act)
+            why_text = act.get('why', '') if isinstance(act, dict) else ''
+            link_text = act.get('link', '') if isinstance(act, dict) else ''
+
+            # Aksiyon satiri
+            act_table = doc.add_table(rows=1, cols=1)
+            act_table.alignment = WD_TABLE_ALIGNMENT.CENTER
+            cell = act_table.rows[0].cells[0]
+            _set_cell_shading(cell, 'FEF9E7')
+
+            cp = cell.paragraphs[0]
+            add_run(cp, f'  {i}. ', bold=True, color=ORANGE, size=13)
+            add_run(cp, action_text, bold=True, color=BLUE_DARK, size=12)
+            if why_text:
+                why_p = cell.add_paragraph()
+                add_run(why_p, f'     {why_text}', color=GRAY, italic=True, size=9)
+            if link_text:
+                link_p = cell.add_paragraph()
+                add_run(link_p, f'     {link_text}', color=BLUE_MED, size=8)
+            doc.add_paragraph()  # bosluk
+    else:
+        # Fallback: eski format
+        ta = analysis.get('today_action', '')
+        if ta:
+            p = doc.add_paragraph()
+            add_run(p, ta, bold=True, color=BLUE_DARK, size=13)
+
+    separator()
+
+    # ========== YONETICI OZETI ==========
+    heading('\u2615 Yonetici Ozeti', level=1)
+    summary_table = doc.add_table(rows=1, cols=1)
+    summary_cell = summary_table.rows[0].cells[0]
+    _set_cell_shading(summary_cell, 'EBF5FB')
+    sp = summary_cell.paragraphs[0]
+    add_run(sp, analysis.get('executive_summary', 'Ozet mevcut degil.'), size=12)
+    note_p = summary_cell.add_paragraph()
+    note_p.alignment = WD_ALIGN_PARAGRAPH.RIGHT
+    add_run(note_p, '\u2615 2 dk okuma | 7 kaynak', color=GRAY_LIGHT, italic=True, size=8)
     doc.add_paragraph()
 
-    # === BUGUN NE YAPMALI ===
-    add_styled_heading('\U0001F3AF Bugun Ne Yapmali', level=1)
-    action_p = doc.add_paragraph()
-    add_run_to_para(action_p, analysis.get('today_action', 'Aksiyon bilgisi mevcut degil.'), bold=True, color=BLUE_DARK, size=13)
-    add_separator()
-
-    # === TOP 5 TREND ===
-    add_styled_heading('\U0001F525 Top 5 Trend', level=1)
+    # ========== TOP 5 TREND ==========
+    heading('\U0001F525 TOP 5 TREND', level=1)
 
     trends = analysis.get('top_trends', [])
     for i, trend in enumerate(trends[:5], 1):
@@ -436,101 +488,153 @@ def create_docx_report(analysis):
         title = trend.get('title', '')
         score = trend.get('impact_score', 5)
 
-        trend_h = doc.add_paragraph()
-        add_run_to_para(trend_h, f'{emoji} {i}. {title}', bold=True, color=BLUE_DARK, size=14)
-        score_p = doc.add_paragraph()
-        add_run_to_para(score_p, f'Etki: {stars(score)}', size=10)
+        # Baslik
+        th = doc.add_paragraph()
+        add_run(th, f'{emoji} {i}. {title}', bold=True, color=BLUE_DARK, size=13)
 
-        why_p = doc.add_paragraph()
-        add_run_to_para(why_p, 'Neden onemli: ', bold=True, size=11)
-        add_run_to_para(why_p, trend.get('why_important', ''), size=11)
+        # Etki puani
+        sp = doc.add_paragraph()
+        add_run(sp, f'Etki: {stars(score)}', size=10)
 
-        so_p = doc.add_paragraph()
-        add_run_to_para(so_p, '\U0001F4A1 Peki bana ne: ', bold=True, color=BLUE_DARK, size=11)
-        add_run_to_para(so_p, trend.get('so_what', ''), color=BLUE_DARK, size=11)
+        # Neden onemli
+        why_text = trend.get('why', trend.get('why_important', ''))
+        if why_text:
+            wp = doc.add_paragraph()
+            add_run(wp, why_text, size=11)
 
-        tr_p = doc.add_paragraph()
-        add_run_to_para(tr_p, '\U0001F1F9\U0001F1F7 Turkiye: ', bold=True, size=10)
-        add_run_to_para(tr_p, trend.get('turkey_angle', ''), italic=True, color=GRAY, size=10)
+        # Sana ne
+        action_text = trend.get('action_for_you', trend.get('so_what', ''))
+        if action_text:
+            ap = doc.add_paragraph()
+            add_run(ap, '\U0001F3AF Sana ne: ', bold=True, color=BLUE_DARK, size=11)
+            add_run(ap, action_text, color=BLUE_DARK, size=11)
 
-        sources = trend.get('sources', [])
-        if sources:
-            src_p = doc.add_paragraph()
-            add_run_to_para(src_p, 'Kaynaklar: ' + ', '.join(str(s) for s in sources), color=GRAY_LIGHT, size=8)
+        # Turkiye
+        turkey_text = trend.get('turkey', trend.get('turkey_angle', ''))
+        if turkey_text:
+            tp = doc.add_paragraph()
+            add_run(tp, '\U0001F1F9\U0001F1F7 Turkiye: ', bold=True, size=10)
+            add_run(tp, turkey_text, italic=True, color=GRAY, size=10)
+
+        # Kaynaklar
+        trend_sources = trend.get('sources', [])
+        if trend_sources:
+            srcp = doc.add_paragraph()
+            add_run(srcp, 'Kaynaklar: ' + ', '.join(str(s) for s in trend_sources), color=GRAY_LIGHT, size=8)
 
         if i < len(trends[:5]):
-            add_separator()
+            separator()
 
     doc.add_paragraph()
 
-    # === AI/ML GUNDEM ===
-    add_styled_heading('\U0001F916 AI/ML Gundem', level=1)
-    ai = analysis.get('ai_spotlight', {})
-    if ai:
-        ai_title_p = doc.add_paragraph()
-        add_run_to_para(ai_title_p, ai.get('title', ''), bold=True, color=BLUE_DARK, size=13)
-        ai_detail_p = doc.add_paragraph()
-        add_run_to_para(ai_detail_p, ai.get('detail', ''), size=11)
-        ai_use_p = doc.add_paragraph()
-        add_run_to_para(ai_use_p, '\U0001F9EA Bugun dene: ', bold=True, color=GREEN, size=11)
-        add_run_to_para(ai_use_p, ai.get('practical_use', ''), color=GREEN, size=11)
-    doc.add_paragraph()
-
-    # === FIRSAT RADAR ===
-    add_styled_heading('\U0001F4A1 Firsat Radar', level=1)
-    opp = analysis.get('opportunity_radar', {})
+    # ========== FIRSAT RADAR ==========
+    heading('\U0001F4A1 FIRSAT RADAR', level=1)
+    opp = analysis.get('opportunity', analysis.get('opportunity_radar', {}))
     if opp:
+        opp_name = opp.get('name', opp.get('idea', ''))
+        opp_one = opp.get('one_liner', '')
+        if opp_name:
+            np = doc.add_paragraph()
+            add_run(np, f'{opp_name}', bold=True, color=BLUE_DARK, size=14)
+            if opp_one:
+                add_run(np, f' — {opp_one}', italic=True, color=GRAY, size=11)
+
         opp_table = doc.add_table(rows=6, cols=2)
         opp_table.style = 'Light Grid Accent 1'
         opp_table.alignment = WD_TABLE_ALIGNMENT.CENTER
-        labels = ['Fikir', 'Hedef Pazar', 'Turkiye Potansiyeli', 'MVP Suresi', 'Tahmini Maliyet', 'Rakipler']
-        keys = ['idea', 'target_market', 'turkey_potential', 'mvp_time', 'mvp_cost', 'competitors']
-        for i, (label, key) in enumerate(zip(labels, keys)):
+        rows_data = [
+            ('Kime Satilir', opp.get('who_buys', opp.get('target_market', ''))),
+            ('Turkiye Rakip', opp.get('turkey_competitor', opp.get('competitors', ''))),
+            ('MVP Suresi', opp.get('mvp_weeks', opp.get('mvp_time', ''))),
+            ('Tech Stack', opp.get('mvp_stack', '')),
+            ('Maliyet', opp.get('mvp_cost', '')),
+            ('Turkiye Potansiyeli', opp.get('turkey_potential', '')),
+        ]
+        for i, (label, value) in enumerate(rows_data):
             opp_table.rows[i].cells[0].text = label
-            opp_table.rows[i].cells[1].text = str(opp.get(key, ''))
+            opp_table.rows[i].cells[1].text = str(value) if value else ''
 
         doc.add_paragraph()
-        one_liner = opp.get('one_liner', '')
-        if one_liner:
-            ol_p = doc.add_paragraph()
-            add_run_to_para(ol_p, one_liner, italic=True, color=GRAY, size=11)
 
-        hook = opp.get('zelimkhan_hook', '')
-        if hook:
-            hook_p = doc.add_paragraph()
-            add_run_to_para(hook_p, 'Zelimkhan Hook: ', bold=True, color=ORANGE, size=12)
-            add_run_to_para(hook_p, hook, color=ORANGE, size=12)
+        # Zelimkhan Hook
+        free_hook = opp.get('free_hook', opp.get('zelimkhan_hook', ''))
+        paid_product = opp.get('paid_product', '')
+        if free_hook:
+            hp = doc.add_paragraph()
+            add_run(hp, '\U0001F3A3 Zelimkhan Hook: ', bold=True, color=ORANGE, size=12)
+            if paid_product:
+                add_run(hp, f'Ucretsiz \u2192 {free_hook} | Ucretli \u2192 {paid_product}', color=ORANGE, size=11)
+            else:
+                add_run(hp, free_hook, color=ORANGE, size=11)
+
+        # Why now
+        why_now = opp.get('why_now', '')
+        if why_now:
+            wnp = doc.add_paragraph()
+            add_run(wnp, f'\u26A1 {why_now}', bold=True, color=BLUE_MED, size=11)
+
     doc.add_paragraph()
 
-    # === PARA NEREYE AKIYOR ===
-    add_styled_heading('\U0001F4B0 Para Nereye Akiyor', level=1)
-    money = analysis.get('money_flow', {})
-    if money:
-        money_title_p = doc.add_paragraph()
-        add_run_to_para(money_title_p, money.get('title', ''), bold=True, color=BLUE_DARK, size=13)
-        money_detail_p = doc.add_paragraph()
-        add_run_to_para(money_detail_p, money.get('detail', ''), color=GRAY, size=11)
+    # ========== AI SPOTLIGHT ==========
+    heading('\U0001F916 AI SPOTLIGHT', level=1)
+    ai = analysis.get('ai_tool', analysis.get('ai_spotlight', {}))
+    if ai:
+        ai_name = ai.get('name', ai.get('title', ''))
+        ai_what = ai.get('what', ai.get('detail', ''))
+        ai_use = ai.get('use_case', ai.get('practical_use', ''))
+        ai_link = ai.get('link', '')
+
+        if ai_name:
+            anp = doc.add_paragraph()
+            add_run(anp, ai_name, bold=True, color=BLUE_DARK, size=13)
+        if ai_what:
+            awp = doc.add_paragraph()
+            add_run(awp, ai_what, size=11)
+        if ai_use:
+            aup = doc.add_paragraph()
+            add_run(aup, '\U0001F4A1 Senin icin: ', bold=True, color=BLUE_DARK, size=11)
+            add_run(aup, ai_use, color=BLUE_DARK, size=11)
+        if ai_link:
+            alp = doc.add_paragraph()
+            add_run(alp, ai_link, color=BLUE_MED, size=9)
+
     doc.add_paragraph()
 
-    # === TURKIYE KOSESI ===
-    add_styled_heading('\U0001F1F9\U0001F1F7 Turkiye Kosesi', level=1)
-    turkey_p = doc.add_paragraph()
-    add_run_to_para(turkey_p, analysis.get('turkey_corner', 'Turkiye yorumu mevcut degil.'), size=11)
+    # ========== PARA NEREYE AKIYOR ==========
+    heading('\U0001F4B0 PARA NEREYE AKIYOR', level=1)
+    money = analysis.get('money_flow', '')
+    if isinstance(money, dict):
+        money_text = f"{money.get('title', '')} — {money.get('detail', '')}"
+    else:
+        money_text = str(money) if money else 'Bu hafta one cikan fonlama haberi yok'
+    mp = doc.add_paragraph()
+    add_run(mp, money_text, size=11)
     doc.add_paragraph()
 
-    # === KAYNAKLAR ===
-    add_styled_heading('\U0001F517 Kaynaklar', level=1)
-    links = analysis.get('source_links', [])
-    for link in links:
-        link_p = doc.add_paragraph()
-        add_run_to_para(link_p, f'\u2022 {link}', color=BLUE_DARK, size=9)
+    # ========== STORYPAL IPUCU ==========
+    storypal = analysis.get('storypal_tip')
+    if storypal:
+        heading('\U0001F4F1 STORYPAL IPUCU', level=1)
+        sp_table = doc.add_table(rows=1, cols=1)
+        sp_cell = sp_table.rows[0].cells[0]
+        _set_cell_shading(sp_cell, 'EAFAF1')
+        spp = sp_cell.paragraphs[0]
+        add_run(spp, str(storypal), color=GREEN, size=11)
+        doc.add_paragraph()
+
+    # ========== KAYNAKLAR ==========
+    heading('\U0001F517 KAYNAKLAR', level=1)
+    links = analysis.get('sources', analysis.get('source_links', []))
+    for i, link in enumerate(links, 1):
+        lp = doc.add_paragraph()
+        add_run(lp, f'{i}. {link}', color=BLUE_MED, size=9)
 
     # Footer
     doc.add_paragraph()
-    add_separator()
+    separator()
     footer = doc.add_paragraph()
     footer.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    add_run_to_para(footer, 'TrendPulse by Zelimkhan Automation | Gunluk otomatik trend raporu | 7 kaynaktan derlendi', color=GRAY_LIGHT, size=8)
+    add_run(footer, f'TrendPulse by Zelimkhan Automation | Kisisel girisim danismanin | {TODAY}', color=GRAY_LIGHT, size=8)
 
     # Kaydet
     filename = f'TrendPulse_{TODAY}.docx'
@@ -547,29 +651,54 @@ def send_report(analysis, docx_path):
     """Raporu Telegram'a gonder"""
     print("\nTelegram'a gonderiliyor...")
 
-    headline = analysis.get('daily_headline', '')
-    today_action = analysis.get('today_action', '')
-    opp = analysis.get('opportunity_radar', {})
-    opp_idea = opp.get('idea', '')
-    opp_mvp = opp.get('mvp_time', '')
+    headline = analysis.get('headline', analysis.get('daily_headline', ''))
 
+    # Bugun ne yap
+    actions = analysis.get('today_actions', [])
+    actions_text = ""
+    for i, act in enumerate(actions[:3], 1):
+        if isinstance(act, dict):
+            actions_text += f"\n{i}. {act.get('action', '')}"
+        else:
+            actions_text += f"\n{i}. {act}"
+    if not actions_text:
+        ta = analysis.get('today_action', '')
+        if ta:
+            actions_text = f"\n1. {ta}"
+
+    # Top 5
     trends_text = ""
     for i, t in enumerate(analysis.get('top_trends', [])[:5], 1):
         emoji = t.get('emoji', '')
         title = t.get('title', '')
         trends_text += f"\n{i}. {emoji} {title}"
 
+    # Firsat
+    opp = analysis.get('opportunity', analysis.get('opportunity_radar', {}))
+    opp_name = opp.get('name', opp.get('idea', ''))
+    opp_one = opp.get('one_liner', '')
+    opp_mvp = opp.get('mvp_weeks', opp.get('mvp_time', ''))
+    opp_cost = opp.get('mvp_cost', '')
+
+    # AI tool
+    ai = analysis.get('ai_tool', analysis.get('ai_spotlight', {}))
+    ai_name = ai.get('name', ai.get('title', ''))
+    ai_use = ai.get('use_case', ai.get('practical_use', ''))
+
     message = f"""\U0001F4C8 *TrendPulse* \u2014 {TODAY}
 
 \U0001F5DE *{headline}*
 
-\U0001F3AF *Bugun Yap:* {today_action}
+\U0001F3AF *BUGUN NE YAP:*{actions_text}
 
 \U0001F525 *Top 5:*{trends_text}
 
-\U0001F4A1 *Firsat:* {opp_idea} ({opp_mvp})
+\U0001F4A1 *Firsat:* {opp_name} \u2014 {opp_one}
+\u23F1 MVP: {opp_mvp} | \U0001F4B0 {opp_cost}
 
-_Detayli rapor ektedir_ \u2B07\uFE0F"""
+\U0001F916 *Bugun dene:* {ai_name} \u2192 {ai_use}
+
+_Detayli rapor_ \u2B07\uFE0F"""
 
     send_telegram(message)
     send_document(docx_path, caption=f"TrendPulse Raporu - {TODAY}")
@@ -582,8 +711,8 @@ _Detayli rapor ektedir_ \u2B07\uFE0F"""
 
 def main():
     print(f"{'='*50}")
-    print(f"  TrendPulse - {TODAY}")
-    print(f"  7 kaynaktan maksimum verim")
+    print(f"  TrendPulse - Kisisel Girisim Danismani")
+    print(f"  {TODAY} | 7 kaynak")
     print(f"{'='*50}\n")
 
     # 1. Veri topla (7 kaynak)

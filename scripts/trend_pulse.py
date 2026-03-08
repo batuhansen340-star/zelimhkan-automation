@@ -1,6 +1,6 @@
 # scripts/trend_pulse.py
 # TrendPulse - Gunluk trend raporu pipeline'i
-# 5 ucretsiz kaynaktan veri ceker, Claude ile analiz eder, DOCX rapor olusturur, Telegram'a gonderir
+# 7 ucretsiz kaynaktan veri ceker, Claude ile analiz eder, DOCX rapor olusturur, Telegram'a gonderir
 
 import os
 import sys
@@ -9,7 +9,7 @@ import requests
 import feedparser
 from datetime import datetime, timedelta
 from docx import Document
-from docx.shared import Inches, Pt, RGBColor
+from docx.shared import Pt, RGBColor
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 from docx.enum.table import WD_TABLE_ALIGNMENT
 
@@ -23,12 +23,12 @@ YESTERDAY = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
 
 
 # ============================================================
-# VERI KAYNAKLARI
+# VERI KAYNAKLARI (7 kaynak, hepsi ucretsiz, auth yok)
 # ============================================================
 
 def fetch_hacker_news():
-    """Hacker News top stories (score > 50)"""
-    print("[1/5] Hacker News cekiliyor...")
+    """Hacker News top stories (score > 50) — en iyi tech sinyal kaynagi"""
+    print("[1/7] Hacker News cekiliyor...")
     try:
         resp = requests.get('https://hacker-news.firebaseio.com/v0/topstories.json', timeout=15)
         ids = resp.json()[:30]
@@ -54,7 +54,7 @@ def fetch_hacker_news():
 
 def fetch_product_hunt():
     """Product Hunt RSS feed'inden gunun urunleri"""
-    print("[2/5] Product Hunt cekiliyor...")
+    print("[2/7] Product Hunt cekiliyor...")
     try:
         feed = feedparser.parse('https://www.producthunt.com/feed')
         products = []
@@ -72,11 +72,11 @@ def fetch_product_hunt():
 
 
 def fetch_reddit():
-    """Reddit AI + Startups + Technology hot posts (score > 30)"""
-    print("[3/5] Reddit cekiliyor...")
+    """Reddit AI + Startups + Technology + SideProject hot posts (score > 30)"""
+    print("[3/7] Reddit cekiliyor...")
     try:
         resp = requests.get(
-            'https://reddit.com/r/artificial+startups+technology/hot.json',
+            'https://reddit.com/r/artificial+startups+technology+SideProject/hot.json',
             headers=HEADERS,
             timeout=15
         )
@@ -86,7 +86,7 @@ def fetch_reddit():
             print("  -> Reddit HTML/invalid JSON dondurdu, atlaniyor")
             return []
         posts = []
-        for child in data.get('data', {}).get('children', [])[:20]:
+        for child in data.get('data', {}).get('children', [])[:25]:
             post = child.get('data', {})
             if post.get('score', 0) > 30:
                 posts.append({
@@ -104,23 +104,36 @@ def fetch_reddit():
 
 
 def fetch_github_trending():
-    """GitHub'da dun olusturulan en cok yildiz alan repolar"""
-    print("[4/5] GitHub Trending cekiliyor...")
+    """GitHub'da gercek trending repolar — son 7 gunde olusturulan en cok yildiz alan"""
+    print("[4/7] GitHub Trending cekiliyor...")
     try:
+        week_ago = (datetime.now() - timedelta(days=7)).strftime('%Y-%m-%d')
+        gh_headers = {
+            'User-Agent': 'TrendPulse/1.0',
+            'Accept': 'application/vnd.github.v3+json',
+        }
+        gh_token = os.environ.get('GITHUB_TOKEN', '')
+        if gh_token:
+            gh_headers['Authorization'] = f'token {gh_token}'
         resp = requests.get(
-            f'https://api.github.com/search/repositories?q=created:>{YESTERDAY}&sort=stars&order=desc',
-            headers=HEADERS,
+            f'https://api.github.com/search/repositories?q=created:>{week_ago}&sort=stars&order=desc&per_page=15',
+            headers=gh_headers,
             timeout=15
         )
-        data = resp.json()
+        try:
+            data = resp.json()
+        except (json.JSONDecodeError, ValueError):
+            print("  -> GitHub invalid JSON, atlaniyor")
+            return []
         repos = []
-        for repo in data.get('items', [])[:10]:
+        for repo in data.get('items', [])[:15]:
             repos.append({
                 'name': repo.get('full_name', ''),
                 'url': repo.get('html_url', ''),
                 'description': (repo.get('description') or '')[:200],
                 'stars': repo.get('stargazers_count', 0),
-                'language': repo.get('language', 'N/A')
+                'language': repo.get('language', 'N/A'),
+                'topics': repo.get('topics', [])[:5]
             })
         print(f"  -> {len(repos)} repo bulundu")
         return repos
@@ -129,9 +142,66 @@ def fetch_github_trending():
         return []
 
 
+def fetch_techcrunch():
+    """TechCrunch RSS — fonlama haberleri ve startup dunyasi"""
+    print("[5/7] TechCrunch cekiliyor...")
+    try:
+        feed = feedparser.parse('https://techcrunch.com/feed/')
+        articles = []
+        for entry in feed.entries[:15]:
+            # Fonlama, AI, startup haberlerini filtrele
+            title = entry.get('title', '')
+            summary = entry.get('summary', '')[:300]
+            tags = [t.get('term', '') for t in entry.get('tags', [])]
+            articles.append({
+                'title': title,
+                'url': entry.get('link', ''),
+                'summary': summary,
+                'tags': tags,
+                'published': entry.get('published', '')
+            })
+        print(f"  -> {len(articles)} makale bulundu")
+        return articles
+    except Exception as e:
+        print(f"  -> TechCrunch hatasi: {e}")
+        return []
+
+
+def fetch_devto():
+    """Dev.to API — gelistirici community trendleri"""
+    print("[6/7] Dev.to cekiliyor...")
+    try:
+        resp = requests.get(
+            'https://dev.to/api/articles?top=1&per_page=15',
+            headers=HEADERS,
+            timeout=15
+        )
+        try:
+            data = resp.json()
+        except (json.JSONDecodeError, ValueError):
+            print("  -> Dev.to invalid JSON, atlaniyor")
+            return []
+        articles = []
+        for item in data[:15]:
+            articles.append({
+                'title': item.get('title', ''),
+                'url': item.get('url', ''),
+                'description': (item.get('description') or '')[:200],
+                'reactions': item.get('public_reactions_count', 0),
+                'comments': item.get('comments_count', 0),
+                'tags': item.get('tag_list', []),
+                'reading_time': item.get('reading_time_minutes', 0)
+            })
+        print(f"  -> {len(articles)} makale bulundu")
+        return articles
+    except Exception as e:
+        print(f"  -> Dev.to hatasi: {e}")
+        return []
+
+
 def fetch_arxiv():
-    """ArXiv'den en son AI/ML makaleleri"""
-    print("[5/5] ArXiv cekiliyor...")
+    """ArXiv'den en son AI/ML makaleleri — AI spotlight icin"""
+    print("[7/7] ArXiv cekiliyor...")
     try:
         resp = requests.get(
             'http://export.arxiv.org/api/query?search_query=cat:cs.AI+OR+cat:cs.LG&sortBy=submittedDate&max_results=10',
@@ -157,25 +227,31 @@ def fetch_arxiv():
 # CLAUDE ANALIZ
 # ============================================================
 
-def analyze_trends(hn, ph, reddit, github, arxiv):
+def analyze_trends(sources):
     """Toplanan verileri Claude ile analiz et"""
     print("\nClaude ile analiz ediliyor...")
 
     raw_data = f"""
 ## Hacker News (Top Stories, score > 50):
-{json.dumps(hn, ensure_ascii=False, indent=2)}
+{json.dumps(sources['hacker_news'], ensure_ascii=False, indent=2)}
 
 ## Product Hunt (Gunun Urunleri):
-{json.dumps(ph, ensure_ascii=False, indent=2)}
+{json.dumps(sources['product_hunt'], ensure_ascii=False, indent=2)}
 
-## Reddit (r/artificial + r/startups + r/technology, score > 30):
-{json.dumps(reddit, ensure_ascii=False, indent=2)}
+## Reddit (r/artificial + r/startups + r/technology + r/SideProject, score > 30):
+{json.dumps(sources['reddit'], ensure_ascii=False, indent=2)}
 
-## GitHub Trending (Dun olusturulan, en cok yildiz):
-{json.dumps(github, ensure_ascii=False, indent=2)}
+## GitHub Trending (100+ yildiz, dun push edilen repolar):
+{json.dumps(sources['github'], ensure_ascii=False, indent=2)}
 
-## ArXiv (Son AI/ML Makaleleri):
-{json.dumps(arxiv, ensure_ascii=False, indent=2)}
+## TechCrunch (Son haberler, fonlama, startup dunyasi):
+{json.dumps(sources['techcrunch'], ensure_ascii=False, indent=2)}
+
+## Dev.to (Gelistirici community trendleri, en populer yazilar):
+{json.dumps(sources['devto'], ensure_ascii=False, indent=2)}
+
+## ArXiv (Son AI/ML Arastirma Makaleleri):
+{json.dumps(sources['arxiv'], ensure_ascii=False, indent=2)}
 """
 
     prompt = f"""Sen Zelimkhan mentalitesinde bir trend analisti + girisim danismanisin.
@@ -187,12 +263,23 @@ Emin olmadigin bir sey varsa "Yeterli veri yok" de.
 
 Tarih: {TODAY}
 
+KAYNAKLARIN:
+- Hacker News: Tech dunyasinin nabzi
+- Product Hunt: Yeni urun/startup lansmanlari
+- Reddit: Topluluk tartismalari ve viral konular
+- GitHub: Acik kaynak trendleri ve gelistirici araclari
+- TechCrunch: Fonlama haberleri ve startup ekosistemi
+- Dev.to: Gelistirici community icgörüleri
+- ArXiv: AI/ML arastirma makaleleri
+
 KURALLARIN:
 1. Her trendin SONUNDA "Peki Bana Ne?" sorusunu cevapla — solo gelistirici icin ne anlama geliyor?
 2. Turkiye pazari acisi: Bu trend Turkiye'de firsat mi tehdit mi?
 3. Zelimkhan Prensibi uygula: "Once ihtiyac yarat, sonra cozum sat"
 4. Jargonsuz yaz — bankaci, ogretmen, pazarlamaci da anlasin
 5. Her firsat icin gercekci "tek kisi MVP" suresi ver
+6. TechCrunch verilerini ozellikle "Para Nereye Akiyor" bolumu icin kullan
+7. Dev.to verilerini gelistirici trendleri icin degerlendir
 
 Gorevlerin:
 1. En onemli 5 trendi belirle (puan, tekrar sikligi, kaynak sayisina gore)
@@ -200,7 +287,7 @@ Gorevlerin:
 3. AI/ML ozel: yeni model/paper/framework varsa 1 paragrafta ozetle, teknik olmadan anlat
 4. BUGUN NE YAPMALI: Bu trendlerden bugun uygulanabilecek 1 somut aksiyon
 5. Firsat Radar: En guclu uygulama firsati — ne, kime, nasil, tek kisi MVP suresi, tahmini maliyet, Turkiye'de rakip var mi?
-6. Para Nereye Akiyor: yatirim/fonlama haberleri (varsa, yoksa "veri yok" de)
+6. Para Nereye Akiyor: yatirim/fonlama haberleri (TechCrunch verisine dayanarak)
 7. Turkiye Acisi: Bu trendler Turkiye teknoloji ekosistemine nasil yansir?
 
 Format: Sadece JSON dondur, baska hicbir sey yazma:
@@ -216,7 +303,7 @@ Format: Sadece JSON dondur, baska hicbir sey yazma:
       "why_important": "2-3 cumle, jargonsuz",
       "so_what": "Peki bana ne? Solo gelistirici icin 1 cumle aksiyon",
       "turkey_angle": "Turkiye'de bu ne anlama geliyor? 1 cumle",
-      "sources": ["url1"],
+      "sources": ["kaynak1"],
       "category": "AI|Startup|Altyapi|Yaratici|Arastirma"
     }}
   ],
@@ -238,7 +325,7 @@ Format: Sadece JSON dondur, baska hicbir sey yazma:
   }},
   "money_flow": {{
     "title": "Baslik",
-    "detail": "1-2 cumle"
+    "detail": "1-2 cumle (TechCrunch verisine dayali)"
   }},
   "turkey_corner": "Turkiye ekosistemi icin 2-3 cumle yorum",
   "source_links": ["url1","url2"]
@@ -276,7 +363,6 @@ def create_docx_report(analysis):
     GREEN = RGBColor(0x27, 0xAE, 0x60)
     GRAY = RGBColor(0x5D, 0x6D, 0x7E)
     GRAY_LIGHT = RGBColor(0x85, 0x92, 0x9E)
-    WHITE = RGBColor(0xFF, 0xFF, 0xFF)
 
     def add_styled_heading(text, level=1):
         h = doc.add_heading(text, level=level)
@@ -332,7 +418,7 @@ def create_docx_report(analysis):
     summary_p = doc.add_paragraph()
     add_run_to_para(summary_p, analysis.get('executive_summary', 'Ozet mevcut degil.'), size=12)
     note_p = doc.add_paragraph()
-    add_run_to_para(note_p, '\u2615 2 dk okuma', color=GRAY_LIGHT, italic=True, size=9)
+    add_run_to_para(note_p, '\u2615 2 dk okuma | 7 kaynaktan derlendi', color=GRAY_LIGHT, italic=True, size=9)
     doc.add_paragraph()
 
     # === BUGUN NE YAPMALI ===
@@ -350,28 +436,23 @@ def create_docx_report(analysis):
         title = trend.get('title', '')
         score = trend.get('impact_score', 5)
 
-        # Baslik + etki puani
         trend_h = doc.add_paragraph()
         add_run_to_para(trend_h, f'{emoji} {i}. {title}', bold=True, color=BLUE_DARK, size=14)
         score_p = doc.add_paragraph()
         add_run_to_para(score_p, f'Etki: {stars(score)}', size=10)
 
-        # Neden onemli
         why_p = doc.add_paragraph()
         add_run_to_para(why_p, 'Neden onemli: ', bold=True, size=11)
         add_run_to_para(why_p, trend.get('why_important', ''), size=11)
 
-        # Peki bana ne
         so_p = doc.add_paragraph()
         add_run_to_para(so_p, '\U0001F4A1 Peki bana ne: ', bold=True, color=BLUE_DARK, size=11)
         add_run_to_para(so_p, trend.get('so_what', ''), color=BLUE_DARK, size=11)
 
-        # Turkiye acisi
         tr_p = doc.add_paragraph()
         add_run_to_para(tr_p, '\U0001F1F9\U0001F1F7 Turkiye: ', bold=True, size=10)
         add_run_to_para(tr_p, trend.get('turkey_angle', ''), italic=True, color=GRAY, size=10)
 
-        # Kaynaklar
         sources = trend.get('sources', [])
         if sources:
             src_p = doc.add_paragraph()
@@ -449,7 +530,7 @@ def create_docx_report(analysis):
     add_separator()
     footer = doc.add_paragraph()
     footer.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    add_run_to_para(footer, 'TrendPulse by Zelimkhan Automation | Gunluk otomatik trend raporu', color=GRAY_LIGHT, size=8)
+    add_run_to_para(footer, 'TrendPulse by Zelimkhan Automation | Gunluk otomatik trend raporu | 7 kaynaktan derlendi', color=GRAY_LIGHT, size=8)
 
     # Kaydet
     filename = f'TrendPulse_{TODAY}.docx'
@@ -478,7 +559,7 @@ def send_report(analysis, docx_path):
         title = t.get('title', '')
         trends_text += f"\n{i}. {emoji} {title}"
 
-    message = f"""\U0001F4C8 *TrendPulse* — {TODAY}
+    message = f"""\U0001F4C8 *TrendPulse* \u2014 {TODAY}
 
 \U0001F5DE *{headline}*
 
@@ -502,17 +583,24 @@ _Detayli rapor ektedir_ \u2B07\uFE0F"""
 def main():
     print(f"{'='*50}")
     print(f"  TrendPulse - {TODAY}")
+    print(f"  7 kaynaktan maksimum verim")
     print(f"{'='*50}\n")
 
-    # 1. Veri topla
-    hn = fetch_hacker_news()
-    ph = fetch_product_hunt()
-    reddit = fetch_reddit()
-    github = fetch_github_trending()
-    arxiv = fetch_arxiv()
+    # 1. Veri topla (7 kaynak)
+    sources = {
+        'hacker_news': fetch_hacker_news(),
+        'product_hunt': fetch_product_hunt(),
+        'reddit': fetch_reddit(),
+        'github': fetch_github_trending(),
+        'techcrunch': fetch_techcrunch(),
+        'devto': fetch_devto(),
+        'arxiv': fetch_arxiv(),
+    }
 
-    total = len(hn) + len(ph) + len(reddit) + len(github) + len(arxiv)
-    print(f"\nToplam {total} veri noktasi toplandi.")
+    total = sum(len(v) for v in sources.values())
+    print(f"\nToplam {total} veri noktasi toplandi (7 kaynak).")
+    for name, data in sources.items():
+        print(f"  {name}: {len(data)}")
 
     if total == 0:
         print("HATA: Hicbir kaynaktan veri alinamadi!")
@@ -520,7 +608,7 @@ def main():
         sys.exit(1)
 
     # 2. Claude ile analiz
-    analysis = analyze_trends(hn, ph, reddit, github, arxiv)
+    analysis = analyze_trends(sources)
 
     # 3. DOCX rapor olustur
     docx_path = create_docx_report(analysis)

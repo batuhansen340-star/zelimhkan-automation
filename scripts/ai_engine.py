@@ -22,7 +22,7 @@ def ask_claude(prompt, json_mode=False, model='claude-sonnet-4-5-20250929'):
 
     message = client.messages.create(
         model=model,
-        max_tokens=2000,
+        max_tokens=4096,
         system=system,
         messages=[{'role': 'user', 'content': prompt}]
     )
@@ -34,6 +34,10 @@ def ask_claude(prompt, json_mode=False, model='claude-sonnet-4-5-20250929'):
         text = text.strip()
         if text.startswith('```'):
             text = text.split('\n', 1)[1].rsplit('```', 1)[0]
-        return json.loads(text)
+        try:
+            return json.loads(text)
+        except json.JSONDecodeError:
+            print(f"JSON parse hatası, raw text sarmalanıyor")
+            return {"raw_response": text}
 
     return text

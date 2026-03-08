@@ -17,7 +17,7 @@ sys.path.insert(0, os.path.dirname(__file__))
 from ai_engine import ask_claude
 from telegram_bot import send_telegram, send_document
 
-HEADERS = {'User-Agent': 'TrendPulse/1.0 (github.com/batuhansen340-star)'}
+HEADERS = {'User-Agent': 'TrendPulse/1.0 (by /u/trendpulse_bot)'}
 TODAY = datetime.now().strftime('%Y-%m-%d')
 YESTERDAY = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
 
@@ -80,7 +80,11 @@ def fetch_reddit():
             headers=HEADERS,
             timeout=15
         )
-        data = resp.json()
+        try:
+            data = resp.json()
+        except (json.JSONDecodeError, ValueError):
+            print("  -> Reddit HTML/invalid JSON dondurdu, atlaniyor")
+            return []
         posts = []
         for child in data.get('data', {}).get('children', [])[:20]:
             post = child.get('data', {})

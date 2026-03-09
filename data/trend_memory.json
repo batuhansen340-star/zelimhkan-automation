@@ -8,7 +8,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 452,
+    "peak_score": 744,
     "keywords": [
       "local",
       "agent",
@@ -27,7 +27,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 331,
+    "peak_score": 571,
     "keywords": [
       "video",
       "laserdisc",
@@ -43,7 +43,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 105,
+    "peak_score": 241,
     "keywords": [
       "devboard",
       "size",
@@ -78,7 +78,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 134,
+    "peak_score": 207,
     "keywords": [
       "every",
       "2025",
@@ -98,7 +98,7 @@
       "hacker_news",
       "lobsters"
     ],
-    "peak_score": 385,
+    "peak_score": 493,
     "keywords": [
       "framebook"
     ]
@@ -112,7 +112,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 79,
+    "peak_score": 243,
     "keywords": [
       "working",
       "(march",
@@ -129,7 +129,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 184,
+    "peak_score": 309,
     "keywords": [
       "homelab",
       "setup"
@@ -538,7 +538,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 10064,
+    "peak_score": 14086,
     "keywords": [
       "karpathy/autoresearch"
     ]
@@ -552,7 +552,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 2426,
+    "peak_score": 2529,
     "keywords": [
       "elder-plinius/obliteratus"
     ]
@@ -566,7 +566,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1408,
+    "peak_score": 1536,
     "keywords": [
       "twostraws/swiftui-agent-skill"
     ]
@@ -580,7 +580,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1244,
+    "peak_score": 1382,
     "keywords": [
       "duoan/torchcode"
     ]
@@ -594,7 +594,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1090,
+    "peak_score": 1173,
     "keywords": [
       "cyxzdev/uncodixfy"
     ]
@@ -608,7 +608,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1033,
+    "peak_score": 1211,
     "keywords": [
       "viperrcrypto/siftly"
     ]
@@ -622,7 +622,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 717,
+    "peak_score": 728,
     "keywords": [
       "tanishqkumar/ssd"
     ]
@@ -636,7 +636,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 679,
+    "peak_score": 746,
     "keywords": [
       "op7418/claude-to-im-skill"
     ]
@@ -650,7 +650,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 650,
+    "peak_score": 701,
     "keywords": [
       "flowseal/tg-ws-proxy"
     ]
@@ -664,7 +664,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 550,
+    "peak_score": 624,
     "keywords": [
       "hicode002/qualcomm_gbl_exploit_poc"
     ]
@@ -678,7 +678,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 515,
+    "peak_score": 903,
     "keywords": [
       "bigbodycobain/shadowbroker"
     ]
@@ -1121,7 +1121,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 7,
+    "peak_score": 9,
     "keywords": [
       "shipped",
       "56-language",
@@ -1144,7 +1144,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 2,
+    "peak_score": 4,
     "keywords": [
       "guide",
       "survival",
@@ -1165,7 +1165,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 1,
+    "peak_score": 3,
     "keywords": [
       "data",
       "multi-tenant",
@@ -1204,7 +1204,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 5,
+    "peak_score": 7,
     "keywords": [
       "file",
       "clawspace:",
@@ -1246,7 +1246,7 @@
       "devto",
       "lobsters"
     ],
-    "peak_score": 54,
+    "peak_score": 76,
     "keywords": [
       "code",
       "what",
@@ -1270,7 +1270,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 15,
+    "peak_score": 17,
     "keywords": [
       "nobody",
       "tanstack",
@@ -1290,7 +1290,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 12,
+    "peak_score": 17,
     "keywords": [
       "dependabot",
       "merge"
@@ -1327,7 +1327,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 43,
+    "peak_score": 69,
     "keywords": [
       "assert",
       "humanity",
@@ -1348,7 +1348,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 19,
+    "peak_score": 27,
     "keywords": [
       "(2002)",
       "from",
@@ -1383,9 +1383,10 @@
       "2026-03-09"
     ],
     "sources": [
-      "lobsters"
+      "lobsters",
+      "hacker_news"
     ],
-    "peak_score": 12,
+    "peak_score": 143,
     "keywords": [
       "blocking",
       "http1.1"
@@ -1434,7 +1435,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 5,
+    "peak_score": 22,
     "keywords": [
       "webpki"
     ]
@@ -1851,6 +1852,1155 @@
       "specialization",
       "ramoea-qa:",
       "robust"
+    ]
+  },
+  "fontcrafter: turn your handwriting into a real font": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 295,
+    "keywords": [
+      "fontcrafter:",
+      "turn",
+      "handwriting",
+      "your",
+      "font",
+      "into",
+      "real"
+    ]
+  },
+  "reverse-engineering the unifi inform protocol": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 76,
+    "keywords": [
+      "unifi",
+      "protocol",
+      "reverse-engineering",
+      "inform"
+    ]
+  },
+  "ireland shuts last coal plant, becomes 15th coal-free country in europe (2025)": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 567,
+    "keywords": [
+      "15th",
+      "ireland",
+      "country",
+      "last",
+      "plant,",
+      "europe",
+      "coal-free",
+      "(2025)",
+      "shuts",
+      "becomes",
+      "coal"
+    ]
+  },
+  "freebsd capsicum vs. linux seccomp process sandboxing": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 63,
+    "keywords": [
+      "freebsd",
+      "sandboxing",
+      "process",
+      "seccomp",
+      "linux",
+      "capsicum"
+    ]
+  },
+  "us court of appeals: tos may be updated by email, use can imply consent [pdf]": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 432,
+    "keywords": [
+      "updated",
+      "consent",
+      "[pdf]",
+      "court",
+      "appeals:",
+      "email,",
+      "imply"
+    ]
+  },
+  "the window chrome of our discontent": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 99,
+    "keywords": [
+      "discontent",
+      "chrome",
+      "window"
+    ]
+  },
+  "unlocking python's cores:energy implications of removing the gil": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 85,
+    "keywords": [
+      "cores:energy",
+      "removing",
+      "implications",
+      "python's",
+      "unlocking"
+    ]
+  },
+  "show hn: vs code agent kanban: task management for the ai-assisted developer": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 65,
+    "keywords": [
+      "task",
+      "code",
+      "management",
+      "ai-assisted",
+      "show",
+      "agent",
+      "developer",
+      "kanban:"
+    ]
+  },
+  "kuwaiti f/a-18's triple friendly fire shootdown gets stranger by the day": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 63,
+    "keywords": [
+      "stranger",
+      "f/a-18's",
+      "triple",
+      "shootdown",
+      "kuwaiti",
+      "gets",
+      "friendly",
+      "fire"
+    ]
+  },
+  "ffmpeg at meta: media processing at scale": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 125,
+    "keywords": [
+      "ffmpeg",
+      "meta:",
+      "media",
+      "processing",
+      "scale"
+    ]
+  },
+  "segagaga has been translated into english": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 67,
+    "keywords": [
+      "been",
+      "segagaga",
+      "english",
+      "into",
+      "translated"
+    ]
+  },
+  "grammarly is offering ‘expert’ ai reviews from famous dead and living writers": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 59,
+    "keywords": [
+      "famous",
+      "dead",
+      "offering",
+      "reviews",
+      "from",
+      "‘expert’",
+      "writers",
+      "grammarly",
+      "living"
+    ]
+  },
+  "roundtable": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "roundtable"
+    ]
+  },
+  "simply": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "simply"
+    ]
+  },
+  "phi-4-reasoning-vision": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "phi-4-reasoning-vision"
+    ]
+  },
+  "openclix": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "openclix"
+    ]
+  },
+  "cutefolio": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "cutefolio"
+    ]
+  },
+  "brandingstudio.ai": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "brandingstudio.ai"
+    ]
+  },
+  "hannah & co": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "hannah"
+    ]
+  },
+  "nothing phone (4a) pro": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "(4a)",
+      "nothing",
+      "phone"
+    ]
+  },
+  "reflct": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "reflct"
+    ]
+  },
+  "hkuds/cli-anything": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 865,
+    "keywords": [
+      "hkuds/cli-anything"
+    ]
+  },
+  "jackwener/twitter-cli": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 759,
+    "keywords": [
+      "jackwener/twitter-cli"
+    ]
+  },
+  "freedomintelligence/openclaw-medical-skills": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 584,
+    "keywords": [
+      "freedomintelligence/openclaw-medical-skills"
+    ]
+  },
+  "jshachm/pi-rs": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 548,
+    "keywords": [
+      "jshachm/pi-rs"
+    ]
+  },
+  "slate auto changes ceo months ahead of affordable ev launch": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "months",
+      "auto",
+      "changes",
+      "launch",
+      "slate",
+      "affordable",
+      "ahead"
+    ]
+  },
+  "xprize founder peter diamandis launches new contest to manifest a new star trek": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "diamandis",
+      "xprize",
+      "trek",
+      "manifest",
+      "peter",
+      "star",
+      "founder",
+      "contest",
+      "launches"
+    ]
+  },
+  "qualcomm’s partnership with neura robotics is just the beginning": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "qualcomm’s",
+      "neura",
+      "just",
+      "beginning",
+      "partnership",
+      "with",
+      "robotics"
+    ]
+  },
+  "russian government hackers targeting signal and whatsapp users, dutch spies warn": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "spies",
+      "dutch",
+      "targeting",
+      "users,",
+      "warn",
+      "hackers",
+      "government",
+      "signal",
+      "russian",
+      "whatsapp"
+    ]
+  },
+  "salt typhoon is hacking the world’s phone and internet giants. here’s everywhere that’s been hit.": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "been",
+      "internet",
+      "phone",
+      "salt",
+      "everywhere",
+      "typhoon",
+      "world’s",
+      "giants.",
+      "hit.",
+      "hacking",
+      "that’s",
+      "here’s"
+    ]
+  },
+  "anthropic sues defense department over supply chain risk designation": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "department",
+      "defense",
+      "supply",
+      "over",
+      "sues",
+      "risk",
+      "designation",
+      "chain",
+      "anthropic"
+    ]
+  },
+  "sandberg, clegg join nscale board as this ‘stargate norway’ startup hits $14.6b valuation": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "norway’",
+      "nscale",
+      "clegg",
+      "board",
+      "startup",
+      "$14.6b",
+      "hits",
+      "this",
+      "join",
+      "sandberg,",
+      "valuation",
+      "‘stargate"
+    ]
+  },
+  "zoox starts mapping dallas and phoenix for its robotaxis": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "techcrunch",
+      "devto"
+    ],
+    "peak_score": 2,
+    "keywords": [
+      "zoox",
+      "starts",
+      "robotaxis",
+      "phoenix",
+      "dallas",
+      "mapping"
+    ]
+  },
+  "the 2027 chevy bolt is the mcrib of the automotive world": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "2027",
+      "bolt",
+      "automotive",
+      "chevy",
+      "mcrib",
+      "world"
+    ]
+  },
+  "flipkart moves its headquarters back to india ahead of ipo": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "moves",
+      "india",
+      "back",
+      "flipkart",
+      "headquarters",
+      "ahead"
+    ]
+  },
+  "revamped rss feed imports": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 13,
+    "keywords": [
+      "revamped",
+      "feed",
+      "imports"
+    ]
+  },
+  "i planned an exit strategy. i stayed the whole time.": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 6,
+    "keywords": [
+      "planned",
+      "whole",
+      "strategy.",
+      "exit",
+      "time.",
+      "stayed"
+    ]
+  },
+  "criei uma pipeline de planejamento no opencode e olha no que deu": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 36,
+    "keywords": [
+      "planejamento",
+      "criei",
+      "pipeline",
+      "opencode",
+      "olha"
+    ]
+  },
+  "building a text-to-speech engine in pure c": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 1,
+    "keywords": [
+      "text-to-speech",
+      "building",
+      "pure",
+      "engine"
+    ]
+  },
+  "logbook: zk battleship - part 1": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 2,
+    "keywords": [
+      "part",
+      "battleship",
+      "logbook:"
+    ]
+  },
+  "start with vectorizetion using docker and postgres": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 4,
+    "keywords": [
+      "docker",
+      "with",
+      "postgres",
+      "using",
+      "vectorizetion",
+      "start"
+    ]
+  },
+  "i built an open-source tool that lets ai agents hire real humans to test your product": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 7,
+    "keywords": [
+      "hire",
+      "lets",
+      "built",
+      "humans",
+      "tool",
+      "test",
+      "that",
+      "product",
+      "your",
+      "open-source",
+      "agents",
+      "real"
+    ]
+  },
+  "returning to rails in 2026": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 26,
+    "keywords": [
+      "2026",
+      "rails",
+      "returning"
+    ]
+  },
+  "is legal the same as legitimate: ai reimplementation and the erosion of copyleft": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 12,
+    "keywords": [
+      "legitimate:",
+      "erosion",
+      "legal",
+      "same",
+      "reimplementation",
+      "copyleft"
+    ]
+  },
+  "production query plans without production data": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 24,
+    "keywords": [
+      "query",
+      "production",
+      "data",
+      "plans",
+      "without"
+    ]
+  },
+  "your llm doesn't write correct code. it writes plausible code": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 17,
+    "keywords": [
+      "plausible",
+      "code",
+      "writes",
+      "correct",
+      "doesn't",
+      "code.",
+      "write",
+      "your"
+    ]
+  },
+  "rust-like error handling in typescript": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 5,
+    "keywords": [
+      "rust-like",
+      "typescript",
+      "error",
+      "handling"
+    ]
+  },
+  "ai will fuck you up if you’re not on board": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 6,
+    "keywords": [
+      "you’re",
+      "will",
+      "fuck",
+      "board"
+    ]
+  },
+  "i don't know if my job will still exist in ten years": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 5,
+    "keywords": [
+      "don't",
+      "exist",
+      "years",
+      "still",
+      "will",
+      "know"
+    ]
+  },
+  "notes on writing a voxel game in dyalog apl": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 7,
+    "keywords": [
+      "notes",
+      "writing",
+      "dyalog",
+      "voxel",
+      "game"
+    ]
+  },
+  "abusing .arpa, the tld that isn’t supposed to host anything": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 3,
+    "keywords": [
+      "anything",
+      "supposed",
+      "that",
+      ".arpa,",
+      "isn’t",
+      "abusing",
+      "host"
+    ]
+  },
+  "what are you doing this week?": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 5,
+    "keywords": [
+      "what",
+      "week?",
+      "this",
+      "doing"
+    ]
+  },
+  "driventure, elektrikli araçlar için hızlı şarj çözümleri geliştiren yed teknoloji'ye yatırım yaptı": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "araçlar",
+      "çözümleri",
+      "hızlı",
+      "için",
+      "geliştiren",
+      "driventure,",
+      "yaptı",
+      "elektrikli",
+      "teknoloji'ye",
+      "yatırım",
+      "şarj"
+    ]
+  },
+  "dataroid'in kurumsal dijital analitiği hızlandırmaya odaklanan yapay zeka ajanı: ai ajanı d": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "dijital",
+      "hızlandırmaya",
+      "ajanı",
+      "zeka",
+      "odaklanan",
+      "yapay",
+      "analitiği",
+      "dataroid'in",
+      "ajanı:",
+      "kurumsal"
+    ]
+  },
+  "openai'ın codex'te güvenlik açıklarını gidermeye odaklanan yeni aracı codex security neler sunuyor?": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "güvenlik",
+      "aracı",
+      "neler",
+      "sunuyor?",
+      "codex",
+      "security",
+      "odaklanan",
+      "openai'ın",
+      "gidermeye",
+      "yeni",
+      "açıklarını",
+      "codex'te"
+    ]
+  },
+  "openai, yetişkin modu özelliğinin lansmanını bir kez daha erteledi": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "daha",
+      "erteledi",
+      "özelliğinin",
+      "lansmanını",
+      "yetişkin",
+      "openai,",
+      "modu"
+    ]
+  },
+  "i̇nsan kaynaklarında veri kullanımı ve stratejik karar alma eğitimi": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "i̇nsan",
+      "kullanımı",
+      "karar",
+      "kaynaklarında",
+      "stratejik",
+      "alma",
+      "eğitimi",
+      "veri"
+    ]
+  },
+  "luma'dan yaratıcı çalışmaları yürütmek için tasarlanan ajan yaklaşımı: luma agents": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "çalışmaları",
+      "luma'dan",
+      "için",
+      "luma",
+      "yaratıcı",
+      "tasarlanan",
+      "yürütmek",
+      "ajan",
+      "yaklaşımı:",
+      "agents"
+    ]
+  },
+  "yapay zeka altyapısı hiper ölçeklendiricisi nscale, 2 milyar dolar yatırım aldı": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "dolar",
+      "altyapısı",
+      "nscale,",
+      "hiper",
+      "zeka",
+      "milyar",
+      "aldı",
+      "yapay",
+      "ölçeklendiricisi",
+      "yatırım"
+    ]
+  },
+  "x, gönderilerdeki ürünlerle bağlantılı yeni bir reklam formatını test ediyor": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "reklam",
+      "test",
+      "formatını",
+      "ürünlerle",
+      "ediyor",
+      "yeni",
+      "gönderilerdeki",
+      "bağlantılı"
+    ]
+  },
+  "apple'ın üst segmentte konumlanacak üç yeni &quot;ultra&quot; sınıfı cihaz üzerinde çalıştığı iddia edildi": {
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "seen_dates": [
+      "2026-03-09"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "iddia",
+      "cihaz",
+      "apple'ın",
+      "üzerinde",
+      "konumlanacak",
+      "çalıştığı",
+      "&quot;ultra&quot;",
+      "yeni",
+      "sınıfı",
+      "segmentte",
+      "edildi"
     ]
   }
 }

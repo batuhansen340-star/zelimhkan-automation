@@ -1,0 +1,39 @@
+name: BreakingAlert
+
+on:
+  schedule:
+    - cron: '0 2 * * *'    # 05:00 TR
+    - cron: '0 6 * * *'    # 09:00 TR
+    - cron: '0 10 * * *'   # 13:00 TR
+    - cron: '0 14 * * *'   # 17:00 TR
+    - cron: '0 18 * * *'   # 21:00 TR
+    - cron: '0 22 * * *'   # 01:00 TR
+  workflow_dispatch:
+
+env:
+  TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+  TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
+jobs:
+  breaking-alert:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run Breaking Alert
+        run: python scripts/breaking_alert.py
+
+      - name: Save alert history
+        run: |
+          git config user.name 'TrendPulse Bot'
+          git config user.email 'bot@trendpulse.dev'
+          git add data/alert_history.json || true
+          git diff --staged --quiet || git commit -m "data: update alert history [skip ci]"
+          git push || true

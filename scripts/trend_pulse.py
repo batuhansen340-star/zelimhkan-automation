@@ -1,7 +1,7 @@
 # scripts/trend_pulse.py
-# TrendPulse v3.0 — Kisisel Girisim Danismani
-# 9 kaynaktan veri ceker, capraz skorlar, Claude ile analiz eder,
-# DOCX rapor olusturur, Telegram'a gonderir, tarihsel karsilastirir.
+# TrendPulse v4.0 — Kisisel Girisim Danismani + Trend Hafizasi + Bana Gore Filtresi
+# 9 kaynaktan veri ceker, capraz skorlar, yasam dongusu takip eder,
+# Claude ile analiz eder, DOCX rapor olusturur, Telegram'a gonderir.
 
 import os
 import sys
@@ -20,8 +20,9 @@ from docx.oxml.ns import qn
 sys.path.insert(0, os.path.dirname(__file__))
 from ai_engine import ask_claude
 from telegram_bot import send_telegram, send_document
+from trend_memory import save_today, load_memory, get_lifecycle_summary
 
-HEADERS = {'User-Agent': 'TrendPulse/3.0 (by /u/trendpulse_bot)'}
+HEADERS = {'User-Agent': 'TrendPulse/4.0 (by /u/trendpulse_bot)'}
 TODAY = datetime.now().strftime('%Y-%m-%d')
 YESTERDAY = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
 HISTORY_FILE = os.path.join(os.path.dirname(__file__), '..', 'data', 'trend_history.json')
@@ -132,7 +133,7 @@ def fetch_github_trending():
     try:
         week_ago = (datetime.now() - timedelta(days=7)).strftime('%Y-%m-%d')
         gh_headers = {
-            'User-Agent': 'TrendPulse/3.0',
+            'User-Agent': 'TrendPulse/4.0',
             'Accept': 'application/vnd.github.v3+json',
         }
         gh_token = os.environ.get('GITHUB_TOKEN', '')
@@ -417,11 +418,11 @@ def compare_with_yesterday(sources, history):
 
 
 # ============================================================
-# CLAUDE ANALIZ
+# CLAUDE ANALIZ — v4.0 (Lifecycle + Bana Gore)
 # ============================================================
 
-def analyze_trends(sources, cross_scores, history_comparison):
-    """Toplanan verileri Claude ile analiz et — kisisel girisim danismani"""
+def analyze_trends(sources, cross_scores, history_comparison, lifecycle_summary):
+    """Toplanan verileri Claude ile analiz et — kisisel girisim danismani v4.0"""
     print("\nClaude ile analiz ediliyor...")
 
     raw_data = ""
@@ -459,6 +460,28 @@ def analyze_trends(sources, cross_scores, history_comparison):
 YENI olanlara ONCELIK ver — devam edenleri "hala gundemde" olarak belirt.
 """
 
+    # Yasam dongusu bilgisi (v4.0 yeni)
+    lifecycle_info = ""
+    if lifecycle_summary:
+        lifecycle_info = f"""
+## TREND YASAM DONGUSU (14 gunluk hafiza):
+- Toplam takip edilen: {lifecycle_summary.get('total_tracked', 0)} trend
+- Yeni (bugun ilk kez): {lifecycle_summary.get('new', 0)}
+- Yukselen (2-3 gun): {lifecycle_summary.get('rising', 0)}
+- Zirve (4+ gun veya 3+ kaynak): {lifecycle_summary.get('peak', 0)}
+- Dusen (son 2 gun gorulmuyor): {lifecycle_summary.get('declining', 0)}
+"""
+        if lifecycle_summary.get('top_rising'):
+            lifecycle_info += f"- EN ONEMLI yukselen trendler: {', '.join(lifecycle_summary['top_rising'][:3])}\n"
+        if lifecycle_summary.get('top_peak'):
+            lifecycle_info += f"- Zirvedeki trendler: {', '.join(lifecycle_summary['top_peak'][:3])}\n"
+        lifecycle_info += """
+Her trend icin lifecycle durumunu (new/rising/peak/declining) belirt.
+RISING trendler EN DEGERLI — bunlar YARIN herkesin konusacagi sey. SIMDI HAREKET ET.
+PEAK trendler artik "herkes biliyor" — farklilas veya GEC KALDIN.
+DECLINING trendler "firsati kacirdin" — bunlara vakit harcama.
+"""
+
     prompt = f"""Sen benim kisisel girisim danismanim. Adim Batuhan, Turkiye'de bankacilik BI analisti + solo gelistirici + girisimciyim. AI araclarini aktif kullaniyorum. Su an StoryPal (AI cocuk hikaye uygulamasi) ve TrendPulse (bu rapor) uzerinde calisiyorum.
 
 Asagidaki veriler GERCEK API'lerden CEKILMISTIR. SADECE bu verilerden analiz yap. Veri UYDURMA. Emin olmadigin bir sey varsa "Yeterli veri yok" de.
@@ -471,14 +494,20 @@ ONEMLI KURALLAR:
 1. KAYNAK AGIRLIKLARI: Hacker News ve Lobste.rs'tan gelen konular DAHA ONEMLI. Webrazzi verisi Turkiye ozelinde KRITIK.
 2. CAPRAZ KAYNAK: Birden fazla kaynakta gecen konular GERCEK trend — bunlara oncelik ver.
 3. YENI vs DEVAM EDEN: Tarihsel karsilastirmada YENI olanlar one cikmali.
-4. Her trend icin "BU SANA NE IFADE EDIYOR?" — solo gelistirici olarak bugun ne yapmaliyim?
-5. Firsat varsa NET soyle: "Bu alanda Turkiye'de bosluk var, sunu yap"
-6. Tool/urun cikmissa: "Bunu bugun dene, link bu" de
-7. StoryPal'a uygulanabilecek bir sey varsa direkt soyle
-8. Jargon YASAK — herkesin anlayacagi dilde yaz
-9. Pasif ifadeler YASAK — "Sunu yap", "Bunu dene", "Bu firsati kacirma" gibi aktif ifadeler kullan
-10. Turkiye pazari acisi HER trendte olsun
-11. Webrazzi verisini Turkiye Kosesi bolumu icin ozellikle kullan
+4. YASAM DONGUSU: Her trend icin lifecycle durumu (new/rising/peak/declining) belirt. RISING olanlara ONCELIK VER.
+5. Her trend icin "BU SANA NE IFADE EDIYOR?" — solo gelistirici olarak bugun ne yapmaliyim?
+6. Firsat varsa NET soyle: "Bu alanda Turkiye'de bosluk var, sunu yap"
+7. Tool/urun cikmissa: "Bunu bugun dene, link bu" de
+8. StoryPal'a uygulanabilecek bir sey varsa direkt soyle
+9. Jargon YASAK — herkesin anlayacagi dilde yaz
+10. Pasif ifadeler YASAK — "Sunu yap", "Bunu dene", "Bu firsati kacirma" gibi aktif ifadeler kullan
+11. Turkiye pazari acisi HER trendte olsun
+12. Webrazzi verisini Turkiye Kosesi bolumu icin ozellikle kullan
+13. BANA GORE FILTRESI: Her trend icin "for_me" skoru ver (0-3):
+    - solo_dev: Solo gelistirici olarak yapabilir miyim? (0=hayir, 1=zor, 2=uygun, 3=mukemmel)
+    - low_budget: Dusuk butceyle ($0-100/ay) mumkun mu? (0=imkansiz, 1=pahali, 2=uygun, 3=ucretsiz)
+    - turkey_market: Turkiye pazarinda karsiligi var mi? (0=yok, 1=az, 2=var, 3=buyuk firsat)
+    - total: Toplam skor (0-9) — 7+ = KESINLIKLE BAK, 4-6 = deger, 0-3 = atla
 
 Gorevlerin:
 1. MANSET: Bugunun en onemli 1 cumlelik ozeti — gazete manseti gibi, vurucu
@@ -491,6 +520,8 @@ Gorevlerin:
    - Etki puani (1-10)
    - Yeni mi yoksa devam eden trend mi? (new/continuing)
    - Kac kaynakta gecti?
+   - Yasam dongusu: new/rising/peak/declining
+   - for_me skoru
 4. FIRSAT RADAR: En guclu 1 uygulama firsati — detayli MVP plani
 5. AI SPOTLIGHT: 1 AI tool/model — "bunu su isine kullanabilirsin" formatinda
 6. PARA NEREYE AKIYOR: TechCrunch verisine dayanarak. Yoksa "veri yok" de.
@@ -518,7 +549,15 @@ Format: Sadece JSON dondur:
       "sources": ["kaynak1", "kaynak2"],
       "source_count": 2,
       "is_new": true,
-      "category": "AI|Startup|Altyapi|Yaratici|Arastirma"
+      "lifecycle": "new|rising|peak|declining",
+      "category": "AI|Startup|Altyapi|Yaratici|Arastirma",
+      "for_me": {{
+        "solo_dev": 2,
+        "low_budget": 3,
+        "turkey_market": 1,
+        "total": 6,
+        "verdict": "1 cumle neden sana uygun/uygun degil"
+      }}
     }}
   ],
   "opportunity": {{
@@ -531,7 +570,13 @@ Format: Sadece JSON dondur:
     "mvp_cost": "Maliyet",
     "free_hook": "Ucretsiz ne verilir",
     "paid_product": "Ucretli ne satilir",
-    "why_now": "Bu firsati kacirma cunku..."
+    "why_now": "Bu firsati kacirma cunku...",
+    "for_me": {{
+      "solo_dev": 3,
+      "low_budget": 2,
+      "turkey_market": 2,
+      "total": 7
+    }}
   }},
   "ai_tool": {{
     "name": "Adi",
@@ -554,6 +599,7 @@ Format: Sadece JSON dondur:
 Turkce yaz. Kisa, net, aksiyon odakli. Beni harekete gecir.
 {cross_info}
 {history_info}
+{lifecycle_info}
 VERILER:
 {raw_data}
 """
@@ -564,7 +610,7 @@ VERILER:
 
 
 # ============================================================
-# DOCX RAPOR OLUSTURMA
+# DOCX RAPOR OLUSTURMA — v4.0
 # ============================================================
 
 def _set_cell_shading(cell, color_hex):
@@ -575,8 +621,35 @@ def _set_cell_shading(cell, color_hex):
     shading.append(shading_elem)
 
 
-def create_docx_report(analysis):
-    """Kisisel girisim danismani DOCX raporu — v3.0"""
+def _for_me_badge(total_score):
+    """Bana Gore skoru icin renk ve emoji"""
+    try:
+        s = int(total_score)
+    except (ValueError, TypeError):
+        s = 0
+    if s >= 7:
+        return '\U0001F7E2', 'SANA GORE', '27AE60'  # yesil
+    elif s >= 4:
+        return '\U0001F7E1', 'DEGER', 'F39C12'  # sari
+    elif s >= 2:
+        return '\U0001F7E0', 'BAKILABILIR', 'E67E22'  # turuncu
+    else:
+        return '\U0001F534', 'ATLA', 'E74C3C'  # kirmizi
+
+
+def _lifecycle_badge(lifecycle):
+    """Yasam dongusu icin emoji ve renk"""
+    badges = {
+        'new': ('\U0001F195', 'YENI', 'E74C3C'),
+        'rising': ('\U0001F4C8', 'YUKSELIYOR', '27AE60'),
+        'peak': ('\U0001F525', 'ZIRVEDE', 'F39C12'),
+        'declining': ('\U0001F4C9', 'DUSUYOR', '95A5A6'),
+    }
+    return badges.get(lifecycle, ('\u2753', lifecycle or '?', '7F8C8D'))
+
+
+def create_docx_report(analysis, lifecycle_summary):
+    """Kisisel girisim danismani DOCX raporu — v4.0"""
     print("\nDOCX rapor olusturuluyor...")
 
     doc = Document()
@@ -619,7 +692,7 @@ def create_docx_report(analysis):
     doc.add_paragraph()
     cover = doc.add_paragraph()
     cover.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    run(cover, '\U0001F4C8 TrendPulse v3.0', color=BLUE_DARK, bold=True, size=28)
+    run(cover, '\U0001F4C8 TrendPulse v4.0', color=BLUE_DARK, bold=True, size=28)
 
     dp = doc.add_paragraph()
     dp.alignment = WD_ALIGN_PARAGRAPH.CENTER
@@ -638,6 +711,18 @@ def create_docx_report(analysis):
         badge_p.alignment = WD_ALIGN_PARAGRAPH.CENTER
         run(badge_p, f"9 kaynak | {dq.get('total_items', '?')} veri noktasi | {dq.get('cross_source_topics', '?')} capraz konu | {dq.get('new_today', '?')} yeni bugun",
             color=GRAY_LIGHT, size=9)
+
+    # Yasam dongusu ozeti
+    if lifecycle_summary:
+        lp = doc.add_paragraph()
+        lp.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        lc_text = (
+            f"\U0001F195 {lifecycle_summary.get('new', 0)} yeni | "
+            f"\U0001F4C8 {lifecycle_summary.get('rising', 0)} yukseliyor | "
+            f"\U0001F525 {lifecycle_summary.get('peak', 0)} zirvede | "
+            f"\U0001F4C9 {lifecycle_summary.get('declining', 0)} dusuyor"
+        )
+        run(lp, lc_text, color=GRAY, size=9)
 
     sep()
     doc.add_page_break()
@@ -661,8 +746,8 @@ def create_docx_report(analysis):
                 wp = cell.add_paragraph()
                 run(wp, f'     {why_text}', color=GRAY, italic=True, size=9)
             if link_text:
-                lp = cell.add_paragraph()
-                run(lp, f'     {link_text}', color=BLUE_MED, size=8)
+                lp2 = cell.add_paragraph()
+                run(lp2, f'     {link_text}', color=BLUE_MED, size=8)
             doc.add_paragraph()
     else:
         ta = analysis.get('today_action', '')
@@ -680,7 +765,7 @@ def create_docx_report(analysis):
     run(sp, analysis.get('executive_summary', ''), size=12)
     np = sc.add_paragraph()
     np.alignment = WD_ALIGN_PARAGRAPH.RIGHT
-    run(np, '\u2615 2 dk okuma | 9 kaynak | capraz skorlanmis', color=GRAY_LIGHT, italic=True, size=8)
+    run(np, '\u2615 2 dk okuma | 9 kaynak | capraz skorlanmis | yasam dongusu takipli', color=GRAY_LIGHT, italic=True, size=8)
     doc.add_paragraph()
 
     # === TOP 5 TREND ===
@@ -692,15 +777,28 @@ def create_docx_report(analysis):
         score = trend.get('impact_score', 5)
         is_new = trend.get('is_new', True)
         src_count = trend.get('source_count', 1)
+        lifecycle = trend.get('lifecycle', 'new')
+        for_me = trend.get('for_me', {})
+        for_me_total = for_me.get('total', 0) if isinstance(for_me, dict) else 0
 
         th = doc.add_paragraph()
         run(th, f'{emoji} {i}. {title}', bold=True, color=BLUE_DARK, size=13)
-        if is_new:
-            run(th, '  YENI', bold=True, color=RED, size=9)
-        else:
-            run(th, '  devam', italic=True, color=GRAY_LIGHT, size=9)
+
+        # Lifecycle badge
+        lc_emoji, lc_text, lc_color = _lifecycle_badge(lifecycle)
+        run(th, f'  {lc_emoji} {lc_text}', bold=True, color=RGBColor(
+            int(lc_color[0:2], 16), int(lc_color[2:4], 16), int(lc_color[4:6], 16)
+        ), size=9)
+
+        # Source count badge
         if src_count > 1:
             run(th, f'  [{src_count} kaynak]', color=GREEN, size=9)
+
+        # Bana Gore badge
+        fm_emoji, fm_text, fm_color = _for_me_badge(for_me_total)
+        run(th, f'  {fm_emoji} {fm_text} ({for_me_total}/9)', bold=True, color=RGBColor(
+            int(fm_color[0:2], 16), int(fm_color[2:4], 16), int(fm_color[4:6], 16)
+        ), size=9)
 
         sp2 = doc.add_paragraph()
         run(sp2, f'Etki: {stars(score)}', size=10)
@@ -722,6 +820,15 @@ def create_docx_report(analysis):
             run(tp, '\U0001F1F9\U0001F1F7 Turkiye: ', bold=True, size=10)
             run(tp, tt, italic=True, color=GRAY, size=10)
 
+        # Bana Gore detay
+        if isinstance(for_me, dict) and for_me.get('verdict'):
+            fmp = doc.add_paragraph()
+            run(fmp, f'{fm_emoji} Bana Gore: ', bold=True, size=10)
+            run(fmp, for_me['verdict'], italic=True, size=10)
+            # Skor detaylari
+            sd_text = f" [Solo:{for_me.get('solo_dev', '?')} Butce:{for_me.get('low_budget', '?')} TR:{for_me.get('turkey_market', '?')}]"
+            run(fmp, sd_text, color=GRAY_LIGHT, size=8)
+
         ts = trend.get('sources', [])
         if ts:
             srcp = doc.add_paragraph()
@@ -737,11 +844,18 @@ def create_docx_report(analysis):
     if opp:
         on = opp.get('name', opp.get('idea', ''))
         ol = opp.get('one_liner', '')
+        opp_for_me = opp.get('for_me', {})
+        opp_total = opp_for_me.get('total', 0) if isinstance(opp_for_me, dict) else 0
         if on:
             onp = doc.add_paragraph()
             run(onp, on, bold=True, color=BLUE_DARK, size=14)
             if ol:
                 run(onp, f' \u2014 {ol}', italic=True, color=GRAY, size=11)
+            # Bana Gore badge for opportunity
+            fm_emoji, fm_text, fm_color = _for_me_badge(opp_total)
+            run(onp, f'  {fm_emoji} {fm_text} ({opp_total}/9)', bold=True, color=RGBColor(
+                int(fm_color[0:2], 16), int(fm_color[2:4], 16), int(fm_color[4:6], 16)
+            ), size=10)
 
         ot = doc.add_table(rows=6, cols=2)
         ot.style = 'Light Grid Accent 1'
@@ -832,15 +946,15 @@ def create_docx_report(analysis):
     h('\U0001F517 KAYNAKLAR', level=1)
     links = analysis.get('sources', analysis.get('source_links', []))
     for i, link in enumerate(links, 1):
-        lp = doc.add_paragraph()
-        run(lp, f'{i}. {link}', color=BLUE_MED, size=9)
+        lp3 = doc.add_paragraph()
+        run(lp3, f'{i}. {link}', color=BLUE_MED, size=9)
 
     # Footer
     doc.add_paragraph()
     sep()
     ft = doc.add_paragraph()
     ft.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    run(ft, f'TrendPulse v3.0 by Zelimkhan Automation | 9 kaynak, capraz skorlama, tarihsel karsilastirma | {TODAY}', color=GRAY_LIGHT, size=8)
+    run(ft, f'TrendPulse v4.0 by Zelimkhan Automation | 9 kaynak | capraz skorlama | yasam dongusu | bana gore filtresi | {TODAY}', color=GRAY_LIGHT, size=8)
 
     filename = f'TrendPulse_{TODAY}.docx'
     doc.save(filename)
@@ -849,11 +963,11 @@ def create_docx_report(analysis):
 
 
 # ============================================================
-# TELEGRAM GONDERIM
+# TELEGRAM GONDERIM — v4.0
 # ============================================================
 
-def send_report(analysis, docx_path):
-    """Raporu Telegram'a gonder"""
+def send_report(analysis, docx_path, lifecycle_summary):
+    """Raporu Telegram'a gonder — v4.0"""
     print("\nTelegram'a gonderiliyor...")
 
     headline = analysis.get('headline', analysis.get('daily_headline', ''))
@@ -873,16 +987,29 @@ def send_report(analysis, docx_path):
     for i, t in enumerate(analysis.get('top_trends', [])[:5], 1):
         emoji = t.get('emoji', '')
         title = t.get('title', '')
-        new_badge = ' \U0001F195' if t.get('is_new', True) else ''
+        lifecycle = t.get('lifecycle', 'new')
+        for_me = t.get('for_me', {})
+        for_me_total = for_me.get('total', 0) if isinstance(for_me, dict) else 0
+
+        # Lifecycle emoji
+        lc_map = {'new': '\U0001F195', 'rising': '\U0001F4C8', 'peak': '\U0001F525', 'declining': '\U0001F4C9'}
+        lc_emoji = lc_map.get(lifecycle, '')
+
+        # Bana Gore emoji
+        fm_emoji, _, _ = _for_me_badge(for_me_total)
+
         sc = t.get('source_count', 1)
         multi = f' [{sc}x]' if sc > 1 else ''
-        trends_text += f"\n{i}. {emoji} {title}{new_badge}{multi}"
+        trends_text += f"\n{i}. {emoji} {title} {lc_emoji}{multi} {fm_emoji}{for_me_total}/9"
 
     opp = analysis.get('opportunity', analysis.get('opportunity_radar', {}))
     opp_name = opp.get('name', opp.get('idea', ''))
     opp_one = opp.get('one_liner', '')
     opp_mvp = opp.get('mvp_weeks', opp.get('mvp_time', ''))
     opp_cost = opp.get('mvp_cost', '')
+    opp_for_me = opp.get('for_me', {})
+    opp_total = opp_for_me.get('total', 0) if isinstance(opp_for_me, dict) else 0
+    opp_fm_emoji, _, _ = _for_me_badge(opp_total)
 
     ai = analysis.get('ai_tool', analysis.get('ai_spotlight', {}))
     ai_name = ai.get('name', ai.get('title', ''))
@@ -890,7 +1017,17 @@ def send_report(analysis, docx_path):
 
     dq = analysis.get('data_quality', {})
 
-    message = f"""\U0001F4C8 *TrendPulse v3.0* \u2014 {TODAY}
+    # Lifecycle ozet
+    lc_text = ""
+    if lifecycle_summary:
+        lc_text = (
+            f"\n\U0001F195 {lifecycle_summary.get('new', 0)} yeni | "
+            f"\U0001F4C8 {lifecycle_summary.get('rising', 0)} yukseliyor | "
+            f"\U0001F525 {lifecycle_summary.get('peak', 0)} zirvede | "
+            f"\U0001F4C9 {lifecycle_summary.get('declining', 0)} dusuyor"
+        )
+
+    message = f"""\U0001F4C8 *TrendPulse v4.0* \u2014 {TODAY}
 
 \U0001F5DE *{headline}*
 
@@ -899,27 +1036,27 @@ def send_report(analysis, docx_path):
 \U0001F525 *Top 5:*{trends_text}
 
 \U0001F4A1 *Firsat:* {opp_name} \u2014 {opp_one}
-\u23F1 MVP: {opp_mvp} | \U0001F4B0 {opp_cost}
+\u23F1 MVP: {opp_mvp} | \U0001F4B0 {opp_cost} | {opp_fm_emoji} {opp_total}/9
 
 \U0001F916 *Bugun dene:* {ai_name} \u2192 {ai_use}
 
-\U0001F4CA _{dq.get('total_items', '?')} veri | 9 kaynak | {dq.get('cross_source_topics', '?')} capraz konu_
+\U0001F4CA _{dq.get('total_items', '?')} veri | 9 kaynak | {dq.get('cross_source_topics', '?')} capraz konu_{lc_text}
 
 _Detayli rapor_ \u2B07\uFE0F"""
 
     send_telegram(message)
-    send_document(docx_path, caption=f"TrendPulse v3.0 - {TODAY}")
+    send_document(docx_path, caption=f"TrendPulse v4.0 - {TODAY}")
     print("  -> Telegram gonderimi tamamlandi")
 
 
 # ============================================================
-# MAIN
+# MAIN — v4.0
 # ============================================================
 
 def main():
     print(f"{'='*50}")
-    print(f"  TrendPulse v3.0 - Kisisel Girisim Danismani")
-    print(f"  {TODAY} | 9 kaynak | capraz skorlama")
+    print(f"  TrendPulse v4.0 - Kisisel Girisim Danismani")
+    print(f"  {TODAY} | 9 kaynak | capraz skorlama | yasam dongusu | bana gore")
     print(f"{'='*50}\n")
 
     # 1. Veri topla (9 kaynak)
@@ -958,8 +1095,19 @@ def main():
     print(f"  Yeni bugun: {history_comparison['new_count']}")
     print(f"  Devam eden: {history_comparison['continuing_count']}")
 
-    # 4. Claude ile analiz
-    analysis = analyze_trends(sources, cross_scores, history_comparison)
+    # 4. Trend hafizasini guncelle ve yasam dongusu analizi (v4.0 yeni)
+    print("\nTrend hafizasi guncelleniyor...")
+    memory = save_today(sources, TODAY)
+    lifecycle_summary = get_lifecycle_summary(memory)
+    print(f"  Yasam dongusu:")
+    print(f"  \U0001F195 Yeni: {lifecycle_summary.get('new', 0)}")
+    print(f"  \U0001F4C8 Yukseliyor: {lifecycle_summary.get('rising', 0)}")
+    print(f"  \U0001F525 Zirvede: {lifecycle_summary.get('peak', 0)}")
+    print(f"  \U0001F4C9 Dusuyor: {lifecycle_summary.get('declining', 0)}")
+    print(f"  Toplam takip: {lifecycle_summary.get('total_tracked', 0)}")
+
+    # 5. Claude ile analiz (lifecycle ve bana gore bilgisi dahil)
+    analysis = analyze_trends(sources, cross_scores, history_comparison, lifecycle_summary)
 
     # Veri kalitesi bilgisi ekle
     if 'data_quality' not in analysis or not isinstance(analysis.get('data_quality'), dict):
@@ -972,21 +1120,21 @@ def main():
         'new_today': history_comparison['new_count']
     })
 
-    # 5. DOCX rapor olustur
-    docx_path = create_docx_report(analysis)
+    # 6. DOCX rapor olustur (lifecycle bilgisi dahil)
+    docx_path = create_docx_report(analysis, lifecycle_summary)
 
-    # 6. Telegram'a gonder
-    send_report(analysis, docx_path)
+    # 7. Telegram'a gonder (lifecycle bilgisi dahil)
+    send_report(analysis, docx_path, lifecycle_summary)
 
-    # 7. Tarihceyi kaydet
+    # 8. Tarihceyi kaydet
     save_history(history_comparison.get('today_titles', []))
 
-    # 8. Temizlik
+    # 9. Temizlik
     if os.path.exists(docx_path):
         os.remove(docx_path)
 
     print(f"\n{'='*50}")
-    print("  TrendPulse v3.0 tamamlandi!")
+    print("  TrendPulse v4.0 tamamlandi!")
     print(f"{'='*50}")
 
 

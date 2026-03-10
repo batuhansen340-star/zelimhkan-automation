@@ -502,12 +502,14 @@
   },
   "thinking line": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-03-10",
     "seen_dates": [
-      "2026-03-09"
+      "2026-03-09",
+      "2026-03-10"
     ],
     "sources": [
-      "product_hunt"
+      "product_hunt",
+      "techcrunch"
     ],
     "peak_score": 0,
     "keywords": [
@@ -540,7 +542,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 17709,
+    "peak_score": 21157,
     "keywords": [
       "karpathy/autoresearch"
     ]
@@ -569,7 +571,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1633,
+    "peak_score": 1710,
     "keywords": [
       "twostraws/swiftui-agent-skill"
     ]
@@ -584,7 +586,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1447,
+    "peak_score": 1506,
     "keywords": [
       "duoan/torchcode"
     ]
@@ -599,7 +601,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1243,
+    "peak_score": 1314,
     "keywords": [
       "cyxzdev/uncodixfy"
     ]
@@ -614,7 +616,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1294,
+    "peak_score": 1355,
     "keywords": [
       "viperrcrypto/siftly"
     ]
@@ -629,7 +631,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 737,
+    "peak_score": 748,
     "keywords": [
       "tanishqkumar/ssd"
     ]
@@ -644,7 +646,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 780,
+    "peak_score": 820,
     "keywords": [
       "op7418/claude-to-im-skill"
     ]
@@ -659,7 +661,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 736,
+    "peak_score": 766,
     "keywords": [
       "flowseal/tg-ws-proxy"
     ]
@@ -674,7 +676,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 653,
+    "peak_score": 675,
     "keywords": [
       "hicode002/qualcomm_gbl_exploit_poc"
     ]
@@ -689,7 +691,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1131,
+    "peak_score": 1317,
     "keywords": [
       "bigbodycobain/shadowbroker"
     ]
@@ -1249,13 +1251,15 @@
   },
   "claude code now lets you code from your phone. here's what i learned the hard way.": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-03-10",
     "seen_dates": [
-      "2026-03-09"
+      "2026-03-09",
+      "2026-03-10"
     ],
     "sources": [
       "devto",
-      "lobsters"
+      "lobsters",
+      "product_hunt"
     ],
     "peak_score": 76,
     "keywords": [
@@ -1618,9 +1622,10 @@
   },
   "abd savunma bakanlığı, anthropic’i tedarik zinciri riski olarak sınıflandırdı": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-03-10",
     "seen_dates": [
-      "2026-03-09"
+      "2026-03-09",
+      "2026-03-10"
     ],
     "sources": [
       "webrazzi"
@@ -1806,12 +1811,14 @@
   },
   "hierarchical industrial demand forecasting with temporal and uncertainty explanations": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-03-10",
     "seen_dates": [
-      "2026-03-09"
+      "2026-03-09",
+      "2026-03-10"
     ],
     "sources": [
-      "arxiv"
+      "arxiv",
+      "product_hunt"
     ],
     "peak_score": 0,
     "keywords": [
@@ -2247,7 +2254,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1320,
+    "peak_score": 2140,
     "keywords": [
       "hkuds/cli-anything"
     ]
@@ -2262,7 +2269,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1167,
+    "peak_score": 1366,
     "keywords": [
       "jackwener/twitter-cli"
     ]
@@ -2277,7 +2284,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 710,
+    "peak_score": 875,
     "keywords": [
       "freedomintelligence/openclaw-medical-skills"
     ]
@@ -2628,12 +2635,14 @@
   },
   "i built an open-source tool that lets ai agents hire real humans to test your product": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-03-10",
     "seen_dates": [
-      "2026-03-09"
+      "2026-03-09",
+      "2026-03-10"
     ],
     "sources": [
-      "devto"
+      "devto",
+      "product_hunt"
     ],
     "peak_score": 7,
     "keywords": [
@@ -2661,7 +2670,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 37,
+    "peak_score": 52,
     "keywords": [
       "2026",
       "rails",
@@ -2718,7 +2727,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 49,
+    "peak_score": 61,
     "keywords": [
       "plausible",
       "code",
@@ -2825,12 +2834,14 @@
   },
   "what are you doing this week?": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-03-10",
     "seen_dates": [
-      "2026-03-09"
+      "2026-03-09",
+      "2026-03-10"
     ],
     "sources": [
-      "lobsters"
+      "lobsters",
+      "devto"
     ],
     "peak_score": 5,
     "keywords": [
@@ -3081,7 +3092,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 131,
+    "peak_score": 324,
     "keywords": [
       "packages,",
       "years",
@@ -3170,7 +3181,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 55,
+    "peak_score": 388,
     "keywords": [
       "claude",
       "code",
@@ -3474,7 +3485,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 628,
+    "peak_score": 689,
     "keywords": [
       "imbue-bit/openclaw-pwnkit"
     ]
@@ -3719,7 +3730,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 90,
+    "peak_score": 114,
     "keywords": [
       "github",
       "congrats",
@@ -3753,9 +3764,10 @@
       "2026-03-10"
     ],
     "sources": [
-      "devto"
+      "devto",
+      "lobsters"
     ],
-    "peak_score": 11,
+    "peak_score": 30,
     "keywords": [
       "brand",
       "tired",
@@ -3778,7 +3790,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 17,
+    "peak_score": 31,
     "keywords": [
       "path?",
       "that",
@@ -3796,7 +3808,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 0,
+    "peak_score": 2,
     "keywords": [
       "with",
       "your",
@@ -3864,7 +3876,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 5,
+    "peak_score": 9,
     "keywords": [
       "merged",
       "(beginner",
@@ -3932,7 +3944,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 100,
+    "peak_score": 157,
     "keywords": [
       "ghostty",
       "1.3.0"
@@ -4016,7 +4028,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 5,
+    "peak_score": 48,
     "keywords": [
       "illegible"
     ]
@@ -4238,6 +4250,1237 @@
       "momentum",
       "marginal",
       "estimation"
+    ]
+  },
+  "tony hoare has died": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "hacker_news",
+      "lobsters"
+    ],
+    "peak_score": 493,
+    "keywords": [
+      "hoare",
+      "tony",
+      "died"
+    ]
+  },
+  "debian decides not to decide on ai-generated contributions": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 90,
+    "keywords": [
+      "ai-generated",
+      "decide",
+      "contributions",
+      "debian",
+      "decides"
+    ]
+  },
+  "intel demos chip to compute with encrypted data": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 130,
+    "keywords": [
+      "intel",
+      "chip",
+      "data",
+      "demos",
+      "with",
+      "encrypted",
+      "compute"
+    ]
+  },
+  "i put my whole life into a single database": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 311,
+    "keywords": [
+      "life",
+      "single",
+      "database",
+      "into",
+      "whole"
+    ]
+  },
+  "rebasing in magit": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "hacker_news",
+      "lobsters"
+    ],
+    "peak_score": 115,
+    "keywords": [
+      "magit",
+      "rebasing"
+    ]
+  },
+  "show hn: how i topped the huggingface open llm leaderboard on two gaming gpus": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 76,
+    "keywords": [
+      "open",
+      "gpus",
+      "show",
+      "gaming",
+      "topped",
+      "huggingface",
+      "leaderboard"
+    ]
+  },
+  "online age-verification tools for child safety are surveilling adults": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 266,
+    "keywords": [
+      "age-verification",
+      "safety",
+      "tools",
+      "adults",
+      "online",
+      "child",
+      "surveilling"
+    ]
+  },
+  "meta acquires moltbook": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 109,
+    "keywords": [
+      "meta",
+      "moltbook",
+      "acquires"
+    ]
+  },
+  "the gervais principle, or the office according to \"the office\" (2009)": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 205,
+    "keywords": [
+      "(2009)",
+      "principle,",
+      "gervais",
+      "according",
+      "office",
+      "office\"",
+      "\"the"
+    ]
+  },
+  "amazon is holding a mandatory meeting about ai breaking its systems": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 150,
+    "keywords": [
+      "breaking",
+      "holding",
+      "about",
+      "systems",
+      "mandatory",
+      "meeting",
+      "amazon"
+    ]
+  },
+  "yann lecun's ai startup raises $1b in europe's largest ever seed round": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 342,
+    "keywords": [
+      "raises",
+      "lecun's",
+      "largest",
+      "startup",
+      "ever",
+      "round",
+      "yann",
+      "europe's",
+      "seed"
+    ]
+  },
+  "pgadmin 4 9.13 with ai assistant panel": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 52,
+    "keywords": [
+      "9.13",
+      "panel",
+      "pgadmin",
+      "with",
+      "assistant"
+    ]
+  },
+  "practical guide to bare metal c++": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 83,
+    "keywords": [
+      "guide",
+      "bare",
+      "practical",
+      "metal"
+    ]
+  },
+  "loger – 3d reconstruction from extremely long videos (deepmind, uc berkeley)": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 114,
+    "keywords": [
+      "videos",
+      "reconstruction",
+      "berkeley)",
+      "from",
+      "loger",
+      "extremely",
+      "long",
+      "(deepmind,"
+    ]
+  },
+  "lotus 1-2-3 on the pc with dos": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 158,
+    "keywords": [
+      "lotus",
+      "with",
+      "1-2-3"
+    ]
+  },
+  "tcxo failure analysis": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "hacker_news",
+      "lobsters"
+    ],
+    "peak_score": 84,
+    "keywords": [
+      "failure",
+      "tcxo",
+      "analysis"
+    ]
+  },
+  "traffic from russia to cloudflare is 60% down from last year": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 79,
+    "keywords": [
+      "year",
+      "last",
+      "from",
+      "cloudflare",
+      "russia",
+      "traffic",
+      "down"
+    ]
+  },
+  "redox os has adopted a certificate of origin policy and a strict no-llm policy": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "hacker_news",
+      "lobsters"
+    ],
+    "peak_score": 288,
+    "keywords": [
+      "certificate",
+      "origin",
+      "policy",
+      "adopted",
+      "redox",
+      "no-llm",
+      "strict"
+    ]
+  },
+  "rfc 454545 – human em dash standard": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 70,
+    "keywords": [
+      "human",
+      "454545",
+      "dash",
+      "standard"
+    ]
+  },
+  "sonarly": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "sonarly"
+    ]
+  },
+  "supersend 3.0": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "supersend"
+    ]
+  },
+  "brutal reader": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "brutal",
+      "reader"
+    ]
+  },
+  "your next store": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "next",
+      "your",
+      "store"
+    ]
+  },
+  "spine swarm": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "spine",
+      "swarm"
+    ]
+  },
+  "sitefire.ai": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "sitefire.ai"
+    ]
+  },
+  "contentdrips design agent": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "agent",
+      "design",
+      "contentdrips"
+    ]
+  },
+  "karpathy/agenthub": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 1561,
+    "keywords": [
+      "karpathy/agenthub"
+    ]
+  },
+  "‘pokémon pokopia’ is even better than ‘animal crossing: new horizons’": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "‘pokémon",
+      "horizons’",
+      "than",
+      "better",
+      "crossing:",
+      "pokopia’",
+      "even",
+      "‘animal"
+    ]
+  },
+  "agentmail raises $6m to build an email service for ai agents": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "raises",
+      "email",
+      "build",
+      "agentmail",
+      "service",
+      "agents"
+    ]
+  },
+  "google gives in to users’ complaints over ai-powered ‘ask photos’ search feature": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "photos’",
+      "search",
+      "users’",
+      "gives",
+      "‘ask",
+      "google",
+      "over",
+      "complaints",
+      "ai-powered",
+      "feature"
+    ]
+  },
+  "legora reaches $5.55 billion valuation as ai legal tech boom endures": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "tech",
+      "legal",
+      "reaches",
+      "valuation",
+      "endures",
+      "boom",
+      "$5.55",
+      "billion",
+      "legora"
+    ]
+  },
+  "meta acquired moltbook, the ai agent social network that went viral because of fake posts": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "viral",
+      "that",
+      "posts",
+      "fake",
+      "moltbook,",
+      "went",
+      "meta",
+      "agent",
+      "social",
+      "network",
+      "acquired",
+      "because"
+    ]
+  },
+  "youtube expands ai deepfake detection to politicians, government officials, and journalists": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "expands",
+      "politicians,",
+      "youtube",
+      "government",
+      "detection",
+      "deepfake",
+      "officials,",
+      "journalists"
+    ]
+  },
+  "adobe is debuting an ai assistant for photoshop": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "debuting",
+      "adobe",
+      "assistant",
+      "photoshop"
+    ]
+  },
+  "zoom introduces an ai-powered office suite, says ai avatars for meetings arrive this month": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "avatars",
+      "says",
+      "office",
+      "suite,",
+      "zoom",
+      "introduces",
+      "ai-powered",
+      "arrive",
+      "this",
+      "month",
+      "meetings"
+    ]
+  },
+  "google rolls out new gemini capabilities to docs, sheets, slides, and drive": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "slides,",
+      "rolls",
+      "drive",
+      "google",
+      "capabilities",
+      "gemini",
+      "sheets,",
+      "docs,"
+    ]
+  },
+  "hyperscale power is the latest startup to challenge 140-year-old transformer tech": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "tech",
+      "power",
+      "latest",
+      "hyperscale",
+      "challenge",
+      "startup",
+      "140-year-old",
+      "transformer"
+    ]
+  },
+  "this spacex veteran says the next big thing in space is satellites that return to earth": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "spacex",
+      "says",
+      "space",
+      "that",
+      "veteran",
+      "earth",
+      "next",
+      "thing",
+      "satellites",
+      "this",
+      "return"
+    ]
+  },
+  "sandbar secures $23m series a for its ai note-taking ring": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "ring",
+      "sandbar",
+      "series",
+      "secures",
+      "note-taking",
+      "$23m"
+    ]
+  },
+  "ai network startup eridu emerges from stealth with hefty $200m series a": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "$200m",
+      "startup",
+      "series",
+      "from",
+      "with",
+      "eridu",
+      "emerges",
+      "network",
+      "hefty",
+      "stealth"
+    ]
+  },
+  "whoop launches a new blood test focused on women’s health": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "test",
+      "focused",
+      "health",
+      "whoop",
+      "launches",
+      "women’s",
+      "blood"
+    ]
+  },
+  "the enablers who helped me code forward": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 21,
+    "keywords": [
+      "code",
+      "enablers",
+      "helped",
+      "forward"
+    ]
+  },
+  "gemini 2.5 flash vs claude 3.7 sonnet: 4 production constraints that made the decision for me": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 19,
+    "keywords": [
+      "decision",
+      "made",
+      "that",
+      "flash",
+      "production",
+      "claude",
+      "constraints",
+      "sonnet:",
+      "gemini"
+    ]
+  },
+  "notion-flows: your notion pages are your automation code": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "pages",
+      "automation",
+      "notion",
+      "your",
+      "code",
+      "notion-flows:"
+    ]
+  },
+  "dumbquestion.ai - self-awareness, prompt injection, search intent... and darkness": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 1,
+    "keywords": [
+      "search",
+      "injection,",
+      "self-awareness,",
+      "dumbquestion.ai",
+      "darkness",
+      "intent...",
+      "prompt"
+    ]
+  },
+  "ordered retries in kafka: why the retry topic is breaking downstream": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "breaking",
+      "kafka:",
+      "retry",
+      "downstream",
+      "topic",
+      "retries",
+      "ordered"
+    ]
+  },
+  "flash loans explained: zero-collateral defi in one transaction": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 2,
+    "keywords": [
+      "explained:",
+      "loans",
+      "flash",
+      "transaction",
+      "defi",
+      "zero-collateral"
+    ]
+  },
+  "top 7 featured dev posts of the week": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 9,
+    "keywords": [
+      "featured",
+      "week",
+      "posts"
+    ]
+  },
+  "tls certificates are about to expire way more often. here's how i'm handling it.": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 7,
+    "keywords": [
+      "expire",
+      "certificates",
+      "handling",
+      "about",
+      "often.",
+      "more",
+      "here's"
+    ]
+  },
+  "stop shipping broken env config": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 4,
+    "keywords": [
+      "shipping",
+      "broken",
+      "stop",
+      "config"
+    ]
+  },
+  "evi, a hard-fork of vim": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 46,
+    "keywords": [
+      "evi,",
+      "hard-fork"
+    ]
+  },
+  "dependency tracking is hard": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 24,
+    "keywords": [
+      "hard",
+      "dependency",
+      "tracking"
+    ]
+  },
+  "nominal types in webassembly": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 15,
+    "keywords": [
+      "nominal",
+      "types",
+      "webassembly"
+    ]
+  },
+  "madblog: turn a markdown folder into a federated blog": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 8,
+    "keywords": [
+      "folder",
+      "federated",
+      "markdown",
+      "turn",
+      "madblog:",
+      "blog",
+      "into"
+    ]
+  },
+  "amazon holds engineering meeting about genai based outages": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 5,
+    "keywords": [
+      "about",
+      "holds",
+      "engineering",
+      "based",
+      "genai",
+      "outages",
+      "meeting",
+      "amazon"
+    ]
+  },
+  "source-available projects and their ai contribution policies": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 3,
+    "keywords": [
+      "contribution",
+      "their",
+      "projects",
+      "source-available",
+      "policies"
+    ]
+  },
+  "apple’ın akıllı ev ekranı lansmanı, siri nedeniyle eylül ayına ertelendi": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "lansmanı,",
+      "ekranı",
+      "ertelendi",
+      "siri",
+      "ayına",
+      "eylül",
+      "apple’ın",
+      "akıllı",
+      "nedeniyle"
+    ]
+  },
+  "gemini'ın web sitesi yıllık bazda yaklaşık yüzde 643 büyüdü": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "gemini'ın",
+      "bazda",
+      "büyüdü",
+      "yaklaşık",
+      "sitesi",
+      "yüzde",
+      "yıllık"
+    ]
+  },
+  "yandex'ten türkiye'deki mobil oyun ve uygulamaların büyümesini kolaylaştıran asistan: yandex ads boost'un ai asistanı": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "asistan:",
+      "yandex'ten",
+      "türkiye'deki",
+      "kolaylaştıran",
+      "uygulamaların",
+      "büyümesini",
+      "yandex",
+      "asistanı",
+      "mobil",
+      "boost'un",
+      "oyun"
+    ]
+  },
+  "anthropic'ten claude code'a entegre edilmiş çoklu ajanlı kod inceleme sistemi: code review": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "inceleme",
+      "code'a",
+      "claude",
+      "entegre",
+      "çoklu",
+      "sistemi:",
+      "anthropic'ten",
+      "code",
+      "edilmiş",
+      "ajanlı",
+      "review"
+    ]
+  },
+  "openai, yapay zeka ajanlarını güvence altına almak için promptfoo girişimini satın alıyor": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "altına",
+      "ajanlarını",
+      "promptfoo",
+      "satın",
+      "zeka",
+      "yapay",
+      "almak",
+      "güvence",
+      "için",
+      "girişimini",
+      "alıyor",
+      "openai,"
+    ]
+  },
+  "abonelik tipi e-ticareti kolaylaştıran startsub, luvu'dan yatırım aldı": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "aldı",
+      "tipi",
+      "luvu'dan",
+      "yatırım",
+      "kolaylaştıran",
+      "e-ticareti",
+      "abonelik",
+      "startsub,"
+    ]
+  },
+  "yapay zeka pazarlama aracı pomelli, türkiye de dahil olmak üzere 170'den fazla ülkede kullanıma sunuldu": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "pazarlama",
+      "fazla",
+      "olmak",
+      "aracı",
+      "kullanıma",
+      "zeka",
+      "yapay",
+      "170'den",
+      "sunuldu",
+      "dahil",
+      "türkiye",
+      "ülkede",
+      "pomelli,",
+      "üzere"
+    ]
+  },
+  "x’ten grok’a yeni sınırlama: görsellerin değiştirilmesi engellenebilecek": {
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "seen_dates": [
+      "2026-03-10"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "grok’a",
+      "engellenebilecek",
+      "x’ten",
+      "sınırlama:",
+      "görsellerin",
+      "yeni",
+      "değiştirilmesi"
     ]
   }
 }

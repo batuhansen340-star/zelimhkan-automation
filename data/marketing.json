@@ -239,5 +239,35 @@
         }
       ]
     }
+  },
+  {
+    "date": "2026-03-11T05:54:34.286311",
+    "content": {
+      "contents": [
+        {
+          "platform": "twitter",
+          "type": "thread",
+          "content": "Tweet 1: Çarşamba sendromu mu? 🤔 Akşam enerjiniz kalmadığında çocuğunuzla kaliteli vakit geçirmenin en kolay yolu: StoryPal ile birlikte hikaye yaratmak! ✨\n\nTweet 2: Sadece 5 dakikada çocuğunuzun ismini, sevdiği hayvanı veya hobisini girin. AI, onu hikayenin baş kahramanı yapıyor. Göz kamaştıran görseller de cabası! 🎨📚\n\nTweet 3: Haftanın ortasında bile keyifli bir uyku rutini oluşturun. Üstelik ilk 3 hikaye bedava! Hemen App Store'dan indirin, bugünün hikayesini birlikte yazın. 💜\n\nTweet 4: StoryPal ile her gece yeni bir macera! App Store'da bizi bulun. #YatmazıHikayesi #AileVakti",
+          "hashtags": [
+            "#StoryPal",
+            "#ÇocukHikayeleri",
+            "#YatmazıHikayesi",
+            "#AileVakti",
+            "#EbeveynlikTüyoları"
+          ]
+        },
+        {
+          "platform": "instagram",
+          "type": "caption",
+          "content": "\"Anne bir hikaye daha!\" 📖✨\n\nBiliyoruz, haftanın ortası en yorucu günlerden biri. Ama çocuğunuzun hayal gücü hiç yorulmuyor! 💫\n\nStoryPal ile çarşamba akşamları artık daha eğlenceli:\n🌟 Çocuğunuz kendi hikayesinin kahramanı\n🎨 AI tarafından özel tasarlanmış görseller\n⚡ 2 dakikada hazır, sınırsız hayal gücü\n📱 İster telefondan okuyun, ister PDF olarak yazdırın\n\nİlk 3 hikaye tamamen ücretsiz! Hadi bugün hangi maceraya yelken açıyoruz? 🚀\n\nApp Store'dan hemen indirin, yorgunluğu hikayeyle dağıtın! Link bio'da 💜\n\n#StoryPal #KişiselleştirilmişHikaye #ÇocukHikayeleri #EbeveynlikTüyoları #AileZamanı #YatmazıHikayesi #ÇocukGelişimi #HayalGücü #AnneBaba #TeknolojiAnnelik",
+          "visual_idea": "Kanepede anne ve çocuğun tablet ekranına birlikte baktığı, ekranda StoryPal uygulamasının göründüğü sıcak, akşam ışığında çekilmiş aile fotoğrafı. Çocuğun heyecanlı yüz ifadesi ve annenin gülümseyen profilden görünümü. Arka planda hafif bulanık, rahat ev ortamı."
+        },
+        {
+          "platform": "blog",
+          "type": "outline",
+          "content": "Başlık: Çocuğunuzun Yaratıcı Düşünme Becerisini Geliştirmenin 5 Eğlenceli Yolu\n\n1. Neden yaratıcılık 21. yüzyıl becerileri arasında en önemlilerinden? - Araştırmalar ve uzman görüşleri - Yaratıcı düşünmenin akademik başarı ve problem çözme ile ilişkisi - StoryPal gibi interaktif hikayelerin çocuğun hayal gücüne katkısı\n\n2. Günlük rutinlere yaratıcılık katmanın pratik yöntemleri - Hikaye anlatımı ve rol yapma oyunları - Sanat ve müzik aktiviteleri - Kişiselleştirilmiş içeriklerin çocuğun kendini ifade etmesine etkisi\n\n3. Teknoloji ve yaratıcılık bir arada olabilir mi? - Ekran süresini kaliteli içeriğe dönüştürme - AI destekli eğitici uygulamaların faydaları - Ebeveyn-çocuk birlikte kullanım önerileri ve StoryPal'ın bu süreçteki rolü - CTA: Ücretsiz deneme ile başlayın, çocuğunuzun yaratıcılığını keşfedin!"
+        }
+      ]
+    }
   }
 ]

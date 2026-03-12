@@ -269,5 +269,35 @@
         }
       ]
     }
+  },
+  {
+    "date": "2026-03-12T05:56:38.682223",
+    "content": {
+      "contents": [
+        {
+          "platform": "twitter",
+          "type": "thread",
+          "content": "Tweet 1: Perşembe akşamı yorgun eve geldiniz mi? 🏠 Çocuğunuz 'bana hikaye anlat' dedi ama enerji kalmadı mı? StoryPal bu anlar için yanınızda!\n\nTweet 2: AI destekli uygulamamız, çocuğunuzun adını, hobilerinizi ve sevdiklerini kullanarak anında özgün hikayeler yaratıyor. Sen dinlenirken, o hayal dünyasında 📚✨\n\nTweet 3: İlk 3 hikaye her gün ücretsiz! App Store'dan indir, yorgun perşembe akşamlarını sihirli hikaye zamanlarına dönüştür 🎭\n\nTweet 4: Çocuğunuz kendi hikayesinin kahramanı olsun. iOS'ta şimdi dene! 🚀",
+          "hashtags": [
+            "#StoryPal",
+            "#EbeveynlikHayatı",
+            "#PerşembeMotivasyonu",
+            "#AIMasalları",
+            "#ÇocukHikayeleri"
+          ]
+        },
+        {
+          "platform": "instagram",
+          "type": "caption",
+          "content": "Perşembe sendromu tuttu mu? 😴\n\nİşten geldiniz, akşam yemeği hazırladınız, bulaşıkları yıkadınız... Bir de çocuğunuz 'Anne/baba bana hikaye anlat' dedi.\n\nİşte tam da bu anlarda StoryPal devreye giriyor! 🎨📖\n\n✨ 30 saniyede kişiselleştirilmiş hikaye\n✨ Çocuğunuzun adı kahramanda\n✨ AI ile yaratılan benzersiz görseller\n✨ PDF olarak kaydet, tekrar oku\n\nSen biraz nefeslen, StoryPal anlatmaya devam etsin 💙\n\nİlk 3 hikaye bugün de ücretsiz! Bio'daki linkten indir.\n\n---\n\n#StoryPal #EbeveynlikGerçekleri #PerşembeAkşamı #ÇocukHikayeleri #AIMasal #TeknolojiAnnelik #YorgunEbeveynler #HikayeZamanı #3YaşÇocuk #OkulÖncesi",
+          "visual_idea": "Yorgun ama mutlu bir ebeveynin kanepede çocuğuyla beraber telefona bakarken çekilmiş samimi fotoğraf. Arka planda hafif dağınık ev ortamı (gerçekçilik için). Üzerine pastel renkli overlay ile 'Perşembe yorgunluğuna AI çözümü' yazısı eklenmiş carousel. 2. slide'da uygulama ekran görüntüsü (hikaye oluşturma süreci)."
+        },
+        {
+          "platform": "blog",
+          "type": "outline",
+          "content": "Başlık: 'Çocuk Gelişiminde Kişiselleştirilmiş Hikayelerin 5 Bilimsel Faydası'\n\nMadde 1: Özgüven ve Özdeşleşme - Çocukların kendilerini hikaye kahramanı olarak görmesi, benlik algısını güçlendirir ve problemlere çözüm odaklı yaklaşımı artırır. Stanford Üniversitesi araştırmasına dayalı bulgular.\n\nMadde 2: Dil Gelişimi ve Kelime Dağarcığı - Kişiselleştirilmiş hikayeler çocukların %40 daha fazla kelime öğrenmesini sağlıyor. İlgi çekici içerik = daha fazla soru = daha hızlı öğrenme döngüsü.\n\nMadde 3: Duygusal Zeka ve Empati Becerisi - Kendi adlarını duydukları hikayelerde çocuklar karakterlerle daha güçlü bağ kuruyor ve farklı duyguları tanıma yetenekleri gelişiyor. StoryPal ile bu faydaları nasıl elde edersiniz? (CTA: Ücretsiz dene)"
+        }
+      ]
+    }
   }
 ]

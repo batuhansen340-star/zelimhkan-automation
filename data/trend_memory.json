@@ -173,10 +173,11 @@
   },
   "why can't you tune your guitar? (2019)": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-12",
     "seen_dates": [
       "2026-03-09",
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-12"
     ],
     "sources": [
       "hacker_news",
@@ -267,9 +268,10 @@
   },
   "show hn: skir – like protocol buffer but better": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-03-12",
     "seen_dates": [
-      "2026-03-09"
+      "2026-03-09",
+      "2026-03-12"
     ],
     "sources": [
       "hacker_news"
@@ -433,12 +435,14 @@
   },
   "song sweeper": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-03-12",
     "seen_dates": [
-      "2026-03-09"
+      "2026-03-09",
+      "2026-03-12"
     ],
     "sources": [
-      "product_hunt"
+      "product_hunt",
+      "techcrunch"
     ],
     "peak_score": 0,
     "keywords": [
@@ -539,16 +543,17 @@
   },
   "karpathy/autoresearch": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-12",
     "seen_dates": [
       "2026-03-09",
       "2026-03-10",
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-12"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 25518,
+    "peak_score": 26700,
     "keywords": [
       "karpathy/autoresearch"
     ]
@@ -600,16 +605,17 @@
   },
   "cyxzdev/uncodixfy": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-12",
     "seen_dates": [
       "2026-03-09",
       "2026-03-10",
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-12"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 1400,
+    "peak_score": 1421,
     "keywords": [
       "cyxzdev/uncodixfy"
     ]
@@ -1262,11 +1268,12 @@
   },
   "claude code now lets you code from your phone. here's what i learned the hard way.": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-12",
     "seen_dates": [
       "2026-03-09",
       "2026-03-10",
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-12"
     ],
     "sources": [
       "devto",
@@ -1547,11 +1554,12 @@
   },
   "nöroteknoloji girişimi cognito therapeutics, 105 milyon dolar yatırım aldı": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-12",
     "seen_dates": [
       "2026-03-09",
       "2026-03-10",
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-12"
     ],
     "sources": [
       "webrazzi"
@@ -2261,16 +2269,17 @@
   },
   "hkuds/cli-anything": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-12",
     "seen_dates": [
       "2026-03-09",
       "2026-03-10",
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-12"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 4883,
+    "peak_score": 6127,
     "keywords": [
       "hkuds/cli-anything"
     ]
@@ -2293,16 +2302,17 @@
   },
   "freedomintelligence/openclaw-medical-skills": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-12",
     "seen_dates": [
       "2026-03-09",
       "2026-03-10",
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-12"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 989,
+    "peak_score": 1014,
     "keywords": [
       "freedomintelligence/openclaw-medical-skills"
     ]
@@ -3280,14 +3290,15 @@
   },
   "show hn: denchclaw – local crm on top of openclaw": {
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-10",
+    "last_seen": "2026-03-12",
     "seen_dates": [
-      "2026-03-10"
+      "2026-03-10",
+      "2026-03-12"
     ],
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 103,
+    "peak_score": 135,
     "keywords": [
       "show",
       "openclaw",
@@ -3498,10 +3509,11 @@
   },
   "imbue-bit/openclaw-pwnkit": {
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-12",
     "seen_dates": [
       "2026-03-10",
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-12"
     ],
     "sources": [
       "github"
@@ -4941,12 +4953,14 @@
   },
   "google rolls out new gemini capabilities to docs, sheets, slides, and drive": {
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-10",
+    "last_seen": "2026-03-12",
     "seen_dates": [
-      "2026-03-10"
+      "2026-03-10",
+      "2026-03-12"
     ],
     "sources": [
-      "techcrunch"
+      "techcrunch",
+      "product_hunt"
     ],
     "peak_score": 0,
     "keywords": [
@@ -5893,28 +5907,30 @@
   },
   "parthjadhav/app-store-screenshots": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-12",
     "seen_dates": [
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-12"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 1677,
+    "peak_score": 1901,
     "keywords": [
       "parthjadhav/app-store-screenshots"
     ]
   },
   "tanweai/pua": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-12",
     "seen_dates": [
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-12"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 2609,
+    "peak_score": 3599,
     "keywords": [
       "tanweai/pua"
     ]
@@ -5949,14 +5965,15 @@
   },
   "knowsuchagency/mcp2cli": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-12",
     "seen_dates": [
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-12"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 603,
+    "peak_score": 631,
     "keywords": [
       "knowsuchagency/mcp2cli"
     ]
@@ -6161,9 +6178,10 @@
   },
   "chatgpt can now create interactive visuals to help you understand math and science concepts": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-12",
     "seen_dates": [
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-12"
     ],
     "sources": [
       "techcrunch",
@@ -6265,9 +6283,10 @@
   },
   "i built a free, git-native memory layer for ai agents — here's why and how": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-12",
     "seen_dates": [
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-12"
     ],
     "sources": [
       "devto",
@@ -6585,14 +6604,15 @@
   },
   "temporal: a 9-year journey to fix time in javascript": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-12",
     "seen_dates": [
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-12"
     ],
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 79,
+    "peak_score": 584,
     "keywords": [
       "9-year",
       "time",
@@ -6603,14 +6623,15 @@
   },
   "entities enabling scientific fraud at scale are large, resilient, growing (2025)": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-12",
     "seen_dates": [
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-12"
     ],
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 146,
+    "peak_score": 272,
     "keywords": [
       "fraud",
       "growing",
@@ -6644,14 +6665,15 @@
   },
   "microsoft bitnet: 100b param 1-bit model for local cpus": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-12",
     "seen_dates": [
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-12"
     ],
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 174,
+    "peak_score": 322,
     "keywords": [
       "model",
       "microsoft",
@@ -6797,9 +6819,10 @@
   },
   "mindspase": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-12",
     "seen_dates": [
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-12"
     ],
     "sources": [
       "product_hunt"
@@ -6871,28 +6894,30 @@
   },
   "jackwener/xiaohongshu-cli": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-12",
     "seen_dates": [
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-12"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 618,
+    "peak_score": 702,
     "keywords": [
       "jackwener/xiaohongshu-cli"
     ]
   },
   "photon-hq/qclaw-wechat-client": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-12",
     "seen_dates": [
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-12"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 583,
+    "peak_score": 653,
     "keywords": [
       "photon-hq/qclaw-wechat-client"
     ]
@@ -7167,14 +7192,15 @@
   },
   "i built a free offline barcode & qr scanner for android — here's what i learned about offline-first flutter architecture": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-12",
     "seen_dates": [
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-12"
     ],
     "sources": [
       "devto"
     ],
-    "peak_score": 0,
+    "peak_score": 2,
     "keywords": [
       "learned",
       "scanner",
@@ -7193,14 +7219,15 @@
   },
   "open source minecraft server tools: why we built serverhub and what we learned": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-12",
     "seen_dates": [
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-12"
     ],
     "sources": [
       "devto"
     ],
-    "peak_score": 0,
+    "peak_score": 2,
     "keywords": [
       "learned",
       "open",
@@ -7232,14 +7259,15 @@
   },
   "why asking an llm for json isn’t enough": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-12",
     "seen_dates": [
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-12"
     ],
     "sources": [
       "devto"
     ],
-    "peak_score": 4,
+    "peak_score": 10,
     "keywords": [
       "json",
       "asking",
@@ -7454,9 +7482,10 @@
   },
   "menopoz sürecini yönetmeyi kolaylaştıran yerli uygulama: midrise": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-12",
     "seen_dates": [
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-12"
     ],
     "sources": [
       "webrazzi"
@@ -7474,9 +7503,10 @@
   },
   "8 yılda 15 milyon dolar yatırım alan volt lines’ın 2026 rotası: teknoloji ihracatı ve körfez pazarı [sponsorlu i̇çerik]": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-12",
     "seen_dates": [
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-12"
     ],
     "sources": [
       "webrazzi"
@@ -7502,9 +7532,10 @@
   },
   "youtube, 2025 yılı reklam gelirlerinde disney, paramount ve wbd'yi geride bıraktı": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-12",
     "seen_dates": [
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-12"
     ],
     "sources": [
       "webrazzi"
@@ -7525,9 +7556,10 @@
   },
   "wordle’ın yaratıcısından yeni bulmaca oyunu: parseword": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-12",
     "seen_dates": [
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-12"
     ],
     "sources": [
       "webrazzi"
@@ -7544,9 +7576,10 @@
   },
   "ai çağında sessiz liderlik: odağı netleştir, etkiyi büyüt": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-12",
     "seen_dates": [
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-12"
     ],
     "sources": [
       "webrazzi"
@@ -7564,9 +7597,10 @@
   },
   "google, pentagon'a gemini destekli yapay zeka ajanları sağlayacak": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-12",
     "seen_dates": [
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-12"
     ],
     "sources": [
       "webrazzi"
@@ -7585,9 +7619,10 @@
   },
   "amazon, sağlık sorularını yanıtlayan yapay zeka asistanını daha geniş kullanıcı kitlesine açtı": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-12",
     "seen_dates": [
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-12"
     ],
     "sources": [
       "webrazzi"
@@ -7610,9 +7645,10 @@
   },
   "paribu, merkeziyetsiz akıllı cüzdan clave'i bünyesine kattı": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-12",
     "seen_dates": [
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-12"
     ],
     "sources": [
       "webrazzi"
@@ -7630,9 +7666,10 @@
   },
   "mobilitenin geleceği dijital sağlık ve yapay zeka ile şekilleniyor [sponsorlu i̇çerik]": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-12",
     "seen_dates": [
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-12"
     ],
     "sources": [
       "webrazzi"
@@ -7648,6 +7685,1149 @@
       "şekilleniyor",
       "geleceği",
       "i̇çerik]"
+    ]
+  },
+  "show hn: s@: decentralized social networking over static sites": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 137,
+    "keywords": [
+      "show",
+      "networking",
+      "decentralized",
+      "social",
+      "sites",
+      "over",
+      "static"
+    ]
+  },
+  "tested: how many times can a dvd±rw be rewritten? methodology and results": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 90,
+    "keywords": [
+      "rewritten?",
+      "results",
+      "dvd±rw",
+      "methodology",
+      "times",
+      "many",
+      "tested:"
+    ]
+  },
+  "iran-backed hackers claim wiper attack on medtech firm stryker": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 68,
+    "keywords": [
+      "medtech",
+      "stryker",
+      "attack",
+      "firm",
+      "claim",
+      "iran-backed",
+      "hackers",
+      "wiper"
+    ]
+  },
+  "making webassembly a first-class language on the web": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 471,
+    "keywords": [
+      "making",
+      "webassembly",
+      "first-class",
+      "language"
+    ]
+  },
+  "many swe-bench-passing prs would not be merged": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 184,
+    "keywords": [
+      "many",
+      "swe-bench-passing",
+      "merged",
+      "would"
+    ]
+  },
+  "don't post generated/ai-edited comments. hn is for conversation between humans": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 3119,
+    "keywords": [
+      "conversation",
+      "generated/ai-edited",
+      "between",
+      "don't",
+      "post",
+      "comments.",
+      "humans"
+    ]
+  },
+  "i was interviewed by an ai bot for a job": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 214,
+    "keywords": [
+      "interviewed"
+    ]
+  },
+  "show hn: a context-aware permission guard for claude code": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 69,
+    "keywords": [
+      "permission",
+      "context-aware",
+      "code",
+      "show",
+      "guard",
+      "claude"
+    ]
+  },
+  "show hn: i built a tool that watches webpages and exposes changes as rss": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 207,
+    "keywords": [
+      "built",
+      "tool",
+      "show",
+      "exposes",
+      "webpages",
+      "changes",
+      "that",
+      "watches"
+    ]
+  },
+  "google closes deal to acquire wiz": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 255,
+    "keywords": [
+      "closes",
+      "acquire",
+      "google",
+      "deal"
+    ]
+  },
+  "the macbook neo": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 460,
+    "keywords": [
+      "macbook"
+    ]
+  },
+  "dhs contracts explorer – hacked data from the office of industry partnership": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 205,
+    "keywords": [
+      "contracts",
+      "hacked",
+      "data",
+      "industry",
+      "office",
+      "partnership",
+      "explorer",
+      "from"
+    ]
+  },
+  "5,200 holes carved into a peruvian mountain left by an ancient economy": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 113,
+    "keywords": [
+      "into",
+      "ancient",
+      "left",
+      "carved",
+      "economy",
+      "5,200",
+      "holes",
+      "mountain",
+      "peruvian"
+    ]
+  },
+  "britain is ejecting hereditary nobles from parliament after 700 years": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 218,
+    "keywords": [
+      "years",
+      "after",
+      "britain",
+      "hereditary",
+      "parliament",
+      "nobles",
+      "ejecting",
+      "from"
+    ]
+  },
+  "swiss e-voting pilot can't count 2,048 ballots after decryption failure": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 177,
+    "keywords": [
+      "can't",
+      "after",
+      "e-voting",
+      "ballots",
+      "count",
+      "failure",
+      "pilot",
+      "2,048",
+      "decryption",
+      "swiss"
+    ]
+  },
+  "against vibes: when is a generative model useful": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 64,
+    "keywords": [
+      "when",
+      "vibes:",
+      "model",
+      "useful",
+      "against",
+      "generative"
+    ]
+  },
+  "personal computer by perplexity": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 135,
+    "keywords": [
+      "personal",
+      "perplexity",
+      "computer"
+    ]
+  },
+  "citable": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "citable"
+    ]
+  },
+  "typinator 10": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "typinator"
+    ]
+  },
+  "elves": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "elves"
+    ]
+  },
+  "larksuite/openclaw-lark": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 594,
+    "keywords": [
+      "larksuite/openclaw-lark"
+    ]
+  },
+  "kaleighc793/freqtrade-bot": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 546,
+    "keywords": [
+      "kaleighc793/freqtrade-bot"
+    ]
+  },
+  "trevin-creator/autoresearch-mlx": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 544,
+    "keywords": [
+      "trevin-creator/autoresearch-mlx"
+    ]
+  },
+  "gsd-build/gsd-2": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 537,
+    "keywords": [
+      "gsd-build/gsd-2"
+    ]
+  },
+  "steipete/discrawl": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 497,
+    "keywords": [
+      "steipete/discrawl"
+    ]
+  },
+  "chinese brain interface startup gestala raises $21m just two months after launch": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "after",
+      "brain",
+      "raises",
+      "months",
+      "just",
+      "chinese",
+      "launch",
+      "interface",
+      "gestala",
+      "startup",
+      "$21m"
+    ]
+  },
+  "nuro is testing its autonomous vehicle tech on tokyo’s streets": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "tokyo’s",
+      "tech",
+      "vehicle",
+      "nuro",
+      "autonomous",
+      "streets",
+      "testing"
+    ]
+  },
+  "google play is adding new paid and pc games, game trials, community posts, and more": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "adding",
+      "games,",
+      "posts,",
+      "more",
+      "play",
+      "paid",
+      "trials,",
+      "community",
+      "google",
+      "game"
+    ]
+  },
+  "ford’s new ai assistant will help fleet owners know if seatbelts are being used": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "seatbelts",
+      "will",
+      "help",
+      "know",
+      "assistant",
+      "being",
+      "fleet",
+      "owners",
+      "used",
+      "ford’s"
+    ]
+  },
+  "ride-hailing indrive acquires pakistan’s krave mart to bolster grocery delivery": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "delivery",
+      "krave",
+      "ride-hailing",
+      "acquires",
+      "grocery",
+      "bolster",
+      "indrive",
+      "pakistan’s",
+      "mart"
+    ]
+  },
+  "zendesk acquires agentic customer service startup forethought": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "customer",
+      "service",
+      "acquires",
+      "agentic",
+      "startup",
+      "forethought",
+      "zendesk"
+    ]
+  },
+  "india neobank fi winds down banking services on its platform": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "platform",
+      "winds",
+      "services",
+      "banking",
+      "india",
+      "neobank",
+      "down"
+    ]
+  },
+  "netflix may have paid $600 million for ben affleck’s ai startup": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "million",
+      "netflix",
+      "affleck’s",
+      "paid",
+      "have",
+      "$600",
+      "startup"
+    ]
+  },
+  "lovable says it added $100m in revenue last month alone, with just 146 employees": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "last",
+      "employees",
+      "lovable",
+      "$100m",
+      "month",
+      "alone,",
+      "with",
+      "added",
+      "just",
+      "revenue",
+      "says"
+    ]
+  },
+  "quince hits $10b valuation with giant $500m round led by iconiq": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "iconiq",
+      "hits",
+      "$10b",
+      "with",
+      "round",
+      "giant",
+      "valuation",
+      "$500m",
+      "quince"
+    ]
+  },
+  "alternative app store altstore pal joins the fediverse": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "store",
+      "joins",
+      "altstore",
+      "alternative",
+      "fediverse"
+    ]
+  },
+  "drivers in fatal ford bluecruise crashes were likely distracted before impact": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "ford",
+      "drivers",
+      "bluecruise",
+      "likely",
+      "distracted",
+      "crashes",
+      "fatal",
+      "were",
+      "impact",
+      "before"
+    ]
+  },
+  "replit snags $9b valuation 6 months after hitting $3b": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "hitting",
+      "replit",
+      "after",
+      "months",
+      "valuation",
+      "snags"
+    ]
+  },
+  "pro-iran hacktivist group says it is behind attack on medical tech giant stryker": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "medical",
+      "tech",
+      "giant",
+      "attack",
+      "hacktivist",
+      "group",
+      "stryker",
+      "behind",
+      "says",
+      "pro-iran"
+    ]
+  },
+  "i built a secure planning agent with mcp and keycard": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 31,
+    "keywords": [
+      "built",
+      "agent",
+      "with",
+      "planning",
+      "secure",
+      "keycard"
+    ]
+  },
+  "what quitting my job taught me about tech": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 23,
+    "keywords": [
+      "taught",
+      "what",
+      "tech",
+      "quitting",
+      "about"
+    ]
+  },
+  "getting started with gemini cli": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 38,
+    "keywords": [
+      "getting",
+      "started",
+      "with",
+      "gemini"
+    ]
+  },
+  "in the ai agents era, why waste time building a framework?": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 32,
+    "keywords": [
+      "era,",
+      "time",
+      "agents",
+      "building",
+      "waste",
+      "framework?"
+    ]
+  },
+  "the diplomatic core: shared logic in a multi-framework world": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 20,
+    "keywords": [
+      "logic",
+      "world",
+      "shared",
+      "diplomatic",
+      "multi-framework",
+      "core:"
+    ]
+  },
+  "detecting calibration drift in flow meters with python: a hands-on guide": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 2,
+    "keywords": [
+      "drift",
+      "detecting",
+      "meters",
+      "with",
+      "hands-on",
+      "flow",
+      "guide",
+      "calibration",
+      "python:"
+    ]
+  },
+  "things i wish i knew before building my own it infrastructure": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 1,
+    "keywords": [
+      "infrastructure",
+      "things",
+      "wish",
+      "knew",
+      "building",
+      "before"
+    ]
+  },
+  "i built a retro fps that turns your git repo into a shooting game": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 3,
+    "keywords": [
+      "built",
+      "into",
+      "shooting",
+      "turns",
+      "retro",
+      "repo",
+      "your",
+      "that",
+      "game"
+    ]
+  },
+  "something about complexity, simplicity, and hope.": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 1,
+    "keywords": [
+      "something",
+      "complexity,",
+      "simplicity,",
+      "about",
+      "hope."
+    ]
+  },
+  "anr troubleshooting practice: log analysis and tool practice": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 1,
+    "keywords": [
+      "tool",
+      "practice",
+      "troubleshooting",
+      "analysis",
+      "practice:"
+    ]
+  },
+  "how we connected 15 legacy enterprise systems to ai — without writing a single mcp server": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 1,
+    "keywords": [
+      "connected",
+      "systems",
+      "enterprise",
+      "legacy",
+      "server",
+      "writing",
+      "without",
+      "single"
+    ]
+  },
+  "comic: agentic sketch comedy generation": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "arxiv"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "sketch",
+      "comedy",
+      "comic:",
+      "generation",
+      "agentic"
+    ]
+  },
+  "lito: surface light field tokenization": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "arxiv"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "light",
+      "lito:",
+      "surface",
+      "tokenization",
+      "field"
+    ]
+  },
+  "neural field thermal tomography: a differentiable physics framework for non-destructive evaluation": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "arxiv"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "non-destructive",
+      "differentiable",
+      "framework",
+      "physics",
+      "evaluation",
+      "thermal",
+      "tomography:",
+      "field",
+      "neural"
+    ]
+  },
+  "v2m-zero: zero-pair time-aligned video-to-music generation": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "arxiv"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "video-to-music",
+      "v2m-zero:",
+      "generation",
+      "time-aligned",
+      "zero-pair"
+    ]
+  },
+  "instruction set for the representation of graphs": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "arxiv"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "graphs",
+      "instruction",
+      "representation"
+    ]
+  },
+  "does ai see like art historians? interpreting how vision language models recognize artistic style": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "arxiv"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "interpreting",
+      "style",
+      "vision",
+      "models",
+      "recognize",
+      "artistic",
+      "does",
+      "language",
+      "like",
+      "historians?"
+    ]
+  },
+  "leech lattice vector quantization for efficient llm compression": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "arxiv"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "vector",
+      "quantization",
+      "lattice",
+      "compression",
+      "leech",
+      "efficient"
+    ]
+  },
+  "rcts & human uplift studies: methodological challenges and practical solutions for frontier ai evaluation": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "arxiv"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "methodological",
+      "challenges",
+      "frontier",
+      "solutions",
+      "evaluation",
+      "studies:",
+      "uplift",
+      "rcts",
+      "human",
+      "practical"
+    ]
+  },
+  "cross-species transfer learning for electrophysiology-to-transcriptomics mapping in cortical gabaergic interneurons": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "arxiv"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "gabaergic",
+      "interneurons",
+      "transfer",
+      "learning",
+      "electrophysiology-to-transcriptomics",
+      "mapping",
+      "cross-species",
+      "cortical"
+    ]
+  },
+  "factorized neural implicit dmd for parametric dynamics": {
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "seen_dates": [
+      "2026-03-12"
+    ],
+    "sources": [
+      "arxiv"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "dynamics",
+      "factorized",
+      "parametric",
+      "implicit",
+      "neural"
     ]
   }
 }

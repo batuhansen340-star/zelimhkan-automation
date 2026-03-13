@@ -299,5 +299,34 @@
         }
       ]
     }
+  },
+  {
+    "date": "2026-03-13T05:54:57.994027",
+    "content": {
+      "contents": [
+        {
+          "platform": "twitter",
+          "type": "thread",
+          "content": "🎉 Cuma akşamı = Aile zamanı! Bu hafta sonu çocuğunuzla birlikte yapabileceğiniz harika bir aktivite var.\n\n📚 StoryPal'da birlikte bir hikaye yaratın. Çocuğunuz karakteri seçsin, siz macerayı belirleyin. 10 dakikada hem kaliteli vakit hem yaratıcı bir deneyim!\n\n✨ En güzel yanı? AI görseller sayesinde çocuğunuz kendini hikayenin içinde görüyor. Hayal gücü patlıyor! 🚀\n\n👉 Ücretsiz 3 hikaye ile hemen başlayın. Hafta sonu planınız hazır! App Store'dan indirin.",
+          "hashtags": [
+            "#StoryPal",
+            "#AileZamanı",
+            "#HaftaSonuAktiviteleri",
+            "#ÇocukveEbeveyn"
+          ]
+        },
+        {
+          "platform": "instagram",
+          "type": "caption",
+          "content": "Cuma akşamı yorgunluğu mu? 😴\n\nBiz de biliyoruz - hafta yoğun geçti, enerji düşük. Ama çocuğunuzun size \"Bir hikaye anlatsana\" bakışlarını görmezden gelemiyorsunuz değil mi? 💕\n\nİşte size pratik çözüm: StoryPal! 🎨\n\n✅ 2 dakikada kişiselleştirilmiş hikaye\n✅ Çocuğunuz kahraman\n✅ AI görseller ile renkli macera\n✅ PDF olarak kaydedin, tekrar tekrar okuyun\n\nKanapede uzanın, tabletle birlikte keşfedin. Hem dinlenin hem de çocuğunuzla bağ kurun. 🧡\n\n📲 Bio'daki linkten ücretsiz deneyin - ilk 3 hikaye bizden!\n\n#StoryPal #AileZamanı #CumaAkşamı #KaliteliVakit #Ebeveynlik #ÇocukHikayeleri #AIebeveynlik #DijitalEbeveynlik",
+          "visual_idea": "Kanapede tablet ile hikaye okuyan anne-baba ve çocuk fotoğrafı. Warm, cozy ışıklandırma. Tablette StoryPal arayüzü görünüyor. Arka planda bulanık salon ortamı, rahat ve samimi atmosfer."
+        },
+        {
+          "platform": "blog",
+          "type": "outline",
+          "content": "Blog Başlığı: 'Hafta Sonu Ekran Süresini Değerli Hale Getirmenin 5 Yolu: StoryPal ile Kaliteli Dijital Deneyim'\n\nÖzet Maddeleri:\n1. Ekran süresi kötü değil, içerik önemli - Pasif izleme vs. aktif yaratma arasındaki fark ve StoryPal'ın interaktif yapısının çocuk gelişimine katkısı\n2. Hafta sonu rutini oluşturmanın önemi - Aile için tekrarlayan 'hikaye yaratma saati' aktivitesi nasıl yapılır, örnek zaman planlaması\n3. Dijital içeriği fiziksel deneyimle birleştirme - PDF export özelliği ile hikayeleri bastırma, çocukla birlikte resimlerini çizme, kendi hikaye kitabı oluşturma fikirleri ve uygulama önerileri"
+        }
+      ]
+    }
   }
 ]

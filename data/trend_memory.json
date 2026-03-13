@@ -73,12 +73,14 @@
   },
   "every single board computer i tested in 2025": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-03-13",
     "seen_dates": [
-      "2026-03-09"
+      "2026-03-09",
+      "2026-03-13"
     ],
     "sources": [
-      "hacker_news"
+      "hacker_news",
+      "lobsters"
     ],
     "peak_score": 207,
     "keywords": [
@@ -980,10 +982,11 @@
   },
   "popsockets founder david barnett talks about building a viral business": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-13",
     "seen_dates": [
       "2026-03-09",
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-13"
     ],
     "sources": [
       "techcrunch",
@@ -1321,14 +1324,16 @@
   },
   "let dependabot merge its own prs": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-03-13",
     "seen_dates": [
-      "2026-03-09"
+      "2026-03-09",
+      "2026-03-13"
     ],
     "sources": [
-      "devto"
+      "devto",
+      "hacker_news"
     ],
-    "peak_score": 17,
+    "peak_score": 130,
     "keywords": [
       "dependabot",
       "merge"
@@ -1558,12 +1563,13 @@
   },
   "nöroteknoloji girişimi cognito therapeutics, 105 milyon dolar yatırım aldı": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-13",
     "seen_dates": [
       "2026-03-09",
       "2026-03-10",
       "2026-03-11",
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-13"
     ],
     "sources": [
       "webrazzi"
@@ -2273,17 +2279,18 @@
   },
   "hkuds/cli-anything": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-13",
     "seen_dates": [
       "2026-03-09",
       "2026-03-10",
       "2026-03-11",
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-13"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 8112,
+    "peak_score": 9530,
     "keywords": [
       "hkuds/cli-anything"
     ]
@@ -2306,17 +2313,18 @@
   },
   "freedomintelligence/openclaw-medical-skills": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-13",
     "seen_dates": [
       "2026-03-09",
       "2026-03-10",
       "2026-03-11",
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-13"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 1068,
+    "peak_score": 1087,
     "keywords": [
       "freedomintelligence/openclaw-medical-skills"
     ]
@@ -3517,11 +3525,12 @@
   },
   "imbue-bit/openclaw-pwnkit": {
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-13",
     "seen_dates": [
       "2026-03-10",
       "2026-03-11",
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-13"
     ],
     "sources": [
       "github"
@@ -3708,14 +3717,16 @@
   },
   "periwinkle is making self-hosted social media on bluesky’s at protocol even easier": {
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-10",
+    "last_seen": "2026-03-13",
     "seen_dates": [
-      "2026-03-10"
+      "2026-03-10",
+      "2026-03-13"
     ],
     "sources": [
-      "techcrunch"
+      "techcrunch",
+      "lobsters"
     ],
-    "peak_score": 0,
+    "peak_score": 17,
     "keywords": [
       "periwinkle",
       "making",
@@ -4199,16 +4210,18 @@
   },
   "split federated learning architectures for high-accuracy and low-delay model training": {
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-13",
     "seen_dates": [
       "2026-03-10",
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-13"
     ],
     "sources": [
       "arxiv",
-      "lobsters"
+      "lobsters",
+      "hacker_news"
     ],
-    "peak_score": 13,
+    "peak_score": 91,
     "keywords": [
       "training",
       "learning",
@@ -5638,9 +5651,10 @@
   },
   "launch hn: runanywhere (yc w26) – faster ai inference on apple silicon": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-13",
     "seen_dates": [
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-13"
     ],
     "sources": [
       "hacker_news"
@@ -5917,30 +5931,32 @@
   },
   "parthjadhav/app-store-screenshots": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-13",
     "seen_dates": [
       "2026-03-11",
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-13"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 2112,
+    "peak_score": 2236,
     "keywords": [
       "parthjadhav/app-store-screenshots"
     ]
   },
   "tanweai/pua": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-13",
     "seen_dates": [
       "2026-03-11",
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-13"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 4985,
+    "peak_score": 5644,
     "keywords": [
       "tanweai/pua"
     ]
@@ -5975,15 +5991,16 @@
   },
   "knowsuchagency/mcp2cli": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-13",
     "seen_dates": [
       "2026-03-11",
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-13"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 668,
+    "peak_score": 704,
     "keywords": [
       "knowsuchagency/mcp2cli"
     ]
@@ -6908,30 +6925,32 @@
   },
   "jackwener/xiaohongshu-cli": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-13",
     "seen_dates": [
       "2026-03-11",
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-13"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 775,
+    "peak_score": 798,
     "keywords": [
       "jackwener/xiaohongshu-cli"
     ]
   },
   "photon-hq/qclaw-wechat-client": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-13",
     "seen_dates": [
       "2026-03-11",
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-13"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 700,
+    "peak_score": 710,
     "keywords": [
       "photon-hq/qclaw-wechat-client"
     ]
@@ -7443,14 +7462,15 @@
   },
   "full-source binary seed bootstrap of the guix system (2023)": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-13",
     "seen_dates": [
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-13"
     ],
     "sources": [
       "lobsters"
     ],
-    "peak_score": 9,
+    "peak_score": 11,
     "keywords": [
       "binary",
       "full-source",
@@ -7724,12 +7744,14 @@
   },
   "tested: how many times can a dvd±rw be rewritten? methodology and results": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-13",
     "seen_dates": [
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-13"
     ],
     "sources": [
-      "hacker_news"
+      "hacker_news",
+      "lobsters"
     ],
     "peak_score": 222,
     "keywords": [
@@ -7890,9 +7912,10 @@
   },
   "the macbook neo": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-13",
     "seen_dates": [
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-13"
     ],
     "sources": [
       "hacker_news"
@@ -8011,9 +8034,10 @@
   },
   "personal computer by perplexity": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-13",
     "seen_dates": [
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-13"
     ],
     "sources": [
       "hacker_news",
@@ -8070,14 +8094,15 @@
   },
   "larksuite/openclaw-lark": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-13",
     "seen_dates": [
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-13"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 733,
+    "peak_score": 778,
     "keywords": [
       "larksuite/openclaw-lark"
     ]
@@ -8112,14 +8137,15 @@
   },
   "gsd-build/gsd-2": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-13",
     "seen_dates": [
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-13"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 698,
+    "peak_score": 797,
     "keywords": [
       "gsd-build/gsd-2"
     ]
@@ -8849,14 +8875,15 @@
   },
   "malus – clean room as a service": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-13",
     "seen_dates": [
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-13"
     ],
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 374,
+    "peak_score": 1136,
     "keywords": [
       "room",
       "malus",
@@ -9000,14 +9027,15 @@
   },
   "atms didn't kill bank teller jobs, but the iphone did": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-13",
     "seen_dates": [
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-13"
     ],
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 109,
+    "peak_score": 376,
     "keywords": [
       "kill",
       "bank",
@@ -9147,9 +9175,10 @@
   },
   "astrio": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-13",
     "seen_dates": [
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-13"
     ],
     "sources": [
       "product_hunt"
@@ -9175,9 +9204,10 @@
   },
   "glass": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-13",
     "seen_dates": [
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-13"
     ],
     "sources": [
       "product_hunt"
@@ -9203,9 +9233,10 @@
   },
   "a bit differently": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-13",
     "seen_dates": [
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-13"
     ],
     "sources": [
       "product_hunt"
@@ -9245,23 +9276,25 @@
   },
   "garrytan/gstack": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-13",
     "seen_dates": [
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-13"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 847,
+    "peak_score": 3201,
     "keywords": [
       "garrytan/gstack"
     ]
   },
   "bumble to launch an ai dating assistant, ‘bee’": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-13",
     "seen_dates": [
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-13"
     ],
     "sources": [
       "techcrunch"
@@ -9277,9 +9310,10 @@
   },
   "law enforcement shuts down botnet made of tens of thousands of hacked routers": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-13",
     "seen_dates": [
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-13"
     ],
     "sources": [
       "techcrunch"
@@ -9613,14 +9647,15 @@
   },
   "why are we still doing gpu work in javascript? (live webgpu benchmark & demo🚀)": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-13",
     "seen_dates": [
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-13"
     ],
     "sources": [
       "devto"
     ],
-    "peak_score": 17,
+    "peak_score": 30,
     "keywords": [
       "demo🚀)",
       "benchmark",
@@ -9671,14 +9706,15 @@
   },
   "parametricity, or comptime is bonkers": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-13",
     "seen_dates": [
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-13"
     ],
     "sources": [
       "lobsters"
     ],
-    "peak_score": 33,
+    "peak_score": 60,
     "keywords": [
       "bonkers",
       "parametricity,",
@@ -9687,14 +9723,15 @@
   },
   "my postgresql database got nuked lol": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-13",
     "seen_dates": [
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-13"
     ],
     "sources": [
       "lobsters"
     ],
-    "peak_score": 70,
+    "peak_score": 75,
     "keywords": [
       "nuked",
       "database",
@@ -9703,14 +9740,15 @@
   },
   "lobsters interview with ngoldbaum": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-13",
     "seen_dates": [
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-13"
     ],
     "sources": [
       "lobsters"
     ],
-    "peak_score": 52,
+    "peak_score": 59,
     "keywords": [
       "lobsters",
       "interview",
@@ -9720,14 +9758,15 @@
   },
   "lowdown manpage support": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-13",
     "seen_dates": [
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-13"
     ],
     "sources": [
       "lobsters"
     ],
-    "peak_score": 11,
+    "peak_score": 17,
     "keywords": [
       "manpage",
       "support",
@@ -9736,14 +9775,15 @@
   },
   "dreaming of a ten-year computer": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-13",
     "seen_dates": [
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-13"
     ],
     "sources": [
       "lobsters"
     ],
-    "peak_score": 3,
+    "peak_score": 12,
     "keywords": [
       "ten-year",
       "computer",
@@ -9825,9 +9865,10 @@
   },
   "google, ani selleri tahmin etmek için gemini ile 5 milyon haber makalesini analiz etti": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-13",
     "seen_dates": [
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-13"
     ],
     "sources": [
       "webrazzi"
@@ -9849,9 +9890,10 @@
   },
   "marka izleme ve outreach otomasyonunu tek panelde toplayan platform: brandjet ai": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-13",
     "seen_dates": [
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-13"
     ],
     "sources": [
       "webrazzi"
@@ -9870,9 +9912,10 @@
   },
   "microsoft, xbox konsolu project helix için hazırlıklara başlıyor": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-13",
     "seen_dates": [
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-13"
     ],
     "sources": [
       "webrazzi"
@@ -9891,9 +9934,10 @@
   },
   "meta, 13 yaş altındaki çocukların ebeveyn kontrolüyle whatsapp kullanmasına izin verecek": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-13",
     "seen_dates": [
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-13"
     ],
     "sources": [
       "webrazzi"
@@ -9909,6 +9953,1251 @@
       "meta,",
       "whatsapp",
       "çocukların"
+    ]
+  },
+  "willingness to look stupid": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 51,
+    "keywords": [
+      "look",
+      "willingness",
+      "stupid"
+    ]
+  },
+  "shall i implement it? no": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 1064,
+    "keywords": [
+      "implement",
+      "shall"
+    ]
+  },
+  "bubble sorted amen break": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 292,
+    "keywords": [
+      "sorted",
+      "break",
+      "bubble",
+      "amen"
+    ]
+  },
+  "reversing memory loss via gut-brain communication": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 274,
+    "keywords": [
+      "gut-brain",
+      "memory",
+      "reversing",
+      "communication",
+      "loss"
+    ]
+  },
+  "understanding the go runtime: the scheduler": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 63,
+    "keywords": [
+      "understanding",
+      "runtime:",
+      "scheduler"
+    ]
+  },
+  "document poisoning in rag systems: how attackers corrupt ai's sources": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 94,
+    "keywords": [
+      "attackers",
+      "sources",
+      "poisoning",
+      "systems:",
+      "document",
+      "ai's",
+      "corrupt"
+    ]
+  },
+  "the met releases high-def 3d scans of 140 famous art objects": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 254,
+    "keywords": [
+      "scans",
+      "objects",
+      "releases",
+      "famous",
+      "high-def"
+    ]
+  },
+  "“this is not the computer for you”": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 181,
+    "keywords": [
+      "you”",
+      "“this",
+      "computer"
+    ]
+  },
+  "us private credit defaults hit record 9.2% in 2025, fitch says": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 306,
+    "keywords": [
+      "fitch",
+      "9.2%",
+      "record",
+      "says",
+      "credit",
+      "private",
+      "2025,",
+      "defaults"
+    ]
+  },
+  "bringing chrome to arm64 linux devices": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 78,
+    "keywords": [
+      "devices",
+      "arm64",
+      "bringing",
+      "linux",
+      "chrome"
+    ]
+  },
+  "innocent woman jailed after being misidentified using ai facial recognition": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 505,
+    "keywords": [
+      "innocent",
+      "jailed",
+      "facial",
+      "misidentified",
+      "recognition",
+      "woman",
+      "using",
+      "after",
+      "being"
+    ]
+  },
+  "wolfip: lightweight tcp/ip stack with no dynamic memory allocations": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 108,
+    "keywords": [
+      "wolfip:",
+      "dynamic",
+      "allocations",
+      "tcp/ip",
+      "memory",
+      "stack",
+      "lightweight",
+      "with"
+    ]
+  },
+  "forcing flash attention onto a tpu and learning the hard way": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 53,
+    "keywords": [
+      "attention",
+      "flash",
+      "forcing",
+      "learning",
+      "onto",
+      "hard"
+    ]
+  },
+  "show hn: onecli – vault for ai agents in rust": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 134,
+    "keywords": [
+      "show",
+      "onecli",
+      "vault",
+      "rust",
+      "agents"
+    ]
+  },
+  "show hn: axe – a 12mb binary that replaces your ai framework": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 165,
+    "keywords": [
+      "show",
+      "12mb",
+      "your",
+      "binary",
+      "framework",
+      "that",
+      "replaces"
+    ]
+  },
+  "long overlooked as crucial to life, fungi start to get their due": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 108,
+    "keywords": [
+      "long",
+      "their",
+      "overlooked",
+      "crucial",
+      "life,",
+      "fungi",
+      "start"
+    ]
+  },
+  "ddr4 sdram – initialization, training and calibration": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 88,
+    "keywords": [
+      "initialization,",
+      "sdram",
+      "training",
+      "calibration",
+      "ddr4"
+    ]
+  },
+  "orangelabs": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "orangelabs"
+    ]
+  },
+  "birdhouse": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "birdhouse"
+    ]
+  },
+  "needle 2.0": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "needle"
+    ]
+  },
+  "clawther": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "clawther"
+    ]
+  },
+  "askneo": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "askneo"
+    ]
+  },
+  "aiming-lab/metaclaw": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 745,
+    "keywords": [
+      "aiming-lab/metaclaw"
+    ]
+  },
+  "chrisworsey55/atlas-gic": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 655,
+    "keywords": [
+      "chrisworsey55/atlas-gic"
+    ]
+  },
+  "tianyidatascience/openclaw-control-center": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 634,
+    "keywords": [
+      "tianyidatascience/openclaw-control-center"
+    ]
+  },
+  "emanuele-web04/remodex": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 622,
+    "keywords": [
+      "emanuele-web04/remodex"
+    ]
+  },
+  "before quantum computing arrives, this startup wants enterprises already running on it": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "arrives,",
+      "already",
+      "before",
+      "quantum",
+      "running",
+      "enterprises",
+      "computing",
+      "startup",
+      "this",
+      "wants"
+    ]
+  },
+  "truecaller now lets you hang up on scammers — on behalf of your family": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "truecaller",
+      "your",
+      "family",
+      "scammers",
+      "behalf",
+      "lets",
+      "hang"
+    ]
+  },
+  "how to watch jensen huang’s nvidia gtc 2026 keynote": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "keynote",
+      "2026",
+      "jensen",
+      "huang’s",
+      "nvidia",
+      "watch"
+    ]
+  },
+  "sales automation startup rox ai hits $1.2b valuation, sources say": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "$1.2b",
+      "valuation,",
+      "sources",
+      "hits",
+      "sales",
+      "startup",
+      "automation"
+    ]
+  },
+  "channel surfer lets you watch youtube like it’s old-school cable tv": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "channel",
+      "it’s",
+      "cable",
+      "youtube",
+      "old-school",
+      "lets",
+      "surfer",
+      "like",
+      "watch"
+    ]
+  },
+  "why rivian is holding the $45,000 base model r2 until ‘late 2027’": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "2027’",
+      "rivian",
+      "base",
+      "holding",
+      "until",
+      "‘late",
+      "$45,000",
+      "model"
+    ]
+  },
+  "substack launches a built-in recording studio": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "substack",
+      "recording",
+      "launches",
+      "built-in",
+      "studio"
+    ]
+  },
+  "facebook marketplace now lets meta ai respond to buyers’ messages": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "buyers’",
+      "respond",
+      "meta",
+      "messages",
+      "lets",
+      "marketplace",
+      "facebook"
+    ]
+  },
+  "tinder tries to lure people back to online dating with irl events, virtual speed dating": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "dating",
+      "speed",
+      "virtual",
+      "people",
+      "back",
+      "lure",
+      "tinder",
+      "tries",
+      "online",
+      "events,",
+      "with"
+    ]
+  },
+  "atlassian follows block’s footsteps and cuts staff in the name of ai": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "follows",
+      "staff",
+      "footsteps",
+      "cuts",
+      "name",
+      "atlassian",
+      "block’s"
+    ]
+  },
+  "lucid motors shows off robotaxi concept called ‘lunar’": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "shows",
+      "‘lunar’",
+      "motors",
+      "lucid",
+      "concept",
+      "robotaxi",
+      "called"
+    ]
+  },
+  "humanoid robotics maker sunday reaches $1.15b valuation to build household robots": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "build",
+      "$1.15b",
+      "reaches",
+      "maker",
+      "sunday",
+      "household",
+      "valuation",
+      "robots",
+      "humanoid",
+      "robotics"
+    ]
+  },
+  "webflow buys ai content-generation platform vidoso to bolster its marketing suite": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "webflow",
+      "suite",
+      "content-generation",
+      "bolster",
+      "buys",
+      "vidoso",
+      "platform",
+      "marketing"
+    ]
+  },
+  "an update on how we judge dev challenges": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 26,
+    "keywords": [
+      "challenges",
+      "judge",
+      "update"
+    ]
+  },
+  "pi-hole behind tailscale": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 6,
+    "keywords": [
+      "tailscale",
+      "pi-hole",
+      "behind"
+    ]
+  },
+  "i built 75 browser-based tools with next.js and zero backend.": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 3,
+    "keywords": [
+      "built",
+      "next.js",
+      "zero",
+      "tools",
+      "browser-based",
+      "backend.",
+      "with"
+    ]
+  },
+  "autonomous ai research does not need a giant framework": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 31,
+    "keywords": [
+      "need",
+      "does",
+      "framework",
+      "autonomous",
+      "research",
+      "giant"
+    ]
+  },
+  "🦀i got tired of rewriting macro boilerplate — so i built a template engine for proc macros": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 2,
+    "keywords": [
+      "boilerplate",
+      "built",
+      "engine",
+      "macros",
+      "rewriting",
+      "proc",
+      "template",
+      "tired",
+      "macro"
+    ]
+  },
+  "i built a real-time ai visual companion in one week from zambia, here's what actually happened": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "built",
+      "zambia,",
+      "companion",
+      "visual",
+      "real-time",
+      "week",
+      "from",
+      "here's",
+      "happened",
+      "what",
+      "actually"
+    ]
+  },
+  "how i built root cause analysis into my free api uptime monitor": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 6,
+    "keywords": [
+      "root",
+      "analysis",
+      "built",
+      "monitor",
+      "into",
+      "free",
+      "uptime",
+      "cause"
+    ]
+  },
+  "talk to your ai — meet talkative lobster": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 2,
+    "keywords": [
+      "meet",
+      "your",
+      "talk",
+      "lobster",
+      "talkative"
+    ]
+  },
+  "why bible apis should be version-agnostic": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 2,
+    "keywords": [
+      "bible",
+      "version-agnostic",
+      "apis",
+      "should"
+    ]
+  },
+  "친구가 다이어리에 출퇴근을 적고 있었다 1/2": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "출퇴근을",
+      "다이어리에"
+    ]
+  },
+  "surviving the piscine at zone01 kisumu - 60 days of being humbled by code": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 1,
+    "keywords": [
+      "zone01",
+      "piscine",
+      "surviving",
+      "days",
+      "code",
+      "kisumu",
+      "humbled",
+      "being"
+    ]
+  },
+  "i built a knowledge evaluator that uses notion to judge what's worth remembering": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 13,
+    "keywords": [
+      "knowledge",
+      "built",
+      "worth",
+      "notion",
+      "what's",
+      "judge",
+      "uses",
+      "that",
+      "evaluator",
+      "remembering"
+    ]
+  },
+  "month 1 building an ai compliance saas — here's what happened": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "saas",
+      "here's",
+      "happened",
+      "building",
+      "compliance",
+      "what",
+      "month"
+    ]
+  },
+  "i got lost in canary wharf for 30 minutes, but i found the future of sre": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 16,
+    "keywords": [
+      "lost",
+      "minutes,",
+      "found",
+      "wharf",
+      "future",
+      "canary"
+    ]
+  },
+  "how do you manage ssh keys?": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 31,
+    "keywords": [
+      "keys?",
+      "manage"
+    ]
+  },
+  "plan 9's acme: the un-terminal and text-based guis": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 5,
+    "keywords": [
+      "un-terminal",
+      "plan",
+      "text-based",
+      "acme:",
+      "guis"
+    ]
+  },
+  "agent-shell 0.47 updates": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 6,
+    "keywords": [
+      "0.47",
+      "updates",
+      "agent-shell"
+    ]
+  },
+  "games in postscript - play chess against your printer": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 3,
+    "keywords": [
+      "games",
+      "postscript",
+      "against",
+      "play",
+      "your",
+      "printer",
+      "chess"
+    ]
+  },
+  "the latent color subspace: emergent order in high-dimensional chaos": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "arxiv"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "color",
+      "chaos",
+      "latent",
+      "emergent",
+      "subspace:",
+      "high-dimensional",
+      "order"
+    ]
+  },
+  "spatial-ttt: streaming visual-based spatial intelligence with test-time training": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "arxiv"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "spatial-ttt:",
+      "intelligence",
+      "test-time",
+      "streaming",
+      "spatial",
+      "training",
+      "visual-based",
+      "with"
+    ]
+  },
+  "scimdr: benchmarking and advancing scientific multimodal document reasoning": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "arxiv"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "benchmarking",
+      "document",
+      "reasoning",
+      "advancing",
+      "scientific",
+      "scimdr:",
+      "multimodal"
+    ]
+  },
+  "matching features, not tokens: energy-based fine-tuning of language models": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "arxiv"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "fine-tuning",
+      "energy-based",
+      "language",
+      "models",
+      "matching",
+      "tokens:",
+      "features,"
+    ]
+  },
+  "examining reasoning llms-as-judges in non-verifiable llm post-training": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "arxiv"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "llms-as-judges",
+      "examining",
+      "non-verifiable",
+      "reasoning",
+      "post-training"
+    ]
+  },
+  "separable neural architectures as a primitive for unified predictive and generative intelligence": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "arxiv"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "separable",
+      "intelligence",
+      "neural",
+      "architectures",
+      "predictive",
+      "primitive",
+      "unified",
+      "generative"
+    ]
+  },
+  "bigain: unified token compression for joint generation and classification": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "arxiv"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "bigain:",
+      "token",
+      "joint",
+      "generation",
+      "compression",
+      "classification",
+      "unified"
+    ]
+  },
+  "stamp: selective task-aware mechanism for text privacy": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "arxiv"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "text",
+      "task-aware",
+      "selective",
+      "mechanism",
+      "privacy",
+      "stamp:"
+    ]
+  },
+  "incremental neural network verification via learned conflicts": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "arxiv"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "incremental",
+      "network",
+      "neural",
+      "conflicts",
+      "verification",
+      "learned"
+    ]
+  },
+  "temporal straightening for latent planning": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "arxiv"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "straightening",
+      "latent",
+      "temporal",
+      "planning"
     ]
   }
 }

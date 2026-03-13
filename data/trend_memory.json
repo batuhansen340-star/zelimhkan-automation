@@ -330,14 +330,15 @@
   },
   "z80 sans – a disassembler in a font (2024)": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-03-13",
     "seen_dates": [
-      "2026-03-09"
+      "2026-03-09",
+      "2026-03-13"
     ],
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 90,
+    "peak_score": 167,
     "keywords": [
       "font",
       "disassembler",
@@ -920,12 +921,14 @@
   },
   "google just gave sundar pichai a $692m pay package": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-03-13",
     "seen_dates": [
-      "2026-03-09"
+      "2026-03-09",
+      "2026-03-13"
     ],
     "sources": [
-      "techcrunch"
+      "techcrunch",
+      "product_hunt"
     ],
     "peak_score": 0,
     "keywords": [
@@ -1275,12 +1278,13 @@
   },
   "claude code now lets you code from your phone. here's what i learned the hard way.": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-13",
     "seen_dates": [
       "2026-03-09",
       "2026-03-10",
       "2026-03-11",
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-13"
     ],
     "sources": [
       "devto",
@@ -1538,9 +1542,10 @@
   },
   "anthropic'ten işletmeler için yapay zeka araçlarının satın alımını basitleştiren platform: claude marketplace": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-03-13",
     "seen_dates": [
-      "2026-03-09"
+      "2026-03-09",
+      "2026-03-13"
     ],
     "sources": [
       "webrazzi"
@@ -1697,12 +1702,14 @@
   },
   "bevlm: distilling semantic knowledge from llms into bird's-eye view representations": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-03-13",
     "seen_dates": [
-      "2026-03-09"
+      "2026-03-09",
+      "2026-03-13"
     ],
     "sources": [
-      "arxiv"
+      "arxiv",
+      "product_hunt"
     ],
     "peak_score": 0,
     "keywords": [
@@ -2290,7 +2297,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 9530,
+    "peak_score": 11080,
     "keywords": [
       "hkuds/cli-anything"
     ]
@@ -2324,7 +2331,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1087,
+    "peak_score": 1116,
     "keywords": [
       "freedomintelligence/openclaw-medical-skills"
     ]
@@ -2878,16 +2885,17 @@
   },
   "what are you doing this week?": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-10",
+    "last_seen": "2026-03-13",
     "seen_dates": [
       "2026-03-09",
-      "2026-03-10"
+      "2026-03-10",
+      "2026-03-13"
     ],
     "sources": [
       "lobsters",
       "devto"
     ],
-    "peak_score": 5,
+    "peak_score": 7,
     "keywords": [
       "what",
       "week?",
@@ -4738,16 +4746,18 @@
   },
   "spine swarm": {
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-13",
     "seen_dates": [
       "2026-03-10",
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-13"
     ],
     "sources": [
       "product_hunt",
-      "arxiv"
+      "arxiv",
+      "hacker_news"
     ],
-    "peak_score": 0,
+    "peak_score": 51,
     "keywords": [
       "spine",
       "swarm"
@@ -5265,10 +5275,11 @@
   },
   "stop shipping broken env config": {
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-13",
     "seen_dates": [
       "2026-03-10",
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-13"
     ],
     "sources": [
       "devto"
@@ -5940,7 +5951,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 2236,
+    "peak_score": 2361,
     "keywords": [
       "parthjadhav/app-store-screenshots"
     ]
@@ -5956,7 +5967,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 5644,
+    "peak_score": 6485,
     "keywords": [
       "tanweai/pua"
     ]
@@ -6000,7 +6011,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 704,
+    "peak_score": 762,
     "keywords": [
       "knowsuchagency/mcp2cli"
     ]
@@ -6934,7 +6945,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 798,
+    "peak_score": 896,
     "keywords": [
       "jackwener/xiaohongshu-cli"
     ]
@@ -6950,7 +6961,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 710,
+    "peak_score": 717,
     "keywords": [
       "photon-hq/qclaw-wechat-client"
     ]
@@ -8041,7 +8052,8 @@
     ],
     "sources": [
       "hacker_news",
-      "webrazzi"
+      "webrazzi",
+      "product_hunt"
     ],
     "peak_score": 135,
     "keywords": [
@@ -8102,7 +8114,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 778,
+    "peak_score": 827,
     "keywords": [
       "larksuite/openclaw-lark"
     ]
@@ -8145,7 +8157,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 797,
+    "peak_score": 914,
     "keywords": [
       "gsd-build/gsd-2"
     ]
@@ -9035,7 +9047,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 376,
+    "peak_score": 488,
     "keywords": [
       "kill",
       "bank",
@@ -9284,7 +9296,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 3201,
+    "peak_score": 4788,
     "keywords": [
       "garrytan/gstack"
     ]
@@ -9964,7 +9976,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 51,
+    "peak_score": 612,
     "keywords": [
       "look",
       "willingness",
@@ -10084,7 +10096,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 181,
+    "peak_score": 782,
     "keywords": [
       "you”",
       "“this",
@@ -10347,7 +10359,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 745,
+    "peak_score": 891,
     "keywords": [
       "aiming-lab/metaclaw"
     ]
@@ -10361,7 +10373,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 655,
+    "peak_score": 723,
     "keywords": [
       "chrisworsey55/atlas-gic"
     ]
@@ -10375,7 +10387,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 634,
+    "peak_score": 889,
     "keywords": [
       "tianyidatascience/openclaw-control-center"
     ]
@@ -10389,7 +10401,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 622,
+    "peak_score": 724,
     "keywords": [
       "emanuele-web04/remodex"
     ]
@@ -10674,7 +10686,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 26,
+    "peak_score": 38,
     "keywords": [
       "challenges",
       "judge",
@@ -10706,7 +10718,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 3,
+    "peak_score": 6,
     "keywords": [
       "built",
       "next.js",
@@ -10847,7 +10859,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 0,
+    "peak_score": 1,
     "keywords": [
       "출퇴근을",
       "다이어리에"
@@ -10926,7 +10938,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 16,
+    "peak_score": 19,
     "keywords": [
       "lost",
       "minutes,",
@@ -10945,7 +10957,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 31,
+    "peak_score": 61,
     "keywords": [
       "keys?",
       "manage"
@@ -10960,7 +10972,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 5,
+    "peak_score": 26,
     "keywords": [
       "un-terminal",
       "plan",
@@ -11198,6 +11210,846 @@
       "latent",
       "temporal",
       "planning"
+    ]
+  },
+  "meta platforms: lobbying, dark money, and the app store accountability act": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 84,
+    "keywords": [
+      "store",
+      "lobbying,",
+      "money,",
+      "accountability",
+      "meta",
+      "platforms:",
+      "dark"
+    ]
+  },
+  "tui studio – visual terminal ui design tool": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 340,
+    "keywords": [
+      "terminal",
+      "visual",
+      "design",
+      "studio",
+      "tool"
+    ]
+  },
+  "i traced $2b in grants and 45 states' lobbying behind age‑verification bills": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "hacker_news",
+      "lobsters"
+    ],
+    "peak_score": 822,
+    "keywords": [
+      "lobbying",
+      "grants",
+      "age‑verification",
+      "traced",
+      "bills",
+      "behind",
+      "states'"
+    ]
+  },
+  "bucketsquatting is (finally) dead": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "hacker_news",
+      "lobsters"
+    ],
+    "peak_score": 240,
+    "keywords": [
+      "(finally)",
+      "dead",
+      "bucketsquatting"
+    ]
+  },
+  "can i run ai locally?": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 62,
+    "keywords": [
+      "locally?"
+    ]
+  },
+  "e2e encrypted messaging on instagram will no longer be supported after 8 may": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 191,
+    "keywords": [
+      "messaging",
+      "will",
+      "longer",
+      "instagram",
+      "supported",
+      "encrypted",
+      "after"
+    ]
+  },
+  "okmain: how to pick an ok main colour of an image": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 148,
+    "keywords": [
+      "colour",
+      "main",
+      "image",
+      "pick",
+      "okmain:"
+    ]
+  },
+  "executing programs inside transformers with exponentially faster inference": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 226,
+    "keywords": [
+      "with",
+      "exponentially",
+      "faster",
+      "transformers",
+      "programs",
+      "inside",
+      "inference",
+      "executing"
+    ]
+  },
+  "run nanoclaw in docker sandboxes": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 88,
+    "keywords": [
+      "nanoclaw",
+      "docker",
+      "sandboxes"
+    ]
+  },
+  "show hn: what was the world listening to? music charts, 20 countries (1940–2025)": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 68,
+    "keywords": [
+      "music",
+      "countries",
+      "show",
+      "listening",
+      "world",
+      "what",
+      "(1940–2025)",
+      "charts,"
+    ]
+  },
+  "ceno, browse the web without internet access": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 98,
+    "keywords": [
+      "internet",
+      "browse",
+      "ceno,",
+      "without",
+      "access"
+    ]
+  },
+  "enhancing gut-brain communication reversed cognitive decline in aging mice": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 360,
+    "keywords": [
+      "mice",
+      "decline",
+      "aging",
+      "cognitive",
+      "gut-brain",
+      "enhancing",
+      "communication",
+      "reversed"
+    ]
+  },
+  "vite 8.0 is out": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 469,
+    "keywords": [
+      "vite"
+    ]
+  },
+  "an old photo of a large bbs (2022)": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 253,
+    "keywords": [
+      "large",
+      "(2022)",
+      "photo"
+    ]
+  },
+  "burnlink": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "burnlink"
+    ]
+  },
+  "perfectly": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "perfectly"
+    ]
+  },
+  "gradpipe": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "gradpipe"
+    ]
+  },
+  "wpcursor": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "wpcursor"
+    ]
+  },
+  "pinnacle": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "pinnacle"
+    ]
+  },
+  "fowel by hackmamba": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "fowel",
+      "hackmamba"
+    ]
+  },
+  "kingcoding": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "kingcoding"
+    ]
+  },
+  "davebcn87/pi-autoresearch": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 952,
+    "keywords": [
+      "davebcn87/pi-autoresearch"
+    ]
+  },
+  "the $32b acquisition that one vc is calling the ‘deal of the decade’": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "calling",
+      "$32b",
+      "decade’",
+      "that",
+      "‘deal",
+      "acquisition"
+    ]
+  },
+  "apple drops commission rates in china without a fuss": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "commission",
+      "drops",
+      "fuss",
+      "china",
+      "apple",
+      "without",
+      "rates"
+    ]
+  },
+  "the fbi is investigating malware hidden inside games hosted on steam": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "steam",
+      "investigating",
+      "hidden",
+      "games",
+      "inside",
+      "malware",
+      "hosted"
+    ]
+  },
+  "peacock expands into ai-driven video, mobile-first live sports, and gaming": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "ai-driven",
+      "sports,",
+      "video,",
+      "into",
+      "peacock",
+      "gaming",
+      "live",
+      "expands",
+      "mobile-first"
+    ]
+  },
+  "motional robotaxis join the uber app in vegas two years after major reset": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "uber",
+      "vegas",
+      "major",
+      "reset",
+      "robotaxis",
+      "years",
+      "motional",
+      "join",
+      "after"
+    ]
+  },
+  "i was one day away from quitting — and then my career took an unexpected turn": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 11,
+    "keywords": [
+      "turn",
+      "unexpected",
+      "career",
+      "from",
+      "away",
+      "quitting",
+      "then",
+      "took"
+    ]
+  },
+  "the internet is getting quieter - who will feed the next generation of ai?": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 7,
+    "keywords": [
+      "internet",
+      "getting",
+      "will",
+      "quieter",
+      "feed",
+      "next",
+      "generation"
+    ]
+  },
+  "the gap in ai agent security nobody talks about: your .env is already in the context window": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 3,
+    "keywords": [
+      "about:",
+      "agent",
+      "already",
+      ".env",
+      "talks",
+      "context",
+      "security",
+      "your",
+      "window",
+      "nobody"
+    ]
+  },
+  "from infrastructure to product: pipelines into a profitable saas": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 2,
+    "keywords": [
+      "product:",
+      "pipelines",
+      "profitable",
+      "into",
+      "saas",
+      "infrastructure",
+      "from"
+    ]
+  },
+  "i built surveys that get smarter with every response": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "surveys",
+      "built",
+      "response",
+      "smarter",
+      "with",
+      "that",
+      "every"
+    ]
+  },
+  "i have 18 github repos at 17 — here's what i built, broke, and learned": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 2,
+    "keywords": [
+      "have",
+      "learned",
+      "repos",
+      "github",
+      "here's",
+      "what",
+      "built,",
+      "broke,"
+    ]
+  },
+  "kotlin coroutines: from callback hell to clean async code": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "coroutines:",
+      "clean",
+      "code",
+      "callback",
+      "from",
+      "async",
+      "hell",
+      "kotlin"
+    ]
+  },
+  "windows 11 after two decades of macos: okay, but also awful": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 9,
+    "keywords": [
+      "windows",
+      "macos:",
+      "okay,",
+      "decades",
+      "awful",
+      "after",
+      "also"
+    ]
+  },
+  "how to make your own static site generator": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 20,
+    "keywords": [
+      "make",
+      "static",
+      "site",
+      "generator",
+      "your"
+    ]
+  },
+  "computing in freedom with gnu emacs": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 11,
+    "keywords": [
+      "emacs",
+      "freedom",
+      "with",
+      "computing"
+    ]
+  },
+  "the best darn grid shader (yet)": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 20,
+    "keywords": [
+      "darn",
+      "(yet)",
+      "shader",
+      "best",
+      "grid"
+    ]
+  },
+  "reinventing python's asyncio": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 3,
+    "keywords": [
+      "python's",
+      "asyncio",
+      "reinventing"
+    ]
+  },
+  "how to use storytelling to fit inline assembly into rust": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 6,
+    "keywords": [
+      "storytelling",
+      "into",
+      "rust",
+      "inline",
+      "assembly"
+    ]
+  },
+  "learn haskell in two weeks": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 14,
+    "keywords": [
+      "haskell",
+      "weeks",
+      "learn"
+    ]
+  },
+  "the plumbing of everyday magic": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 4,
+    "keywords": [
+      "plumbing",
+      "magic",
+      "everyday"
+    ]
+  },
+  "webrazzi ai 2026'nın yeni konuşmacıları belli oldu!": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "2026'nın",
+      "webrazzi",
+      "yeni",
+      "oldu!",
+      "konuşmacıları",
+      "belli"
+    ]
+  },
+  "atlassian, iş gücünün yüzde 10'una denk gelen 1.600 kişiyi işten çıkaracağını duyurdu": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "gelen",
+      "kişiyi",
+      "1.600",
+      "yüzde",
+      "denk",
+      "gücünün",
+      "çıkaracağını",
+      "10'una",
+      "duyurdu",
+      "işten",
+      "atlassian,"
+    ]
+  },
+  "google haritalar, yapay zeka destekli yeni özelliklerini duyurdu": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "zeka",
+      "haritalar,",
+      "yapay",
+      "yeni",
+      "duyurdu",
+      "google",
+      "destekli",
+      "özelliklerini"
+    ]
+  },
+  "claude, artık etkileşimli grafikler, diyagramlar ve görselleştirmeler oluşturabiliyor": {
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "seen_dates": [
+      "2026-03-13"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "görselleştirmeler",
+      "oluşturabiliyor",
+      "diyagramlar",
+      "etkileşimli",
+      "artık",
+      "claude,",
+      "grafikler,"
     ]
   }
 }

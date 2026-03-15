@@ -803,10 +803,11 @@
   },
   "palmer luckey’s retro gaming startup modretro reportedly seeks funding at $1b valuation": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
       "2026-03-09",
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "techcrunch",
@@ -1158,14 +1159,16 @@
   },
   "i built a 56-language telegram bot in 10 days, hit the marketing wall. then telegram shipped the same feature": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-09"
+      "2026-03-09",
+      "2026-03-15"
     ],
     "sources": [
-      "devto"
+      "devto",
+      "hacker_news"
     ],
-    "peak_score": 9,
+    "peak_score": 147,
     "keywords": [
       "shipped",
       "56-language",
@@ -1548,11 +1551,12 @@
   },
   "anthropic'ten işletmeler için yapay zeka araçlarının satın alımını basitleştiren platform: claude marketplace": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
       "2026-03-09",
       "2026-03-13",
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "webrazzi"
@@ -1575,14 +1579,15 @@
   },
   "nöroteknoloji girişimi cognito therapeutics, 105 milyon dolar yatırım aldı": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
       "2026-03-09",
       "2026-03-10",
       "2026-03-11",
       "2026-03-12",
       "2026-03-13",
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "webrazzi"
@@ -2636,15 +2641,16 @@
   },
   "building a text-to-speech engine in pure c": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-10",
+    "last_seen": "2026-03-15",
     "seen_dates": [
       "2026-03-09",
-      "2026-03-10"
+      "2026-03-10",
+      "2026-03-15"
     ],
     "sources": [
       "devto"
     ],
-    "peak_score": 2,
+    "peak_score": 4,
     "keywords": [
       "text-to-speech",
       "building",
@@ -2895,19 +2901,20 @@
   },
   "what are you doing this week?": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
       "2026-03-09",
       "2026-03-10",
       "2026-03-13",
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "lobsters",
       "devto",
       "hacker_news"
     ],
-    "peak_score": 166,
+    "peak_score": 294,
     "keywords": [
       "what",
       "week?",
@@ -4257,14 +4264,16 @@
   },
   "benchmarking language modeling for lossless compression of full-fidelity audio": {
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-10",
+    "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-10"
+      "2026-03-10",
+      "2026-03-15"
     ],
     "sources": [
-      "arxiv"
+      "arxiv",
+      "lobsters"
     ],
-    "peak_score": 0,
+    "peak_score": 11,
     "keywords": [
       "language",
       "benchmarking",
@@ -5803,14 +5812,15 @@
   },
   "exploring the ocean with raspberry pi–powered marine robots": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-15"
     ],
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 66,
+    "peak_score": 80,
     "keywords": [
       "ocean",
       "with",
@@ -6017,17 +6027,18 @@
   },
   "knowsuchagency/mcp2cli": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
       "2026-03-11",
       "2026-03-12",
       "2026-03-13",
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 908,
+    "peak_score": 976,
     "keywords": [
       "knowsuchagency/mcp2cli"
     ]
@@ -6969,12 +6980,13 @@
   },
   "photon-hq/qclaw-wechat-client": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
       "2026-03-11",
       "2026-03-12",
       "2026-03-13",
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "github"
@@ -7359,14 +7371,15 @@
   },
   "i built a cli that finds dying files in your codebase": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-15"
     ],
     "sources": [
       "devto"
     ],
-    "peak_score": 1,
+    "peak_score": 3,
     "keywords": [
       "your",
       "dying",
@@ -7942,13 +7955,15 @@
   },
   "the macbook neo": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-15",
     "seen_dates": [
       "2026-03-12",
-      "2026-03-13"
+      "2026-03-13",
+      "2026-03-15"
     ],
     "sources": [
-      "hacker_news"
+      "hacker_news",
+      "techcrunch"
     ],
     "peak_score": 460,
     "keywords": [
@@ -8044,9 +8059,10 @@
   },
   "against vibes: when is a generative model useful": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-15"
     ],
     "sources": [
       "hacker_news",
@@ -8125,16 +8141,17 @@
   },
   "larksuite/openclaw-lark": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
       "2026-03-12",
       "2026-03-13",
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 905,
+    "peak_score": 943,
     "keywords": [
       "larksuite/openclaw-lark"
     ]
@@ -8169,16 +8186,17 @@
   },
   "gsd-build/gsd-2": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
       "2026-03-12",
       "2026-03-13",
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 1075,
+    "peak_score": 1182,
     "keywords": [
       "gsd-build/gsd-2"
     ]
@@ -8537,10 +8555,11 @@
   },
   "getting started with gemini cli": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
       "2026-03-12",
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "devto",
@@ -9139,15 +9158,17 @@
   },
   "reliable software in the llm era": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
       "2026-03-12",
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
-      "hacker_news"
+      "hacker_news",
+      "lobsters"
     ],
-    "peak_score": 389,
+    "peak_score": 475,
     "keywords": [
       "software",
       "reliable"
@@ -9312,16 +9333,17 @@
   },
   "garrytan/gstack": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
       "2026-03-12",
       "2026-03-13",
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 9025,
+    "peak_score": 11239,
     "keywords": [
       "garrytan/gstack"
     ]
@@ -10377,45 +10399,48 @@
   },
   "aiming-lab/metaclaw": {
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
       "2026-03-13",
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 1089,
+    "peak_score": 1169,
     "keywords": [
       "aiming-lab/metaclaw"
     ]
   },
   "chrisworsey55/atlas-gic": {
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
       "2026-03-13",
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 773,
+    "peak_score": 786,
     "keywords": [
       "chrisworsey55/atlas-gic"
     ]
   },
   "tianyidatascience/openclaw-control-center": {
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
       "2026-03-13",
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 1340,
+    "peak_score": 1499,
     "keywords": [
       "tianyidatascience/openclaw-control-center"
     ]
@@ -11049,10 +11074,11 @@
   },
   "the latent color subspace: emergent order in high-dimensional chaos": {
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
       "2026-03-13",
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "arxiv"
@@ -11070,10 +11096,11 @@
   },
   "spatial-ttt: streaming visual-based spatial intelligence with test-time training": {
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
       "2026-03-13",
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "arxiv"
@@ -11092,10 +11119,11 @@
   },
   "scimdr: benchmarking and advancing scientific multimodal document reasoning": {
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
       "2026-03-13",
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "arxiv"
@@ -11113,10 +11141,11 @@
   },
   "matching features, not tokens: energy-based fine-tuning of language models": {
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
       "2026-03-13",
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "arxiv"
@@ -11134,10 +11163,11 @@
   },
   "examining reasoning llms-as-judges in non-verifiable llm post-training": {
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
       "2026-03-13",
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "arxiv"
@@ -11153,10 +11183,11 @@
   },
   "separable neural architectures as a primitive for unified predictive and generative intelligence": {
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
       "2026-03-13",
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "arxiv"
@@ -11175,10 +11206,11 @@
   },
   "bigain: unified token compression for joint generation and classification": {
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
       "2026-03-13",
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "arxiv"
@@ -11196,10 +11228,11 @@
   },
   "stamp: selective task-aware mechanism for text privacy": {
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
       "2026-03-13",
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "arxiv"
@@ -11216,10 +11249,11 @@
   },
   "incremental neural network verification via learned conflicts": {
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
       "2026-03-13",
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "arxiv"
@@ -11236,10 +11270,11 @@
   },
   "temporal straightening for latent planning": {
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
       "2026-03-13",
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "arxiv"
@@ -11292,10 +11327,11 @@
   },
   "i traced $2b in grants and 45 states' lobbying behind age‑verification bills": {
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
       "2026-03-13",
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "hacker_news",
@@ -11610,15 +11646,16 @@
   },
   "davebcn87/pi-autoresearch": {
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
       "2026-03-13",
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 1463,
+    "peak_score": 1657,
     "keywords": [
       "davebcn87/pi-autoresearch"
     ]
@@ -12006,15 +12043,16 @@
   },
   "the plumbing of everyday magic": {
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
       "2026-03-13",
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "lobsters"
     ],
-    "peak_score": 17,
+    "peak_score": 80,
     "keywords": [
       "plumbing",
       "magic",
@@ -12023,10 +12061,11 @@
   },
   "webrazzi ai 2026'nın yeni konuşmacıları belli oldu!": {
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
       "2026-03-13",
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "webrazzi"
@@ -12043,10 +12082,11 @@
   },
   "atlassian, iş gücünün yüzde 10'una denk gelen 1.600 kişiyi işten çıkaracağını duyurdu": {
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
       "2026-03-13",
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "webrazzi"
@@ -12068,10 +12108,11 @@
   },
   "google haritalar, yapay zeka destekli yeni özelliklerini duyurdu": {
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
       "2026-03-13",
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "webrazzi"
@@ -12090,10 +12131,11 @@
   },
   "claude, artık etkileşimli grafikler, diyagramlar ve görselleştirmeler oluşturabiliyor": {
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
       "2026-03-13",
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "webrazzi"
@@ -12126,14 +12168,15 @@
   },
   "1m context is now generally available for opus 4.6 and sonnet 4.6": {
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 981,
+    "peak_score": 1143,
     "keywords": [
       "context",
       "available",
@@ -12365,9 +12408,10 @@
   },
   "mynextbrowser": {
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "product_hunt"
@@ -12379,9 +12423,10 @@
   },
   "docket": {
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "product_hunt"
@@ -12393,9 +12438,10 @@
   },
   "lingofable": {
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "product_hunt"
@@ -12407,9 +12453,10 @@
   },
   "socra": {
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "product_hunt"
@@ -12421,9 +12468,10 @@
   },
   "campee": {
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "product_hunt"
@@ -12435,9 +12483,10 @@
   },
   "struct": {
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "product_hunt"
@@ -12449,9 +12498,10 @@
   },
   "rainfrog": {
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "product_hunt"
@@ -12463,9 +12513,10 @@
   },
   "ai website redesign by shuffle": {
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "product_hunt"
@@ -12493,23 +12544,25 @@
   },
   "wanshuiyin/auto-claude-code-research-in-sleep": {
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 779,
+    "peak_score": 975,
     "keywords": [
       "wanshuiyin/auto-claude-code-research-in-sleep"
     ]
   },
   "how to use the new chatgpt app integrations, including doordash, spotify, uber, and others": {
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "techcrunch"
@@ -12527,9 +12580,10 @@
   },
   "‘not built right the first time’ — musk’s xai is starting over again, again": {
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "techcrunch"
@@ -12550,9 +12604,10 @@
   },
   "lawyer behind ai psychosis cases warns of mass casualty risks": {
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "techcrunch"
@@ -12571,9 +12626,10 @@
   },
   "digg lays off staff and shuts down app as company retools": {
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "techcrunch"
@@ -12591,9 +12647,10 @@
   },
   "nyne, founded by a father-son duo, gives ai agents the human context they’re missing": {
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "techcrunch"
@@ -12614,9 +12671,10 @@
   },
   "facebook makes it easier for creators to report impersonators": {
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "techcrunch"
@@ -12633,9 +12691,10 @@
   },
   "steven spielberg says he’s ‘never used ai’ in any of his films": {
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "techcrunch"
@@ -12653,9 +12712,10 @@
   },
   "the biggest ai stories of the year (so far)": {
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "techcrunch"
@@ -12670,9 +12730,10 @@
   },
   "travis kalanick launches a new company called atoms focused on robotics": {
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "techcrunch"
@@ -12691,9 +12752,10 @@
   },
   "the wild six weeks for nanoclaw’s creator that led to a deal with docker": {
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "techcrunch"
@@ -12851,14 +12913,15 @@
   },
   "eventual consistency needs a read barrier": {
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "devto"
     ],
-    "peak_score": 1,
+    "peak_score": 2,
     "keywords": [
       "barrier",
       "eventual",
@@ -12951,14 +13014,16 @@
   },
   "an ode to bzip": {
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
-      "lobsters"
+      "lobsters",
+      "hacker_news"
     ],
-    "peak_score": 34,
+    "peak_score": 110,
     "keywords": [
       "bzip"
     ]
@@ -13001,14 +13066,15 @@
   },
   "a guide to vim.pack (neovim built-in plugin manager)": {
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "lobsters"
     ],
-    "peak_score": 12,
+    "peak_score": 29,
     "keywords": [
       "vim.pack",
       "(neovim",
@@ -13020,14 +13086,15 @@
   },
   "montana passes right to compute act (2025)": {
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 82,
+    "peak_score": 257,
     "keywords": [
       "passes",
       "(2025)",
@@ -13038,14 +13105,15 @@
   },
   "python: the optimization ladder": {
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 109,
+    "peak_score": 295,
     "keywords": [
       "python:",
       "optimization",
@@ -13090,9 +13158,10 @@
   },
   "lemon": {
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "product_hunt"
@@ -13104,23 +13173,25 @@
   },
   "pasky/chrome-cdp-skill": {
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 738,
+    "peak_score": 1055,
     "keywords": [
       "pasky/chrome-cdp-skill"
     ]
   },
   "as people look for ways to make new friends, here are the apps promising to help": {
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "techcrunch"
@@ -13140,14 +13211,15 @@
   },
   "like lego? love python! 🧱🐍 ep.4": {
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "devto"
     ],
-    "peak_score": 1,
+    "peak_score": 3,
     "keywords": [
       "ep.4",
       "like",
@@ -13158,14 +13230,15 @@
   },
   "how proofvault turned trust from a documentation claim into a reproducible release artifact": {
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "devto"
     ],
-    "peak_score": 1,
+    "peak_score": 2,
     "keywords": [
       "artifact",
       "turned",
@@ -13194,6 +13267,648 @@
       "week",
       "core",
       "building"
+    ]
+  },
+  "show hn: han – a korean programming language written in rust": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 136,
+    "keywords": [
+      "written",
+      "rust",
+      "programming",
+      "korean",
+      "language",
+      "show"
+    ]
+  },
+  "sbcl fibers – lightweight cooperative threads": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 63,
+    "keywords": [
+      "cooperative",
+      "sbcl",
+      "threads",
+      "lightweight",
+      "fibers"
+    ]
+  },
+  "bumblebee queens breathe underwater to survive drowning": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 95,
+    "keywords": [
+      "survive",
+      "bumblebee",
+      "underwater",
+      "drowning",
+      "queens",
+      "breathe"
+    ]
+  },
+  "allow me to get to know you, mistakes and all": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 69,
+    "keywords": [
+      "mistakes",
+      "you,",
+      "allow",
+      "know"
+    ]
+  },
+  "launching the claude partner network": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 118,
+    "keywords": [
+      "partner",
+      "network",
+      "launching",
+      "claude"
+    ]
+  },
+  "airbus is preparing two uncrewed combat aircraft": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 110,
+    "keywords": [
+      "preparing",
+      "combat",
+      "airbus",
+      "aircraft",
+      "uncrewed"
+    ]
+  },
+  "how kernel anti-cheats work": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 95,
+    "keywords": [
+      "anti-cheats",
+      "work",
+      "kernel"
+    ]
+  },
+  "library of short stories": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 61,
+    "keywords": [
+      "library",
+      "stories",
+      "short"
+    ]
+  },
+  "a recursive algorithm to render signed distance fields": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 72,
+    "keywords": [
+      "fields",
+      "recursive",
+      "distance",
+      "render",
+      "signed",
+      "algorithm"
+    ]
+  },
+  "show hn: ichinichi – one note per day, e2e encrypted, local-first": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 86,
+    "keywords": [
+      "ichinichi",
+      "day,",
+      "note",
+      "local-first",
+      "show",
+      "encrypted,"
+    ]
+  },
+  "postgres with builtin file systems": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 52,
+    "keywords": [
+      "file",
+      "systems",
+      "postgres",
+      "with",
+      "builtin"
+    ]
+  },
+  "learning creative coding": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 63,
+    "keywords": [
+      "creative",
+      "coding",
+      "learning"
+    ]
+  },
+  "changes to openttd distribution on steam": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "hacker_news",
+      "lobsters"
+    ],
+    "peak_score": 139,
+    "keywords": [
+      "changes",
+      "steam",
+      "openttd",
+      "distribution"
+    ]
+  },
+  "starlink militarization and its impact on global strategic stability (2023)": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 149,
+    "keywords": [
+      "strategic",
+      "starlink",
+      "global",
+      "(2023)",
+      "stability",
+      "impact",
+      "militarization"
+    ]
+  },
+  "skernelx/tavily-key-generator": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 721,
+    "keywords": [
+      "skernelx/tavily-key-generator"
+    ]
+  },
+  "dongsheng123132/u-claw": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 673,
+    "keywords": [
+      "dongsheng123132/u-claw"
+    ]
+  },
+  "upper-up/meta-lobbying-and-other-findings": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 628,
+    "keywords": [
+      "upper-up/meta-lobbying-and-other-findings"
+    ]
+  },
+  "rightnow-ai/autokernel": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 624,
+    "keywords": [
+      "rightnow-ai/autokernel"
+    ]
+  },
+  "us army announces contract with anduril worth up to $20b": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "anduril",
+      "army",
+      "with",
+      "worth",
+      "$20b",
+      "contract",
+      "announces"
+    ]
+  },
+  "honda is killing its evs — and any chance of competing in the future": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "future",
+      "chance",
+      "killing",
+      "competing",
+      "honda"
+    ]
+  },
+  "meta reportedly considering layoffs that could affect 20% of the company": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "meta",
+      "layoffs",
+      "that",
+      "considering",
+      "company",
+      "reportedly",
+      "could",
+      "affect"
+    ]
+  },
+  "90% of code will be ai-generated — so what the hell do we actually do?": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 24,
+    "keywords": [
+      "hell",
+      "ai-generated",
+      "what",
+      "actually",
+      "code",
+      "will"
+    ]
+  },
+  "astro docs without a single manual screenshot": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 1,
+    "keywords": [
+      "docs",
+      "manual",
+      "single",
+      "astro",
+      "without",
+      "screenshot"
+    ]
+  },
+  "building agent emulator: habbo emulator + mcp 👨‍💻🏨": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 3,
+    "keywords": [
+      "emulator:",
+      "emulator",
+      "building",
+      "agent",
+      "habbo",
+      "👨‍💻🏨"
+    ]
+  },
+  "how i built clsh: phone-first terminal access to your mac": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 2,
+    "keywords": [
+      "built",
+      "access",
+      "clsh:",
+      "your",
+      "terminal",
+      "phone-first"
+    ]
+  },
+  "i built a saas app on a broken phone that got stolen - here's what i learned": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 2,
+    "keywords": [
+      "saas",
+      "built",
+      "stolen",
+      "what",
+      "phone",
+      "learned",
+      "here's",
+      "that",
+      "broken"
+    ]
+  },
+  "heavy ai agent frameworks were too slow for my raspberry pi. so i built a different one": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 3,
+    "keywords": [
+      "built",
+      "raspberry",
+      "frameworks",
+      "were",
+      "agent",
+      "slow",
+      "different",
+      "heavy"
+    ]
+  },
+  "stop putting llm api keys in .env files": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 1,
+    "keywords": [
+      "keys",
+      "putting",
+      ".env",
+      "files",
+      "stop"
+    ]
+  },
+  "how i built my developer portfolio with next.js, gsap, and a 100 seo score": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 2,
+    "keywords": [
+      "developer",
+      "built",
+      "next.js,",
+      "with",
+      "score",
+      "gsap,",
+      "portfolio"
+    ]
+  },
+  "ledgermind 3.0 3.3.2: how we turned \"it works\" into \"it works brilliantly\"": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 1,
+    "keywords": [
+      "turned",
+      "3.3.2:",
+      "works",
+      "ledgermind",
+      "brilliantly\"",
+      "works\"",
+      "into"
+    ]
+  },
+  "tree-style invite systems reduce ai slop": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 13,
+    "keywords": [
+      "tree-style",
+      "systems",
+      "reduce",
+      "slop",
+      "invite"
+    ]
+  },
+  "sunsetting jazzband": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 18,
+    "keywords": [
+      "sunsetting",
+      "jazzband"
+    ]
+  },
+  "why mathematica does not simplify sinh[arccosh[x]]": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 14,
+    "keywords": [
+      "simplify",
+      "sinh[arccosh[x]]",
+      "does",
+      "mathematica"
+    ]
+  },
+  "lies i was told about collaborative editing, part 2: why we don't use yjs": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 13,
+    "keywords": [
+      "told",
+      "editing,",
+      "part",
+      "collaborative",
+      "lies",
+      "don't",
+      "about"
+    ]
+  },
+  "humanities in the machine": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 14,
+    "keywords": [
+      "humanities",
+      "machine"
+    ]
+  },
+  "a preview of coalton 0.2": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 8,
+    "keywords": [
+      "coalton",
+      "preview"
     ]
   }
 }

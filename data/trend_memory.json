@@ -1,11 +1,12 @@
 {
   "agent safehouse – macos-native sandboxing for local agents": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-15",
     "seen_dates": [
       "2026-03-09",
       "2026-03-12",
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-15"
     ],
     "sources": [
       "hacker_news",
@@ -258,9 +259,10 @@
   },
   "wsl manager": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-09"
+      "2026-03-09",
+      "2026-03-15"
     ],
     "sources": [
       "hacker_news",
@@ -310,12 +312,14 @@
   },
   "show hn: i built a real-time osint dashboard pulling 15 live global feeds": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-09"
+      "2026-03-09",
+      "2026-03-15"
     ],
     "sources": [
-      "hacker_news"
+      "hacker_news",
+      "lobsters"
     ],
     "peak_score": 204,
     "keywords": [
@@ -871,9 +875,10 @@
   },
   "techcrunch mobility: rivian’s r2 gambit": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-09"
+      "2026-03-09",
+      "2026-03-15"
     ],
     "sources": [
       "techcrunch"
@@ -926,10 +931,11 @@
   },
   "google just gave sundar pichai a $692m pay package": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-15",
     "seen_dates": [
       "2026-03-09",
-      "2026-03-13"
+      "2026-03-13",
+      "2026-03-15"
     ],
     "sources": [
       "techcrunch",
@@ -2767,13 +2773,15 @@
   },
   "production query plans without production data": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-10",
+    "last_seen": "2026-03-15",
     "seen_dates": [
       "2026-03-09",
-      "2026-03-10"
+      "2026-03-10",
+      "2026-03-15"
     ],
     "sources": [
-      "lobsters"
+      "lobsters",
+      "product_hunt"
     ],
     "peak_score": 46,
     "keywords": [
@@ -4218,14 +4226,16 @@
   },
   "a multi-objective optimization approach for sustainable ai-driven entrepreneurship in resilient economies": {
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-10",
+    "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-10"
+      "2026-03-10",
+      "2026-03-15"
     ],
     "sources": [
-      "arxiv"
+      "arxiv",
+      "lobsters"
     ],
-    "peak_score": 0,
+    "peak_score": 8,
     "keywords": [
       "entrepreneurship",
       "multi-objective",
@@ -6038,7 +6048,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 976,
+    "peak_score": 1068,
     "keywords": [
       "knowsuchagency/mcp2cli"
     ]
@@ -6991,7 +7001,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 723,
+    "peak_score": 725,
     "keywords": [
       "photon-hq/qclaw-wechat-client"
     ]
@@ -7379,7 +7389,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 3,
+    "peak_score": 5,
     "keywords": [
       "your",
       "dying",
@@ -8151,7 +8161,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 943,
+    "peak_score": 997,
     "keywords": [
       "larksuite/openclaw-lark"
     ]
@@ -8196,7 +8206,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1182,
+    "peak_score": 1300,
     "keywords": [
       "gsd-build/gsd-2"
     ]
@@ -9343,7 +9353,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 11239,
+    "peak_score": 12884,
     "keywords": [
       "garrytan/gstack"
     ]
@@ -10408,7 +10418,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1169,
+    "peak_score": 1243,
     "keywords": [
       "aiming-lab/metaclaw"
     ]
@@ -10424,7 +10434,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 786,
+    "peak_score": 797,
     "keywords": [
       "chrisworsey55/atlas-gic"
     ]
@@ -10440,7 +10450,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1499,
+    "peak_score": 1672,
     "keywords": [
       "tianyidatascience/openclaw-control-center"
     ]
@@ -11655,7 +11665,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1657,
+    "peak_score": 1769,
     "keywords": [
       "davebcn87/pi-autoresearch"
     ]
@@ -12052,7 +12062,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 80,
+    "peak_score": 99,
     "keywords": [
       "plumbing",
       "magic",
@@ -12552,7 +12562,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 975,
+    "peak_score": 1233,
     "keywords": [
       "wanshuiyin/auto-claude-code-research-in-sleep"
     ]
@@ -13074,7 +13084,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 29,
+    "peak_score": 34,
     "keywords": [
       "vim.pack",
       "(neovim",
@@ -13181,7 +13191,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1055,
+    "peak_score": 1304,
     "keywords": [
       "pasky/chrome-cdp-skill"
     ]
@@ -13278,7 +13288,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 136,
+    "peak_score": 197,
     "keywords": [
       "written",
       "rust",
@@ -13297,7 +13307,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 63,
+    "peak_score": 130,
     "keywords": [
       "cooperative",
       "sbcl",
@@ -13315,7 +13325,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 95,
+    "peak_score": 176,
     "keywords": [
       "survive",
       "bumblebee",
@@ -13334,7 +13344,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 69,
+    "peak_score": 237,
     "keywords": [
       "mistakes",
       "you,",
@@ -13386,7 +13396,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 95,
+    "peak_score": 276,
     "keywords": [
       "anti-cheats",
       "work",
@@ -13528,7 +13538,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 721,
+    "peak_score": 858,
     "keywords": [
       "skernelx/tavily-key-generator"
     ]
@@ -13542,7 +13552,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 673,
+    "peak_score": 725,
     "keywords": [
       "dongsheng123132/u-claw"
     ]
@@ -13556,7 +13566,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 628,
+    "peak_score": 646,
     "keywords": [
       "upper-up/meta-lobbying-and-other-findings"
     ]
@@ -13643,7 +13653,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 24,
+    "peak_score": 45,
     "keywords": [
       "hell",
       "ai-generated",
@@ -13741,7 +13751,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 3,
+    "peak_score": 4,
     "keywords": [
       "built",
       "raspberry",
@@ -13780,7 +13790,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 2,
+    "peak_score": 4,
     "keywords": [
       "developer",
       "built",
@@ -13800,7 +13810,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 1,
+    "peak_score": 2,
     "keywords": [
       "turned",
       "3.3.2:",
@@ -13820,7 +13830,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 13,
+    "peak_score": 58,
     "keywords": [
       "tree-style",
       "systems",
@@ -13838,7 +13848,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 18,
+    "peak_score": 30,
     "keywords": [
       "sunsetting",
       "jazzband"
@@ -13851,9 +13861,10 @@
       "2026-03-15"
     ],
     "sources": [
-      "lobsters"
+      "lobsters",
+      "hacker_news"
     ],
-    "peak_score": 14,
+    "peak_score": 112,
     "keywords": [
       "simplify",
       "sinh[arccosh[x]]",
@@ -13870,7 +13881,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 13,
+    "peak_score": 22,
     "keywords": [
       "told",
       "editing,",
@@ -13888,9 +13899,10 @@
       "2026-03-15"
     ],
     "sources": [
-      "lobsters"
+      "lobsters",
+      "hacker_news"
     ],
-    "peak_score": 14,
+    "peak_score": 193,
     "keywords": [
       "humanities",
       "machine"
@@ -13909,6 +13921,578 @@
     "keywords": [
       "coalton",
       "preview"
+    ]
+  },
+  "show hn: signet – autonomous wildfire tracking from satellite and weather data": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 60,
+    "keywords": [
+      "signet",
+      "wildfire",
+      "from",
+      "tracking",
+      "autonomous",
+      "show",
+      "data",
+      "weather",
+      "satellite"
+    ]
+  },
+  "rack-mount hydroponics": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 266,
+    "keywords": [
+      "rack-mount",
+      "hydroponics"
+    ]
+  },
+  "$96 3d-printed rocket that recalculates its mid-air trajectory using a $5 sensor": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 260,
+    "keywords": [
+      "sensor",
+      "recalculates",
+      "that",
+      "3d-printed",
+      "rocket",
+      "using",
+      "trajectory",
+      "mid-air"
+    ]
+  },
+  "the appalling stupidity of spotify's ai dj": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 306,
+    "keywords": [
+      "stupidity",
+      "appalling",
+      "spotify's"
+    ]
+  },
+  "examples for the tcpdump and dig man pages": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 59,
+    "keywords": [
+      "tcpdump",
+      "pages",
+      "examples"
+    ]
+  },
+  "a most elegant tcp hole punching algorithm": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 162,
+    "keywords": [
+      "most",
+      "algorithm",
+      "punching",
+      "elegant",
+      "hole"
+    ]
+  },
+  "treasure hunter freed from jail after refusing to turn over shipwreck gold": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 143,
+    "keywords": [
+      "shipwreck",
+      "from",
+      "over",
+      "jail",
+      "gold",
+      "refusing",
+      "hunter",
+      "freed",
+      "after",
+      "treasure",
+      "turn"
+    ]
+  },
+  "pentagon expands oversight of stars and stripes, limits content": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 107,
+    "keywords": [
+      "stars",
+      "expands",
+      "content",
+      "oversight",
+      "stripes,",
+      "limits",
+      "pentagon"
+    ]
+  },
+  "100 hour gap between a vibecoded prototype and a working product": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 129,
+    "keywords": [
+      "product",
+      "hour",
+      "working",
+      "between",
+      "vibecoded",
+      "prototype"
+    ]
+  },
+  "centuries of selective breeding turned wild cabbage into different vegetables": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 98,
+    "keywords": [
+      "breeding",
+      "vegetables",
+      "centuries",
+      "turned",
+      "cabbage",
+      "wild",
+      "selective",
+      "into",
+      "different"
+    ]
+  },
+  "a theory of the world as run by large adult children": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 198,
+    "keywords": [
+      "adult",
+      "children",
+      "theory",
+      "large",
+      "world"
+    ]
+  },
+  "elevencreative by elevenlabs": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "elevencreative",
+      "elevenlabs"
+    ]
+  },
+  "clawsecure": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "clawsecure"
+    ]
+  },
+  "laterai": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "laterai"
+    ]
+  },
+  "byterover memory system for openclaw": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "openclaw",
+      "memory",
+      "system",
+      "byterover"
+    ]
+  },
+  "nutgrafe": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "nutgrafe"
+    ]
+  },
+  "aura water: private hydration": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "hydration",
+      "private",
+      "aura",
+      "water:"
+    ]
+  },
+  "the banana app": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "banana"
+    ]
+  },
+  "narcooo/inkos": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 711,
+    "keywords": [
+      "narcooo/inkos"
+    ]
+  },
+  "wiz investor unpacks google’s $32b acquisition": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "unpacks",
+      "investor",
+      "$32b",
+      "google’s",
+      "acquisition"
+    ]
+  },
+  "rivian’s rj scaringe thinks we’re doing robots all wrong": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "wrong",
+      "rivian’s",
+      "doing",
+      "thinks",
+      "we’re",
+      "robots",
+      "scaringe"
+    ]
+  },
+  "tokis: a performance-first, token-native ui library for building modern design systems": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 4,
+    "keywords": [
+      "library",
+      "design",
+      "systems",
+      "modern",
+      "building",
+      "token-native",
+      "tokis:",
+      "performance-first,"
+    ]
+  },
+  "how i bypassed pytorch oom errors with a zero-copy c++ graph engine": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 4,
+    "keywords": [
+      "bypassed",
+      "graph",
+      "with",
+      "pytorch",
+      "engine",
+      "zero-copy",
+      "errors"
+    ]
+  },
+  "git archaeology #15 — ai creates stars, not gravity": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "gravity",
+      "creates",
+      "archaeology",
+      "stars,"
+    ]
+  },
+  "git archaeology #14 — civilization: why only some codebases become civilizations": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "codebases",
+      "become",
+      "only",
+      "civilizations",
+      "civilization:",
+      "some",
+      "archaeology"
+    ]
+  },
+  "i built a zero-dependency validation library for every indian developer": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 3,
+    "keywords": [
+      "library",
+      "validation",
+      "zero-dependency",
+      "built",
+      "every",
+      "developer",
+      "indian"
+    ]
+  },
+  "extracting pedestrian trajectories from street video as json": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 1,
+    "keywords": [
+      "video",
+      "from",
+      "pedestrian",
+      "extracting",
+      "street",
+      "trajectories",
+      "json"
+    ]
+  },
+  "why i, as someone who likes mysql, now want to recommend postgresql": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 1,
+    "keywords": [
+      "recommend",
+      "want",
+      "someone",
+      "mysql,",
+      "postgresql",
+      "likes"
+    ]
+  },
+  "summary - rust project perspectives on ai": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 12,
+    "keywords": [
+      "perspectives",
+      "rust",
+      "summary",
+      "project"
+    ]
+  },
+  "lotusnotes": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 12,
+    "keywords": [
+      "lotusnotes"
+    ]
+  },
+  "one hundred curl graphs": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 9,
+    "keywords": [
+      "hundred",
+      "graphs",
+      "curl"
+    ]
+  },
+  "mount mayhem at netflix: scaling containers on modern cpus": {
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15",
+    "seen_dates": [
+      "2026-03-15"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 7,
+    "keywords": [
+      "netflix:",
+      "cpus",
+      "scaling",
+      "mount",
+      "modern",
+      "containers",
+      "mayhem"
     ]
   }
 }

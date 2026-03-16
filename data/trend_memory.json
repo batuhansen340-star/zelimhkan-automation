@@ -1,12 +1,13 @@
 {
   "agent safehouse – macos-native sandboxing for local agents": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
       "2026-03-09",
       "2026-03-12",
       "2026-03-14",
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "hacker_news",
@@ -259,17 +260,18 @@
   },
   "wsl manager": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
       "2026-03-09",
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "hacker_news",
       "devto",
       "lobsters"
     ],
-    "peak_score": 83,
+    "peak_score": 256,
     "keywords": [
       "manager"
     ]
@@ -312,10 +314,11 @@
   },
   "show hn: i built a real-time osint dashboard pulling 15 live global feeds": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
       "2026-03-09",
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "hacker_news",
@@ -875,10 +878,11 @@
   },
   "techcrunch mobility: rivian’s r2 gambit": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
       "2026-03-09",
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "techcrunch"
@@ -1190,16 +1194,17 @@
   },
   "stop treating ai agents as web servers: a kubernetes survival guide - part 1": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-16",
     "seen_dates": [
       "2026-03-09",
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-16"
     ],
     "sources": [
       "devto",
       "hacker_news"
     ],
-    "peak_score": 148,
+    "peak_score": 213,
     "keywords": [
       "guide",
       "survival",
@@ -1557,12 +1562,13 @@
   },
   "anthropic'ten işletmeler için yapay zeka araçlarının satın alımını basitleştiren platform: claude marketplace": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
       "2026-03-09",
       "2026-03-13",
       "2026-03-14",
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "webrazzi"
@@ -1585,7 +1591,7 @@
   },
   "nöroteknoloji girişimi cognito therapeutics, 105 milyon dolar yatırım aldı": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
       "2026-03-09",
       "2026-03-10",
@@ -1593,7 +1599,8 @@
       "2026-03-12",
       "2026-03-13",
       "2026-03-14",
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "webrazzi"
@@ -1721,16 +1728,18 @@
   },
   "bevlm: distilling semantic knowledge from llms into bird's-eye view representations": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-16",
     "seen_dates": [
       "2026-03-09",
-      "2026-03-13"
+      "2026-03-13",
+      "2026-03-16"
     ],
     "sources": [
       "arxiv",
-      "product_hunt"
+      "product_hunt",
+      "hacker_news"
     ],
-    "peak_score": 0,
+    "peak_score": 148,
     "keywords": [
       "knowledge",
       "llms",
@@ -2773,11 +2782,12 @@
   },
   "production query plans without production data": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
       "2026-03-09",
       "2026-03-10",
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "lobsters",
@@ -3894,9 +3904,10 @@
   },
   "i built a vs code extension that lets you chat with your database - everything runs locally": {
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-10",
+    "last_seen": "2026-03-16",
     "seen_dates": [
-      "2026-03-10"
+      "2026-03-10",
+      "2026-03-16"
     ],
     "sources": [
       "devto"
@@ -6990,18 +7001,19 @@
   },
   "photon-hq/qclaw-wechat-client": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
       "2026-03-11",
       "2026-03-12",
       "2026-03-13",
       "2026-03-14",
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 725,
+    "peak_score": 729,
     "keywords": [
       "photon-hq/qclaw-wechat-client"
     ]
@@ -7276,16 +7288,19 @@
   },
   "i built a free offline barcode & qr scanner for android — here's what i learned about offline-first flutter architecture": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-16",
     "seen_dates": [
       "2026-03-11",
       "2026-03-12",
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-16"
     ],
     "sources": [
-      "devto"
+      "devto",
+      "hacker_news",
+      "lobsters"
     ],
-    "peak_score": 2,
+    "peak_score": 322,
     "keywords": [
       "learned",
       "scanner",
@@ -7965,11 +7980,12 @@
   },
   "the macbook neo": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
       "2026-03-12",
       "2026-03-13",
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "hacker_news",
@@ -8196,17 +8212,18 @@
   },
   "gsd-build/gsd-2": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
       "2026-03-12",
       "2026-03-13",
       "2026-03-14",
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 1300,
+    "peak_score": 1395,
     "keywords": [
       "gsd-build/gsd-2"
     ]
@@ -8565,11 +8582,12 @@
   },
   "getting started with gemini cli": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
       "2026-03-12",
       "2026-03-14",
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "devto",
@@ -9168,15 +9186,17 @@
   },
   "reliable software in the llm era": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
       "2026-03-12",
       "2026-03-14",
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "hacker_news",
-      "lobsters"
+      "lobsters",
+      "product_hunt"
     ],
     "peak_score": 475,
     "keywords": [
@@ -9343,17 +9363,18 @@
   },
   "garrytan/gstack": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
       "2026-03-12",
       "2026-03-13",
       "2026-03-14",
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 12884,
+    "peak_score": 14640,
     "keywords": [
       "garrytan/gstack"
     ]
@@ -9917,14 +9938,16 @@
   },
   "//go:fix inline and the source-level inliner": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-16",
     "seen_dates": [
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-16"
     ],
     "sources": [
-      "lobsters"
+      "lobsters",
+      "hacker_news"
     ],
-    "peak_score": 33,
+    "peak_score": 127,
     "keywords": [
       "source-level",
       "//go:fix",
@@ -10425,32 +10448,34 @@
   },
   "chrisworsey55/atlas-gic": {
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
       "2026-03-13",
       "2026-03-14",
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 797,
+    "peak_score": 807,
     "keywords": [
       "chrisworsey55/atlas-gic"
     ]
   },
   "tianyidatascience/openclaw-control-center": {
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
       "2026-03-13",
       "2026-03-14",
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 1672,
+    "peak_score": 1775,
     "keywords": [
       "tianyidatascience/openclaw-control-center"
     ]
@@ -11656,16 +11681,17 @@
   },
   "davebcn87/pi-autoresearch": {
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
       "2026-03-13",
       "2026-03-14",
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 1769,
+    "peak_score": 1881,
     "keywords": [
       "davebcn87/pi-autoresearch"
     ]
@@ -12071,11 +12097,12 @@
   },
   "webrazzi ai 2026'nın yeni konuşmacıları belli oldu!": {
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
       "2026-03-13",
       "2026-03-14",
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "webrazzi"
@@ -12092,11 +12119,12 @@
   },
   "atlassian, iş gücünün yüzde 10'una denk gelen 1.600 kişiyi işten çıkaracağını duyurdu": {
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
       "2026-03-13",
       "2026-03-14",
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "webrazzi"
@@ -12118,11 +12146,12 @@
   },
   "google haritalar, yapay zeka destekli yeni özelliklerini duyurdu": {
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
       "2026-03-13",
       "2026-03-14",
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "webrazzi"
@@ -12141,11 +12170,12 @@
   },
   "claude, artık etkileşimli grafikler, diyagramlar ve görselleştirmeler oluşturabiliyor": {
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
       "2026-03-13",
       "2026-03-14",
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "webrazzi"
@@ -12554,25 +12584,27 @@
   },
   "wanshuiyin/auto-claude-code-research-in-sleep": {
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
       "2026-03-14",
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 1233,
+    "peak_score": 1406,
     "keywords": [
       "wanshuiyin/auto-claude-code-research-in-sleep"
     ]
   },
   "how to use the new chatgpt app integrations, including doordash, spotify, uber, and others": {
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
       "2026-03-14",
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "techcrunch"
@@ -12614,10 +12646,11 @@
   },
   "lawyer behind ai psychosis cases warns of mass casualty risks": {
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
       "2026-03-14",
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "techcrunch"
@@ -13183,25 +13216,27 @@
   },
   "pasky/chrome-cdp-skill": {
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
       "2026-03-14",
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 1304,
+    "peak_score": 1615,
     "keywords": [
       "pasky/chrome-cdp-skill"
     ]
   },
   "as people look for ways to make new friends, here are the apps promising to help": {
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
       "2026-03-14",
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "techcrunch"
@@ -13493,9 +13528,10 @@
   },
   "changes to openttd distribution on steam": {
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "hacker_news",
@@ -13531,14 +13567,15 @@
   },
   "skernelx/tavily-key-generator": {
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 858,
+    "peak_score": 966,
     "keywords": [
       "skernelx/tavily-key-generator"
     ]
@@ -13559,37 +13596,40 @@
   },
   "upper-up/meta-lobbying-and-other-findings": {
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 646,
+    "peak_score": 664,
     "keywords": [
       "upper-up/meta-lobbying-and-other-findings"
     ]
   },
   "rightnow-ai/autokernel": {
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 624,
+    "peak_score": 649,
     "keywords": [
       "rightnow-ai/autokernel"
     ]
   },
   "us army announces contract with anduril worth up to $20b": {
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "techcrunch"
@@ -13607,9 +13647,10 @@
   },
   "honda is killing its evs — and any chance of competing in the future": {
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "techcrunch"
@@ -13625,9 +13666,10 @@
   },
   "meta reportedly considering layoffs that could affect 20% of the company": {
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "techcrunch"
@@ -13823,14 +13865,15 @@
   },
   "tree-style invite systems reduce ai slop": {
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "lobsters"
     ],
-    "peak_score": 58,
+    "peak_score": 81,
     "keywords": [
       "tree-style",
       "systems",
@@ -13894,15 +13937,16 @@
   },
   "humanities in the machine": {
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "lobsters",
       "hacker_news"
     ],
-    "peak_score": 193,
+    "peak_score": 342,
     "keywords": [
       "humanities",
       "machine"
@@ -13947,12 +13991,14 @@
   },
   "rack-mount hydroponics": {
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
-      "hacker_news"
+      "hacker_news",
+      "lobsters"
     ],
     "peak_score": 266,
     "keywords": [
@@ -14015,12 +14061,14 @@
   },
   "a most elegant tcp hole punching algorithm": {
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
-      "hacker_news"
+      "hacker_news",
+      "lobsters"
     ],
     "peak_score": 162,
     "keywords": [
@@ -14136,9 +14184,10 @@
   },
   "elevencreative by elevenlabs": {
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "product_hunt"
@@ -14151,9 +14200,10 @@
   },
   "clawsecure": {
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "product_hunt"
@@ -14165,9 +14215,10 @@
   },
   "laterai": {
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "product_hunt"
@@ -14179,9 +14230,10 @@
   },
   "byterover memory system for openclaw": {
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "product_hunt"
@@ -14196,9 +14248,10 @@
   },
   "nutgrafe": {
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "product_hunt"
@@ -14210,9 +14263,10 @@
   },
   "aura water: private hydration": {
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "product_hunt"
@@ -14241,23 +14295,25 @@
   },
   "narcooo/inkos": {
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 711,
+    "peak_score": 913,
     "keywords": [
       "narcooo/inkos"
     ]
   },
   "wiz investor unpacks google’s $32b acquisition": {
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "techcrunch"
@@ -14273,9 +14329,10 @@
   },
   "rivian’s rj scaringe thinks we’re doing robots all wrong": {
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "techcrunch"
@@ -14314,14 +14371,15 @@
   },
   "how i bypassed pytorch oom errors with a zero-copy c++ graph engine": {
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "devto"
     ],
-    "peak_score": 4,
+    "peak_score": 10,
     "keywords": [
       "bypassed",
       "graph",
@@ -14334,14 +14392,15 @@
   },
   "git archaeology #15 — ai creates stars, not gravity": {
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "devto"
     ],
-    "peak_score": 0,
+    "peak_score": 2,
     "keywords": [
       "gravity",
       "creates",
@@ -14351,14 +14410,15 @@
   },
   "git archaeology #14 — civilization: why only some codebases become civilizations": {
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "devto"
     ],
-    "peak_score": 0,
+    "peak_score": 2,
     "keywords": [
       "codebases",
       "become",
@@ -14430,14 +14490,15 @@
   },
   "summary - rust project perspectives on ai": {
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "lobsters"
     ],
-    "peak_score": 12,
+    "peak_score": 26,
     "keywords": [
       "perspectives",
       "rust",
@@ -14461,14 +14522,15 @@
   },
   "one hundred curl graphs": {
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "lobsters"
     ],
-    "peak_score": 9,
+    "peak_score": 22,
     "keywords": [
       "hundred",
       "graphs",
@@ -14493,6 +14555,879 @@
       "modern",
       "containers",
       "mayhem"
+    ]
+  },
+  "canada's bill c-22 mandates mass metadata surveillance": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 555,
+    "keywords": [
+      "mandates",
+      "mass",
+      "canada's",
+      "metadata",
+      "c-22",
+      "surveillance",
+      "bill"
+    ]
+  },
+  "chrome devtools mcp (2025)": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 419,
+    "keywords": [
+      "(2025)",
+      "chrome",
+      "devtools"
+    ]
+  },
+  "the 49mb web page": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 402,
+    "keywords": [
+      "page",
+      "49mb"
+    ]
+  },
+  "the linux programming interface as a university course text": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 64,
+    "keywords": [
+      "programming",
+      "linux",
+      "university",
+      "text",
+      "interface",
+      "course"
+    ]
+  },
+  "federal right to privacy act – draft legislation": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 57,
+    "keywords": [
+      "right",
+      "legislation",
+      "federal",
+      "privacy",
+      "draft"
+    ]
+  },
+  "what makes intel optane stand out (2023)": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 194,
+    "keywords": [
+      "what",
+      "optane",
+      "makes",
+      "stand",
+      "(2023)",
+      "intel"
+    ]
+  },
+  "glassworm is back: a new wave of invisible unicode attacks hits repositories": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 243,
+    "keywords": [
+      "repositories",
+      "wave",
+      "unicode",
+      "attacks",
+      "hits",
+      "back:",
+      "invisible",
+      "glassworm"
+    ]
+  },
+  "the emergence of print-on-demand amazon paperback books": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 123,
+    "keywords": [
+      "paperback",
+      "amazon",
+      "print-on-demand",
+      "books",
+      "emergence"
+    ]
+  },
+  "cannabinoids remove plaque-forming alzheimer's proteins from brain cells (2016)": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 91,
+    "keywords": [
+      "proteins",
+      "(2016)",
+      "remove",
+      "from",
+      "cells",
+      "brain",
+      "cannabinoids",
+      "alzheimer's",
+      "plaque-forming"
+    ]
+  },
+  "bus travel from lima to rio de janeiro": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 145,
+    "keywords": [
+      "janeiro",
+      "travel",
+      "lima",
+      "from"
+    ]
+  },
+  "nasdaq's shame": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 261,
+    "keywords": [
+      "nasdaq's",
+      "shame"
+    ]
+  },
+  "what is agentic engineering?": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 117,
+    "keywords": [
+      "agentic",
+      "what",
+      "engineering?"
+    ]
+  },
+  "learning athletic humanoid tennis skills from imperfect human motion data": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 136,
+    "keywords": [
+      "tennis",
+      "learning",
+      "athletic",
+      "from",
+      "human",
+      "imperfect",
+      "motion",
+      "data",
+      "humanoid",
+      "skills"
+    ]
+  },
+  "in memoriam: john w. addison, my phd advisor": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 111,
+    "keywords": [
+      "memoriam:",
+      "john",
+      "advisor",
+      "addison,"
+    ]
+  },
+  "morgen": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "morgen"
+    ]
+  },
+  "novatic14/manpads-system-launcher-and-rocket": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 1082,
+    "keywords": [
+      "novatic14/manpads-system-launcher-and-rocket"
+    ]
+  },
+  "twostraws/swift-agent-skills": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 621,
+    "keywords": [
+      "twostraws/swift-agent-skills"
+    ]
+  },
+  "michaelliv/pi-generative-ui": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 612,
+    "keywords": [
+      "michaelliv/pi-generative-ui"
+    ]
+  },
+  "the billionaires made a promise — now some want out": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "some",
+      "want",
+      "made",
+      "promise",
+      "billionaires"
+    ]
+  },
+  "netflix’s ‘frankenstein’ wins three oscars, ‘kpop demon hunters’ wins two": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "demon",
+      "oscars,",
+      "netflix’s",
+      "hunters’",
+      "‘frankenstein’",
+      "wins",
+      "three",
+      "‘kpop"
+    ]
+  },
+  "google, accel india accelerator chooses 5 startups and none are ‘ai wrappers’": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "accelerator",
+      "google,",
+      "startups",
+      "accel",
+      "chooses",
+      "none",
+      "wrappers’",
+      "india"
+    ]
+  },
+  "bytedance reportedly pauses global launch of its seedance 2.0 video generator": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "bytedance",
+      "generator",
+      "seedance",
+      "launch",
+      "video",
+      "global",
+      "pauses",
+      "reportedly"
+    ]
+  },
+  "unacademy to be acquired by upgrad in share-swap deal as india’s edtech sector consolidates": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "consolidates",
+      "unacademy",
+      "share-swap",
+      "edtech",
+      "upgrad",
+      "sector",
+      "acquired",
+      "deal",
+      "india’s"
+    ]
+  },
+  "why postgresql row-level security is the right approach to django multitenancy": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 2,
+    "keywords": [
+      "django",
+      "row-level",
+      "multitenancy",
+      "right",
+      "approach",
+      "postgresql",
+      "security"
+    ]
+  },
+  "fortran meets ai": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 4,
+    "keywords": [
+      "meets",
+      "fortran"
+    ]
+  },
+  "why your agent's memory architecture is probably wrong": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 6,
+    "keywords": [
+      "architecture",
+      "probably",
+      "your",
+      "wrong",
+      "agent's",
+      "memory"
+    ]
+  },
+  "so, you know what? i just wasted 3 months of my life": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 11,
+    "keywords": [
+      "months",
+      "wasted",
+      "what?",
+      "life",
+      "just",
+      "know"
+    ]
+  },
+  "i over-engineered my first project: bridging typescript and zig with bun! 🚀": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 3,
+    "keywords": [
+      "bridging",
+      "first",
+      "project:",
+      "over-engineered",
+      "typescript",
+      "with",
+      "bun!"
+    ]
+  },
+  "i wasted the first hour of every new project doing the same thing — so i built a fix": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 1,
+    "keywords": [
+      "thing",
+      "first",
+      "wasted",
+      "built",
+      "doing",
+      "hour",
+      "project",
+      "same",
+      "every"
+    ]
+  },
+  "my first attempt at building a productivity tool: the \"yes/no\"minimal task list": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 6,
+    "keywords": [
+      "attempt",
+      "first",
+      "productivity",
+      "tool:",
+      "list",
+      "task",
+      "building",
+      "\"yes/no\"minimal"
+    ]
+  },
+  "how i synced real-time cs2 predictions with twitch stream delay": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "real-time",
+      "stream",
+      "with",
+      "twitch",
+      "synced",
+      "delay",
+      "predictions"
+    ]
+  },
+  "the as/400 can't send a slack message. i made it.": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "slack",
+      "as/400",
+      "message.",
+      "send",
+      "can't",
+      "made"
+    ]
+  },
+  "i let claude code configure my arch install": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 8,
+    "keywords": [
+      "install",
+      "claude",
+      "configure",
+      "code",
+      "arch"
+    ]
+  },
+  "a linux distribution designed to eliminate single points of failure": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 14,
+    "keywords": [
+      "designed",
+      "points",
+      "failure",
+      "linux",
+      "single",
+      "eliminate",
+      "distribution"
+    ]
+  },
+  "introducing pgtui, a postgres tui client": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 2,
+    "keywords": [
+      "introducing",
+      "postgres",
+      "client",
+      "pgtui,"
+    ]
+  },
+  "c++26: the oxford variadic comma": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 10,
+    "keywords": [
+      "oxford",
+      "comma",
+      "variadic",
+      "c++26:"
+    ]
+  },
+  "anthropic and the authoritarian ethic": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 3,
+    "keywords": [
+      "authoritarian",
+      "anthropic",
+      "ethic"
+    ]
+  },
+  "physmodpo: physically-plausible humanoid motion with preference optimization": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "arxiv"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "physmodpo:",
+      "physically-plausible",
+      "optimization",
+      "with",
+      "motion",
+      "preference",
+      "humanoid"
+    ]
+  },
+  "representation learning for spatiotemporal physical systems": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "arxiv"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "learning",
+      "representation",
+      "systems",
+      "physical",
+      "spatiotemporal"
+    ]
+  },
+  "visual-erm: reward modeling for visual equivalence": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "arxiv"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "visual",
+      "modeling",
+      "visual-erm:",
+      "reward",
+      "equivalence"
+    ]
+  },
+  "from experiments to expertise: scientific knowledge consolidation for ai-driven computational research": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "arxiv"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "computational",
+      "knowledge",
+      "from",
+      "consolidation",
+      "scientific",
+      "ai-driven",
+      "research",
+      "experiments",
+      "expertise:"
+    ]
+  },
+  "llm constitutional multi-agent governance": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "arxiv"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "multi-agent",
+      "governance",
+      "constitutional"
+    ]
+  },
+  "learnability and privacy vulnerability are entangled in a few critical weights": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "arxiv"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "critical",
+      "weights",
+      "entangled",
+      "vulnerability",
+      "privacy",
+      "learnability"
+    ]
+  },
+  "mxnorm: reusing mxfp block scales for efficient tensor normalisation": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "arxiv"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "tensor",
+      "mxnorm:",
+      "mxfp",
+      "block",
+      "reusing",
+      "normalisation",
+      "scales",
+      "efficient"
+    ]
+  },
+  "clustering astronomical orbital synthetic data using advanced feature extraction and dimensionality reduction techniques": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "arxiv"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "reduction",
+      "dimensionality",
+      "techniques",
+      "synthetic",
+      "astronomical",
+      "orbital",
+      "feature",
+      "extraction",
+      "data",
+      "advanced",
+      "clustering",
+      "using"
+    ]
+  },
+  "semantic invariance in agentic ai": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "arxiv"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "agentic",
+      "semantic",
+      "invariance"
+    ]
+  },
+  "developing and evaluating a chatbot to support maternal health care": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "arxiv"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "support",
+      "maternal",
+      "care",
+      "developing",
+      "health",
+      "chatbot",
+      "evaluating"
     ]
   }
 }

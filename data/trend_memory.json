@@ -914,12 +914,14 @@
   },
   "push for $40 smartphones builds momentum, but still faces cost hurdles": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-03-16",
     "seen_dates": [
-      "2026-03-09"
+      "2026-03-09",
+      "2026-03-16"
     ],
     "sources": [
-      "techcrunch"
+      "techcrunch",
+      "product_hunt"
     ],
     "peak_score": 0,
     "keywords": [
@@ -1204,7 +1206,7 @@
       "devto",
       "hacker_news"
     ],
-    "peak_score": 213,
+    "peak_score": 559,
     "keywords": [
       "guide",
       "survival",
@@ -1298,13 +1300,14 @@
   },
   "claude code now lets you code from your phone. here's what i learned the hard way.": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-16",
     "seen_dates": [
       "2026-03-09",
       "2026-03-10",
       "2026-03-11",
       "2026-03-12",
-      "2026-03-13"
+      "2026-03-13",
+      "2026-03-16"
     ],
     "sources": [
       "devto",
@@ -2007,14 +2010,16 @@
   },
   "freebsd capsicum vs. linux seccomp process sandboxing": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-03-16",
     "seen_dates": [
-      "2026-03-09"
+      "2026-03-09",
+      "2026-03-16"
     ],
     "sources": [
-      "hacker_news"
+      "hacker_news",
+      "lobsters"
     ],
-    "peak_score": 63,
+    "peak_score": 139,
     "keywords": [
       "freebsd",
       "sandboxing",
@@ -2919,13 +2924,14 @@
   },
   "what are you doing this week?": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "seen_dates": [
       "2026-03-09",
       "2026-03-10",
       "2026-03-13",
       "2026-03-14",
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-16"
     ],
     "sources": [
       "lobsters",
@@ -3912,7 +3918,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 2,
+    "peak_score": 3,
     "keywords": [
       "with",
       "your",
@@ -3973,14 +3979,16 @@
   },
   "how i got my first open source pull request merged (beginner guide)": {
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-10",
+    "last_seen": "2026-03-16",
     "seen_dates": [
-      "2026-03-10"
+      "2026-03-10",
+      "2026-03-16"
     ],
     "sources": [
-      "devto"
+      "devto",
+      "lobsters"
     ],
-    "peak_score": 9,
+    "peak_score": 12,
     "keywords": [
       "merged",
       "(beginner",
@@ -5691,12 +5699,14 @@
   },
   "ssh secret menu": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-16",
     "seen_dates": [
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-16"
     ],
     "sources": [
-      "hacker_news"
+      "hacker_news",
+      "devto"
     ],
     "peak_score": 303,
     "keywords": [
@@ -7013,7 +7023,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 729,
+    "peak_score": 730,
     "keywords": [
       "photon-hq/qclaw-wechat-client"
     ]
@@ -8223,7 +8233,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1395,
+    "peak_score": 1490,
     "keywords": [
       "gsd-build/gsd-2"
     ]
@@ -9374,7 +9384,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 14640,
+    "peak_score": 16332,
     "keywords": [
       "garrytan/gstack"
     ]
@@ -10458,7 +10468,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 807,
+    "peak_score": 815,
     "keywords": [
       "chrisworsey55/atlas-gic"
     ]
@@ -10475,7 +10485,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1775,
+    "peak_score": 1867,
     "keywords": [
       "tianyidatascience/openclaw-control-center"
     ]
@@ -10539,9 +10549,10 @@
   },
   "how to watch jensen huang’s nvidia gtc 2026 keynote": {
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-16",
     "seen_dates": [
-      "2026-03-13"
+      "2026-03-13",
+      "2026-03-16"
     ],
     "sources": [
       "techcrunch"
@@ -11691,7 +11702,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1881,
+    "peak_score": 1950,
     "keywords": [
       "davebcn87/pi-autoresearch"
     ]
@@ -12593,7 +12604,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1406,
+    "peak_score": 1637,
     "keywords": [
       "wanshuiyin/auto-claude-code-research-in-sleep"
     ]
@@ -13225,7 +13236,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1615,
+    "peak_score": 1810,
     "keywords": [
       "pasky/chrome-cdp-skill"
     ]
@@ -13575,7 +13586,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 966,
+    "peak_score": 1107,
     "keywords": [
       "skernelx/tavily-key-generator"
     ]
@@ -14303,7 +14314,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 913,
+    "peak_score": 1090,
     "keywords": [
       "narcooo/inkos"
     ]
@@ -14566,7 +14577,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 555,
+    "peak_score": 925,
     "keywords": [
       "mandates",
       "mass",
@@ -14586,7 +14597,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 419,
+    "peak_score": 549,
     "keywords": [
       "(2025)",
       "chrome",
@@ -14602,7 +14613,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 402,
+    "peak_score": 737,
     "keywords": [
       "page",
       "49mb"
@@ -14836,7 +14847,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1082,
+    "peak_score": 1308,
     "keywords": [
       "novatic14/manpads-system-launcher-and-rocket"
     ]
@@ -14981,7 +14992,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 2,
+    "peak_score": 4,
     "keywords": [
       "django",
       "row-level",
@@ -15001,7 +15012,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 4,
+    "peak_score": 26,
     "keywords": [
       "meets",
       "fortran"
@@ -15054,7 +15065,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 3,
+    "peak_score": 4,
     "keywords": [
       "bridging",
       "first",
@@ -15117,7 +15128,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 0,
+    "peak_score": 4,
     "keywords": [
       "real-time",
       "stream",
@@ -15156,7 +15167,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 8,
+    "peak_score": 14,
     "keywords": [
       "install",
       "claude",
@@ -15174,7 +15185,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 14,
+    "peak_score": 21,
     "keywords": [
       "designed",
       "points",
@@ -15194,7 +15205,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 2,
+    "peak_score": 17,
     "keywords": [
       "introducing",
       "postgres",
@@ -15428,6 +15439,861 @@
       "health",
       "chatbot",
       "evaluating"
+    ]
+  },
+  "corruption erodes social trust more in democracies than in autocracies": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 458,
+    "keywords": [
+      "trust",
+      "corruption",
+      "erodes",
+      "than",
+      "democracies",
+      "autocracies",
+      "more",
+      "social"
+    ]
+  },
+  "mod sources warn palantir role at heart of government is threat to uk security": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 355,
+    "keywords": [
+      "sources",
+      "government",
+      "role",
+      "security",
+      "heart",
+      "warn",
+      "palantir",
+      "threat"
+    ]
+  },
+  "us job market visualizer – andrej karpathy": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 118,
+    "keywords": [
+      "market",
+      "karpathy",
+      "visualizer",
+      "andrej"
+    ]
+  },
+  "even faster asin() was staring right at me": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 58,
+    "keywords": [
+      "right",
+      "even",
+      "asin()",
+      "faster",
+      "staring"
+    ]
+  },
+  "lazycut: a simple terminal video trimmer using ffmpeg": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 64,
+    "keywords": [
+      "simple",
+      "using",
+      "lazycut:",
+      "ffmpeg",
+      "terminal",
+      "video",
+      "trimmer"
+    ]
+  },
+  "home assistant waters my plants": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 176,
+    "keywords": [
+      "assistant",
+      "plants",
+      "home",
+      "waters"
+    ]
+  },
+  "polymarket gamblers threaten to kill me over iran missile story": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 803,
+    "keywords": [
+      "threaten",
+      "kill",
+      "gamblers",
+      "iran",
+      "missile",
+      "polymarket",
+      "over",
+      "story"
+    ]
+  },
+  "obsession with growth is destroying nature, 150 countries warn": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 181,
+    "keywords": [
+      "obsession",
+      "destroying",
+      "warn",
+      "nature,",
+      "countries",
+      "with",
+      "growth"
+    ]
+  },
+  "'pokémon go' players unknowingly trained delivery robots with 30b images": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 94,
+    "keywords": [
+      "robots",
+      "trained",
+      "'pokémon",
+      "unknowingly",
+      "delivery",
+      "images",
+      "players",
+      "with"
+    ]
+  },
+  "autoresearch hub": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 58,
+    "keywords": [
+      "autoresearch"
+    ]
+  },
+  "six ingenious ways how canon dslrs used to illuminate their autofocus points": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 104,
+    "keywords": [
+      "used",
+      "ways",
+      "illuminate",
+      "their",
+      "dslrs",
+      "autofocus",
+      "ingenious",
+      "canon",
+      "points"
+    ]
+  },
+  "why are viral capsids icosahedral?": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 60,
+    "keywords": [
+      "icosahedral?",
+      "viral",
+      "capsids"
+    ]
+  },
+  "reviewing large changes with jujutsu": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "hacker_news",
+      "lobsters"
+    ],
+    "peak_score": 77,
+    "keywords": [
+      "jujutsu",
+      "reviewing",
+      "large",
+      "with",
+      "changes"
+    ]
+  },
+  "mulerun": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "mulerun"
+    ]
+  },
+  "donely": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "donely"
+    ]
+  },
+  "jetbrains air": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "jetbrains"
+    ]
+  },
+  "glam ai": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "glam"
+    ]
+  },
+  "zerosettle": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "zerosettle"
+    ]
+  },
+  "glm-5-turbo": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "glm-5-turbo"
+    ]
+  },
+  "adaptive — the agent computer": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "adaptive",
+      "agent",
+      "computer"
+    ]
+  },
+  "knock": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "knock"
+    ]
+  },
+  "thu-maic/openmaic": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 1545,
+    "keywords": [
+      "thu-maic/openmaic"
+    ]
+  },
+  "calesthio/crucix": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 1189,
+    "keywords": [
+      "calesthio/crucix"
+    ]
+  },
+  "aiming-lab/autoresearchclaw": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 953,
+    "keywords": [
+      "aiming-lab/autoresearchclaw"
+    ]
+  },
+  "jackwener/opencli": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 838,
+    "keywords": [
+      "jackwener/opencli"
+    ]
+  },
+  "antonio gracias says he’s longing for ‘proentropic’ startups — those that are built to survive chaos": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "built",
+      "‘proentropic’",
+      "that",
+      "gracias",
+      "says",
+      "antonio",
+      "chaos",
+      "he’s",
+      "survive",
+      "startups",
+      "those",
+      "longing"
+    ]
+  },
+  "shopify is preparing for ai shopping agents to change everything, exec says": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "change",
+      "agents",
+      "everything,",
+      "shopping",
+      "says",
+      "shopify",
+      "exec",
+      "preparing"
+    ]
+  },
+  "apple quietly launches airpods max 2": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "quietly",
+      "launches",
+      "apple",
+      "airpods"
+    ]
+  },
+  "walmart-backed phonepe shelves ipo as global tensions rattle markets": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "markets",
+      "rattle",
+      "walmart-backed",
+      "phonepe",
+      "global",
+      "shelves",
+      "tensions"
+    ]
+  },
+  "i think a lot of developers are quietly grieving the old internet": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 41,
+    "keywords": [
+      "grieving",
+      "internet",
+      "quietly",
+      "developers",
+      "think"
+    ]
+  },
+  "maybe there's a little time left": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 12,
+    "keywords": [
+      "little",
+      "left",
+      "maybe",
+      "there's",
+      "time"
+    ]
+  },
+  "4 tips to avoid rushing to code (and building the wrong thing)": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 2,
+    "keywords": [
+      "building",
+      "tips",
+      "rushing",
+      "wrong",
+      "thing)",
+      "(and",
+      "avoid",
+      "code"
+    ]
+  },
+  "meme monday": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 32,
+    "keywords": [
+      "monday",
+      "meme"
+    ]
+  },
+  "i built an ai agent that writes my daily standup in notion automatically": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 5,
+    "keywords": [
+      "built",
+      "notion",
+      "that",
+      "daily",
+      "agent",
+      "automatically",
+      "writes",
+      "standup"
+    ]
+  },
+  "i built the personal ai that openclaw should have been": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 2,
+    "keywords": [
+      "built",
+      "have",
+      "that",
+      "personal",
+      "openclaw",
+      "been",
+      "should"
+    ]
+  },
+  "gemini cli and jules: my march 2026 stack": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 27,
+    "keywords": [
+      "march",
+      "gemini",
+      "jules:",
+      "2026",
+      "stack"
+    ]
+  },
+  "try not to get scammed while looking for work": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 67,
+    "keywords": [
+      "work",
+      "looking",
+      "scammed",
+      "while"
+    ]
+  },
+  "good haskell libraries": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 11,
+    "keywords": [
+      "good",
+      "libraries",
+      "haskell"
+    ]
+  },
+  "ai is making ceos delusional": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 5,
+    "keywords": [
+      "delusional",
+      "ceos",
+      "making"
+    ]
+  },
+  "visicalc reconstructed": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 8,
+    "keywords": [
+      "visicalc",
+      "reconstructed"
+    ]
+  },
+  "üreticiler için yapay zeka destekli akıllı ticaret ortağı: tradewind": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "ortağı:",
+      "için",
+      "zeka",
+      "yapay",
+      "ticaret",
+      "destekli",
+      "üreticiler",
+      "akıllı",
+      "tradewind"
+    ]
+  },
+  "spotify, kullanıcıların müzik önerilerini düzenlemesine olanak tanıyan yeni bir özelliği test ediyor": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "kullanıcıların",
+      "tanıyan",
+      "müzik",
+      "test",
+      "spotify,",
+      "ediyor",
+      "özelliği",
+      "önerilerini",
+      "düzenlemesine",
+      "olanak",
+      "yeni"
+    ]
+  },
+  "adobe, iptal edilmesi zor abonelikler yüzünden 75 milyon dolar ceza ödeyecek": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "edilmesi",
+      "abonelikler",
+      "adobe,",
+      "milyon",
+      "yüzünden",
+      "dolar",
+      "ödeyecek",
+      "iptal",
+      "ceza"
+    ]
+  },
+  "digg, yeniden yapılanma kapsamında çalışanlarını işten çıkarıyor ve uygulamasını kapatıyor": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "uygulamasını",
+      "kapsamında",
+      "yapılanma",
+      "digg,",
+      "kapatıyor",
+      "işten",
+      "çalışanlarını",
+      "yeniden",
+      "çıkarıyor"
+    ]
+  },
+  "google'ın tarihindeki en büyük satın alma: 32 milyar dolarlık wiz anlaşmasının arka planı": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "anlaşmasının",
+      "planı",
+      "satın",
+      "alma:",
+      "dolarlık",
+      "milyar",
+      "google'ın",
+      "arka",
+      "büyük",
+      "tarihindeki"
+    ]
+  },
+  "ficommerce, 2025’te e-ticaret lojistiğinde teknoloji ve operasyonel altyapısıyla 9,5 kat büyüme kaydetti [sponsorlu i̇çerik]": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "2025’te",
+      "operasyonel",
+      "e-ticaret",
+      "[sponsorlu",
+      "i̇çerik]",
+      "teknoloji",
+      "kaydetti",
+      "büyüme",
+      "lojistiğinde",
+      "altyapısıyla",
+      "ficommerce,"
+    ]
+  },
+  "meta, yapay zeka maliyetleri nedeniyle çalışanlarının yüzde 20'sini işten çıkarabilir": {
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "seen_dates": [
+      "2026-03-16"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "meta,",
+      "nedeniyle",
+      "maliyetleri",
+      "20'sini",
+      "zeka",
+      "çalışanlarının",
+      "yüzde",
+      "yapay",
+      "işten",
+      "çıkarabilir"
     ]
   }
 }

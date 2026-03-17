@@ -76,15 +76,17 @@
   },
   "every single board computer i tested in 2025": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-17",
     "seen_dates": [
       "2026-03-09",
       "2026-03-13",
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-17"
     ],
     "sources": [
       "hacker_news",
-      "lobsters"
+      "lobsters",
+      "product_hunt"
     ],
     "peak_score": 228,
     "keywords": [
@@ -145,12 +147,14 @@
   },
   "artificial-life: a simple (300 lines of code) reproduction of computational life": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-03-17",
     "seen_dates": [
-      "2026-03-09"
+      "2026-03-09",
+      "2026-03-17"
     ],
     "sources": [
-      "hacker_news"
+      "hacker_news",
+      "lobsters"
     ],
     "peak_score": 88,
     "keywords": [
@@ -535,7 +539,7 @@
       "techcrunch",
       "hacker_news"
     ],
-    "peak_score": 92,
+    "peak_score": 188,
     "keywords": [
       "thinking",
       "line"
@@ -1008,17 +1012,19 @@
   },
   "popsockets founder david barnett talks about building a viral business": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-17",
     "seen_dates": [
       "2026-03-09",
       "2026-03-12",
-      "2026-03-13"
+      "2026-03-13",
+      "2026-03-17"
     ],
     "sources": [
       "techcrunch",
-      "lobsters"
+      "lobsters",
+      "hacker_news"
     ],
-    "peak_score": 28,
+    "peak_score": 116,
     "keywords": [
       "founder",
       "viral",
@@ -2139,14 +2145,15 @@
   },
   "ffmpeg at meta: media processing at scale": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-03-17",
     "seen_dates": [
-      "2026-03-09"
+      "2026-03-09",
+      "2026-03-17"
     ],
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 125,
+    "peak_score": 142,
     "keywords": [
       "ffmpeg",
       "meta:",
@@ -2732,11 +2739,12 @@
   },
   "i built an open-source tool that lets ai agents hire real humans to test your product": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-17",
     "seen_dates": [
       "2026-03-09",
       "2026-03-10",
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-17"
     ],
     "sources": [
       "devto",
@@ -4108,7 +4116,7 @@
       "lobsters",
       "hacker_news"
     ],
-    "peak_score": 389,
+    "peak_score": 482,
     "keywords": [
       "commitment",
       "jemalloc",
@@ -5717,10 +5725,11 @@
   },
   "ssh secret menu": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-03-17",
     "seen_dates": [
       "2026-03-11",
-      "2026-03-16"
+      "2026-03-16",
+      "2026-03-17"
     ],
     "sources": [
       "hacker_news",
@@ -8021,7 +8030,8 @@
     ],
     "sources": [
       "hacker_news",
-      "techcrunch"
+      "techcrunch",
+      "lobsters"
     ],
     "peak_score": 460,
     "keywords": [
@@ -8256,7 +8266,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1572,
+    "peak_score": 1653,
     "keywords": [
       "gsd-build/gsd-2"
     ]
@@ -9413,7 +9423,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 17866,
+    "peak_score": 19561,
     "keywords": [
       "garrytan/gstack"
     ]
@@ -10515,7 +10525,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1925,
+    "peak_score": 2010,
     "keywords": [
       "tianyidatascience/openclaw-control-center"
     ]
@@ -11734,7 +11744,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1995,
+    "peak_score": 2050,
     "keywords": [
       "davebcn87/pi-autoresearch"
     ]
@@ -13270,7 +13280,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1919,
+    "peak_score": 2023,
     "keywords": [
       "pasky/chrome-cdp-skill"
     ]
@@ -13621,7 +13631,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1175,
+    "peak_score": 1253,
     "keywords": [
       "skernelx/tavily-key-generator"
     ]
@@ -14352,7 +14362,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1232,
+    "peak_score": 1411,
     "keywords": [
       "narcooo/inkos"
     ]
@@ -14886,7 +14896,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1418,
+    "peak_score": 1503,
     "keywords": [
       "novatic14/manpads-system-launcher-and-rocket"
     ]
@@ -15859,7 +15869,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 2545,
+    "peak_score": 3792,
     "keywords": [
       "thu-maic/openmaic"
     ]
@@ -15874,7 +15884,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 2170,
+    "peak_score": 2822,
     "keywords": [
       "calesthio/crucix"
     ]
@@ -15889,7 +15899,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1721,
+    "peak_score": 3246,
     "keywords": [
       "aiming-lab/autoresearchclaw"
     ]
@@ -15904,7 +15914,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 981,
+    "peak_score": 1310,
     "keywords": [
       "jackwener/opencli"
     ]
@@ -16121,7 +16131,7 @@
       "devto",
       "lobsters"
     ],
-    "peak_score": 27,
+    "peak_score": 45,
     "keywords": [
       "march",
       "gemini",
@@ -16140,7 +16150,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 108,
+    "peak_score": 124,
     "keywords": [
       "work",
       "looking",
@@ -16371,7 +16381,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 457,
+    "peak_score": 682,
     "keywords": [
       "preparing",
       "reporting",
@@ -16389,7 +16399,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 386,
+    "peak_score": 680,
     "keywords": [
       "coding",
       "engineering",
@@ -16408,9 +16418,10 @@
       "2026-03-17"
     ],
     "sources": [
-      "hacker_news"
+      "hacker_news",
+      "lobsters"
     ],
-    "peak_score": 54,
+    "peak_score": 428,
     "keywords": [
       "review",
       "makes",
@@ -16428,7 +16439,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 359,
+    "peak_score": 501,
     "keywords": [
       "than",
       "web”",
@@ -16447,7 +16458,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 293,
+    "peak_score": 462,
     "keywords": [
       "conundrum",
       "american",
@@ -16605,7 +16616,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1425,
+    "peak_score": 3238,
     "keywords": [
       "nvidia/nemoclaw"
     ]
@@ -16619,7 +16630,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 864,
+    "peak_score": 1296,
     "keywords": [
       "moonshotai/attention-residuals"
     ]
@@ -16922,7 +16933,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 1,
+    "peak_score": 3,
     "keywords": [
       "here's",
       "stopped",
@@ -16959,7 +16970,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 0,
+    "peak_score": 2,
     "keywords": [
       "keeper:",
       "family",
@@ -16981,7 +16992,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 0,
+    "peak_score": 1,
     "keywords": [
       "merging",
       "metrics",
@@ -17001,7 +17012,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 0,
+    "peak_score": 1,
     "keywords": [
       "28ms",
       "sandboxes",
@@ -17022,7 +17033,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 0,
+    "peak_score": 2,
     "keywords": [
       "intent",
       "layer",
@@ -17076,7 +17087,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 16,
+    "peak_score": 46,
     "keywords": [
       "typenix:",
       "typing",
@@ -17150,7 +17161,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 2,
+    "peak_score": 58,
     "keywords": [
       "galera",
       "jepsen:",
@@ -17166,9 +17177,10 @@
       "2026-03-17"
     ],
     "sources": [
-      "arxiv"
+      "arxiv",
+      "devto"
     ],
-    "peak_score": 0,
+    "peak_score": 26,
     "keywords": [
       "with",
       "progress",
@@ -17329,6 +17341,1003 @@
       "openseeker:",
       "democratizing",
       "agents"
+    ]
+  },
+  "give django your time and money, not your tokens": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 231,
+    "keywords": [
+      "money,",
+      "your",
+      "time",
+      "django",
+      "tokens",
+      "give"
+    ]
+  },
+  "kagi small web": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 1159,
+    "keywords": [
+      "kagi",
+      "small"
+    ]
+  },
+  "node.js needs a virtual file system": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 73,
+    "keywords": [
+      "virtual",
+      "system",
+      "file",
+      "needs",
+      "node.js"
+    ]
+  },
+  "opensuse kalpa": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 68,
+    "keywords": [
+      "kalpa",
+      "opensuse"
+    ]
+  },
+  "finding a cpu design bug in the xbox 360 (2018)": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 90,
+    "keywords": [
+      "finding",
+      "design",
+      "xbox",
+      "(2018)"
+    ]
+  },
+  "microsoft's 'unhackable' xbox one has been hacked by 'bliss'": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 85,
+    "keywords": [
+      "been",
+      "'unhackable'",
+      "hacked",
+      "'bliss'",
+      "microsoft's",
+      "xbox"
+    ]
+  },
+  "font smuggler – copy hidden brand fonts into google docs": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 100,
+    "keywords": [
+      "into",
+      "smuggler",
+      "font",
+      "hidden",
+      "copy",
+      "google",
+      "brand",
+      "fonts",
+      "docs"
+    ]
+  },
+  "the unlikely story of teardown multiplayer": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 184,
+    "keywords": [
+      "unlikely",
+      "multiplayer",
+      "teardown",
+      "story"
+    ]
+  },
+  "reverse-engineering viktor and making it open source": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 100,
+    "keywords": [
+      "reverse-engineering",
+      "open",
+      "source",
+      "viktor",
+      "making"
+    ]
+  },
+  "sci-fi short film “there is no antimemetics division” [video]": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 231,
+    "keywords": [
+      "antimemetics",
+      "[video]",
+      "“there",
+      "division”",
+      "short",
+      "film",
+      "sci-fi"
+    ]
+  },
+  "gummy geometry": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 52,
+    "keywords": [
+      "gummy",
+      "geometry"
+    ]
+  },
+  "a proposal to classify happiness as a psychiatric disorder (1992)": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 116,
+    "keywords": [
+      "(1992)",
+      "happiness",
+      "proposal",
+      "classify",
+      "disorder",
+      "psychiatric"
+    ]
+  },
+  "ryugu asteroid samples contain all dna and rna building blocks": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 92,
+    "keywords": [
+      "samples",
+      "contain",
+      "building",
+      "asteroid",
+      "ryugu",
+      "blocks"
+    ]
+  },
+  "pyodide: a python distribution based on webassembly": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 150,
+    "keywords": [
+      "based",
+      "distribution",
+      "webassembly",
+      "python",
+      "pyodide:"
+    ]
+  },
+  "agentdiscuss": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "agentdiscuss"
+    ]
+  },
+  "dev-impact": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "dev-impact"
+    ]
+  },
+  "sokosumi": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "sokosumi"
+    ]
+  },
+  "dexcode": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "dexcode"
+    ]
+  },
+  "folderly": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "folderly"
+    ]
+  },
+  "jusrecruit": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "jusrecruit"
+    ]
+  },
+  "agreeguard": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "agreeguard"
+    ]
+  },
+  "mtarsier": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "mtarsier"
+    ]
+  },
+  "usercall triggers": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "triggers",
+      "usercall"
+    ]
+  },
+  "webadderall/recordly": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 2283,
+    "keywords": [
+      "webadderall/recordly"
+    ]
+  },
+  "google’s data center power playbook comes into focus": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "google’s",
+      "center",
+      "into",
+      "comes",
+      "playbook",
+      "focus",
+      "power",
+      "data"
+    ]
+  },
+  "meet vurt, the mobile-first streaming platform for indie filmmakers embracing vertical video": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "platform",
+      "meet",
+      "vurt,",
+      "filmmakers",
+      "video",
+      "streaming",
+      "indie",
+      "mobile-first",
+      "embracing",
+      "vertical"
+    ]
+  },
+  "google’s personal intelligence feature is expanding to all us users": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "google’s",
+      "personal",
+      "intelligence",
+      "feature",
+      "users",
+      "expanding"
+    ]
+  },
+  "stryker says it’s restoring systems after pro-iran hackers wiped thousands of employee devices": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "systems",
+      "restoring",
+      "pro-iran",
+      "wiped",
+      "thousands",
+      "devices",
+      "employee",
+      "stryker",
+      "it’s",
+      "says",
+      "hackers",
+      "after"
+    ]
+  },
+  "openai expands government footprint with aws deal, report says": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "government",
+      "openai",
+      "with",
+      "report",
+      "deal,",
+      "expands",
+      "footprint",
+      "says"
+    ]
+  },
+  "ai’s ‘boys’ club’ could widen the wealth gap for women, says rana el kaliouby": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "club’",
+      "‘boys’",
+      "could",
+      "women,",
+      "rana",
+      "wealth",
+      "widen",
+      "ai’s",
+      "says",
+      "kaliouby"
+    ]
+  },
+  "oura enters india’s smart ring market with the ring 4": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "with",
+      "enters",
+      "market",
+      "ring",
+      "smart",
+      "oura",
+      "india’s"
+    ]
+  },
+  "world launches tool to verify humans behind ai shopping agents": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "verify",
+      "shopping",
+      "launches",
+      "world",
+      "tool",
+      "humans",
+      "agents",
+      "behind"
+    ]
+  },
+  "niv-ai exits stealth to wring more power performance out of gpus": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "wring",
+      "niv-ai",
+      "gpus",
+      "more",
+      "stealth",
+      "power",
+      "exits",
+      "performance"
+    ]
+  },
+  "h&m wants to make clothing from co2 using this startup’s tech": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "clothing",
+      "startup’s",
+      "using",
+      "this",
+      "from",
+      "wants",
+      "tech",
+      "make"
+    ]
+  },
+  "gamma adds ai image generation tools in bid to take on canva and adobe": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "adobe",
+      "tools",
+      "gamma",
+      "image",
+      "take",
+      "canva",
+      "adds",
+      "generation"
+    ]
+  },
+  "amazon adds 1-hour and 3-hour delivery options in the us": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "3-hour",
+      "delivery",
+      "options",
+      "adds",
+      "amazon",
+      "1-hour"
+    ]
+  },
+  "gecko robotics lands the largest us navy robotics deal yet": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "robotics",
+      "navy",
+      "deal",
+      "largest",
+      "gecko",
+      "lands"
+    ]
+  },
+  "full circle: giving my ai's knowledge graph a notion interface using mcp": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 22,
+    "keywords": [
+      "notion",
+      "interface",
+      "using",
+      "giving",
+      "full",
+      "graph",
+      "circle:",
+      "knowledge",
+      "ai's"
+    ]
+  },
+  "drop your challenge submission here": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 32,
+    "keywords": [
+      "drop",
+      "your",
+      "submission",
+      "here",
+      "challenge"
+    ]
+  },
+  "what's in your headphones when you code? 🎧": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 29,
+    "keywords": [
+      "code?",
+      "your",
+      "when",
+      "headphones",
+      "what's"
+    ]
+  },
+  "pgit: what if your git history was a sql database?": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 4,
+    "keywords": [
+      "your",
+      "history",
+      "database?",
+      "what",
+      "pgit:"
+    ]
+  },
+  "age-gating isn’t about kids, it’s about control": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 67,
+    "keywords": [
+      "kids,",
+      "about",
+      "isn’t",
+      "control",
+      "age-gating",
+      "it’s"
+    ]
+  },
+  "a sufficiently detailed spec is code": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 19,
+    "keywords": [
+      "spec",
+      "code",
+      "sufficiently",
+      "detailed"
+    ]
+  },
+  "syntaqlite: high-fidelity devtools that sqlite deserves": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 6,
+    "keywords": [
+      "high-fidelity",
+      "sqlite",
+      "deserves",
+      "devtools",
+      "that",
+      "syntaqlite:"
+    ]
+  },
+  "the road not taken: a world where ipv4 evolved": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 19,
+    "keywords": [
+      "evolved",
+      "ipv4",
+      "world",
+      "where",
+      "road",
+      "taken:"
+    ]
+  },
+  "yes, all longest regex matches in linear time is possible": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 15,
+    "keywords": [
+      "possible",
+      "time",
+      "linear",
+      "matches",
+      "yes,",
+      "regex",
+      "longest"
+    ]
+  },
+  "picsart'tan sosyal medya ve e-ticaret odağında yapay zeka ajanları sunan pazar yeri: picsart ai agents": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "e-ticaret",
+      "pazar",
+      "medya",
+      "odağında",
+      "yeri:",
+      "agents",
+      "zeka",
+      "yapay",
+      "sunan",
+      "ajanları",
+      "picsart'tan",
+      "picsart",
+      "sosyal"
+    ]
+  },
+  "nvidia'dan yedi yongadan oluşan bilgi işlem platformu: vera rubin": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "yongadan",
+      "nvidia'dan",
+      "rubin",
+      "oluşan",
+      "yedi",
+      "işlem",
+      "bilgi",
+      "vera",
+      "platformu:"
+    ]
+  },
+  "britannica ansiklopedisi, telif hakkı ihlali suçlamasıyla openai'a dava açtı": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "ihlali",
+      "hakkı",
+      "ansiklopedisi,",
+      "openai'a",
+      "suçlamasıyla",
+      "britannica",
+      "telif",
+      "dava",
+      "açtı"
+    ]
+  },
+  "whatsapp, hesap açmayanlarla mesajlaşmayı sağlayacak misafir sohbetler özelliğini test ediyor": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "sohbetler",
+      "özelliğini",
+      "hesap",
+      "ediyor",
+      "açmayanlarla",
+      "test",
+      "whatsapp,",
+      "mesajlaşmayı",
+      "misafir",
+      "sağlayacak"
+    ]
+  },
+  "nvidia, otonom sürüş teknolojileri için byd, hyundai ve nissan ile yeni ortaklıklarını duyurdu": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "nissan",
+      "için",
+      "byd,",
+      "teknolojileri",
+      "duyurdu",
+      "sürüş",
+      "yeni",
+      "ortaklıklarını",
+      "hyundai",
+      "nvidia,",
+      "otonom"
+    ]
+  },
+  "apple, video düzenleme yazılımı motionvfx'i satın aldı": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "video",
+      "düzenleme",
+      "yazılımı",
+      "aldı",
+      "motionvfx'i",
+      "satın",
+      "apple,"
+    ]
+  },
+  "mekan bulma ve kiralama süreçlerini dijital ortama taşıyan sanamekan, 400 bin dolar yatırım aldı": {
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "seen_dates": [
+      "2026-03-17"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "bulma",
+      "süreçlerini",
+      "mekan",
+      "taşıyan",
+      "dolar",
+      "kiralama",
+      "dijital",
+      "aldı",
+      "sanamekan,",
+      "yatırım",
+      "ortama"
     ]
   }
 }

@@ -415,5 +415,34 @@
         }
       ]
     }
+  },
+  {
+    "date": "2026-03-17T06:03:37.660574",
+    "content": {
+      "contents": [
+        {
+          "platform": "twitter",
+          "type": "thread",
+          "content": "Tweet 1: Salı sendromu mu? Çocuğunuzun hayal gücünü harekete geçirmenin tam zamanı! 🚀\n\nTweet 2: StoryPal'da çocuğunuz bugün bir astronot, yarın bir deniz kâşifi olabilir. Her hikaye onun ilgi alanlarına göre kişiselleştiriliyor. AI, çocuğunuzu gerçekten tanıyor.\n\nTweet 3: Günde 3 hikaye ücretsiz! Haftanın ortasını çocuğunuzla kaliteli vakit geçirerek değerlendirin. 📱\n\nTweet 4: App Store'dan indirin, ilk hikayenizi 2 dakikada oluşturun! iOS'ta sizi bekliyor. 💜",
+          "hashtags": [
+            "#StoryPal",
+            "#ÇocukHikayeleri",
+            "#YaratıcıÇocuklar",
+            "#EbeveynlikTavsiyeleri"
+          ]
+        },
+        {
+          "platform": "instagram",
+          "type": "caption",
+          "content": "Haftanın ortası yorgunluğu mu? 😴\n\nBizde çözüm var: Çocuğunuzla 10 dakikalık hikaye molası! ☕📖\n\nStoryPal ile çocuğunuz kendi hikayesinin kahramanı oluyor. Seçtiğiniz tema, karakterler ve değerler... AI hepsini birleştirip eşsiz bir hikaye yaratıyor.\n\n✨ AI tarafından üretilen görseller\n✨ PDF olarak kaydet, tekrar tekrar oku\n✨ Günde 3 hikaye ücretsiz\n\n'Bugün ne hakkında hikaye okuyalım?' sorusunun cevabı artık sonsuz! 🌈\n\n👉 Bio'daki linkten App Store'a git\n👉 2 dakikada ilk hikayen hazır\n\nSiz de çocuğunuzun gözlerindeki o parıltıyı görmek istemiyor musunuz? 💫\n\n#StoryPal #ÇocukHikayeleri #KişiselleştirilmişHikaye #AileBabaEbeveyn #AnneBaba #ÇocukGelişimi #KaliteliZaman #YaratıcıÇocuklar #Ebeveynlik",
+          "visual_idea": "Tablet veya telefonda StoryPal uygulamasını inceleyen 6-7 yaşlarında bir çocuğun yan profil fotoğrafı. Çocuğun yüzünde meraklı bir ifade, ekranda renkli bir hikaye görseli. Arka planda bulanık ev ortamı, sıcak aile atmosferi. Doğal ışık kullanımı."
+        },
+        {
+          "platform": "blog",
+          "type": "outline",
+          "content": "Blog Başlığı: 'Ekran Süresi Endişeniz mi Var? Teknolojinin Çocuğunuzun Gelişimine Katkısı Nasıl Olur?'\n\nÖzet Maddeleri:\n1. Tüm ekran süreleri eşit değil: Pasif izleme vs. aktif etkileşim farkı. StoryPal gibi eğitici uygulamaların çocukların hayal gücü, kelime hazinesi ve okuma sevgisi geliştirmedeki rolü.\n\n2. Dijital çağda ebeveynlik dengesi: Ekran süresini kaliteli içerikle değerlendirmenin 5 yolu. Kişiselleştirilmiş hikayelerin çocuğun öz güvenine katkısı, istatistiklerle desteklenmiş araştırma bulguları.\n\n3. Pratik uygulama önerileri: StoryPal ile aile rutini oluşturma, uyku öncesi hikaye saati, kardeşler arası ortak aktivite fikirleri. Premium vs. ücretsiz versiyonu doğru seçme rehberi. CTA: 7 günlük hikaye challenge'ı."
+        }
+      ]
+    }
   }
 ]

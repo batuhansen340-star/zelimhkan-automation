@@ -459,16 +459,18 @@
   },
   "song sweeper": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-18",
     "seen_dates": [
       "2026-03-09",
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-18"
     ],
     "sources": [
       "product_hunt",
-      "techcrunch"
+      "techcrunch",
+      "hacker_news"
     ],
-    "peak_score": 0,
+    "peak_score": 364,
     "keywords": [
       "sweeper",
       "song"
@@ -4058,12 +4060,14 @@
   },
   "i implemented deep q-networks in pure powershell 5.1 — and connected them to real windows enterprise data": {
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-10",
+    "last_seen": "2026-03-18",
     "seen_dates": [
-      "2026-03-10"
+      "2026-03-10",
+      "2026-03-18"
     ],
     "sources": [
-      "devto"
+      "devto",
+      "product_hunt"
     ],
     "peak_score": 1,
     "keywords": [
@@ -4160,7 +4164,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 8,
+    "peak_score": 24,
     "keywords": [
       "first",
       "emacs",
@@ -4258,14 +4262,16 @@
   },
   "evaluating financial intelligence in large language models: benchmarking superinvesting ai with llm engines": {
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-10",
+    "last_seen": "2026-03-18",
     "seen_dates": [
-      "2026-03-10"
+      "2026-03-10",
+      "2026-03-18"
     ],
     "sources": [
-      "arxiv"
+      "arxiv",
+      "lobsters"
     ],
-    "peak_score": 0,
+    "peak_score": 17,
     "keywords": [
       "with",
       "superinvesting",
@@ -4329,16 +4335,18 @@
   },
   "benchmarking language modeling for lossless compression of full-fidelity audio": {
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-18",
     "seen_dates": [
       "2026-03-10",
-      "2026-03-15"
+      "2026-03-15",
+      "2026-03-18"
     ],
     "sources": [
       "arxiv",
-      "lobsters"
+      "lobsters",
+      "hacker_news"
     ],
-    "peak_score": 11,
+    "peak_score": 376,
     "keywords": [
       "language",
       "benchmarking",
@@ -5336,7 +5344,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 35,
+    "peak_score": 54,
     "keywords": [
       "featured",
       "week",
@@ -5738,11 +5746,12 @@
   },
   "ssh secret menu": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-17",
+    "last_seen": "2026-03-18",
     "seen_dates": [
       "2026-03-11",
       "2026-03-16",
-      "2026-03-17"
+      "2026-03-17",
+      "2026-03-18"
     ],
     "sources": [
       "hacker_news",
@@ -5814,12 +5823,14 @@
   },
   "ffmpeg-over-ip – connect to remote ffmpeg servers": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-18",
     "seen_dates": [
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-18"
     ],
     "sources": [
-      "hacker_news"
+      "hacker_news",
+      "product_hunt"
     ],
     "peak_score": 150,
     "keywords": [
@@ -6178,7 +6189,7 @@
       "techcrunch",
       "devto"
     ],
-    "peak_score": 12,
+    "peak_score": 39,
     "keywords": [
       "think",
       "tesla",
@@ -7006,15 +7017,17 @@
   },
   "nativeline ai + cloud": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-18",
     "seen_dates": [
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-18"
     ],
     "sources": [
       "product_hunt",
-      "techcrunch"
+      "techcrunch",
+      "hacker_news"
     ],
-    "peak_score": 0,
+    "peak_score": 203,
     "keywords": [
       "nativeline",
       "cloud"
@@ -10700,7 +10713,8 @@
     ],
     "sources": [
       "techcrunch",
-      "hacker_news"
+      "hacker_news",
+      "product_hunt"
     ],
     "peak_score": 219,
     "keywords": [
@@ -13112,14 +13126,15 @@
   },
   "we scanned 17 popular mcp servers — here's what we found": {
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-18",
     "seen_dates": [
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-18"
     ],
     "sources": [
       "devto"
     ],
-    "peak_score": 1,
+    "peak_score": 2,
     "keywords": [
       "popular",
       "found",
@@ -13301,7 +13316,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 2098,
+    "peak_score": 2172,
     "keywords": [
       "pasky/chrome-cdp-skill"
     ]
@@ -13653,7 +13668,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1288,
+    "peak_score": 1306,
     "keywords": [
       "skernelx/tavily-key-generator"
     ]
@@ -14018,10 +14033,11 @@
   },
   "humanities in the machine": {
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-03-18",
     "seen_dates": [
       "2026-03-15",
-      "2026-03-16"
+      "2026-03-16",
+      "2026-03-18"
     ],
     "sources": [
       "lobsters",
@@ -14386,7 +14402,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1503,
+    "peak_score": 1635,
     "keywords": [
       "narcooo/inkos"
     ]
@@ -15909,7 +15925,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 3261,
+    "peak_score": 3960,
     "keywords": [
       "calesthio/crucix"
     ]
@@ -15925,7 +15941,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 4784,
+    "peak_score": 6015,
     "keywords": [
       "aiming-lab/autoresearchclaw"
     ]
@@ -15941,7 +15957,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1422,
+    "peak_score": 1741,
     "keywords": [
       "jackwener/opencli"
     ]
@@ -16646,7 +16662,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 4677,
+    "peak_score": 6623,
     "keywords": [
       "nvidia/nemoclaw"
     ]
@@ -16661,7 +16677,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1524,
+    "peak_score": 1761,
     "keywords": [
       "moonshotai/attention-residuals"
     ]
@@ -16676,7 +16692,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1220,
+    "peak_score": 1326,
     "keywords": [
       "uditgoenka/autoresearch"
     ]
@@ -17404,7 +17420,8 @@
     ],
     "sources": [
       "hacker_news",
-      "techcrunch"
+      "techcrunch",
+      "lobsters"
     ],
     "peak_score": 1159,
     "keywords": [
@@ -17771,7 +17788,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 2381,
+    "peak_score": 2471,
     "keywords": [
       "webadderall/recordly"
     ]
@@ -18147,7 +18164,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 133,
+    "peak_score": 148,
     "keywords": [
       "kids,",
       "about",
@@ -18167,7 +18184,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 64,
+    "peak_score": 87,
     "keywords": [
       "spec",
       "code",
@@ -18436,7 +18453,7 @@
       "hacker_news",
       "lobsters"
     ],
-    "peak_score": 518,
+    "peak_score": 700,
     "keywords": [
       "slug",
       "decade"
@@ -18469,7 +18486,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 232,
+    "peak_score": 657,
     "keywords": [
       "forge",
       "mistral",
@@ -18505,7 +18522,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 57,
+    "peak_score": 208,
     "keywords": [
       "product",
       "pleasures",
@@ -18522,7 +18539,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 97,
+    "peak_score": 251,
     "keywords": [
       "memory",
       "show",
@@ -18659,7 +18676,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1004,
+    "peak_score": 1063,
     "keywords": [
       "infatoshi/opensquirrel"
     ]
@@ -18673,7 +18690,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 748,
+    "peak_score": 816,
     "keywords": [
       "lum1104/understand-anything"
     ]
@@ -18687,7 +18704,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 731,
+    "peak_score": 802,
     "keywords": [
       "karpathy/jobs"
     ]
@@ -18822,7 +18839,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 32,
+    "peak_score": 40,
     "keywords": [
       "google",
       "server:",
@@ -18862,7 +18879,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 3,
+    "peak_score": 4,
     "keywords": [
       "memory,",
       "local",
@@ -18885,7 +18902,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 0,
+    "peak_score": 2,
     "keywords": [
       "passes",
       "free",
@@ -19153,6 +19170,769 @@
       "spectral",
       "graph",
       "transformers"
+    ]
+  },
+  "death to scroll fade": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 101,
+    "keywords": [
+      "scroll",
+      "fade",
+      "death"
+    ]
+  },
+  "rob pike's rules of programming (1989)": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "hacker_news",
+      "lobsters"
+    ],
+    "peak_score": 553,
+    "keywords": [
+      "pike's",
+      "rules",
+      "programming",
+      "(1989)"
+    ]
+  },
+  "pandas exercises for data analysis (interactive)": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 111,
+    "keywords": [
+      "pandas",
+      "data",
+      "analysis",
+      "(interactive)",
+      "exercises"
+    ]
+  },
+  "a tiny camera revealed a hidden passage in the great pyramid": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 76,
+    "keywords": [
+      "great",
+      "tiny",
+      "hidden",
+      "revealed",
+      "passage",
+      "camera",
+      "pyramid"
+    ]
+  },
+  "write up of my homebrew cpu build": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 187,
+    "keywords": [
+      "write",
+      "build",
+      "homebrew"
+    ]
+  },
+  "celebrating tony hoare's mark on computer science": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "hacker_news",
+      "lobsters"
+    ],
+    "peak_score": 93,
+    "keywords": [
+      "celebrating",
+      "science",
+      "mark",
+      "computer",
+      "tony",
+      "hoare's"
+    ]
+  },
+  "on a boat": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 93,
+    "keywords": [
+      "boat"
+    ]
+  },
+  "how the eon team produced a virtual embodied fly": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 64,
+    "keywords": [
+      "virtual",
+      "embodied",
+      "produced",
+      "team"
+    ]
+  },
+  "soul 2.0": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "soul"
+    ]
+  },
+  "clipledger": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "clipledger"
+    ]
+  },
+  "sharepatch": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "sharepatch"
+    ]
+  },
+  "fantastical mcp for mac": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "fantastical"
+    ]
+  },
+  "banyan ai lite": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "lite",
+      "banyan"
+    ]
+  },
+  "hkuds/clawteam": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 844,
+    "keywords": [
+      "hkuds/clawteam"
+    ]
+  },
+  "grimmory-tools/grimmory": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 787,
+    "keywords": [
+      "grimmory-tools/grimmory"
+    ]
+  },
+  "the gemini-powered features in google workspace that are worth using": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "features",
+      "gemini-powered",
+      "using",
+      "workspace",
+      "google",
+      "worth",
+      "that"
+    ]
+  },
+  "apps to distract you from the endless cycle of doomscrolling": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "apps",
+      "endless",
+      "cycle",
+      "distract",
+      "from",
+      "doomscrolling"
+    ]
+  },
+  "the leaderboard “you can’t game,” funded by the companies it ranks": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "leaderboard",
+      "game,”",
+      "“you",
+      "companies",
+      "ranks",
+      "can’t",
+      "funded"
+    ]
+  },
+  "facebook launches a new monetization program to attract popular creators from tiktok, youtube": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "creators",
+      "youtube",
+      "facebook",
+      "popular",
+      "from",
+      "attract",
+      "tiktok,",
+      "launches",
+      "program",
+      "monetization"
+    ]
+  },
+  "sequen snags $16m to bring tiktok-style personalization tech to any consumer company": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "consumer",
+      "tech",
+      "tiktok-style",
+      "$16m",
+      "bring",
+      "personalization",
+      "snags",
+      "sequen",
+      "company"
+    ]
+  },
+  "microsoft hires the team of sequoia-backed ai collaboration platform, cove": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "cove",
+      "collaboration",
+      "microsoft",
+      "team",
+      "hires",
+      "sequoia-backed",
+      "platform,"
+    ]
+  },
+  "marquis says over 672,000 people had personal and financial data stolen in ransomware attack": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "672,000",
+      "people",
+      "ransomware",
+      "attack",
+      "data",
+      "financial",
+      "marquis",
+      "personal",
+      "over",
+      "stolen",
+      "says"
+    ]
+  },
+  "russians caught stealing personal data from ukrainians with new advanced iphone hacking tools": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "russians",
+      "iphone",
+      "data",
+      "ukrainians",
+      "hacking",
+      "personal",
+      "from",
+      "with",
+      "caught",
+      "tools",
+      "stealing",
+      "advanced"
+    ]
+  },
+  "dod says anthropic’s ‘red lines’ make it an ‘unacceptable risk to national security’": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "‘red",
+      "lines’",
+      "‘unacceptable",
+      "make",
+      "anthropic’s",
+      "national",
+      "risk",
+      "security’",
+      "says"
+    ]
+  },
+  "mave health aims to improve attention and mood with its brain-stimulating headset": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "attention",
+      "mood",
+      "improve",
+      "aims",
+      "with",
+      "mave",
+      "health",
+      "headset",
+      "brain-stimulating"
+    ]
+  },
+  "the email that nearly stopped me from becoming a developer": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 29,
+    "keywords": [
+      "email",
+      "nearly",
+      "stopped",
+      "from",
+      "developer",
+      "becoming",
+      "that"
+    ]
+  },
+  "i built an open-source extension that adds syntax highlighting and ai code explanation to any file": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 6,
+    "keywords": [
+      "explanation",
+      "open-source",
+      "highlighting",
+      "adds",
+      "extension",
+      "built",
+      "file",
+      "syntax",
+      "that",
+      "code"
+    ]
+  },
+  "i built a free, open-source alternative to localstack — clouddev": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 3,
+    "keywords": [
+      "localstack",
+      "open-source",
+      "alternative",
+      "built",
+      "free,",
+      "clouddev"
+    ]
+  },
+  "i bought a domain at 15. now it powers 400,000+ users.": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 5,
+    "keywords": [
+      "users.",
+      "domain",
+      "400,000+",
+      "bought",
+      "powers"
+    ]
+  },
+  "things a solo developer learned while building 40+ financial calculators with next.js": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 5,
+    "keywords": [
+      "learned",
+      "financial",
+      "next.js",
+      "while",
+      "building",
+      "with",
+      "things",
+      "developer",
+      "calculators",
+      "solo"
+    ]
+  },
+  "how i built a free ai life coach that real people use": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 2,
+    "keywords": [
+      "people",
+      "coach",
+      "life",
+      "free",
+      "real",
+      "built",
+      "that"
+    ]
+  },
+  "self-host and tech independence: the joy of building your own": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 18,
+    "keywords": [
+      "independence:",
+      "tech",
+      "your",
+      "building",
+      "self-host"
+    ]
+  },
+  "seeing types where others don't": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 14,
+    "keywords": [
+      "others",
+      "types",
+      "don't",
+      "where",
+      "seeing"
+    ]
+  },
+  "beyond hypermodern: python is easy now": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 5,
+    "keywords": [
+      "hypermodern:",
+      "easy",
+      "python",
+      "beyond"
+    ]
+  },
+  "beam metrics in clickhouse": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 2,
+    "keywords": [
+      "beam",
+      "clickhouse",
+      "metrics"
+    ]
+  },
+  "go home, windows exe, you're drunk": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 3,
+    "keywords": [
+      "drunk",
+      "exe,",
+      "home,",
+      "you're",
+      "windows"
+    ]
+  },
+  "yapay zeka odaklı küresel web veri ve doğrulama ağı: uprock": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "doğrulama",
+      "odaklı",
+      "zeka",
+      "küresel",
+      "veri",
+      "ağı:",
+      "yapay",
+      "uprock"
+    ]
+  },
+  "pentagon, anthropic'e alternatifler geliştiriyor": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "pentagon,",
+      "alternatifler",
+      "geliştiriyor",
+      "anthropic'e"
+    ]
+  },
+  "google, gemini'ın kişiselleştirme özelliklerini ücretsiz kullanıcılar için kullanıma sunuyor": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "google,",
+      "ücretsiz",
+      "için",
+      "özelliklerini",
+      "sunuyor",
+      "kullanıma",
+      "gemini'ın",
+      "kullanıcılar",
+      "kişiselleştirme"
+    ]
+  },
+  "mistral'den kurumsal model eğitim platformu: forge": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "kurumsal",
+      "mistral'den",
+      "platformu:",
+      "eğitim",
+      "forge",
+      "model"
+    ]
+  },
+  "openai, gpt-5.4 mini ve nano modellerini duyurdu": {
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "seen_dates": [
+      "2026-03-18"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "modellerini",
+      "duyurdu",
+      "mini",
+      "openai,",
+      "nano",
+      "gpt-5.4"
     ]
   }
 }

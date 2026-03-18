@@ -444,5 +444,34 @@
         }
       ]
     }
+  },
+  {
+    "date": "2026-03-18T06:06:02.777369",
+    "content": {
+      "contents": [
+        {
+          "platform": "twitter",
+          "type": "thread",
+          "content": "Tweet 1: Çarşamba günü = Hikaye günü! 📚 Çocuğunuz okuldan geldiğinde 'Bugün ne yaptık?' yerine 'Hangi macerayı yaşamak istersin?' diye sormayı denediniz mi?\n\nTweet 2: StoryPal ile çocuğunuz hem günün kahramanı olur, hem hayal gücünü kullanır, hem de dinleme becerilerini geliştirirken kaliteli zaman geçirirsiniz. 🎨✨\n\nTweet 3: Üstelik her hikaye çocuğunuzun ilgi alanlarına göre şekillenir. Dinozor sever mi? Uzay meraklısı mı? Hepsi mümkün!\n\nTweet 4: Bugün 3 ücretsiz hikayenizi deneyin. App Store'dan indirin, hemen başlayın! 🚀",
+          "hashtags": [
+            "#StoryPal",
+            "#ÇocukGelişimi",
+            "#DijitalEbeveynlik",
+            "#HikayeZamanı"
+          ]
+        },
+        {
+          "platform": "instagram",
+          "type": "caption",
+          "content": "Haftanın ortası yorgunluğunu çocuğunuzla özel bir hikaye anına çevirmeye ne dersiniz? 💫\n\nStoryPal ile çocuğunuz sadece hikaye dinlemiyor - kendi macerasını yaşıyor! Her hikaye onun adıyla, sevdiği karakterlerle, hayal ettiği dünyalarda geçiyor.\n\n✨ AI destekli görseller\n📖 PDF olarak saklayın\n👶 Her çocuk için ayrı profil\n📊 Gelişim istatistikleri\n\nİlk 3 hikaye her gün ücretsiz! Premium ile sınırsız hayal gücü sadece 4.99 TL/ay.\n\n👉 Biyografideki linkten App Store'dan indirebilirsiniz.\n\nSizin çocuğunuz hangi maceranın kahramanı olmak ister? Yorumlarda paylaşın! 👇💭\n\n#StoryPal #KişiselleştirilmişHikaye #EbeveynlikTüyoları #ÇocukveAile #KaliteliZaman #AIDijitalEbeveyn #HikayelerleÖğren #ÇocukKitapları #AileZamanı",
+          "visual_idea": "Karrusel post: 1. Slayt - Tablette StoryPal uygulamasını izleyen mutlu çocuk ve ebeveyn, sıcak aile ortamı. 2. Slayt - Uygulamadan örnek AI görselli hikaye sayfası mockup'ı. 3. Slayt - Özelliklerin ikonlarla gösterildiği minimalist infografik (PDF, profiller, istatistikler). 4. Slayt - 'Bugün hangi macera?' temalı CTA görseli."
+        },
+        {
+          "platform": "blog",
+          "type": "outline",
+          "content": "Blog Başlığı: 'Çocuğunuzun Hayal Gücünü Geliştirmenin 5 Bilimsel Yolu ve Teknolojinin Rolü'\n\nÖzet:\n1. Hayal gücünün çocuk gelişimindeki kritik rolü - Nörobilim araştırmaları ışığında yaratıcı düşünme, problem çözme ve duygusal zeka arasındaki bağlantı nasıl kurulur?\n\n2. Kişiselleştirilmiş hikayelerin öğrenmeye etkisi - Çocuk kendini hikayede gördüğünde motivasyon ve konsantrasyon nasıl artıyor? Montessori ve Reggio Emilia yaklaşımlarından örnekler.\n\n3. Dengeli ekran süresi: Pasif izlemek vs. Aktif yaratmak - AI destekli hikaye uygulamalarının geleneksel ekran süresinden farkı, ebeveynler için pratik kullanım önerileri ve StoryPal'in ebeveyn-çocuk etkileşimini nasıl güçlendirdiği."
+        }
+      ]
+    }
   }
 ]

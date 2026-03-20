@@ -503,5 +503,43 @@
         }
       ]
     }
+  },
+  {
+    "date": "2026-03-20T05:57:15.928940",
+    "content": {
+      "contents": [
+        {
+          "platform": "twitter",
+          "type": "thread",
+          "content": "🎉 Hafta sonu yaklaşıyor! Çocuğunuzla kaliteli vakit geçirmenin yeni yolu: StoryPal ile birlikte hikaye yaratın.\n\n📚 Bugün okulda neler öğrendi? Hangi hayvanı seviyor? StoryPal, çocuğunuzun ilgi alanlarını alıp ona özel hikayeler yazıyor. 5 yaşındaki Zeynep geçen hafta kendini uzayda macera yaşarken gördü! 🚀\n\n💡 Cuma akşamı ritüeli: Yemeğin ardından tablet başına geçmeyin, StoryPal'den yeni bir hikaye oluşturun ve birlikte okuyun. Hem ekran süresi azalıyor, hem bağ güçleniyor.\n\n🎁 Hafta sonu özel: İlk 3 hikaye ücretsiz! App Store'dan indirin, çocuğunuzun ismini girin ve sihir başlasın. #HaftaSonuPlanı",
+          "hashtags": [
+            "#StoryPal",
+            "#HaftaSonuPlanı",
+            "#AileVakti",
+            "#KişiselleştirilmişHikaye"
+          ]
+        },
+        {
+          "platform": "instagram",
+          "type": "caption",
+          "content": "✨ \"Anne, bu hikayedeki kız ben miyim?\" \n\nEvet canım, bu hikayenin kahramanı tamamen SENsin! 💜\n\nHer çocuk kendini bir hikayede görmek ister. StoryPal ile çocuğunuz sadece hikaye dinlemiyor, kendi macerasını yaşıyor. İsmi, yaşı, sevdiği şeyler... Hepsi hikayeye dokunan AI tarafından örülüyor.\n\n🎨 AI tarafından üretilen görseller\n📱 3 yaşından 10 yaşına her çocuğa uygun\n📖 PDF olarak kaydedip bastırabilirsiniz\n\nHafta sonunuz güzel geçsin! İlk hikayenizi bugün oluşturun 👇\n\n#StoryPal #KişiselleştirilmişHikaye #ÇocukKitapları #AileVakti #EbeveynlikHikayeleri #YaratıcıÇocuklar #CumaMotivasyonu",
+          "hashtags": [
+            "#StoryPal",
+            "#KişiselleştirilmişHikaye",
+            "#ÇocukKitapları",
+            "#AileVakti",
+            "#EbeveynlikHikayeleri",
+            "#YaratıcıÇocuklar",
+            "#CumaMotivasyonu"
+          ],
+          "visual_idea": "Carousel post (3 slayt): 1) Tabletle hikaye okuyan mutlu çocuk close-up, 2) StoryPal app ekranından örnek kişiselleştirilmiş hikaye sayfası (çocuğun isminin geçtiği bölüm highlight), 3) Aile koltuğunda birlikte hikaye okuyan anne-baba-çocuk geniş plan. Sıcak, samimi aile ortamı, doğal ışık. Pastel renkler, modern ama sıcak filtre."
+        },
+        {
+          "platform": "blog",
+          "type": "outline",
+          "content": "Başlık: 'Ekran Süresini Azaltmanın Sırrı: Çocuğunuzla Teknoloji Dostu Bağ Kurun'\n\nÖzet maddeleri:\n1. Ekran süresi endişesi vs. kaliteli dijital deneyim: Tüm ekran zamanı kötü değil - StoryPal gibi interaktif, yaratıcı uygulamalar nasıl eğitici olabiliyor? Araştırmalar ve uzman görüşleri.\n\n2. Hafta sonu ritüelleri yaratmak: Cuma akşamı veya Cumartesi sabahı 'hikaye yaratma saati' gibi rutinler nasıl aile bağlarını güçlendiriyor? 3 ebeveyn hikayesi ve deneyimleri.\n\n3. Kişiselleştirmenin gücü: Çocuğun kendini hikayede görmesi özgüven ve okuma sevgisine nasıl katkı sağlıyor? Çocuk gelişimi uzmanı röportajı + StoryPal ile başlangıç rehberi (CTA: Ücretsiz deneme linki)"
+        }
+      ]
+    }
   }
 ]

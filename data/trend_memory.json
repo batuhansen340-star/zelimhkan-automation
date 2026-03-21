@@ -133,11 +133,12 @@
   },
   "my homelab setup": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-19",
+    "last_seen": "2026-03-21",
     "seen_dates": [
       "2026-03-09",
       "2026-03-18",
-      "2026-03-19"
+      "2026-03-19",
+      "2026-03-21"
     ],
     "sources": [
       "hacker_news",
@@ -293,13 +294,15 @@
   },
   "show hn: skir – like protocol buffer but better": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-21",
     "seen_dates": [
       "2026-03-09",
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-21"
     ],
     "sources": [
-      "hacker_news"
+      "hacker_news",
+      "lobsters"
     ],
     "peak_score": 70,
     "keywords": [
@@ -354,10 +357,11 @@
   },
   "z80 sans – a disassembler in a font (2024)": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-21",
     "seen_dates": [
       "2026-03-09",
-      "2026-03-13"
+      "2026-03-13",
+      "2026-03-21"
     ],
     "sources": [
       "hacker_news"
@@ -1484,16 +1488,17 @@
   },
   "blocking http1.1": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-17",
+    "last_seen": "2026-03-21",
     "seen_dates": [
       "2026-03-09",
-      "2026-03-17"
+      "2026-03-17",
+      "2026-03-21"
     ],
     "sources": [
       "lobsters",
       "hacker_news"
     ],
-    "peak_score": 143,
+    "peak_score": 297,
     "keywords": [
       "blocking",
       "http1.1"
@@ -1866,7 +1871,7 @@
       "arxiv",
       "hacker_news"
     ],
-    "peak_score": 142,
+    "peak_score": 211,
     "keywords": [
       "all-to-all",
       "with",
@@ -2938,12 +2943,14 @@
   },
   "notes on writing a voxel game in dyalog apl": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-03-21",
     "seen_dates": [
-      "2026-03-09"
+      "2026-03-09",
+      "2026-03-21"
     ],
     "sources": [
-      "lobsters"
+      "lobsters",
+      "product_hunt"
     ],
     "peak_score": 7,
     "keywords": [
@@ -4915,10 +4922,11 @@
   },
   "contentdrips design agent": {
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-21",
     "seen_dates": [
       "2026-03-10",
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-21"
     ],
     "sources": [
       "product_hunt"
@@ -8036,10 +8044,11 @@
   },
   "show hn: a context-aware permission guard for claude code": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-17",
+    "last_seen": "2026-03-21",
     "seen_dates": [
       "2026-03-12",
-      "2026-03-17"
+      "2026-03-17",
+      "2026-03-21"
     ],
     "sources": [
       "hacker_news"
@@ -9308,7 +9317,7 @@
   },
   "reliable software in the llm era": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-19",
+    "last_seen": "2026-03-21",
     "seen_dates": [
       "2026-03-12",
       "2026-03-14",
@@ -9316,7 +9325,8 @@
       "2026-03-16",
       "2026-03-17",
       "2026-03-18",
-      "2026-03-19"
+      "2026-03-19",
+      "2026-03-21"
     ],
     "sources": [
       "hacker_news",
@@ -9418,10 +9428,11 @@
   },
   "glass": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-21",
     "seen_dates": [
       "2026-03-12",
-      "2026-03-13"
+      "2026-03-13",
+      "2026-03-21"
     ],
     "sources": [
       "product_hunt"
@@ -11161,14 +11172,16 @@
   },
   "i got lost in canary wharf for 30 minutes, but i found the future of sre": {
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-21",
     "seen_dates": [
-      "2026-03-13"
+      "2026-03-13",
+      "2026-03-21"
     ],
     "sources": [
-      "devto"
+      "devto",
+      "hacker_news"
     ],
-    "peak_score": 19,
+    "peak_score": 66,
     "keywords": [
       "lost",
       "minutes,",
@@ -15178,7 +15191,7 @@
       "devto",
       "hacker_news"
     ],
-    "peak_score": 56,
+    "peak_score": 118,
     "keywords": [
       "meets",
       "fortran"
@@ -16023,7 +16036,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 7156,
+    "peak_score": 7296,
     "keywords": [
       "aiming-lab/autoresearchclaw"
     ]
@@ -16751,7 +16764,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 14410,
+    "peak_score": 14688,
     "keywords": [
       "nvidia/nemoclaw"
     ]
@@ -16769,7 +16782,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 2283,
+    "peak_score": 2377,
     "keywords": [
       "moonshotai/attention-residuals"
     ]
@@ -18782,7 +18795,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1192,
+    "peak_score": 1213,
     "keywords": [
       "infatoshi/opensquirrel"
     ]
@@ -18799,7 +18812,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1552,
+    "peak_score": 2245,
     "keywords": [
       "lum1104/understand-anything"
     ]
@@ -18830,7 +18843,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 805,
+    "peak_score": 816,
     "keywords": [
       "rasbt/llm-architecture-gallery"
     ]
@@ -19510,7 +19523,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 2161,
+    "peak_score": 2391,
     "keywords": [
       "hkuds/clawteam"
     ]
@@ -20073,13 +20086,15 @@
   },
   "astral to join openai": {
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-20",
+    "last_seen": "2026-03-21",
     "seen_dates": [
       "2026-03-19",
-      "2026-03-20"
+      "2026-03-20",
+      "2026-03-21"
     ],
     "sources": [
-      "hacker_news"
+      "hacker_news",
+      "lobsters"
     ],
     "peak_score": 1290,
     "keywords": [
@@ -20474,7 +20489,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1873,
+    "peak_score": 1950,
     "keywords": [
       "voltagent/awesome-codex-subagents"
     ]
@@ -20490,7 +20505,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1255,
+    "peak_score": 1316,
     "keywords": [
       "cnlimiter/codex-manager"
     ]
@@ -21857,7 +21872,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1467,
+    "peak_score": 1643,
     "keywords": [
       "zerobootdev/zeroboot"
     ]
@@ -21872,7 +21887,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 929,
+    "peak_score": 952,
     "keywords": [
       "lcoutodemos/clui-cc"
     ]
@@ -22606,7 +22621,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 318,
+    "peak_score": 396,
     "keywords": [
       "aqueduct",
       "wild",
@@ -23044,7 +23059,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 50,
+    "peak_score": 54,
     "keywords": [
       "geocities",
       "makeover",
@@ -23145,7 +23160,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 90,
+    "peak_score": 112,
     "keywords": [
       "enshittifaication"
     ]
@@ -23299,7 +23314,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 578,
+    "peak_score": 1062,
     "keywords": [
       "coding",
       "opencode",
@@ -23317,7 +23332,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 146,
+    "peak_score": 260,
     "keywords": [
       "parser",
       "rewrote",
@@ -23336,7 +23351,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 517,
+    "peak_score": 605,
     "keywords": [
       "aircraft",
       "located",
@@ -23358,7 +23373,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 185,
+    "peak_score": 376,
     "keywords": [
       "faux",
       "chopsticks",
@@ -23375,7 +23390,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 147,
+    "peak_score": 269,
     "keywords": [
       "ghostling"
     ]
@@ -23389,7 +23404,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 51,
+    "peak_score": 138,
     "keywords": [
       "(2nd",
       "programming",
@@ -23426,7 +23441,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 86,
+    "peak_score": 185,
     "keywords": [
       "control",
       "worst",
@@ -23536,7 +23551,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 788,
+    "peak_score": 819,
     "keywords": [
       "mattprusak/autoresearch-genealogy"
     ]
@@ -23550,7 +23565,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 715,
+    "peak_score": 726,
     "keywords": [
       "rzru/nightingale"
     ]
@@ -23564,7 +23579,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 679,
+    "peak_score": 695,
     "keywords": [
       "frank890417/taiwan-md"
     ]
@@ -23884,7 +23899,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 4,
+    "peak_score": 5,
     "keywords": [
       "built",
       "electron)",
@@ -23902,7 +23917,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 2,
+    "peak_score": 3,
     "keywords": [
       "2022",
       "built",
@@ -23924,7 +23939,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 43,
+    "peak_score": 70,
     "keywords": [
       "elements",
       "should",
@@ -23942,7 +23957,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 29,
+    "peak_score": 35,
     "keywords": [
       "heard",
       "what",
@@ -23962,7 +23977,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 12,
+    "peak_score": 41,
     "keywords": [
       "have",
       "generative",
@@ -24004,7 +24019,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 4,
+    "peak_score": 24,
     "keywords": [
       "long",
       "dead!",
@@ -24013,6 +24028,509 @@
       "philosophy",
       "unix",
       "live..."
+    ]
+  },
+  "meta's omnilingual mt for 1,600 languages": {
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21",
+    "seen_dates": [
+      "2026-03-21"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 68,
+    "keywords": [
+      "meta's",
+      "1,600",
+      "languages",
+      "omnilingual"
+    ]
+  },
+  "mamba-3": {
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21",
+    "seen_dates": [
+      "2026-03-21"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 219,
+    "keywords": [
+      "mamba-3"
+    ]
+  },
+  "fujifilm x raw studio webapp clone": {
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21",
+    "seen_dates": [
+      "2026-03-21"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 116,
+    "keywords": [
+      "studio",
+      "fujifilm",
+      "webapp",
+      "clone"
+    ]
+  },
+  "padel chess – tactical simulator for padel": {
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21",
+    "seen_dates": [
+      "2026-03-21"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 63,
+    "keywords": [
+      "simulator",
+      "padel",
+      "tactical",
+      "chess"
+    ]
+  },
+  "cryptography in home entertainment (2004)": {
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21",
+    "seen_dates": [
+      "2026-03-21"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 69,
+    "keywords": [
+      "cryptography",
+      "entertainment",
+      "(2004)",
+      "home"
+    ]
+  },
+  "an industrial piping contractor on claude code [video]": {
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21",
+    "seen_dates": [
+      "2026-03-21"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 91,
+    "keywords": [
+      "contractor",
+      "code",
+      "piping",
+      "industrial",
+      "[video]",
+      "claude"
+    ]
+  },
+  "turing award honors bennett and brassard for quantum information science": {
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21",
+    "seen_dates": [
+      "2026-03-21"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 57,
+    "keywords": [
+      "quantum",
+      "science",
+      "award",
+      "bennett",
+      "brassard",
+      "information",
+      "turing",
+      "honors"
+    ]
+  },
+  "murmur": {
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21",
+    "seen_dates": [
+      "2026-03-21"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "murmur"
+    ]
+  },
+  "contral": {
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21",
+    "seen_dates": [
+      "2026-03-21"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "contral"
+    ]
+  },
+  "everest ai": {
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21",
+    "seen_dates": [
+      "2026-03-21"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "everest"
+    ]
+  },
+  "optimo": {
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21",
+    "seen_dates": [
+      "2026-03-21"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "optimo"
+    ]
+  },
+  "caplo": {
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21",
+    "seen_dates": [
+      "2026-03-21"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "caplo"
+    ]
+  },
+  "mindspend": {
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21",
+    "seen_dates": [
+      "2026-03-21"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "mindspend"
+    ]
+  },
+  "claude cowork projects": {
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21",
+    "seen_dates": [
+      "2026-03-21"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "cowork",
+      "projects",
+      "claude"
+    ]
+  },
+  "lxf746/any-auto-register": {
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21",
+    "seen_dates": [
+      "2026-03-21"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 648,
+    "keywords": [
+      "lxf746/any-auto-register"
+    ]
+  },
+  "how fusion power works and the startups pursuing it": {
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21",
+    "seen_dates": [
+      "2026-03-21"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "power",
+      "works",
+      "pursuing",
+      "fusion",
+      "startups"
+    ]
+  },
+  "claude's agentic loop explained: stopreason, tool_use, and the pattern behind every ai agent": {
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21",
+    "seen_dates": [
+      "2026-03-21"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 3,
+    "keywords": [
+      "explained:",
+      "tool_use,",
+      "pattern",
+      "behind",
+      "every",
+      "agentic",
+      "agent",
+      "claude's",
+      "loop",
+      "stopreason,"
+    ]
+  },
+  "i built a 1.7kb vdom-less framework, it went \"viral\", and reddit banned me 🤣": {
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21",
+    "seen_dates": [
+      "2026-03-21"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 5,
+    "keywords": [
+      "went",
+      "1.7kb",
+      "vdom-less",
+      "reddit",
+      "framework,",
+      "banned",
+      "\"viral\",",
+      "built"
+    ]
+  },
+  "how i made fzf feel snappy again in large repositories": {
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21",
+    "seen_dates": [
+      "2026-03-21"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 1,
+    "keywords": [
+      "snappy",
+      "feel",
+      "large",
+      "repositories",
+      "made",
+      "again"
+    ]
+  },
+  "adding stripe checkout to a solo saas: lessons from patentllm's $1k/mo plan": {
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21",
+    "seen_dates": [
+      "2026-03-21"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "saas:",
+      "solo",
+      "from",
+      "$1k/mo",
+      "adding",
+      "checkout",
+      "plan",
+      "lessons",
+      "patentllm's",
+      "stripe"
+    ]
+  },
+  "i modernized bitchx — the legendary 90s irc client now has ai built in": {
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21",
+    "seen_dates": [
+      "2026-03-21"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 3,
+    "keywords": [
+      "legendary",
+      "bitchx",
+      "client",
+      "built",
+      "modernized"
+    ]
+  },
+  "optimizing for zero: building a high-performance browser runner with no budget": {
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21",
+    "seen_dates": [
+      "2026-03-21"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 1,
+    "keywords": [
+      "budget",
+      "browser",
+      "with",
+      "high-performance",
+      "building",
+      "zero:",
+      "runner",
+      "optimizing"
+    ]
+  },
+  "light and shadow settings - unreal engine": {
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21",
+    "seen_dates": [
+      "2026-03-21"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 1,
+    "keywords": [
+      "engine",
+      "unreal",
+      "shadow",
+      "settings",
+      "light"
+    ]
+  },
+  "i built a tool that turns todo comments into actual documentation": {
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21",
+    "seen_dates": [
+      "2026-03-21"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 3,
+    "keywords": [
+      "documentation",
+      "todo",
+      "actual",
+      "tool",
+      "that",
+      "comments",
+      "turns",
+      "built",
+      "into"
+    ]
+  },
+  "the agent memory problem (and how i solved it without a database)": {
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21",
+    "seen_dates": [
+      "2026-03-21"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 1,
+    "keywords": [
+      "without",
+      "(and",
+      "database)",
+      "solved",
+      "agent",
+      "memory",
+      "problem"
+    ]
+  },
+  "is simple actually good?": {
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21",
+    "seen_dates": [
+      "2026-03-21"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 4,
+    "keywords": [
+      "actually",
+      "good?",
+      "simple"
+    ]
+  },
+  "why craft-lovers are losing their craft": {
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21",
+    "seen_dates": [
+      "2026-03-21"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 1,
+    "keywords": [
+      "craft-lovers",
+      "losing",
+      "their",
+      "craft"
+    ]
+  },
+  "a rant about resolutions": {
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21",
+    "seen_dates": [
+      "2026-03-21"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 9,
+    "keywords": [
+      "rant",
+      "resolutions",
+      "about"
+    ]
+  },
+  "pigeon's device": {
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21",
+    "seen_dates": [
+      "2026-03-21"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 3,
+    "keywords": [
+      "device",
+      "pigeon's"
     ]
   }
 }

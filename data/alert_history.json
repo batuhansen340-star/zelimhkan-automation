@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-03-09:Hacker News:Ask HN: How to be alone?",
-    "title": "Ask HN: How to be alone?",
-    "score": 570,
-    "source": "Hacker News",
-    "timestamp": "2026-03-09T14:41:06.127743"
-  },
-  {
     "key": "2026-03-09:Hacker News:Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)",
     "title": "Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)",
     "score": 667,
@@ -698,5 +691,12 @@
     "score": 533,
     "source": "Hacker News",
     "timestamp": "2026-03-22T14:17:42.196383"
+  },
+  {
+    "key": "2026-03-22:Hacker News:Hormuz Minesweeper – Are you tired of winning?",
+    "title": "Hormuz Minesweeper – Are you tired of winning?",
+    "score": 569,
+    "source": "Hacker News",
+    "timestamp": "2026-03-22T18:22:29.767442"
   }
 ]

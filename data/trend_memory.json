@@ -910,11 +910,12 @@
   },
   "techcrunch mobility: rivian’s r2 gambit": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-03-22",
     "seen_dates": [
       "2026-03-09",
       "2026-03-15",
-      "2026-03-16"
+      "2026-03-16",
+      "2026-03-22"
     ],
     "sources": [
       "techcrunch"
@@ -1338,7 +1339,7 @@
   },
   "claude code now lets you code from your phone. here's what i learned the hard way.": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-21",
+    "last_seen": "2026-03-22",
     "seen_dates": [
       "2026-03-09",
       "2026-03-10",
@@ -1349,7 +1350,8 @@
       "2026-03-17",
       "2026-03-18",
       "2026-03-20",
-      "2026-03-21"
+      "2026-03-21",
+      "2026-03-22"
     ],
     "sources": [
       "devto",
@@ -2161,12 +2163,14 @@
   },
   "kuwaiti f/a-18's triple friendly fire shootdown gets stranger by the day": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-03-22",
     "seen_dates": [
-      "2026-03-09"
+      "2026-03-09",
+      "2026-03-22"
     ],
     "sources": [
-      "hacker_news"
+      "hacker_news",
+      "product_hunt"
     ],
     "peak_score": 63,
     "keywords": [
@@ -2778,13 +2782,14 @@
   },
   "i built an open-source tool that lets ai agents hire real humans to test your product": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-18",
+    "last_seen": "2026-03-22",
     "seen_dates": [
       "2026-03-09",
       "2026-03-10",
       "2026-03-11",
       "2026-03-17",
-      "2026-03-18"
+      "2026-03-18",
+      "2026-03-22"
     ],
     "sources": [
       "devto",
@@ -2927,15 +2932,17 @@
   },
   "i don't know if my job will still exist in ten years": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-10",
+    "last_seen": "2026-03-22",
     "seen_dates": [
       "2026-03-09",
-      "2026-03-10"
+      "2026-03-10",
+      "2026-03-22"
     ],
     "sources": [
-      "lobsters"
+      "lobsters",
+      "hacker_news"
     ],
-    "peak_score": 16,
+    "peak_score": 155,
     "keywords": [
       "don't",
       "exist",
@@ -3633,7 +3640,8 @@
     "sources": [
       "product_hunt",
       "hacker_news",
-      "devto"
+      "devto",
+      "lobsters"
     ],
     "peak_score": 147,
     "keywords": [
@@ -5412,13 +5420,15 @@
   },
   "tls certificates are about to expire way more often. here's how i'm handling it.": {
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-22",
     "seen_dates": [
       "2026-03-10",
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-22"
     ],
     "sources": [
-      "devto"
+      "devto",
+      "lobsters"
     ],
     "peak_score": 33,
     "keywords": [
@@ -9915,14 +9925,16 @@
   },
   "cake - topographical version control": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-22",
     "seen_dates": [
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-22"
     ],
     "sources": [
-      "devto"
+      "devto",
+      "lobsters"
     ],
-    "peak_score": 6,
+    "peak_score": 13,
     "keywords": [
       "cake",
       "version",
@@ -17120,14 +17132,16 @@
   },
   "gpu flight — system architecture": {
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17",
+    "last_seen": "2026-03-22",
     "seen_dates": [
-      "2026-03-17"
+      "2026-03-17",
+      "2026-03-22"
     ],
     "sources": [
-      "devto"
+      "devto",
+      "hacker_news"
     ],
-    "peak_score": 1,
+    "peak_score": 58,
     "keywords": [
       "architecture",
       "flight",
@@ -19543,7 +19557,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 2537,
+    "peak_score": 2693,
     "keywords": [
       "hkuds/clawteam"
     ]
@@ -20514,7 +20528,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1995,
+    "peak_score": 2041,
     "keywords": [
       "voltagent/awesome-codex-subagents"
     ]
@@ -21915,7 +21929,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 970,
+    "peak_score": 992,
     "keywords": [
       "lcoutodemos/clui-cc"
     ]
@@ -23598,7 +23612,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 842,
+    "peak_score": 868,
     "keywords": [
       "mattprusak/autoresearch-genealogy"
     ]
@@ -23627,7 +23641,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 702,
+    "peak_score": 722,
     "keywords": [
       "frank890417/taiwan-md"
     ]
@@ -24242,9 +24256,10 @@
   },
   "everest ai": {
     "first_seen": "2026-03-21",
-    "last_seen": "2026-03-21",
+    "last_seen": "2026-03-22",
     "seen_dates": [
-      "2026-03-21"
+      "2026-03-21",
+      "2026-03-22"
     ],
     "sources": [
       "product_hunt"
@@ -24324,7 +24339,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 849,
+    "peak_score": 963,
     "keywords": [
       "lxf746/any-auto-register"
     ]
@@ -24562,7 +24577,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 21,
+    "peak_score": 41,
     "keywords": [
       "craft-lovers",
       "losing",
@@ -24610,9 +24625,10 @@
       "2026-03-22"
     ],
     "sources": [
-      "hacker_news"
+      "hacker_news",
+      "lobsters"
     ],
-    "peak_score": 102,
+    "peak_score": 407,
     "keywords": [
       "pillars",
       "javascript",
@@ -24629,7 +24645,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 580,
+    "peak_score": 786,
     "keywords": [
       "take",
       "some",
@@ -24647,7 +24663,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 187,
+    "peak_score": 324,
     "keywords": [
       "with",
       "browser",
@@ -24668,7 +24684,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 57,
+    "peak_score": 159,
     "keywords": [
       "chest",
       "(2009)",
@@ -24684,7 +24700,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 112,
+    "peak_score": 249,
     "keywords": [
       "emulator",
       "open-source",
@@ -24868,7 +24884,8 @@
       "2026-03-22"
     ],
     "sources": [
-      "hacker_news"
+      "hacker_news",
+      "lobsters"
     ],
     "peak_score": 341,
     "keywords": [
@@ -24992,7 +25009,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 850,
+    "peak_score": 995,
     "keywords": [
       "math-inc/opengauss"
     ]
@@ -25006,7 +25023,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 657,
+    "peak_score": 802,
     "keywords": [
       "truongduy2611/app-store-preflight-skills"
     ]
@@ -25020,7 +25037,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 630,
+    "peak_score": 673,
     "keywords": [
       "bryanlunduke/doesitageverify"
     ]
@@ -25034,7 +25051,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 613,
+    "peak_score": 821,
     "keywords": [
       "dontbesilent2025/dbskill"
     ]
@@ -25048,7 +25065,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 609,
+    "peak_score": 670,
     "keywords": [
       "ghostty-org/ghostling"
     ]
@@ -25062,7 +25079,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 586,
+    "peak_score": 600,
     "keywords": [
       "nv-tlabs/kimodo"
     ]
@@ -25076,7 +25093,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 585,
+    "peak_score": 595,
     "keywords": [
       "joeseesun/opencli-skill"
     ]
@@ -25090,7 +25107,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 531,
+    "peak_score": 828,
     "keywords": [
       "danveloper/flash-moe"
     ]
@@ -25240,7 +25257,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 2,
+    "peak_score": 21,
     "keywords": [
       "what",
       "opentelemetry",
@@ -25286,7 +25303,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 1,
+    "peak_score": 5,
     "keywords": [
       "where",
       "what",
@@ -25356,7 +25373,7 @@
       "devto",
       "lobsters"
     ],
-    "peak_score": 5,
+    "peak_score": 19,
     "keywords": [
       "what",
       "health",
@@ -25396,7 +25413,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 16,
+    "peak_score": 33,
     "keywords": [
       "rtmp"
     ]
@@ -25428,7 +25445,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 2,
+    "peak_score": 18,
     "keywords": [
       "html",
       "gopher",
@@ -25456,6 +25473,573 @@
       "header:",
       "weekend",
       "micro"
+    ]
+  },
+  "bored of eating your own dogfood? try smelling your own farts": {
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "seen_dates": [
+      "2026-03-22"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 214,
+    "keywords": [
+      "bored",
+      "smelling",
+      "eating",
+      "farts",
+      "your",
+      "dogfood?"
+    ]
+  },
+  "flash-moe: running a 397b parameter model on a mac with 48gb ram": {
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "seen_dates": [
+      "2026-03-22"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 177,
+    "keywords": [
+      "with",
+      "flash-moe:",
+      "parameter",
+      "397b",
+      "48gb",
+      "model",
+      "running"
+    ]
+  },
+  "building an fpga 3dfx voodoo with modern rtl tools": {
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "seen_dates": [
+      "2026-03-22"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 68,
+    "keywords": [
+      "tools",
+      "fpga",
+      "building",
+      "3dfx",
+      "modern",
+      "voodoo",
+      "with"
+    ]
+  },
+  "project nomad – knowledge that never goes offline": {
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "seen_dates": [
+      "2026-03-22"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 117,
+    "keywords": [
+      "that",
+      "never",
+      "offline",
+      "project",
+      "goes",
+      "nomad",
+      "knowledge"
+    ]
+  },
+  "atlassian says it had right to fire engineer for suggesting ceo is 'rich jerk'": {
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "seen_dates": [
+      "2026-03-22"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 63,
+    "keywords": [
+      "'rich",
+      "jerk'",
+      "fire",
+      "right",
+      "suggesting",
+      "engineer",
+      "atlassian",
+      "says"
+    ]
+  },
+  "a review of dice that came with the white castle": {
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "seen_dates": [
+      "2026-03-22"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 63,
+    "keywords": [
+      "that",
+      "castle",
+      "review",
+      "dice",
+      "came",
+      "white",
+      "with"
+    ]
+  },
+  "hormuz minesweeper – are you tired of winning?": {
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "seen_dates": [
+      "2026-03-22"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 534,
+    "keywords": [
+      "hormuz",
+      "tired",
+      "winning?",
+      "minesweeper"
+    ]
+  },
+  "my first patch to the linux kernel": {
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "seen_dates": [
+      "2026-03-22"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 170,
+    "keywords": [
+      "kernel",
+      "first",
+      "patch",
+      "linux"
+    ]
+  },
+  "apple's intentional crippling of mobile safari continues": {
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "seen_dates": [
+      "2026-03-22"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 88,
+    "keywords": [
+      "mobile",
+      "safari",
+      "apple's",
+      "continues",
+      "crippling",
+      "intentional"
+    ]
+  },
+  "tinybox – a powerful computer for deep learning": {
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "seen_dates": [
+      "2026-03-22"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 550,
+    "keywords": [
+      "deep",
+      "learning",
+      "tinybox",
+      "computer",
+      "powerful"
+    ]
+  },
+  "embedful": {
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "seen_dates": [
+      "2026-03-22"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "embedful"
+    ]
+  },
+  "context.dev": {
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "seen_dates": [
+      "2026-03-22"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "context.dev"
+    ]
+  },
+  "minimax-ai/skills": {
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "seen_dates": [
+      "2026-03-22"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 1333,
+    "keywords": [
+      "minimax-ai/skills"
+    ]
+  },
+  "elon musk unveils chip manufacturing plans for spacex and tesla": {
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "seen_dates": [
+      "2026-03-22"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "plans",
+      "manufacturing",
+      "tesla",
+      "spacex",
+      "unveils",
+      "chip",
+      "musk",
+      "elon"
+    ]
+  },
+  "an exclusive tour of amazon’s trainium lab, the chip that’s won over anthropic, openai, even apple": {
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "seen_dates": [
+      "2026-03-22"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "that’s",
+      "lab,",
+      "trainium",
+      "apple",
+      "over",
+      "anthropic,",
+      "openai,",
+      "even",
+      "chip",
+      "exclusive",
+      "amazon’s",
+      "tour"
+    ]
+  },
+  "are ai tokens the new signing bonus or just a cost of doing business?": {
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "seen_dates": [
+      "2026-03-22"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "cost",
+      "doing",
+      "just",
+      "bonus",
+      "signing",
+      "business?",
+      "tokens"
+    ]
+  },
+  "raw developer stories: the side nobody shows": {
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "seen_dates": [
+      "2026-03-22"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 5,
+    "keywords": [
+      "side",
+      "developer",
+      "nobody",
+      "stories:",
+      "shows"
+    ]
+  },
+  "why your ai agent's shell access is a security nightmare (and how to fix it)": {
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "seen_dates": [
+      "2026-03-22"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 1,
+    "keywords": [
+      "agent's",
+      "(and",
+      "security",
+      "access",
+      "shell",
+      "your",
+      "nightmare"
+    ]
+  },
+  "i built a uk business intelligence mcp server — here's how": {
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "seen_dates": [
+      "2026-03-22"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 1,
+    "keywords": [
+      "server",
+      "built",
+      "business",
+      "here's",
+      "intelligence"
+    ]
+  },
+  "we replaced every tool claude code ships with": {
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "seen_dates": [
+      "2026-03-22"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 2,
+    "keywords": [
+      "code",
+      "ships",
+      "claude",
+      "replaced",
+      "every",
+      "tool",
+      "with"
+    ]
+  },
+  "your multi-agent system is a black box you built yourself": {
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "seen_dates": [
+      "2026-03-22"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 3,
+    "keywords": [
+      "built",
+      "system",
+      "black",
+      "your",
+      "yourself",
+      "multi-agent"
+    ]
+  },
+  "when nothing seems to stick": {
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "seen_dates": [
+      "2026-03-22"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 5,
+    "keywords": [
+      "stick",
+      "when",
+      "nothing",
+      "seems"
+    ]
+  },
+  "i built an open-source ai assistant that actually runs my day — here's the architecture": {
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "seen_dates": [
+      "2026-03-22"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 2,
+    "keywords": [
+      "assistant",
+      "that",
+      "built",
+      "open-source",
+      "architecture",
+      "actually",
+      "runs",
+      "here's"
+    ]
+  },
+  "i built student memory into groq prompts via hindsight": {
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "seen_dates": [
+      "2026-03-22"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 1,
+    "keywords": [
+      "into",
+      "built",
+      "student",
+      "hindsight",
+      "groq",
+      "memory",
+      "prompts"
+    ]
+  },
+  "how i built a production android document scanner in kotlin — the hard parts nobody talks about": {
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "seen_dates": [
+      "2026-03-22"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "production",
+      "built",
+      "kotlin",
+      "talks",
+      "android",
+      "document",
+      "about",
+      "nobody",
+      "hard",
+      "parts",
+      "scanner"
+    ]
+  },
+  "1 week post-launch: 25 signups, 0 sales. here's what i got wrong and what i'm changing": {
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "seen_dates": [
+      "2026-03-22"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 2,
+    "keywords": [
+      "post-launch:",
+      "what",
+      "here's",
+      "signups,",
+      "wrong",
+      "changing",
+      "sales.",
+      "week"
+    ]
+  },
+  "security advisory for cargo": {
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "seen_dates": [
+      "2026-03-22"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 20,
+    "keywords": [
+      "advisory",
+      "security",
+      "cargo"
+    ]
+  },
+  "windows native app development is a mess": {
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "seen_dates": [
+      "2026-03-22"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 8,
+    "keywords": [
+      "mess",
+      "windows",
+      "development",
+      "native"
+    ]
+  },
+  "my home network observes bedtime with openbsd and pf": {
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "seen_dates": [
+      "2026-03-22"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 7,
+    "keywords": [
+      "bedtime",
+      "observes",
+      "openbsd",
+      "network",
+      "home",
+      "with"
+    ]
+  },
+  "little known development methods (2009)": {
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "seen_dates": [
+      "2026-03-22"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 8,
+    "keywords": [
+      "known",
+      "development",
+      "methods",
+      "(2009)",
+      "little"
     ]
   }
 }

@@ -600,5 +600,34 @@
         }
       ]
     }
+  },
+  {
+    "date": "2026-03-23T06:13:04.220119",
+    "content": {
+      "contents": [
+        {
+          "platform": "twitter",
+          "type": "thread",
+          "content": "Pazartesi sabahları okula hazırlanmak zor mu? 🌅 StoryPal ile güne motivasyonla başlayın!\n\nÇocuğunuzun adını taşıyan bir kahramanın okul macerasını dinleyin. AI, çocuğunuzun ilgi alanlarına göre özel hikayeler oluşturuyor.\n\nSabah rutininiz daha keyifli, çocuğunuz daha istekli! 📚✨\n\nÜcretsiz deneyin: Her gün 3 hikaye hakkınız var. App Store'da 'StoryPal' 🎯",
+          "hashtags": [
+            "#StoryPal",
+            "#EbeveynlikTüyoları",
+            "#SabahRutini",
+            "#ÇocukGelişimi"
+          ]
+        },
+        {
+          "platform": "instagram",
+          "type": "caption",
+          "content": "Pazartesi sendromu sadece yetişkinlerde değil, minik kahramanlarımızda da! 💙\n\nPeki ya çocuğunuz haftaya kendi özel hikayesiyle başlasa? StoryPal, AI teknolojisiyle çocuğunuzu hikayenin merkezine koyuyor. Adı, sevdiği hayvanlar, hobileri... Her şey onun için!\n\n✨ Her çocuk kendi hikayesinin kahramanı\n📱 3 yaş ve üzeri için tasarlandı\n🎨 Renkli AI görselleriyle\n💝 Günde 3 hikaye ÜCRETSİZ\n\nHaftaya enerjik başlamanın sırrı profilimizdeki linkten! 👆\n\n#StoryPal #KişiselleştirilmişHikaye #ÇocuklaraÖzel #AITeknolojisi #EbeveynlikSerüveni #HaftayaBaşlarken #ÇocukHikayeleri #DijitalEbeveynlik",
+          "visual_idea": "Yatakta okumaya hazırlanan, elinde telefon/tablet tutan bir ebeveyn ve yanında heyecanla dinleyen çocuk. Arka planda StoryPal arayüzünden renkli bir hikaye görseli. Sıcak, sabah ışığı hissi veren, samimi bir aile anı fotoğrafı veya illüstrasyon."
+        },
+        {
+          "platform": "blog",
+          "type": "outline",
+          "content": "Blog Başlığı: 'Pazartesi Motivasyonu: Çocuğunuzun Haftaya Keyifle Başlaması İçin 5 Yaratıcı Yöntem'\n\n1. Kişiselleştirilmiş Hikayelerle Güne Başlamak - Çocuğunuzun kendini hikayede görmesinin psikolojik faydaları ve StoryPal'ın bu konuda nasıl yardımcı olduğu. Araştırmalara dayalı bilgiler ve uzman görüşleri.\n\n2. Sabah Rutinine Teknoloji Dostu Yaklaşım - Ekran süresini kaliteli içerikle değerlendirmenin yolları. Free tier ile nasıl başlanır, premium özellikler ne zaman gerekli? Ebeveyn istatistikleri özelliğinin kullanımı.\n\n3. Yaratıcılığı Tetikleyen Dijital Araçlar - AI görsellerin hayal gücüne katkısı, PDF export ile hikayeleri fiziksel albüme dönüştürme fikirleri, kardeşler için farklı profiller oluşturma ipuçları. Gerçek kullanıcı hikayeleri ve deneyimler."
+        }
+      ]
+    }
   }
 ]

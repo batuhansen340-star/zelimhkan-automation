@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-03-10:Hacker News:Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
-    "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
-    "score": 523,
-    "source": "Hacker News",
-    "timestamp": "2026-03-10T14:39:12.397872"
-  },
-  {
-    "key": "2026-03-10:Hacker News:Tony Hoare has died",
-    "title": "Tony Hoare has died",
-    "score": 846,
-    "source": "Hacker News",
-    "timestamp": "2026-03-10T18:35:09.386634"
-  },
-  {
-    "key": "2026-03-11:Hacker News:Tony Hoare has died",
-    "title": "Tony Hoare has died",
-    "score": 1590,
-    "source": "Hacker News",
-    "timestamp": "2026-03-11T04:09:57.088763"
-  },
-  {
     "key": "2026-03-11:Hacker News:Online age-verification tools for child safety are surveilling adults",
     "title": "Online age-verification tools for child safety are surveilling adults",
     "score": 588,
@@ -698,5 +677,26 @@
     "score": 515,
     "source": "Hacker News",
     "timestamp": "2026-03-23T14:48:17.124098"
+  },
+  {
+    "key": "2026-03-23:Hacker News:Migrating to the EU",
+    "title": "Migrating to the EU",
+    "score": 694,
+    "source": "Hacker News",
+    "timestamp": "2026-03-23T18:39:15.202378"
+  },
+  {
+    "key": "2026-03-23:Hacker News:The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
+    "title": "The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
+    "score": 529,
+    "source": "Hacker News",
+    "timestamp": "2026-03-23T18:39:15.202396"
+  },
+  {
+    "key": "2026-03-23:Hacker News:Reports of code's death are greatly exaggerated",
+    "title": "Reports of code's death are greatly exaggerated",
+    "score": 536,
+    "source": "Hacker News",
+    "timestamp": "2026-03-23T18:39:15.202402"
   }
 ]

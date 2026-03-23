@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-03-09:Hacker News:Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)",
-    "title": "Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)",
-    "score": 667,
-    "source": "Hacker News",
-    "timestamp": "2026-03-09T18:38:04.996231"
-  },
-  {
     "key": "2026-03-09:Hacker News:US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]",
     "title": "US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]",
     "score": 513,
@@ -698,5 +691,12 @@
     "score": 569,
     "source": "Hacker News",
     "timestamp": "2026-03-22T18:22:29.767442"
+  },
+  {
+    "key": "2026-03-23:Hacker News:PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
+    "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
+    "score": 508,
+    "source": "Hacker News",
+    "timestamp": "2026-03-23T07:14:33.006407"
   }
 ]

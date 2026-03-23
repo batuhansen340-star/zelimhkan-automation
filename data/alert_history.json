@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-03-10:Hacker News:Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)",
-    "title": "Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)",
-    "score": 901,
-    "source": "Hacker News",
-    "timestamp": "2026-03-10T04:09:37.278665"
-  },
-  {
-    "key": "2026-03-10:Hacker News:Building a Procedural Hex Map with Wave Function Collapse",
-    "title": "Building a Procedural Hex Map with Wave Function Collapse",
-    "score": 538,
-    "source": "Hacker News",
-    "timestamp": "2026-03-10T14:39:12.397858"
-  },
-  {
     "key": "2026-03-10:Hacker News:Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
     "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
     "score": 523,
@@ -698,5 +684,19 @@
     "score": 537,
     "source": "Hacker News",
     "timestamp": "2026-03-23T10:40:35.290354"
+  },
+  {
+    "key": "2026-03-23:Hacker News:Project Nomad – Knowledge That Never Goes Offline",
+    "title": "Project Nomad – Knowledge That Never Goes Offline",
+    "score": 512,
+    "source": "Hacker News",
+    "timestamp": "2026-03-23T14:48:17.124087"
+  },
+  {
+    "key": "2026-03-23:Hacker News:GrapheneOS will remain usable by anyone without requiring personal information",
+    "title": "GrapheneOS will remain usable by anyone without requiring personal information",
+    "score": 515,
+    "source": "Hacker News",
+    "timestamp": "2026-03-23T14:48:17.124098"
   }
 ]

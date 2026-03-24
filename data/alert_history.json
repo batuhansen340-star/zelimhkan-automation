@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-03-11:Hacker News:Create value for others and don’t worry about the returns",
-    "title": "Create value for others and don’t worry about the returns",
-    "score": 521,
-    "source": "Hacker News",
-    "timestamp": "2026-03-11T14:39:20.400540"
-  },
-  {
-    "key": "2026-03-11:Hacker News:Yann LeCun raises $1B to build AI that understands the physical world",
-    "title": "Yann LeCun raises $1B to build AI that understands the physical world",
-    "score": 534,
-    "source": "Hacker News",
-    "timestamp": "2026-03-11T14:39:20.400561"
-  },
-  {
     "key": "2026-03-11:Hacker News:Whistleblower claims ex-DOGE member says he took Social Security data to new job",
     "title": "Whistleblower claims ex-DOGE member says he took Social Security data to new job",
     "score": 511,
@@ -698,5 +684,19 @@
     "score": 815,
     "source": "Hacker News",
     "timestamp": "2026-03-24T04:19:50.471441"
+  },
+  {
+    "key": "2026-03-24:Hacker News:Microsoft's \"Fix\" for Windows 11: Flowers After the Beating",
+    "title": "Microsoft's \"Fix\" for Windows 11: Flowers After the Beating",
+    "score": 570,
+    "source": "Hacker News",
+    "timestamp": "2026-03-24T14:50:28.026655"
+  },
+  {
+    "key": "2026-03-24:Hacker News:Claude Code Cheat Sheet",
+    "title": "Claude Code Cheat Sheet",
+    "score": 527,
+    "source": "Hacker News",
+    "timestamp": "2026-03-24T14:50:28.026675"
   }
 ]

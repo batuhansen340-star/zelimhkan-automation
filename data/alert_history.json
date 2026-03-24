@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-03-11:Hacker News:Whistleblower claims ex-DOGE member says he took Social Security data to new job",
-    "title": "Whistleblower claims ex-DOGE member says he took Social Security data to new job",
-    "score": 511,
-    "source": "Hacker News",
-    "timestamp": "2026-03-11T18:40:35.978295"
-  },
-  {
     "key": "2026-03-11:Hacker News:Don't post generated/AI-edited comments. HN is for conversation between humans.",
     "title": "Don't post generated/AI-edited comments. HN is for conversation between humans.",
     "score": 1913,
@@ -698,5 +691,12 @@
     "score": 527,
     "source": "Hacker News",
     "timestamp": "2026-03-24T14:50:28.026675"
+  },
+  {
+    "key": "2026-03-24:Hacker News:Microsoft's \"fix\" for Windows 11",
+    "title": "Microsoft's \"fix\" for Windows 11",
+    "score": 894,
+    "source": "Hacker News",
+    "timestamp": "2026-03-24T22:36:05.791925"
   }
 ]

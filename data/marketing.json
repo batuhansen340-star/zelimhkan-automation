@@ -629,5 +629,39 @@
         }
       ]
     }
+  },
+  {
+    "date": "2026-03-24T06:03:43.614587",
+    "content": {
+      "contents": [
+        {
+          "platform": "twitter",
+          "type": "thread",
+          "content": "1/ Çocuğunuz yemek yerken 'bir lokma daha' için savaş veriyor musunuz? 🍽️ StoryPal'dan ipucu: Yemek zamanını hikaye zamanıyla birleştirin!\n\n2/ Her lokmadan sonra hikayeden bir paragraf okuyun. Çocuğunuz kahramanın macerasını merak edince tabağı bitirmeyi fark etmeyecek! 📖✨\n\n3/ StoryPal'da çocuğunuzun EN SEVDİĞİ yemeği hikayeye ekleyebilirsiniz. Kahramanımız brokoli yiyerek güç kazanıyor! 🥦💪\n\n4/ Bugün ücretsiz deneme ile başlayın, yemek saatlerini keyifli anılara dönüştürün. Link bio'da! 👆",
+          "hashtags": [
+            "#StoryPal",
+            "#EbeveynlikÖnerileri",
+            "#ÇocuklarlaYemek",
+            "#AileZamanı"
+          ]
+        },
+        {
+          "platform": "instagram",
+          "type": "caption",
+          "content": "Salı günü gerçeği: Çocuklar TV'den hikaye dinlemeyi seviyor ama asıl büyü, KENDİLERİNİN hikayede olmasında! ✨\n\nStoryPal ile çocuğunuz sadece dinleyici değil, maceranın TAM MERKEZİNDE! 🦸‍♀️🦸‍♂️\n\nDün 4 yaşındaki Zeynep'in annesi yazdı: \"Kızım ilk kez kendi adını bir hikayede duyunca gözleri parladı. Şimdi her gece yeni bir macera istiyor!\"\n\nSiz de çocuğunuzun özgüvenini hikayelerle güçlendirin. Her çocuk kendi hikayesinin kahramanı! 💫\n\n📲 Bugün 3 hikaye ücretsiz! App Store'dan indir, ilk hikayenizi birlikte yaratin.\n\n#StoryPal #KişiselleştirilmişHikayeler #ÇocukGelişimi #Ebeveynlik #ÖzgüvenliÇocuklar #AileZamanı #DijitalEbeveynlik",
+          "visual_idea": "Carousel (3 slayt): 1) Tablette StoryPal uygulamasına bakan mutlu bir çocuğun yakın plan fotoğrafı 2) Uygulamadan örnek bir AI hikaye görseli (çocuk karakter macerada) 3) Özellikler infografiği (renkli ikonlarla: AI görseller, PDF, profiller)"
+        },
+        {
+          "platform": "blog",
+          "type": "outline",
+          "content": "Blog Başlığı: 'Ekran Süresi Endişesi mi? AI Hikayelerle Teknoloji ile Sağlıklı İlişki Kurun'\n\nÖzet Maddeleri:\n• Tüm ekran süreleri eşit değil: Pasif izleme vs. interaktif öğrenme farkı - StoryPal'ın çocukların hayal gücünü tetikleyen yaklaşımı\n• Ebeveyn kontrolünde teknoloji kullanımı: Profil ayarları, günlük limitler ve birlikte kullanım önerileri - Premium özelliklerin aile için faydaları\n• Gerçek kullanıcı hikayeleri ve uzman görüşleri: Pedagog röportajı + 5 ailenin deneyimi - Ekran süresini kaliteli içerikle dönüştürmek\n\nCTA: '14 günlük premium denemeyle çocuğunuzun gelişimini destekleyin!'",
+          "hashtags": [
+            "#EbeveynlikRehberi",
+            "#EkranSüresi",
+            "#StoryPal"
+          ]
+        }
+      ]
+    }
   }
 ]

@@ -1,7 +1,7 @@
 {
   "agent safehouse – macos-native sandboxing for local agents": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-24",
+    "last_seen": "2026-03-25",
     "seen_dates": [
       "2026-03-12",
       "2026-03-14",
@@ -9,7 +9,8 @@
       "2026-03-16",
       "2026-03-22",
       "2026-03-23",
-      "2026-03-24"
+      "2026-03-24",
+      "2026-03-25"
     ],
     "sources": [
       "hacker_news",
@@ -136,7 +137,7 @@
   },
   "wsl manager": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-24",
+    "last_seen": "2026-03-25",
     "seen_dates": [
       "2026-03-15",
       "2026-03-16",
@@ -144,7 +145,8 @@
       "2026-03-18",
       "2026-03-20",
       "2026-03-21",
-      "2026-03-24"
+      "2026-03-24",
+      "2026-03-25"
     ],
     "sources": [
       "hacker_news",
@@ -259,17 +261,18 @@
   },
   "ltx desktop": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-21",
+    "last_seen": "2026-03-25",
     "seen_dates": [
       "2026-03-20",
-      "2026-03-21"
+      "2026-03-21",
+      "2026-03-25"
     ],
     "sources": [
       "product_hunt",
       "hacker_news",
       "lobsters"
     ],
-    "peak_score": 213,
+    "peak_score": 270,
     "keywords": [
       "desktop"
     ]
@@ -296,10 +299,11 @@
   },
   "olmo hybrid": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-17",
+    "last_seen": "2026-03-25",
     "seen_dates": [
       "2026-03-11",
-      "2026-03-17"
+      "2026-03-17",
+      "2026-03-25"
     ],
     "sources": [
       "product_hunt",
@@ -510,7 +514,7 @@
       "lobsters",
       "hacker_news"
     ],
-    "peak_score": 566,
+    "peak_score": 692,
     "keywords": [
       "founder",
       "viral",
@@ -3272,17 +3276,19 @@
   },
   "from data statistics to feature geometry: how correlations shape superposition": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-20",
+    "last_seen": "2026-03-25",
     "seen_dates": [
       "2026-03-11",
       "2026-03-19",
-      "2026-03-20"
+      "2026-03-20",
+      "2026-03-25"
     ],
     "sources": [
       "arxiv",
-      "lobsters"
+      "lobsters",
+      "hacker_news"
     ],
-    "peak_score": 10,
+    "peak_score": 226,
     "keywords": [
       "feature",
       "from",
@@ -4034,9 +4040,10 @@
   },
   "welcome thread - v368": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-25",
     "seen_dates": [
-      "2026-03-11"
+      "2026-03-11",
+      "2026-03-25"
     ],
     "sources": [
       "devto"
@@ -5331,9 +5338,10 @@
   },
   "what quitting my job taught me about tech": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-25",
     "seen_dates": [
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-25"
     ],
     "sources": [
       "devto"
@@ -5807,14 +5815,15 @@
   },
   "asia rolls out 4-day weeks, wfh to solve fuel crisis caused by iran war": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-25",
     "seen_dates": [
-      "2026-03-12"
+      "2026-03-12",
+      "2026-03-25"
     ],
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 122,
+    "peak_score": 167,
     "keywords": [
       "iran",
       "weeks,",
@@ -8361,12 +8370,14 @@
   },
   "vite 8.0 is out": {
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-25",
     "seen_dates": [
-      "2026-03-13"
+      "2026-03-13",
+      "2026-03-25"
     ],
     "sources": [
-      "hacker_news"
+      "hacker_news",
+      "devto"
     ],
     "peak_score": 469,
     "keywords": [
@@ -9727,7 +9738,7 @@
       "product_hunt",
       "lobsters"
     ],
-    "peak_score": 54,
+    "peak_score": 66,
     "keywords": [
       "reducing",
       "scheduling",
@@ -11382,7 +11393,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 76,
+    "peak_score": 85,
     "keywords": [
       "hundred",
       "graphs",
@@ -13096,10 +13107,11 @@
   },
   "digg, yeniden yapılanma kapsamında çalışanlarını işten çıkarıyor ve uygulamasını kapatıyor": {
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-17",
+    "last_seen": "2026-03-25",
     "seen_dates": [
       "2026-03-16",
-      "2026-03-17"
+      "2026-03-17",
+      "2026-03-25"
     ],
     "sources": [
       "webrazzi"
@@ -18533,14 +18545,16 @@
   },
   "link ai": {
     "first_seen": "2026-03-20",
-    "last_seen": "2026-03-20",
+    "last_seen": "2026-03-25",
     "seen_dates": [
-      "2026-03-20"
+      "2026-03-20",
+      "2026-03-25"
     ],
     "sources": [
-      "product_hunt"
+      "product_hunt",
+      "lobsters"
     ],
-    "peak_score": 0,
+    "peak_score": 42,
     "keywords": [
       "link"
     ]
@@ -21282,10 +21296,11 @@
   },
   "pigeon's device": {
     "first_seen": "2026-03-21",
-    "last_seen": "2026-03-22",
+    "last_seen": "2026-03-25",
     "seen_dates": [
       "2026-03-21",
-      "2026-03-22"
+      "2026-03-22",
+      "2026-03-25"
     ],
     "sources": [
       "lobsters",
@@ -21693,7 +21708,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1080,
+    "peak_score": 1083,
     "keywords": [
       "math-inc/opengauss"
     ]
@@ -21710,7 +21725,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 927,
+    "peak_score": 941,
     "keywords": [
       "truongduy2611/app-store-preflight-skills"
     ]
@@ -21743,7 +21758,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1450,
+    "peak_score": 1529,
     "keywords": [
       "dontbesilent2025/dbskill"
     ]
@@ -21760,7 +21775,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 807,
+    "peak_score": 822,
     "keywords": [
       "ghostty-org/ghostling"
     ]
@@ -22989,7 +23004,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1127,
+    "peak_score": 1169,
     "keywords": [
       "louislva/claude-peers-mcp"
     ]
@@ -23892,7 +23907,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 863,
+    "peak_score": 889,
     "keywords": [
       "wong2/weixin-agent-sdk"
     ]
@@ -24878,7 +24893,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 825,
+    "peak_score": 913,
     "keywords": [
       "dou-jiang/codex-console"
     ]
@@ -24907,7 +24922,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 697,
+    "peak_score": 715,
     "keywords": [
       "ccbkkb/microwarp"
     ]
@@ -26014,7 +26029,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1177,
+    "peak_score": 1905,
     "keywords": [
       "slavingia/skills"
     ]
@@ -26029,7 +26044,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1164,
+    "peak_score": 1415,
     "keywords": [
       "zarazhangrui/codebase-to-course"
     ]
@@ -26587,7 +26602,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 198,
+    "peak_score": 453,
     "keywords": [
       "flighty",
       "airports"
@@ -26603,7 +26618,7 @@
       "hacker_news",
       "techcrunch"
     ],
-    "peak_score": 537,
+    "peak_score": 959,
     "keywords": [
       "goodbye",
       "sora"
@@ -26618,7 +26633,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 288,
+    "peak_score": 541,
     "keywords": [
       "video.js",
       "back",
@@ -26639,7 +26654,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 240,
+    "peak_score": 382,
     "keywords": [
       "control,",
       "technician",
@@ -26660,7 +26675,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 574,
+    "peak_score": 851,
     "keywords": [
       "pypi",
       "tell",
@@ -26679,7 +26694,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 309,
+    "peak_score": 389,
     "keywords": []
   },
   "a compiler writing journey": {
@@ -26830,7 +26845,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 680,
+    "peak_score": 822,
     "keywords": [
       "facebookresearch/hyperagents"
     ]
@@ -26844,7 +26859,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 648,
+    "peak_score": 698,
     "keywords": [
       "fastclaw-ai/weclaw"
     ]
@@ -26872,7 +26887,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 585,
+    "peak_score": 704,
     "keywords": [
       "opa334/darksword-kexploit"
     ]
@@ -26886,7 +26901,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 548,
+    "peak_score": 724,
     "keywords": [
       "gair-nlp/davinci-magihuman"
     ]
@@ -27180,7 +27195,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 35,
+    "peak_score": 48,
     "keywords": [
       "other",
       "check",
@@ -27213,7 +27228,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 6,
+    "peak_score": 8,
     "keywords": [
       "crawl",
       "implementing",
@@ -27273,7 +27288,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 0,
+    "peak_score": 1,
     "keywords": [
       "free",
       "localstack",
@@ -27311,7 +27326,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 5,
+    "peak_score": 10,
     "keywords": [
       "built",
       "notionops",
@@ -27416,7 +27431,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 13,
+    "peak_score": 42,
     "keywords": [
       "bismillah",
       "(unicode",
@@ -27691,6 +27706,958 @@
       "substrate",
       "cyber",
       "detection"
+    ]
+  },
+  "my astrophotography in the movie project hail mary": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 309,
+    "keywords": [
+      "hail",
+      "mary",
+      "astrophotography",
+      "movie",
+      "project"
+    ]
+  },
+  "thoughts on slowing the fuck down": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 84,
+    "keywords": [
+      "thoughts",
+      "slowing",
+      "fuck",
+      "down"
+    ]
+  },
+  "slovenian officials catch israeli firm black cube trying to manipulate vote": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 71,
+    "keywords": [
+      "officials",
+      "vote",
+      "israeli",
+      "catch",
+      "trying",
+      "firm",
+      "cube",
+      "manipulate",
+      "slovenian",
+      "black"
+    ]
+  },
+  "turboquant: redefining ai efficiency with extreme compression": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 373,
+    "keywords": [
+      "with",
+      "redefining",
+      "turboquant:",
+      "efficiency",
+      "extreme",
+      "compression"
+    ]
+  },
+  "antimatter has been transported for the first time": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 118,
+    "keywords": [
+      "first",
+      "been",
+      "time",
+      "antimatter",
+      "transported"
+    ]
+  },
+  "a eulogy for vim": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 58,
+    "keywords": [
+      "eulogy"
+    ]
+  },
+  "looking at unity made me understand the point of c++ coroutines": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 105,
+    "keywords": [
+      "understand",
+      "point",
+      "coroutines",
+      "made",
+      "looking",
+      "unity"
+    ]
+  },
+  "vndb founder yorhel has died": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 130,
+    "keywords": [
+      "founder",
+      "died",
+      "vndb",
+      "yorhel"
+    ]
+  },
+  "supreme court sides with cox in copyright fight over pirated music": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 106,
+    "keywords": [
+      "with",
+      "over",
+      "copyright",
+      "court",
+      "fight",
+      "pirated",
+      "music",
+      "supreme",
+      "sides"
+    ]
+  },
+  "why i forked httpx": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "hacker_news",
+      "lobsters"
+    ],
+    "peak_score": 211,
+    "keywords": [
+      "httpx",
+      "forked"
+    ]
+  },
+  "the last testaments of richard ii and henry iv": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 66,
+    "keywords": [
+      "last",
+      "richard",
+      "testaments",
+      "henry"
+    ]
+  },
+  "turboquant": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "turboquant"
+    ]
+  },
+  "uni-1 by luma": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "uni-1",
+      "luma"
+    ]
+  },
+  "facts...no bullsh*t": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "facts...no",
+      "bullsh*t"
+    ]
+  },
+  "toone": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "toone"
+    ]
+  },
+  "splitsense": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "splitsense"
+    ]
+  },
+  "3flow ai": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "3flow"
+    ]
+  },
+  "pendium": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "pendium"
+    ]
+  },
+  "layerproof matte": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "matte",
+      "layerproof"
+    ]
+  },
+  "hkuds/openspace": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 724,
+    "keywords": [
+      "hkuds/openspace"
+    ]
+  },
+  "deleteme acquires social media security tool block party": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "deleteme",
+      "tool",
+      "acquires",
+      "media",
+      "social",
+      "block",
+      "security",
+      "party"
+    ]
+  },
+  "google launches lyria 3 pro music generation model": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "generation",
+      "music",
+      "launches",
+      "google",
+      "lyria",
+      "model"
+    ]
+  },
+  "russia arrests alleged owner of cybercrime forum leakbase, report says": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "alleged",
+      "forum",
+      "russia",
+      "owner",
+      "cybercrime",
+      "says",
+      "arrests",
+      "report",
+      "leakbase,"
+    ]
+  },
+  "waymo relies on firefighters and police to bail out stuck robotaxis": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "stuck",
+      "waymo",
+      "robotaxis",
+      "firefighters",
+      "relies",
+      "police",
+      "bail"
+    ]
+  },
+  "reddit takes on the bots with new ‘human verification’ requirements for fishy behavior": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "with",
+      "fishy",
+      "requirements",
+      "reddit",
+      "bots",
+      "takes",
+      "‘human",
+      "behavior",
+      "verification’"
+    ]
+  },
+  "how soap opera-tiktok hybrids became a billion-dollar business": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "billion-dollar",
+      "business",
+      "hybrids",
+      "became",
+      "opera-tiktok",
+      "soap"
+    ]
+  },
+  "harvey confirms $11b valuation: sequoia triples down": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "triples",
+      "sequoia",
+      "down",
+      "harvey",
+      "$11b",
+      "valuation:",
+      "confirms"
+    ]
+  },
+  "granola raises $125m, hits $1.5b valuation as it expands from meeting notetaker to enterprise ai app": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "raises",
+      "hits",
+      "$1.5b",
+      "enterprise",
+      "notetaker",
+      "granola",
+      "from",
+      "valuation",
+      "expands",
+      "meeting",
+      "$125m,"
+    ]
+  },
+  "meta launches new initiative to support entrepreneurship, drive ai adoption": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "meta",
+      "drive",
+      "launches",
+      "initiative",
+      "entrepreneurship,",
+      "adoption",
+      "support"
+    ]
+  },
+  "arbor energy just landed a billion-dollar order to bring rocket turbine tech to the power grid": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "tech",
+      "order",
+      "rocket",
+      "power",
+      "landed",
+      "billion-dollar",
+      "energy",
+      "grid",
+      "arbor",
+      "bring",
+      "just",
+      "turbine"
+    ]
+  },
+  "meta turns to ai to make shopping easier on instagram and facebook": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "make",
+      "shopping",
+      "turns",
+      "easier",
+      "meta",
+      "facebook",
+      "instagram"
+    ]
+  },
+  "sony and honda give up on their joint ev project": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "project",
+      "honda",
+      "give",
+      "their",
+      "sony",
+      "joint"
+    ]
+  },
+  "elon musk pauses changes to x’s creator revenue-sharing program after backlash": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "creator",
+      "musk",
+      "after",
+      "program",
+      "backlash",
+      "revenue-sharing",
+      "pauses",
+      "changes",
+      "elon"
+    ]
+  },
+  "after pivoting, y combinator grad glimpse raises $35m led by a16z": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "raises",
+      "$35m",
+      "combinator",
+      "glimpse",
+      "a16z",
+      "grad",
+      "pivoting,",
+      "after"
+    ]
+  },
+  "your agent can think. it can't remember.": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 64,
+    "keywords": [
+      "think.",
+      "your",
+      "remember.",
+      "agent",
+      "can't"
+    ]
+  },
+  "run away from work — stopped using react for the game loop": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 5,
+    "keywords": [
+      "react",
+      "from",
+      "stopped",
+      "work",
+      "loop",
+      "away",
+      "using",
+      "game"
+    ]
+  },
+  "bridging fintech and agentic ai: building a paystack mcp server in python": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 1,
+    "keywords": [
+      "server",
+      "agentic",
+      "python",
+      "fintech",
+      "building",
+      "paystack",
+      "bridging"
+    ]
+  },
+  "vim + markdown = writer's heaven": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 1,
+    "keywords": [
+      "markdown",
+      "heaven",
+      "writer's"
+    ]
+  },
+  "vitruvianos": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 19,
+    "keywords": [
+      "vitruvianos"
+    ]
+  },
+  "announcing lix 2.95 “kakigōri”": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 11,
+    "keywords": [
+      "“kakigōri”",
+      "2.95",
+      "announcing"
+    ]
+  },
+  "fyrox 1.0.0": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 15,
+    "keywords": [
+      "1.0.0",
+      "fyrox"
+    ]
+  },
+  "ubuntu looks to strip grub to the bare minimum for better security": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 8,
+    "keywords": [
+      "better",
+      "looks",
+      "strip",
+      "bare",
+      "ubuntu",
+      "minimum",
+      "security",
+      "grub"
+    ]
+  },
+  "\"disregard that!\" attacks": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 4,
+    "keywords": [
+      "that!\"",
+      "attacks",
+      "\"disregard"
+    ]
+  },
+  "a 32-year-old bug walks into a telnet server (gnu inetutils cve-2026-32746)": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 9,
+    "keywords": [
+      "into",
+      "server",
+      "inetutils",
+      "32-year-old",
+      "walks",
+      "telnet",
+      "cve-2026-32746)",
+      "(gnu"
+    ]
+  },
+  "spotify, yapay zeka içeriklerinin gerçek sanatçılara atfedilmesini önlemeye odaklanan yeni özelliğini tanıttı": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "içeriklerinin",
+      "sanatçılara",
+      "yeni",
+      "yapay",
+      "önlemeye",
+      "odaklanan",
+      "tanıttı",
+      "gerçek",
+      "zeka",
+      "özelliğini",
+      "spotify,",
+      "atfedilmesini"
+    ]
+  },
+  "spline'dan 3d içerikler, web siteleri ve uygulamalar oluşturmanızı sağlayan yapay zeka platformu: omma": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "uygulamalar",
+      "içerikler,",
+      "yapay",
+      "oluşturmanızı",
+      "spline'dan",
+      "sağlayan",
+      "zeka",
+      "omma",
+      "siteleri",
+      "platformu:"
+    ]
+  },
+  "apple, yenilenen siri için ayrı bir uygulama geliştiriyor": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "için",
+      "apple,",
+      "siri",
+      "ayrı",
+      "uygulama",
+      "geliştiriyor",
+      "yenilenen"
+    ]
+  },
+  "apple, harita uygulamasına gelecek reklamları ve apple business platformunu tanıttı": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "harita",
+      "gelecek",
+      "apple,",
+      "business",
+      "tanıttı",
+      "uygulamasına",
+      "reklamları",
+      "apple",
+      "platformunu"
+    ]
+  },
+  "amazon, çocuk boyunda robotlar üreten fauna robotics'i satın aldı": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "üreten",
+      "satın",
+      "fauna",
+      "amazon,",
+      "robotlar",
+      "çocuk",
+      "aldı",
+      "boyunda",
+      "robotics'i"
+    ]
+  },
+  "epic games, 1000'den fazla çalışanını işten çıkarıyor": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "games,",
+      "işten",
+      "epic",
+      "çıkarıyor",
+      "fazla",
+      "çalışanını",
+      "1000'den"
+    ]
+  },
+  "tiktak'ın yeni ceo'su neyran arslantürk oldu": {
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "seen_dates": [
+      "2026-03-25"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "yeni",
+      "ceo'su",
+      "arslantürk",
+      "oldu",
+      "tiktak'ın",
+      "neyran"
     ]
   }
 }

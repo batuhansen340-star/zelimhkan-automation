@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-03-12:Hacker News:Making WebAssembly a first-class language on the Web",
-    "title": "Making WebAssembly a first-class language on the Web",
-    "score": 502,
-    "source": "Hacker News",
-    "timestamp": "2026-03-12T06:59:21.170036"
-  },
-  {
     "key": "2026-03-12:Hacker News:The MacBook Neo",
     "title": "The MacBook Neo",
     "score": 541,
@@ -698,5 +691,12 @@
     "score": 938,
     "source": "Hacker News",
     "timestamp": "2026-03-25T04:21:06.918860"
+  },
+  {
+    "key": "2026-03-25:Hacker News:Goodbye to Sora",
+    "title": "Goodbye to Sora",
+    "score": 617,
+    "source": "Hacker News",
+    "timestamp": "2026-03-25T07:05:17.880387"
   }
 ]

@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-03-14:Hacker News:Malus – Clean Room as a Service",
-    "title": "Malus – Clean Room as a Service",
-    "score": 1391,
-    "source": "Hacker News",
-    "timestamp": "2026-03-14T04:10:41.147046"
-  },
-  {
-    "key": "2026-03-14:Hacker News:1M context is now generally available for Opus 4.6 and Sonnet 4.6",
-    "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
-    "score": 557,
-    "source": "Hacker News",
-    "timestamp": "2026-03-14T06:51:35.428639"
-  },
-  {
     "key": "2026-03-14:Hacker News:Qatar helium shutdown puts chip supply chain on a two-week clock",
     "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
     "score": 511,
@@ -698,5 +684,19 @@
     "score": 621,
     "source": "Hacker News",
     "timestamp": "2026-03-26T04:32:49.352079"
+  },
+  {
+    "key": "2026-03-26:Hacker News:Running Tesla Model 3's computer on my desk using parts from crashed cars",
+    "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
+    "score": 545,
+    "source": "Hacker News",
+    "timestamp": "2026-03-26T07:13:06.849774"
+  },
+  {
+    "key": "2026-03-26:Hacker News:Miscellanea: The War in Iran",
+    "title": "Miscellanea: The War in Iran",
+    "score": 515,
+    "source": "Hacker News",
+    "timestamp": "2026-03-26T07:13:06.849810"
   }
 ]

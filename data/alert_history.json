@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-03-14:Hacker News:Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
-    "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
-    "score": 546,
-    "source": "Hacker News",
-    "timestamp": "2026-03-14T14:18:00.303829"
-  },
-  {
-    "key": "2026-03-15:Hacker News:1M context is now generally available for Opus 4.6 and Sonnet 4.6",
-    "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
-    "score": 1138,
-    "source": "Hacker News",
-    "timestamp": "2026-03-15T04:31:51.696054"
-  },
-  {
     "key": "2026-03-15:Hacker News:Can I run AI locally?",
     "title": "Can I run AI locally?",
     "score": 1410,
@@ -698,5 +684,19 @@
     "score": 526,
     "source": "Hacker News",
     "timestamp": "2026-03-26T14:55:59.566509"
+  },
+  {
+    "key": "2026-03-26:Hacker News:End of \"Chat Control\": EU parliament stops mass surveillance",
+    "title": "End of \"Chat Control\": EU parliament stops mass surveillance",
+    "score": 535,
+    "source": "Hacker News",
+    "timestamp": "2026-03-26T22:34:12.990765"
+  },
+  {
+    "key": "2026-03-26:Hacker News:Shell Tricks That Make Life Easier (and Save Your Sanity)",
+    "title": "Shell Tricks That Make Life Easier (and Save Your Sanity)",
+    "score": 500,
+    "source": "Hacker News",
+    "timestamp": "2026-03-26T22:34:12.990775"
   }
 ]

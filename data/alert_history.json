@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-03-14:Hacker News:Qatar helium shutdown puts chip supply chain on a two-week clock",
-    "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
-    "score": 511,
-    "source": "Hacker News",
-    "timestamp": "2026-03-14T06:51:35.428659"
-  },
-  {
     "key": "2026-03-14:Hacker News:Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
     "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
     "score": 546,
@@ -698,5 +691,12 @@
     "score": 515,
     "source": "Hacker News",
     "timestamp": "2026-03-26T07:13:06.849810"
+  },
+  {
+    "key": "2026-03-26:Hacker News:Personal Encyclopedias",
+    "title": "Personal Encyclopedias",
+    "score": 526,
+    "source": "Hacker News",
+    "timestamp": "2026-03-26T14:55:59.566509"
   }
 ]

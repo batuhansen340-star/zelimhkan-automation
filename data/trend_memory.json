@@ -391,13 +391,15 @@
   },
   "a roadmap for ai, if anyone will listen": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-23",
+    "last_seen": "2026-03-26",
     "seen_dates": [
-      "2026-03-23"
+      "2026-03-23",
+      "2026-03-26"
     ],
     "sources": [
       "techcrunch",
-      "hacker_news"
+      "hacker_news",
+      "product_hunt"
     ],
     "peak_score": 314,
     "keywords": [
@@ -1262,7 +1264,7 @@
       "devto",
       "lobsters"
     ],
-    "peak_score": 12,
+    "peak_score": 13,
     "keywords": [
       "merged",
       "(beginner",
@@ -1504,15 +1506,17 @@
   },
   "your next store": {
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-20",
+    "last_seen": "2026-03-26",
     "seen_dates": [
-      "2026-03-20"
+      "2026-03-20",
+      "2026-03-26"
     ],
     "sources": [
       "product_hunt",
-      "lobsters"
+      "lobsters",
+      "devto"
     ],
-    "peak_score": 1,
+    "peak_score": 5,
     "keywords": [
       "next",
       "your",
@@ -2815,17 +2819,18 @@
   },
   "personal computer by perplexity": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-26",
     "seen_dates": [
       "2026-03-12",
-      "2026-03-13"
+      "2026-03-13",
+      "2026-03-26"
     ],
     "sources": [
       "hacker_news",
       "webrazzi",
       "product_hunt"
     ],
-    "peak_score": 135,
+    "peak_score": 631,
     "keywords": [
       "personal",
       "perplexity",
@@ -3906,7 +3911,7 @@
   },
   "reliable software in the llm era": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-25",
+    "last_seen": "2026-03-26",
     "seen_dates": [
       "2026-03-12",
       "2026-03-14",
@@ -3917,14 +3922,16 @@
       "2026-03-19",
       "2026-03-21",
       "2026-03-22",
-      "2026-03-25"
+      "2026-03-25",
+      "2026-03-26"
     ],
     "sources": [
       "hacker_news",
       "lobsters",
       "product_hunt",
       "techcrunch",
-      "arxiv"
+      "arxiv",
+      "devto"
     ],
     "peak_score": 475,
     "keywords": [
@@ -11118,10 +11125,11 @@
   },
   "meta, yapay zeka maliyetleri nedeniyle çalışanlarının yüzde 20'sini işten çıkarabilir": {
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-17",
+    "last_seen": "2026-03-26",
     "seen_dates": [
       "2026-03-16",
-      "2026-03-17"
+      "2026-03-17",
+      "2026-03-26"
     ],
     "sources": [
       "webrazzi"
@@ -12155,16 +12163,18 @@
   },
   "kagi small web": {
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-19",
+    "last_seen": "2026-03-26",
     "seen_dates": [
       "2026-03-17",
       "2026-03-18",
-      "2026-03-19"
+      "2026-03-19",
+      "2026-03-26"
     ],
     "sources": [
       "hacker_news",
       "techcrunch",
-      "lobsters"
+      "lobsters",
+      "devto"
     ],
     "peak_score": 1159,
     "keywords": [
@@ -13226,12 +13236,14 @@
   },
   "mistral ai releases forge": {
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18",
+    "last_seen": "2026-03-26",
     "seen_dates": [
-      "2026-03-18"
+      "2026-03-18",
+      "2026-03-26"
     ],
     "sources": [
-      "hacker_news"
+      "hacker_news",
+      "techcrunch"
     ],
     "peak_score": 657,
     "keywords": [
@@ -19703,7 +19715,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1573,
+    "peak_score": 1633,
     "keywords": [
       "dontbesilent2025/dbskill"
     ]
@@ -19721,7 +19733,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 832,
+    "peak_score": 839,
     "keywords": [
       "ghostty-org/ghostling"
     ]
@@ -20477,7 +20489,7 @@
       "devto",
       "lobsters"
     ],
-    "peak_score": 7,
+    "peak_score": 29,
     "keywords": [
       "agent's",
       "(and",
@@ -20953,7 +20965,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1215,
+    "peak_score": 1249,
     "keywords": [
       "louislva/claude-peers-mcp"
     ]
@@ -21857,7 +21869,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 901,
+    "peak_score": 918,
     "keywords": [
       "wong2/weixin-agent-sdk"
     ]
@@ -21921,12 +21933,14 @@
   },
   "littlebird raises $11m for its ai-assisted ‘recall’ tool that reads your computer screen": {
     "first_seen": "2026-03-23",
-    "last_seen": "2026-03-23",
+    "last_seen": "2026-03-26",
     "seen_dates": [
-      "2026-03-23"
+      "2026-03-23",
+      "2026-03-26"
     ],
     "sources": [
-      "techcrunch"
+      "techcrunch",
+      "product_hunt"
     ],
     "peak_score": 0,
     "keywords": [
@@ -22844,7 +22858,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 950,
+    "peak_score": 1034,
     "keywords": [
       "dou-jiang/codex-console"
     ]
@@ -22874,7 +22888,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 724,
+    "peak_score": 733,
     "keywords": [
       "ccbkkb/microwarp"
     ]
@@ -23982,7 +23996,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 2806,
+    "peak_score": 3474,
     "keywords": [
       "slavingia/skills"
     ]
@@ -23998,7 +24012,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1551,
+    "peak_score": 1683,
     "keywords": [
       "zarazhangrui/codebase-to-course"
     ]
@@ -24640,15 +24654,15 @@
     ]
   },
   "arm agi cpu": {
-    "first_seen": "2026-03-25",
-    "last_seen": "2026-03-25",
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
     "seen_dates": [
-      "2026-03-25"
+      "2026-03-26"
     ],
     "sources": [
-      "hacker_news"
+      "product_hunt"
     ],
-    "peak_score": 389,
+    "peak_score": 0,
     "keywords": []
   },
   "a compiler writing journey": {
@@ -24814,7 +24828,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 713,
+    "peak_score": 751,
     "keywords": [
       "fastclaw-ai/weclaw"
     ]
@@ -24844,7 +24858,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 796,
+    "peak_score": 863,
     "keywords": [
       "opa334/darksword-kexploit"
     ]
@@ -24859,7 +24873,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 807,
+    "peak_score": 917,
     "keywords": [
       "gair-nlp/davinci-magihuman"
     ]
@@ -25873,12 +25887,14 @@
   },
   "turboquant": {
     "first_seen": "2026-03-25",
-    "last_seen": "2026-03-25",
+    "last_seen": "2026-03-26",
     "seen_dates": [
-      "2026-03-25"
+      "2026-03-25",
+      "2026-03-26"
     ],
     "sources": [
-      "product_hunt"
+      "product_hunt",
+      "webrazzi"
     ],
     "peak_score": 0,
     "keywords": [
@@ -26000,7 +26016,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1021,
+    "peak_score": 1232,
     "keywords": [
       "hkuds/openspace"
     ]
@@ -26457,7 +26473,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 20,
+    "peak_score": 27,
     "keywords": [
       "that!\"",
       "attacks",
@@ -26652,7 +26668,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 494,
+    "peak_score": 775,
     "keywords": [
       "from",
       "cars",
@@ -26675,7 +26691,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 325,
+    "peak_score": 468,
     "keywords": [
       "arc-agi-3"
     ]
@@ -26689,7 +26705,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 132,
+    "peak_score": 195,
     "keywords": [
       "weakens",
       "soil",
@@ -26766,7 +26782,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 100,
+    "peak_score": 206,
     "keywords": [
       "board",
       "quake",
@@ -26963,7 +26979,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 703,
+    "peak_score": 807,
     "keywords": [
       "mnfst/awesome-free-llm-apis"
     ]
@@ -27164,9 +27180,10 @@
       "2026-03-26"
     ],
     "sources": [
-      "techcrunch"
+      "techcrunch",
+      "hacker_news"
     ],
-    "peak_score": 0,
+    "peak_score": 53,
     "keywords": [
       "finds",
       "landmark",
@@ -27270,7 +27287,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 19,
+    "peak_score": 32,
     "keywords": [
       "exposed",
       "didn't",
@@ -27288,7 +27305,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 0,
+    "peak_score": 4,
     "keywords": [
       "protobuf",
       "rust",
@@ -27303,9 +27320,10 @@
       "2026-03-26"
     ],
     "sources": [
-      "devto"
+      "devto",
+      "lobsters"
     ],
-    "peak_score": 1,
+    "peak_score": 12,
     "keywords": [
       "lines",
       "code",
@@ -27385,7 +27403,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 40,
+    "peak_score": 53,
     "keywords": [
       "mojo's",
       "(yet)",
@@ -27401,7 +27419,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 29,
+    "peak_score": 92,
     "keywords": [
       "vim-classic:",
       "long-term",
@@ -27417,7 +27435,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 15,
+    "peak_score": 28,
     "keywords": [
       "design",
       "write?",
@@ -27432,9 +27450,10 @@
       "2026-03-26"
     ],
     "sources": [
-      "lobsters"
+      "lobsters",
+      "hacker_news"
     ],
-    "peak_score": 19,
+    "peak_score": 362,
     "keywords": [
       "tricks",
       "life",
@@ -27708,6 +27727,959 @@
       "bayesian",
       "region",
       "handling"
+    ]
+  },
+  "moving from github to codeberg, for lazy people": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 275,
+    "keywords": [
+      "people",
+      "lazy",
+      "from",
+      "github",
+      "moving",
+      "codeberg,"
+    ]
+  },
+  "european parliament decided that chat control 1.0 must stop": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 502,
+    "keywords": [
+      "must",
+      "chat",
+      "that",
+      "european",
+      "control",
+      "decided",
+      "parliament",
+      "stop"
+    ]
+  },
+  "cory doctorow: interoperability can save the open web": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 107,
+    "keywords": [
+      "interoperability",
+      "save",
+      "doctorow:",
+      "open",
+      "cory"
+    ]
+  },
+  "from zero to a rag system: successes and failures": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 197,
+    "keywords": [
+      "from",
+      "failures",
+      "successes",
+      "zero",
+      "system:"
+    ]
+  },
+  "landmark l.a. jury verdict finds instagram, youtube were designed to addict kids": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 287,
+    "keywords": [
+      "verdict",
+      "were",
+      "l.a.",
+      "kids",
+      "designed",
+      "finds",
+      "landmark",
+      "instagram,",
+      "youtube",
+      "addict",
+      "jury"
+    ]
+  },
+  "end of \"chat control\": eu parliament stops mass surveillance in voting thriller": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 288,
+    "keywords": [
+      "surveillance",
+      "mass",
+      "voting",
+      "control\":",
+      "parliament",
+      "thriller",
+      "\"chat",
+      "stops"
+    ]
+  },
+  "swift 6.3": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 245,
+    "keywords": [
+      "swift"
+    ]
+  },
+  "obsolete sounds": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 147,
+    "keywords": [
+      "sounds",
+      "obsolete"
+    ]
+  },
+  "newly purchased vizio tvs now require walmart accounts to use smart features": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 128,
+    "keywords": [
+      "vizio",
+      "purchased",
+      "accounts",
+      "require",
+      "smart",
+      "walmart",
+      "features",
+      "newly"
+    ]
+  },
+  "french e, è, é, ê, ë – what's the difference?": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 52,
+    "keywords": [
+      "what's",
+      "difference?",
+      "french"
+    ]
+  },
+  "niche museums": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 73,
+    "keywords": [
+      "museums",
+      "niche"
+    ]
+  },
+  "intel announces arc pro b70 and arc pro b65 gpus": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 56,
+    "keywords": [
+      "gpus",
+      "announces",
+      "intel"
+    ]
+  },
+  "what came after the 486?": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 119,
+    "keywords": [
+      "came",
+      "486?",
+      "after",
+      "what"
+    ]
+  },
+  "libreoffice and the art of overreacting": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 167,
+    "keywords": [
+      "libreoffice",
+      "overreacting"
+    ]
+  },
+  "more precise elevation data for graphhopper routing engine": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 73,
+    "keywords": [
+      "more",
+      "engine",
+      "precise",
+      "data",
+      "routing",
+      "graphhopper",
+      "elevation"
+    ]
+  },
+  "autonoma.pro": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "autonoma.pro"
+    ]
+  },
+  "mokkit": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "mokkit"
+    ]
+  },
+  "douzo": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "douzo"
+    ]
+  },
+  "breadth edits beta v1.0": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "breadth",
+      "v1.0",
+      "beta",
+      "edits"
+    ]
+  },
+  "inspekt": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "inspekt"
+    ]
+  },
+  "zcode": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "zcode"
+    ]
+  },
+  "triqai": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "triqai"
+    ]
+  },
+  "nashsu/opencli-rs": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 765,
+    "keywords": [
+      "nashsu/opencli-rs"
+    ]
+  },
+  "alvinunreal/awesome-opensource-ai": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 750,
+    "keywords": [
+      "alvinunreal/awesome-opensource-ai"
+    ]
+  },
+  "google is launching search live globally": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "globally",
+      "search",
+      "live",
+      "launching",
+      "google"
+    ]
+  },
+  "silicon valley’s two biggest dramas have intersected: litellm and delve": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "have",
+      "valley’s",
+      "dramas",
+      "silicon",
+      "biggest",
+      "delve",
+      "litellm",
+      "intersected:"
+    ]
+  },
+  "bytedance’s new ai video generation model, dreamina seedance 2.0, comes to capcut": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "seedance",
+      "comes",
+      "bytedance’s",
+      "model,",
+      "dreamina",
+      "2.0,",
+      "video",
+      "capcut",
+      "generation"
+    ]
+  },
+  "why hiring the weirdos works": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "hiring",
+      "weirdos",
+      "works"
+    ]
+  },
+  "a major hacking tool has leaked online, putting millions of iphones at risk. here’s what you need to know.": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "leaked",
+      "hacking",
+      "here’s",
+      "online,",
+      "iphones",
+      "know.",
+      "millions",
+      "major",
+      "putting",
+      "what",
+      "tool",
+      "need",
+      "risk."
+    ]
+  },
+  "conntour raises $7m from general catalyst, yc to build an ai search engine for security video systems": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "general",
+      "security",
+      "systems",
+      "build",
+      "from",
+      "engine",
+      "search",
+      "conntour",
+      "video",
+      "catalyst,",
+      "raises"
+    ]
+  },
+  "cohere launches an open source voice model specifically for transcription": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "specifically",
+      "launches",
+      "voice",
+      "source",
+      "model",
+      "open",
+      "cohere",
+      "transcription"
+    ]
+  },
+  "whatsapp can now draft ai-generated responses based on your conversations": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "conversations",
+      "based",
+      "whatsapp",
+      "your",
+      "ai-generated",
+      "draft",
+      "responses"
+    ]
+  },
+  "a ‘pound of flesh’ from data centers: one senator’s answer to ai job losses": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "answer",
+      "from",
+      "senator’s",
+      "losses",
+      "data",
+      "centers:",
+      "flesh’",
+      "‘pound"
+    ]
+  },
+  "a little-known croatian startup is coming for the robotaxi market with help from uber": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "help",
+      "croatian",
+      "robotaxi",
+      "from",
+      "little-known",
+      "startup",
+      "coming",
+      "market",
+      "with",
+      "uber"
+    ]
+  },
+  "how i almost burned out doing everything “right”": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 30,
+    "keywords": [
+      "doing",
+      "“right”",
+      "burned",
+      "everything",
+      "almost"
+    ]
+  },
+  "i built a file transfer tool that can’t spy on you even if it wanted to": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 9,
+    "keywords": [
+      "wanted",
+      "built",
+      "that",
+      "even",
+      "tool",
+      "transfer",
+      "can’t",
+      "file"
+    ]
+  },
+  "i tried to turn agent memory into plumbing instead of philosophy": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 13,
+    "keywords": [
+      "agent",
+      "turn",
+      "instead",
+      "philosophy",
+      "tried",
+      "plumbing",
+      "into",
+      "memory"
+    ]
+  },
+  "speed vs smarts for coding agents?": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 10,
+    "keywords": [
+      "speed",
+      "smarts",
+      "agents?",
+      "coding"
+    ]
+  },
+  "your best engineers are tired": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 1,
+    "keywords": [
+      "your",
+      "engineers",
+      "best",
+      "tired"
+    ]
+  },
+  "the future of coding is communication, not just code": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 6,
+    "keywords": [
+      "code",
+      "coding",
+      "just",
+      "communication,",
+      "future"
+    ]
+  },
+  "rag finds chunks. trailgraph finds answers. here's the difference.": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 1,
+    "keywords": [
+      "chunks.",
+      "answers.",
+      "difference.",
+      "finds",
+      "here's",
+      "trailgraph"
+    ]
+  },
+  "fedora moving from pagure to forgejo": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 19,
+    "keywords": [
+      "pagure",
+      "from",
+      "forgejo",
+      "fedora",
+      "moving"
+    ]
+  },
+  "when vectorized arrays aren't enough": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 5,
+    "keywords": [
+      "aren't",
+      "enough",
+      "vectorized",
+      "arrays",
+      "when"
+    ]
+  },
+  "two studies in compiler optimisations": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 8,
+    "keywords": [
+      "studies",
+      "compiler",
+      "optimisations"
+    ]
+  },
+  "engineers do get promoted for writing simple code": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 7,
+    "keywords": [
+      "writing",
+      "promoted",
+      "engineers",
+      "simple",
+      "code"
+    ]
+  },
+  "vim racing": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 12,
+    "keywords": [
+      "racing"
+    ]
+  },
+  "don’t trust software, verify it": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 5,
+    "keywords": [
+      "verify",
+      "don’t",
+      "software,",
+      "trust"
+    ]
+  },
+  "meta ve google, sosyal medyanın çocuklara zarar verdiği iddialarına odaklanan abd'deki davayı kaybetti": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "abd'deki",
+      "verdiği",
+      "davayı",
+      "medyanın",
+      "sosyal",
+      "odaklanan",
+      "zarar",
+      "kaybetti",
+      "google,",
+      "iddialarına",
+      "meta",
+      "çocuklara"
+    ]
+  },
+  "kurumsal müşterilere yönelik açık kaynaklı edgeops platformu geliştiren datasance, yatırım aldı": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "geliştiren",
+      "yatırım",
+      "yönelik",
+      "kaynaklı",
+      "datasance,",
+      "edgeops",
+      "müşterilere",
+      "aldı",
+      "açık",
+      "platformu",
+      "kurumsal"
+    ]
+  },
+  "ergün holding, agri-fintech şirketi tarcom'u satın aldı": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "agri-fintech",
+      "şirketi",
+      "tarcom'u",
+      "satın",
+      "ergün",
+      "holding,",
+      "aldı"
+    ]
+  },
+  "aidea, ena venture capital ve repie portföy’den yatırım aldı": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "aidea,",
+      "capital",
+      "yatırım",
+      "venture",
+      "portföy’den",
+      "repie",
+      "aldı"
+    ]
+  },
+  "google'dan yapay zeka destekli müzik üretim modeli: lyria 3 pro": {
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26",
+    "seen_dates": [
+      "2026-03-26"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "zeka",
+      "üretim",
+      "modeli:",
+      "müzik",
+      "destekli",
+      "yapay",
+      "google'dan",
+      "lyria"
     ]
   }
 }

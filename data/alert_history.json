@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-03-16:Hacker News:Corruption erodes social trust more in democracies than in autocracies",
-    "title": "Corruption erodes social trust more in democracies than in autocracies",
-    "score": 554,
-    "source": "Hacker News",
-    "timestamp": "2026-03-16T18:47:28.182447"
-  },
-  {
     "key": "2026-03-16:Hacker News:MoD sources warn Palantir role at heart of government is threat to UK security",
     "title": "MoD sources warn Palantir role at heart of government is threat to UK security",
     "score": 551,
@@ -698,5 +691,12 @@
     "score": 819,
     "source": "Hacker News",
     "timestamp": "2026-03-27T04:33:39.080025"
+  },
+  {
+    "key": "2026-03-27:Hacker News:Apple discontinues the Mac Pro",
+    "title": "Apple discontinues the Mac Pro",
+    "score": 511,
+    "source": "Hacker News",
+    "timestamp": "2026-03-27T14:42:36.227206"
   }
 ]

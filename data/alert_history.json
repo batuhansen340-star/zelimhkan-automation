@@ -1,54 +1,5 @@
 [
   {
-    "key": "2026-03-15:Hacker News:Can I run AI locally?",
-    "title": "Can I run AI locally?",
-    "score": 1410,
-    "source": "Hacker News",
-    "timestamp": "2026-03-15T04:31:51.696078"
-  },
-  {
-    "key": "2026-03-15:Hacker News:Qatar helium shutdown puts chip supply chain on a two-week clock",
-    "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
-    "score": 674,
-    "source": "Hacker News",
-    "timestamp": "2026-03-15T04:31:51.696085"
-  },
-  {
-    "key": "2026-03-15:Hacker News:Ageless Linux – Software for humans of indeterminate age",
-    "title": "Ageless Linux – Software for humans of indeterminate age",
-    "score": 523,
-    "source": "Hacker News",
-    "timestamp": "2026-03-15T07:00:52.707583"
-  },
-  {
-    "key": "2026-03-16:Hacker News:Canada's bill C-22 mandates mass metadata surveillance",
-    "title": "Canada's bill C-22 mandates mass metadata surveillance",
-    "score": 605,
-    "source": "Hacker News",
-    "timestamp": "2026-03-16T07:22:02.532725"
-  },
-  {
-    "key": "2026-03-16:Hacker News:The 49MB web page",
-    "title": "The 49MB web page",
-    "score": 581,
-    "source": "Hacker News",
-    "timestamp": "2026-03-16T10:42:09.444493"
-  },
-  {
-    "key": "2026-03-16:Hacker News:Chrome DevTools MCP (2025)",
-    "title": "Chrome DevTools MCP (2025)",
-    "score": 522,
-    "source": "Hacker News",
-    "timestamp": "2026-03-16T14:53:18.415256"
-  },
-  {
-    "key": "2026-03-16:Hacker News:Polymarket gamblers threaten to kill me over Iran missile story",
-    "title": "Polymarket gamblers threaten to kill me over Iran missile story",
-    "score": 923,
-    "source": "Hacker News",
-    "timestamp": "2026-03-16T18:47:28.182435"
-  },
-  {
     "key": "2026-03-16:Hacker News:Corruption erodes social trust more in democracies than in autocracies",
     "title": "Corruption erodes social trust more in democracies than in autocracies",
     "score": 554,
@@ -698,5 +649,54 @@
     "score": 500,
     "source": "Hacker News",
     "timestamp": "2026-03-26T22:34:12.990775"
+  },
+  {
+    "key": "2026-03-27:Hacker News:Why so many control rooms were seafoam green (2025)",
+    "title": "Why so many control rooms were seafoam green (2025)",
+    "score": 676,
+    "source": "Hacker News",
+    "timestamp": "2026-03-27T04:33:39.079981"
+  },
+  {
+    "key": "2026-03-27:Hacker News:Moving from GitHub to Codeberg, for lazy people",
+    "title": "Moving from GitHub to Codeberg, for lazy people",
+    "score": 551,
+    "source": "Hacker News",
+    "timestamp": "2026-03-27T04:33:39.079999"
+  },
+  {
+    "key": "2026-03-27:Hacker News:We haven't seen the worst of what gambling and prediction markets will do",
+    "title": "We haven't seen the worst of what gambling and prediction markets will do",
+    "score": 630,
+    "source": "Hacker News",
+    "timestamp": "2026-03-27T04:33:39.080005"
+  },
+  {
+    "key": "2026-03-27:Hacker News:Running Tesla Model 3's computer on my desk using parts from crashed cars",
+    "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
+    "score": 876,
+    "source": "Hacker News",
+    "timestamp": "2026-03-27T04:33:39.080010"
+  },
+  {
+    "key": "2026-03-27:Hacker News:Shell Tricks That Make Life Easier (and Save Your Sanity)",
+    "title": "Shell Tricks That Make Life Easier (and Save Your Sanity)",
+    "score": 550,
+    "source": "Hacker News",
+    "timestamp": "2026-03-27T04:33:39.080015"
+  },
+  {
+    "key": "2026-03-27:Hacker News:End of \"Chat Control\": EU parliament stops mass surveillance",
+    "title": "End of \"Chat Control\": EU parliament stops mass surveillance",
+    "score": 579,
+    "source": "Hacker News",
+    "timestamp": "2026-03-27T04:33:39.080021"
+  },
+  {
+    "key": "2026-03-27:Hacker News:Personal Encyclopedias",
+    "title": "Personal Encyclopedias",
+    "score": 819,
+    "source": "Hacker News",
+    "timestamp": "2026-03-27T04:33:39.080025"
   }
 ]

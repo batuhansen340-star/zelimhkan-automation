@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-03-17:Hacker News:US SEC preparing to scrap quarterly reporting requirement",
-    "title": "US SEC preparing to scrap quarterly reporting requirement",
-    "score": 525,
-    "source": "Hacker News",
-    "timestamp": "2026-03-17T07:08:20.603366"
-  },
-  {
     "key": "2026-03-17:Hacker News:Kagi Translate now supports LinkedIn Speak as an output language",
     "title": "Kagi Translate now supports LinkedIn Speak as an output language",
     "score": 580,
@@ -698,5 +691,12 @@
     "score": 1004,
     "source": "Hacker News",
     "timestamp": "2026-03-28T04:21:09.537289"
+  },
+  {
+    "key": "2026-03-28:Hacker News:Anatomy of the .claude/ folder",
+    "title": "Anatomy of the .claude/ folder",
+    "score": 529,
+    "source": "Hacker News",
+    "timestamp": "2026-03-28T14:21:59.544706"
   }
 ]

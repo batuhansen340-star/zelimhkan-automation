@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-03-17:Hacker News:Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech",
-    "title": "Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech",
-    "score": 646,
-    "source": "Hacker News",
-    "timestamp": "2026-03-17T14:47:34.190242"
-  },
-  {
-    "key": "2026-03-17:Hacker News:Kagi Small Web",
-    "title": "Kagi Small Web",
-    "score": 587,
-    "source": "Hacker News",
-    "timestamp": "2026-03-17T18:46:59.012024"
-  },
-  {
     "key": "2026-03-17:Hacker News:The “small web” is bigger than you might think",
     "title": "The “small web” is bigger than you might think",
     "score": 514,
@@ -698,5 +684,19 @@
     "score": 524,
     "source": "Hacker News",
     "timestamp": "2026-03-28T18:26:07.800540"
+  },
+  {
+    "key": "2026-03-28:Hacker News:Founder of GitLab battles cancer by founding companies",
+    "title": "Founder of GitLab battles cancer by founding companies",
+    "score": 514,
+    "source": "Hacker News",
+    "timestamp": "2026-03-28T22:32:43.197188"
+  },
+  {
+    "key": "2026-03-28:Hacker News:Make macOS consistently bad unironically",
+    "title": "Make macOS consistently bad unironically",
+    "score": 513,
+    "source": "Hacker News",
+    "timestamp": "2026-03-28T22:32:43.197210"
   }
 ]

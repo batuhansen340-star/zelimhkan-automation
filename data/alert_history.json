@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-03-17:Hacker News:Kagi Translate now supports LinkedIn Speak as an output language",
-    "title": "Kagi Translate now supports LinkedIn Speak as an output language",
-    "score": 580,
-    "source": "Hacker News",
-    "timestamp": "2026-03-17T10:37:45.545126"
-  },
-  {
-    "key": "2026-03-17:Hacker News:Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
-    "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
-    "score": 568,
-    "source": "Hacker News",
-    "timestamp": "2026-03-17T10:37:45.545149"
-  },
-  {
     "key": "2026-03-17:Hacker News:Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech",
     "title": "Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech",
     "score": 646,
@@ -698,5 +684,19 @@
     "score": 529,
     "source": "Hacker News",
     "timestamp": "2026-03-28T14:21:59.544706"
+  },
+  {
+    "key": "2026-03-28:Hacker News:Spanish legislation as a Git repo",
+    "title": "Spanish legislation as a Git repo",
+    "score": 588,
+    "source": "Hacker News",
+    "timestamp": "2026-03-28T18:26:07.800521"
+  },
+  {
+    "key": "2026-03-28:Hacker News:Go hard on agents, not on your filesystem",
+    "title": "Go hard on agents, not on your filesystem",
+    "score": 524,
+    "source": "Hacker News",
+    "timestamp": "2026-03-28T18:26:07.800540"
   }
 ]

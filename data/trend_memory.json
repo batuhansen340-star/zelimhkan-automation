@@ -517,7 +517,7 @@
       "product_hunt",
       "hacker_news"
     ],
-    "peak_score": 259,
+    "peak_score": 493,
     "keywords": [
       "code",
       "what",
@@ -1047,7 +1047,7 @@
       "devto",
       "lobsters"
     ],
-    "peak_score": 349,
+    "peak_score": 472,
     "keywords": [
       "unite",
       "macos"
@@ -1323,10 +1323,11 @@
   },
   "practical guide to bare metal c++": {
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-25",
+    "last_seen": "2026-03-28",
     "seen_dates": [
       "2026-03-18",
-      "2026-03-25"
+      "2026-03-25",
+      "2026-03-28"
     ],
     "sources": [
       "hacker_news",
@@ -1370,7 +1371,7 @@
       "lobsters",
       "devto"
     ],
-    "peak_score": 16,
+    "peak_score": 24,
     "keywords": [
       "next",
       "your",
@@ -2354,9 +2355,10 @@
   },
   "substack launches a built-in recording studio": {
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-18",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-18"
+      "2026-03-18",
+      "2026-03-28"
     ],
     "sources": [
       "techcrunch",
@@ -2374,15 +2376,17 @@
   },
   "🦀i got tired of rewriting macro boilerplate — so i built a template engine for proc macros": {
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "devto",
-      "lobsters"
+      "lobsters",
+      "hacker_news"
     ],
-    "peak_score": 11,
+    "peak_score": 168,
     "keywords": [
       "boilerplate",
       "built",
@@ -6904,12 +6908,13 @@
   },
   "meme monday": {
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-24",
+    "last_seen": "2026-03-28",
     "seen_dates": [
       "2026-03-16",
       "2026-03-17",
       "2026-03-23",
-      "2026-03-24"
+      "2026-03-24",
+      "2026-03-28"
     ],
     "sources": [
       "devto"
@@ -13072,9 +13077,10 @@
   },
   "building an lsp server with rust is surprisingly easy and fun": {
     "first_seen": "2026-03-20",
-    "last_seen": "2026-03-20",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-20"
+      "2026-03-20",
+      "2026-03-28"
     ],
     "sources": [
       "lobsters"
@@ -13574,9 +13580,10 @@
   },
   "joy for gmail": {
     "first_seen": "2026-03-20",
-    "last_seen": "2026-03-20",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-20"
+      "2026-03-20",
+      "2026-03-28"
     ],
     "sources": [
       "product_hunt"
@@ -13781,12 +13788,14 @@
   },
   "these ai notetaking devices can help you record and transcribe your meetings": {
     "first_seen": "2026-03-20",
-    "last_seen": "2026-03-20",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-20"
+      "2026-03-20",
+      "2026-03-28"
     ],
     "sources": [
-      "techcrunch"
+      "techcrunch",
+      "product_hunt"
     ],
     "peak_score": 0,
     "keywords": [
@@ -15205,13 +15214,15 @@
   },
   "optimizing for zero: building a high-performance browser runner with no budget": {
     "first_seen": "2026-03-21",
-    "last_seen": "2026-03-22",
+    "last_seen": "2026-03-28",
     "seen_dates": [
       "2026-03-21",
-      "2026-03-22"
+      "2026-03-22",
+      "2026-03-28"
     ],
     "sources": [
-      "devto"
+      "devto",
+      "product_hunt"
     ],
     "peak_score": 2,
     "keywords": [
@@ -16665,9 +16676,10 @@
   },
   "i built an open-source ai assistant that actually runs my day — here's the architecture": {
     "first_seen": "2026-03-22",
-    "last_seen": "2026-03-22",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-22"
+      "2026-03-22",
+      "2026-03-28"
     ],
     "sources": [
       "devto"
@@ -17963,7 +17975,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 933,
+    "peak_score": 941,
     "keywords": [
       "wong2/weixin-agent-sdk"
     ]
@@ -20105,7 +20117,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 4604,
+    "peak_score": 4896,
     "keywords": [
       "slavingia/skills"
     ]
@@ -20123,7 +20135,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 2100,
+    "peak_score": 2224,
     "keywords": [
       "zarazhangrui/codebase-to-course"
     ]
@@ -20943,7 +20955,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 838,
+    "peak_score": 869,
     "keywords": [
       "fastclaw-ai/weclaw"
     ]
@@ -20975,7 +20987,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 962,
+    "peak_score": 978,
     "keywords": [
       "opa334/darksword-kexploit"
     ]
@@ -20992,7 +21004,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1027,
+    "peak_score": 1060,
     "keywords": [
       "gair-nlp/davinci-magihuman"
     ]
@@ -22138,7 +22150,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1517,
+    "peak_score": 1723,
     "keywords": [
       "hkuds/openspace"
     ]
@@ -23121,7 +23133,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 795,
+    "peak_score": 820,
     "keywords": [
       "limhyungtae/awesome-phd-cv"
     ]
@@ -23576,10 +23588,11 @@
   },
   "shell tricks that actually make life easier (and save your sanity)": {
     "first_seen": "2026-03-26",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
       "2026-03-26",
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "lobsters",
@@ -24246,7 +24259,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 899,
+    "peak_score": 921,
     "keywords": [
       "nashsu/opencli-rs"
     ]
@@ -24262,7 +24275,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1492,
+    "peak_score": 1652,
     "keywords": [
       "alvinunreal/awesome-opensource-ai"
     ]
@@ -25187,7 +25200,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 996,
+    "peak_score": 1116,
     "keywords": [
       "coderluii/holyclaude"
     ]
@@ -25303,9 +25316,10 @@
   },
   "16 of the most interesting startups from yc w26 demo day": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "techcrunch"
@@ -25843,7 +25857,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 421,
+    "peak_score": 551,
     "keywords": [
       ".claude/",
       "anatomy",
@@ -25959,9 +25973,10 @@
       "2026-03-28"
     ],
     "sources": [
-      "product_hunt"
+      "product_hunt",
+      "devto"
     ],
-    "peak_score": 0,
+    "peak_score": 2,
     "keywords": [
       "stakpak",
       "autopilot"
@@ -26051,7 +26066,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1392,
+    "peak_score": 1760,
     "keywords": [
       "magnum6actual/flipoff"
     ]
@@ -26086,7 +26101,7 @@
       "techcrunch",
       "hacker_news"
     ],
-    "peak_score": 247,
+    "peak_score": 354,
     "keywords": [
       "personal",
       "breach",
@@ -26314,7 +26329,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 48,
+    "peak_score": 56,
     "keywords": [
       "photos",
       "immich",
@@ -26334,7 +26349,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 26,
+    "peak_score": 29,
     "keywords": [
       "from",
       "monolith",
@@ -26356,7 +26371,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 24,
+    "peak_score": 34,
     "keywords": [
       "computational",
       "bigoish:",
@@ -26436,7 +26451,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 17,
+    "peak_score": 21,
     "keywords": [
       "kubernetes",
       "one-line",
@@ -26654,7 +26669,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 79,
+    "peak_score": 243,
     "keywords": [
       "crams",
       "chip",
@@ -26700,7 +26715,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 124,
+    "peak_score": 179,
     "keywords": [
       "memory",
       "launches",
@@ -26941,7 +26956,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 893,
+    "peak_score": 1189,
     "keywords": [
       "elder-plinius/g0dm0d3"
     ]
@@ -26955,7 +26970,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 769,
+    "peak_score": 801,
     "keywords": [
       "jxnxts/mcp-brasil"
     ]
@@ -27143,7 +27158,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 1,
+    "peak_score": 4,
     "keywords": [
       "codebase",
       ".net",
@@ -27163,7 +27178,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 40,
+    "peak_score": 56,
     "keywords": [
       "activity",
       "notion",
@@ -27206,7 +27221,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 18,
+    "peak_score": 30,
     "keywords": [
       "homelabbing",
       "into",
@@ -27222,7 +27237,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 19,
+    "peak_score": 39,
     "keywords": [
       "comforting",
       "pinning"
@@ -27237,7 +27252,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 8,
+    "peak_score": 19,
     "keywords": [
       "pondering",
       "effects"
@@ -27252,7 +27267,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 6,
+    "peak_score": 17,
     "keywords": [
       "which",
       "programming",
@@ -27271,7 +27286,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 12,
+    "peak_score": 20,
     "keywords": [
       "openbsd",
       "ext4",
@@ -27290,6 +27305,541 @@
     "peak_score": 14,
     "keywords": [
       "cssdoom"
+    ]
+  },
+  "i put all 8,642 spanish laws in git – every reform is a commit": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 493,
+    "keywords": [
+      "reform",
+      "every",
+      "commit",
+      "spanish",
+      "laws",
+      "8,642"
+    ]
+  },
+  "ai chatbots are \"yes-men\" that reinforce bad relationship decisions, study finds": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 202,
+    "keywords": [
+      "relationship",
+      "chatbots",
+      "that",
+      "decisions,",
+      "reinforce",
+      "study",
+      "finds",
+      "\"yes-men\""
+    ]
+  },
+  "britain today generating 90%+ of electricity from renewables": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 314,
+    "keywords": [
+      "britain",
+      "today",
+      "renewables",
+      "90%+",
+      "electricity",
+      "from",
+      "generating"
+    ]
+  },
+  "cern uses tiny ai models burned into silicon for real-time lhc data filtering": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 208,
+    "keywords": [
+      "uses",
+      "silicon",
+      "burned",
+      "models",
+      "data",
+      "cern",
+      "tiny",
+      "into",
+      "filtering",
+      "real-time"
+    ]
+  },
+  "folk are getting dangerously attached to ai that always tells them they're right": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 89,
+    "keywords": [
+      "them",
+      "dangerously",
+      "tells",
+      "folk",
+      "attached",
+      "that",
+      "right",
+      "they're",
+      "getting",
+      "always"
+    ]
+  },
+  "paper tape is all you need – training a transformer on a 1976 minicomputer": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 76,
+    "keywords": [
+      "minicomputer",
+      "transformer",
+      "need",
+      "tape",
+      "1976",
+      "training",
+      "paper"
+    ]
+  },
+  "arm releases first in-house chip, with meta as debut customer": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 61,
+    "keywords": [
+      "customer",
+      "in-house",
+      "first",
+      "with",
+      "chip,",
+      "meta",
+      "releases",
+      "debut"
+    ]
+  },
+  "expect": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "expect"
+    ]
+  },
+  "crossnode": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "crossnode"
+    ]
+  },
+  "glance": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "glance"
+    ]
+  },
+  "domscribe": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "domscribe"
+    ]
+  },
+  "spokk": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "spokk"
+    ]
+  },
+  "santana by deep softworks": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "deep",
+      "santana",
+      "softworks"
+    ]
+  },
+  "larksuite/cli": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 1424,
+    "keywords": [
+      "larksuite/cli"
+    ]
+  },
+  "elon musk’s last co-founder reportedly leaves xai": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "leaves",
+      "co-founder",
+      "elon",
+      "reportedly",
+      "last",
+      "musk’s"
+    ]
+  },
+  "these ipad apps will make you wish you had more free time": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "free",
+      "more",
+      "time",
+      "these",
+      "apps",
+      "will",
+      "make",
+      "ipad",
+      "wish"
+    ]
+  },
+  "anthropic’s claude popularity with paying consumers is skyrocketing": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "popularity",
+      "anthropic’s",
+      "with",
+      "paying",
+      "skyrocketing",
+      "consumers",
+      "claude"
+    ]
+  },
+  "what will power the grid in 2035? the race is wide open": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "power",
+      "open",
+      "wide",
+      "2035?",
+      "race",
+      "will",
+      "what",
+      "grid"
+    ]
+  },
+  "let’s take a look at the retro tech making a comeback": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "comeback",
+      "look",
+      "tech",
+      "making",
+      "take",
+      "retro",
+      "let’s"
+    ]
+  },
+  "i built a netflix-style ai app to study aws (and it actually works)": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 6,
+    "keywords": [
+      "works)",
+      "built",
+      "study",
+      "(and",
+      "netflix-style",
+      "actually"
+    ]
+  },
+  "learn the hard way first: why new developers should build skills before leaning on ai": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 8,
+    "keywords": [
+      "first:",
+      "hard",
+      "developers",
+      "leaning",
+      "learn",
+      "should",
+      "build",
+      "before",
+      "skills"
+    ]
+  },
+  "how to talk to managers (so they actually listen to you)": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 3,
+    "keywords": [
+      "you)",
+      "they",
+      "talk",
+      "listen",
+      "managers",
+      "actually"
+    ]
+  },
+  "9 hours down because of a missing `import queue`: a message bus postmortem": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 4,
+    "keywords": [
+      "`import",
+      "message",
+      "because",
+      "down",
+      "queue`:",
+      "postmortem",
+      "hours",
+      "missing"
+    ]
+  },
+  "why you should start blogging (even if nobody will read it)": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 2,
+    "keywords": [
+      "blogging",
+      "(even",
+      "start",
+      "read",
+      "should",
+      "nobody",
+      "will"
+    ]
+  },
+  "linux, finally for everyone": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 6,
+    "keywords": [
+      "finally",
+      "everyone",
+      "linux,"
+    ]
+  },
+  "capability-based security for redox: namespace and cwd as capabilities": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 12,
+    "keywords": [
+      "capability-based",
+      "redox:",
+      "namespace",
+      "security",
+      "capabilities"
+    ]
+  },
+  "openttd for windows nt risc": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 3,
+    "keywords": [
+      "openttd",
+      "risc",
+      "windows"
+    ]
+  },
+  "translating non-trivial codebases with claude": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 2,
+    "keywords": [
+      "non-trivial",
+      "codebases",
+      "with",
+      "translating",
+      "claude"
+    ]
+  },
+  "how to implement the outbox pattern in go and postgres": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 1,
+    "keywords": [
+      "pattern",
+      "outbox",
+      "postgres",
+      "implement"
     ]
   }
 }

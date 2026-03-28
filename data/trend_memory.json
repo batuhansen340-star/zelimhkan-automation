@@ -31,7 +31,6 @@
     "first_seen": "2026-03-09",
     "last_seen": "2026-03-25",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14",
       "2026-03-17",
       "2026-03-18",
@@ -225,7 +224,6 @@
     "first_seen": "2026-03-09",
     "last_seen": "2026-03-21",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-21"
     ],
     "sources": [
@@ -404,7 +402,6 @@
     "first_seen": "2026-03-09",
     "last_seen": "2026-03-21",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-15",
       "2026-03-20",
       "2026-03-21"
@@ -429,7 +426,6 @@
     "first_seen": "2026-03-09",
     "last_seen": "2026-03-25",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-17",
       "2026-03-24",
       "2026-03-25"
@@ -501,9 +497,8 @@
   },
   "claude code now lets you code from your phone. here's what i learned the hard way.": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-16",
       "2026-03-17",
       "2026-03-18",
@@ -513,7 +508,8 @@
       "2026-03-23",
       "2026-03-24",
       "2026-03-25",
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "devto",
@@ -536,22 +532,6 @@
       "way."
     ]
   },
-  "let dependabot merge its own prs": {
-    "first_seen": "2026-03-09",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "devto",
-      "hacker_news"
-    ],
-    "peak_score": 130,
-    "keywords": [
-      "dependabot",
-      "merge"
-    ]
-  },
   "blocking http1.1": {
     "first_seen": "2026-03-09",
     "last_seen": "2026-03-21",
@@ -571,14 +551,14 @@
   },
   "anthropic'ten işletmeler için yapay zeka araçlarının satın alımını basitleştiren platform: claude marketplace": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14",
       "2026-03-15",
       "2026-03-16",
       "2026-03-17",
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "webrazzi"
@@ -601,9 +581,8 @@
   },
   "nöroteknoloji girişimi cognito therapeutics, 105 milyon dolar yatırım aldı": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14",
       "2026-03-15",
       "2026-03-16",
@@ -617,7 +596,8 @@
       "2026-03-24",
       "2026-03-25",
       "2026-03-26",
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "webrazzi"
@@ -638,7 +618,6 @@
     "first_seen": "2026-03-09",
     "last_seen": "2026-03-16",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-16"
     ],
     "sources": [
@@ -752,7 +731,6 @@
     "first_seen": "2026-03-09",
     "last_seen": "2026-03-14",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14"
     ],
     "sources": [
@@ -767,7 +745,6 @@
     "first_seen": "2026-03-09",
     "last_seen": "2026-03-14",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14"
     ],
     "sources": [
@@ -916,9 +893,8 @@
   },
   "what are you doing this week?": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14",
       "2026-03-15",
       "2026-03-16",
@@ -927,7 +903,8 @@
       "2026-03-21",
       "2026-03-23",
       "2026-03-24",
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "lobsters",
@@ -1055,13 +1032,14 @@
   },
   "unite pro for macos": {
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-26",
+    "last_seen": "2026-03-28",
     "seen_dates": [
       "2026-03-19",
       "2026-03-22",
       "2026-03-23",
       "2026-03-24",
-      "2026-03-26"
+      "2026-03-26",
+      "2026-03-28"
     ],
     "sources": [
       "product_hunt",
@@ -1069,24 +1047,10 @@
       "devto",
       "lobsters"
     ],
-    "peak_score": 147,
+    "peak_score": 349,
     "keywords": [
       "unite",
       "macos"
-    ]
-  },
-  "imbue-bit/openclaw-pwnkit": {
-    "first_seen": "2026-03-10",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "github"
-    ],
-    "peak_score": 694,
-    "keywords": [
-      "imbue-bit/openclaw-pwnkit"
     ]
   },
   "yann lecun’s ami labs raises $1.03 billion to build world models": {
@@ -1111,29 +1075,6 @@
       "models",
       "build",
       "world"
-    ]
-  },
-  "periwinkle is making self-hosted social media on bluesky’s at protocol even easier": {
-    "first_seen": "2026-03-10",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "techcrunch",
-      "lobsters"
-    ],
-    "peak_score": 17,
-    "keywords": [
-      "periwinkle",
-      "making",
-      "protocol",
-      "easier",
-      "social",
-      "self-hosted",
-      "even",
-      "media",
-      "bluesky’s"
     ]
   },
   "i got tired of color contrast tools that break brand colors. so i built my own.": {
@@ -1163,10 +1104,11 @@
   },
   "i built a vs code extension that lets you chat with your database - everything runs locally": {
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
       "2026-03-16",
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "devto"
@@ -1317,29 +1259,6 @@
       "economies"
     ]
   },
-  "split federated learning architectures for high-accuracy and low-delay model training": {
-    "first_seen": "2026-03-10",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "arxiv",
-      "lobsters",
-      "hacker_news"
-    ],
-    "peak_score": 91,
-    "keywords": [
-      "training",
-      "learning",
-      "architectures",
-      "split",
-      "low-delay",
-      "federated",
-      "model",
-      "high-accuracy"
-    ]
-  },
   "benchmarking language modeling for lossless compression of full-fidelity audio": {
     "first_seen": "2026-03-10",
     "last_seen": "2026-03-18",
@@ -1440,38 +1359,22 @@
   },
   "your next store": {
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-26",
+    "last_seen": "2026-03-28",
     "seen_dates": [
       "2026-03-20",
-      "2026-03-26"
+      "2026-03-26",
+      "2026-03-28"
     ],
     "sources": [
       "product_hunt",
       "lobsters",
       "devto"
     ],
-    "peak_score": 5,
+    "peak_score": 16,
     "keywords": [
       "next",
       "your",
       "store"
-    ]
-  },
-  "spine swarm": {
-    "first_seen": "2026-03-10",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "product_hunt",
-      "arxiv",
-      "hacker_news"
-    ],
-    "peak_score": 51,
-    "keywords": [
-      "spine",
-      "swarm"
     ]
   },
   "contentdrips design agent": {
@@ -1596,23 +1499,6 @@
       "here's"
     ]
   },
-  "stop shipping broken env config": {
-    "first_seen": "2026-03-10",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "devto"
-    ],
-    "peak_score": 5,
-    "keywords": [
-      "shipping",
-      "broken",
-      "stop",
-      "config"
-    ]
-  },
   "yapay zeka pazarlama aracı pomelli, türkiye de dahil olmak üzere 170'den fazla ülkede kullanıma sunuldu": {
     "first_seen": "2026-03-10",
     "last_seen": "2026-03-25",
@@ -1643,11 +1529,12 @@
   },
   "ssh secret menu": {
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-18",
+    "last_seen": "2026-03-28",
     "seen_dates": [
       "2026-03-16",
       "2026-03-17",
-      "2026-03-18"
+      "2026-03-18",
+      "2026-03-28"
     ],
     "sources": [
       "hacker_news",
@@ -1663,7 +1550,6 @@
     "first_seen": "2026-03-11",
     "last_seen": "2026-03-27",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-25",
       "2026-03-27"
     ],
@@ -1743,25 +1629,10 @@
       "senior"
     ]
   },
-  "parthjadhav/app-store-screenshots": {
-    "first_seen": "2026-03-11",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "github"
-    ],
-    "peak_score": 2361,
-    "keywords": [
-      "parthjadhav/app-store-screenshots"
-    ]
-  },
   "tanweai/pua": {
     "first_seen": "2026-03-11",
     "last_seen": "2026-03-14",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14"
     ],
     "sources": [
@@ -1776,7 +1647,6 @@
     "first_seen": "2026-03-11",
     "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14",
       "2026-03-15"
     ],
@@ -1918,7 +1788,6 @@
     "first_seen": "2026-03-11",
     "last_seen": "2026-03-14",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14"
     ],
     "sources": [
@@ -1933,7 +1802,6 @@
     "first_seen": "2026-03-11",
     "last_seen": "2026-03-16",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14",
       "2026-03-15",
       "2026-03-16"
@@ -2012,47 +1880,6 @@
       "built"
     ]
   },
-  "full-source binary seed bootstrap of the guix system (2023)": {
-    "first_seen": "2026-03-11",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "lobsters"
-    ],
-    "peak_score": 11,
-    "keywords": [
-      "binary",
-      "full-source",
-      "seed",
-      "guix",
-      "bootstrap",
-      "(2023)",
-      "system"
-    ]
-  },
-  "tested: how many times can a dvd±rw be rewritten? methodology and results": {
-    "first_seen": "2026-03-12",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "hacker_news",
-      "lobsters"
-    ],
-    "peak_score": 222,
-    "keywords": [
-      "rewritten?",
-      "results",
-      "dvd±rw",
-      "methodology",
-      "times",
-      "many",
-      "tested:"
-    ]
-  },
   "show hn: a context-aware permission guard for claude code": {
     "first_seen": "2026-03-12",
     "last_seen": "2026-03-26",
@@ -2078,7 +1905,6 @@
     "first_seen": "2026-03-12",
     "last_seen": "2026-03-17",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-15",
       "2026-03-16",
       "2026-03-17"
@@ -2117,7 +1943,6 @@
     "first_seen": "2026-03-12",
     "last_seen": "2026-03-26",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-26"
     ],
     "sources": [
@@ -2136,7 +1961,6 @@
     "first_seen": "2026-03-12",
     "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14",
       "2026-03-15"
     ],
@@ -2152,7 +1976,6 @@
     "first_seen": "2026-03-12",
     "last_seen": "2026-03-17",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14",
       "2026-03-15",
       "2026-03-16",
@@ -2253,23 +2076,6 @@
       "neural"
     ]
   },
-  "malus – clean room as a service": {
-    "first_seen": "2026-03-12",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "hacker_news"
-    ],
-    "peak_score": 1136,
-    "keywords": [
-      "room",
-      "malus",
-      "service",
-      "clean"
-    ]
-  },
   "asia rolls out 4-day weeks, wfh to solve fuel crisis caused by iran war": {
     "first_seen": "2026-03-12",
     "last_seen": "2026-03-26",
@@ -2293,29 +2099,9 @@
       "asia"
     ]
   },
-  "atms didn't kill bank teller jobs, but the iphone did": {
-    "first_seen": "2026-03-12",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "hacker_news"
-    ],
-    "peak_score": 488,
-    "keywords": [
-      "kill",
-      "bank",
-      "atms",
-      "iphone",
-      "jobs,",
-      "teller",
-      "didn't"
-    ]
-  },
   "reliable software in the llm era": {
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
       "2026-03-14",
       "2026-03-15",
@@ -2327,7 +2113,8 @@
       "2026-03-22",
       "2026-03-25",
       "2026-03-26",
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "hacker_news",
@@ -2362,25 +2149,10 @@
       "common"
     ]
   },
-  "astrio": {
-    "first_seen": "2026-03-12",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "product_hunt"
-    ],
-    "peak_score": 0,
-    "keywords": [
-      "astrio"
-    ]
-  },
   "glass": {
     "first_seen": "2026-03-12",
     "last_seen": "2026-03-23",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-21",
       "2026-03-22",
       "2026-03-23"
@@ -2393,25 +2165,10 @@
       "glass"
     ]
   },
-  "a bit differently": {
-    "first_seen": "2026-03-12",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "product_hunt"
-    ],
-    "peak_score": 0,
-    "keywords": [
-      "differently"
-    ]
-  },
   "garrytan/gstack": {
     "first_seen": "2026-03-12",
     "last_seen": "2026-03-17",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14",
       "2026-03-15",
       "2026-03-16",
@@ -2423,46 +2180,6 @@
     "peak_score": 19561,
     "keywords": [
       "garrytan/gstack"
-    ]
-  },
-  "bumble to launch an ai dating assistant, ‘bee’": {
-    "first_seen": "2026-03-12",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "techcrunch"
-    ],
-    "peak_score": 0,
-    "keywords": [
-      "launch",
-      "dating",
-      "‘bee’",
-      "bumble",
-      "assistant,"
-    ]
-  },
-  "law enforcement shuts down botnet made of tens of thousands of hacked routers": {
-    "first_seen": "2026-03-12",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "techcrunch"
-    ],
-    "peak_score": 0,
-    "keywords": [
-      "made",
-      "enforcement",
-      "botnet",
-      "hacked",
-      "shuts",
-      "tens",
-      "thousands",
-      "down",
-      "routers"
     ]
   },
   "honda scraps 3 evs planned for the us, blaming tariffs and chinese competition": {
@@ -2486,27 +2203,6 @@
       "planned"
     ]
   },
-  "why are we still doing gpu work in javascript? (live webgpu benchmark & demo🚀)": {
-    "first_seen": "2026-03-12",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "devto"
-    ],
-    "peak_score": 30,
-    "keywords": [
-      "demo🚀)",
-      "benchmark",
-      "doing",
-      "work",
-      "webgpu",
-      "still",
-      "(live",
-      "javascript?"
-    ]
-  },
   "cake - topographical version control": {
     "first_seen": "2026-03-12",
     "last_seen": "2026-03-23",
@@ -2527,43 +2223,10 @@
       "topographical"
     ]
   },
-  "parametricity, or comptime is bonkers": {
-    "first_seen": "2026-03-12",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "lobsters"
-    ],
-    "peak_score": 60,
-    "keywords": [
-      "bonkers",
-      "parametricity,",
-      "comptime"
-    ]
-  },
-  "my postgresql database got nuked lol": {
-    "first_seen": "2026-03-12",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "lobsters"
-    ],
-    "peak_score": 75,
-    "keywords": [
-      "nuked",
-      "database",
-      "postgresql"
-    ]
-  },
   "lobsters interview with ngoldbaum": {
     "first_seen": "2026-03-12",
     "last_seen": "2026-03-21",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-21"
     ],
     "sources": [
@@ -2575,38 +2238,6 @@
       "interview",
       "with",
       "ngoldbaum"
-    ]
-  },
-  "lowdown manpage support": {
-    "first_seen": "2026-03-12",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "lobsters"
-    ],
-    "peak_score": 17,
-    "keywords": [
-      "manpage",
-      "support",
-      "lowdown"
-    ]
-  },
-  "dreaming of a ten-year computer": {
-    "first_seen": "2026-03-12",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "lobsters"
-    ],
-    "peak_score": 12,
-    "keywords": [
-      "ten-year",
-      "computer",
-      "dreaming"
     ]
   },
   "//go:fix inline and the source-level inliner": {
@@ -2627,482 +2258,10 @@
       "inliner"
     ]
   },
-  "google, ani selleri tahmin etmek için gemini ile 5 milyon haber makalesini analiz etti": {
-    "first_seen": "2026-03-12",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "webrazzi"
-    ],
-    "peak_score": 0,
-    "keywords": [
-      "milyon",
-      "google,",
-      "makalesini",
-      "etti",
-      "etmek",
-      "analiz",
-      "haber",
-      "selleri",
-      "gemini",
-      "tahmin",
-      "için"
-    ]
-  },
-  "marka izleme ve outreach otomasyonunu tek panelde toplayan platform: brandjet ai": {
-    "first_seen": "2026-03-12",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "webrazzi"
-    ],
-    "peak_score": 0,
-    "keywords": [
-      "marka",
-      "panelde",
-      "otomasyonunu",
-      "toplayan",
-      "platform:",
-      "brandjet",
-      "outreach",
-      "izleme"
-    ]
-  },
-  "microsoft, xbox konsolu project helix için hazırlıklara başlıyor": {
-    "first_seen": "2026-03-12",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "webrazzi"
-    ],
-    "peak_score": 0,
-    "keywords": [
-      "project",
-      "xbox",
-      "hazırlıklara",
-      "başlıyor",
-      "microsoft,",
-      "helix",
-      "için",
-      "konsolu"
-    ]
-  },
-  "meta, 13 yaş altındaki çocukların ebeveyn kontrolüyle whatsapp kullanmasına izin verecek": {
-    "first_seen": "2026-03-12",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "webrazzi"
-    ],
-    "peak_score": 0,
-    "keywords": [
-      "kontrolüyle",
-      "kullanmasına",
-      "altındaki",
-      "izin",
-      "verecek",
-      "ebeveyn",
-      "meta,",
-      "whatsapp",
-      "çocukların"
-    ]
-  },
-  "willingness to look stupid": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "hacker_news"
-    ],
-    "peak_score": 612,
-    "keywords": [
-      "look",
-      "willingness",
-      "stupid"
-    ]
-  },
-  "shall i implement it? no": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "hacker_news"
-    ],
-    "peak_score": 1064,
-    "keywords": [
-      "implement",
-      "shall"
-    ]
-  },
-  "bubble sorted amen break": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "hacker_news"
-    ],
-    "peak_score": 292,
-    "keywords": [
-      "sorted",
-      "break",
-      "bubble",
-      "amen"
-    ]
-  },
-  "reversing memory loss via gut-brain communication": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "hacker_news"
-    ],
-    "peak_score": 274,
-    "keywords": [
-      "gut-brain",
-      "memory",
-      "reversing",
-      "communication",
-      "loss"
-    ]
-  },
-  "understanding the go runtime: the scheduler": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "hacker_news"
-    ],
-    "peak_score": 63,
-    "keywords": [
-      "understanding",
-      "runtime:",
-      "scheduler"
-    ]
-  },
-  "document poisoning in rag systems: how attackers corrupt ai's sources": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "hacker_news"
-    ],
-    "peak_score": 94,
-    "keywords": [
-      "attackers",
-      "sources",
-      "poisoning",
-      "systems:",
-      "document",
-      "ai's",
-      "corrupt"
-    ]
-  },
-  "the met releases high-def 3d scans of 140 famous art objects": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "hacker_news"
-    ],
-    "peak_score": 254,
-    "keywords": [
-      "scans",
-      "objects",
-      "releases",
-      "famous",
-      "high-def"
-    ]
-  },
-  "“this is not the computer for you”": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "hacker_news"
-    ],
-    "peak_score": 782,
-    "keywords": [
-      "you”",
-      "“this",
-      "computer"
-    ]
-  },
-  "us private credit defaults hit record 9.2% in 2025, fitch says": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "hacker_news"
-    ],
-    "peak_score": 306,
-    "keywords": [
-      "fitch",
-      "9.2%",
-      "record",
-      "says",
-      "credit",
-      "private",
-      "2025,",
-      "defaults"
-    ]
-  },
-  "bringing chrome to arm64 linux devices": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "hacker_news"
-    ],
-    "peak_score": 78,
-    "keywords": [
-      "devices",
-      "arm64",
-      "bringing",
-      "linux",
-      "chrome"
-    ]
-  },
-  "innocent woman jailed after being misidentified using ai facial recognition": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "hacker_news"
-    ],
-    "peak_score": 505,
-    "keywords": [
-      "innocent",
-      "jailed",
-      "facial",
-      "misidentified",
-      "recognition",
-      "woman",
-      "using",
-      "after",
-      "being"
-    ]
-  },
-  "wolfip: lightweight tcp/ip stack with no dynamic memory allocations": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "hacker_news"
-    ],
-    "peak_score": 108,
-    "keywords": [
-      "wolfip:",
-      "dynamic",
-      "allocations",
-      "tcp/ip",
-      "memory",
-      "stack",
-      "lightweight",
-      "with"
-    ]
-  },
-  "forcing flash attention onto a tpu and learning the hard way": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "hacker_news"
-    ],
-    "peak_score": 53,
-    "keywords": [
-      "attention",
-      "flash",
-      "forcing",
-      "learning",
-      "onto",
-      "hard"
-    ]
-  },
-  "show hn: onecli – vault for ai agents in rust": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "hacker_news"
-    ],
-    "peak_score": 134,
-    "keywords": [
-      "show",
-      "onecli",
-      "vault",
-      "rust",
-      "agents"
-    ]
-  },
-  "show hn: axe – a 12mb binary that replaces your ai framework": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "hacker_news"
-    ],
-    "peak_score": 165,
-    "keywords": [
-      "show",
-      "12mb",
-      "your",
-      "binary",
-      "framework",
-      "that",
-      "replaces"
-    ]
-  },
-  "long overlooked as crucial to life, fungi start to get their due": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "hacker_news"
-    ],
-    "peak_score": 108,
-    "keywords": [
-      "long",
-      "their",
-      "overlooked",
-      "crucial",
-      "life,",
-      "fungi",
-      "start"
-    ]
-  },
-  "ddr4 sdram – initialization, training and calibration": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "hacker_news"
-    ],
-    "peak_score": 88,
-    "keywords": [
-      "initialization,",
-      "sdram",
-      "training",
-      "calibration",
-      "ddr4"
-    ]
-  },
-  "orangelabs": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "product_hunt"
-    ],
-    "peak_score": 0,
-    "keywords": [
-      "orangelabs"
-    ]
-  },
-  "birdhouse": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "product_hunt"
-    ],
-    "peak_score": 0,
-    "keywords": [
-      "birdhouse"
-    ]
-  },
-  "needle 2.0": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "product_hunt"
-    ],
-    "peak_score": 0,
-    "keywords": [
-      "needle"
-    ]
-  },
-  "clawther": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "product_hunt"
-    ],
-    "peak_score": 0,
-    "keywords": [
-      "clawther"
-    ]
-  },
-  "askneo": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "product_hunt"
-    ],
-    "peak_score": 0,
-    "keywords": [
-      "askneo"
-    ]
-  },
   "aiming-lab/metaclaw": {
     "first_seen": "2026-03-13",
     "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14",
       "2026-03-15"
     ],
@@ -3118,7 +2277,6 @@
     "first_seen": "2026-03-13",
     "last_seen": "2026-03-16",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14",
       "2026-03-15",
       "2026-03-16"
@@ -3135,7 +2293,6 @@
     "first_seen": "2026-03-13",
     "last_seen": "2026-03-17",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14",
       "2026-03-15",
       "2026-03-16",
@@ -3149,68 +2306,10 @@
       "tianyidatascience/openclaw-control-center"
     ]
   },
-  "emanuele-web04/remodex": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "github"
-    ],
-    "peak_score": 724,
-    "keywords": [
-      "emanuele-web04/remodex"
-    ]
-  },
-  "before quantum computing arrives, this startup wants enterprises already running on it": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "techcrunch"
-    ],
-    "peak_score": 0,
-    "keywords": [
-      "arrives,",
-      "already",
-      "before",
-      "quantum",
-      "running",
-      "enterprises",
-      "computing",
-      "startup",
-      "this",
-      "wants"
-    ]
-  },
-  "truecaller now lets you hang up on scammers — on behalf of your family": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "techcrunch"
-    ],
-    "peak_score": 0,
-    "keywords": [
-      "truecaller",
-      "your",
-      "family",
-      "scammers",
-      "behalf",
-      "lets",
-      "hang"
-    ]
-  },
   "how to watch jensen huang’s nvidia gtc 2026 keynote": {
     "first_seen": "2026-03-13",
     "last_seen": "2026-03-20",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-16",
       "2026-03-17",
       "2026-03-19",
@@ -3230,31 +2329,10 @@
       "watch"
     ]
   },
-  "sales automation startup rox ai hits $1.2b valuation, sources say": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "techcrunch"
-    ],
-    "peak_score": 0,
-    "keywords": [
-      "$1.2b",
-      "valuation,",
-      "sources",
-      "hits",
-      "sales",
-      "startup",
-      "automation"
-    ]
-  },
   "channel surfer lets you watch youtube like it’s old-school cable tv": {
     "first_seen": "2026-03-13",
     "last_seen": "2026-03-14",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14"
     ],
     "sources": [
@@ -3274,32 +2352,10 @@
       "watch"
     ]
   },
-  "why rivian is holding the $45,000 base model r2 until ‘late 2027’": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "techcrunch"
-    ],
-    "peak_score": 0,
-    "keywords": [
-      "2027’",
-      "rivian",
-      "base",
-      "holding",
-      "until",
-      "‘late",
-      "$45,000",
-      "model"
-    ]
-  },
   "substack launches a built-in recording studio": {
     "first_seen": "2026-03-13",
     "last_seen": "2026-03-18",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-18"
     ],
     "sources": [
@@ -3316,210 +2372,10 @@
       "studio"
     ]
   },
-  "facebook marketplace now lets meta ai respond to buyers’ messages": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "techcrunch"
-    ],
-    "peak_score": 0,
-    "keywords": [
-      "buyers’",
-      "respond",
-      "meta",
-      "messages",
-      "lets",
-      "marketplace",
-      "facebook"
-    ]
-  },
-  "tinder tries to lure people back to online dating with irl events, virtual speed dating": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "techcrunch"
-    ],
-    "peak_score": 0,
-    "keywords": [
-      "dating",
-      "speed",
-      "virtual",
-      "people",
-      "back",
-      "lure",
-      "tinder",
-      "tries",
-      "online",
-      "events,",
-      "with"
-    ]
-  },
-  "atlassian follows block’s footsteps and cuts staff in the name of ai": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "techcrunch"
-    ],
-    "peak_score": 0,
-    "keywords": [
-      "follows",
-      "staff",
-      "footsteps",
-      "cuts",
-      "name",
-      "atlassian",
-      "block’s"
-    ]
-  },
-  "lucid motors shows off robotaxi concept called ‘lunar’": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "techcrunch"
-    ],
-    "peak_score": 0,
-    "keywords": [
-      "shows",
-      "‘lunar’",
-      "motors",
-      "lucid",
-      "concept",
-      "robotaxi",
-      "called"
-    ]
-  },
-  "humanoid robotics maker sunday reaches $1.15b valuation to build household robots": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "techcrunch"
-    ],
-    "peak_score": 0,
-    "keywords": [
-      "build",
-      "$1.15b",
-      "reaches",
-      "maker",
-      "sunday",
-      "household",
-      "valuation",
-      "robots",
-      "humanoid",
-      "robotics"
-    ]
-  },
-  "webflow buys ai content-generation platform vidoso to bolster its marketing suite": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "techcrunch"
-    ],
-    "peak_score": 0,
-    "keywords": [
-      "webflow",
-      "suite",
-      "content-generation",
-      "bolster",
-      "buys",
-      "vidoso",
-      "platform",
-      "marketing"
-    ]
-  },
-  "an update on how we judge dev challenges": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "devto"
-    ],
-    "peak_score": 38,
-    "keywords": [
-      "challenges",
-      "judge",
-      "update"
-    ]
-  },
-  "pi-hole behind tailscale": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "devto"
-    ],
-    "peak_score": 6,
-    "keywords": [
-      "tailscale",
-      "pi-hole",
-      "behind"
-    ]
-  },
-  "i built 75 browser-based tools with next.js and zero backend.": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "devto"
-    ],
-    "peak_score": 6,
-    "keywords": [
-      "built",
-      "next.js",
-      "zero",
-      "tools",
-      "browser-based",
-      "backend.",
-      "with"
-    ]
-  },
-  "autonomous ai research does not need a giant framework": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "devto"
-    ],
-    "peak_score": 31,
-    "keywords": [
-      "need",
-      "does",
-      "framework",
-      "autonomous",
-      "research",
-      "giant"
-    ]
-  },
   "🦀i got tired of rewriting macro boilerplate — so i built a template engine for proc macros": {
     "first_seen": "2026-03-13",
     "last_seen": "2026-03-27",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-27"
     ],
     "sources": [
@@ -3543,7 +2399,6 @@
     "first_seen": "2026-03-13",
     "last_seen": "2026-03-25",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-25"
     ],
     "sources": [
@@ -3565,147 +2420,12 @@
       "actually"
     ]
   },
-  "how i built root cause analysis into my free api uptime monitor": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "devto"
-    ],
-    "peak_score": 6,
-    "keywords": [
-      "root",
-      "analysis",
-      "built",
-      "monitor",
-      "into",
-      "free",
-      "uptime",
-      "cause"
-    ]
-  },
-  "talk to your ai — meet talkative lobster": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "devto"
-    ],
-    "peak_score": 2,
-    "keywords": [
-      "meet",
-      "your",
-      "talk",
-      "lobster",
-      "talkative"
-    ]
-  },
-  "why bible apis should be version-agnostic": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "devto"
-    ],
-    "peak_score": 2,
-    "keywords": [
-      "bible",
-      "version-agnostic",
-      "apis",
-      "should"
-    ]
-  },
-  "친구가 다이어리에 출퇴근을 적고 있었다 1/2": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "devto"
-    ],
-    "peak_score": 1,
-    "keywords": [
-      "출퇴근을",
-      "다이어리에"
-    ]
-  },
-  "surviving the piscine at zone01 kisumu - 60 days of being humbled by code": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "devto"
-    ],
-    "peak_score": 1,
-    "keywords": [
-      "zone01",
-      "piscine",
-      "surviving",
-      "days",
-      "code",
-      "kisumu",
-      "humbled",
-      "being"
-    ]
-  },
-  "i built a knowledge evaluator that uses notion to judge what's worth remembering": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "devto"
-    ],
-    "peak_score": 13,
-    "keywords": [
-      "knowledge",
-      "built",
-      "worth",
-      "notion",
-      "what's",
-      "judge",
-      "uses",
-      "that",
-      "evaluator",
-      "remembering"
-    ]
-  },
-  "month 1 building an ai compliance saas — here's what happened": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "devto"
-    ],
-    "peak_score": 0,
-    "keywords": [
-      "saas",
-      "here's",
-      "happened",
-      "building",
-      "compliance",
-      "what",
-      "month"
-    ]
-  },
   "i got lost in canary wharf for 30 minutes, but i found the future of sre": {
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-21",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-13",
-      "2026-03-21"
+      "2026-03-21",
+      "2026-03-28"
     ],
     "sources": [
       "devto",
@@ -3721,80 +2441,10 @@
       "canary"
     ]
   },
-  "how do you manage ssh keys?": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "lobsters"
-    ],
-    "peak_score": 61,
-    "keywords": [
-      "keys?",
-      "manage"
-    ]
-  },
-  "plan 9's acme: the un-terminal and text-based guis": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "lobsters"
-    ],
-    "peak_score": 26,
-    "keywords": [
-      "un-terminal",
-      "plan",
-      "text-based",
-      "acme:",
-      "guis"
-    ]
-  },
-  "agent-shell 0.47 updates": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "lobsters"
-    ],
-    "peak_score": 6,
-    "keywords": [
-      "0.47",
-      "updates",
-      "agent-shell"
-    ]
-  },
-  "games in postscript - play chess against your printer": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "lobsters"
-    ],
-    "peak_score": 3,
-    "keywords": [
-      "games",
-      "postscript",
-      "against",
-      "play",
-      "your",
-      "printer",
-      "chess"
-    ]
-  },
   "the latent color subspace: emergent order in high-dimensional chaos": {
     "first_seen": "2026-03-13",
     "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14",
       "2026-03-15"
     ],
@@ -3816,7 +2466,6 @@
     "first_seen": "2026-03-13",
     "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14",
       "2026-03-15"
     ],
@@ -3839,7 +2488,6 @@
     "first_seen": "2026-03-13",
     "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14",
       "2026-03-15"
     ],
@@ -3861,7 +2509,6 @@
     "first_seen": "2026-03-13",
     "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14",
       "2026-03-15"
     ],
@@ -3883,7 +2530,6 @@
     "first_seen": "2026-03-13",
     "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14",
       "2026-03-15"
     ],
@@ -3903,7 +2549,6 @@
     "first_seen": "2026-03-13",
     "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14",
       "2026-03-15"
     ],
@@ -3926,7 +2571,6 @@
     "first_seen": "2026-03-13",
     "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14",
       "2026-03-15"
     ],
@@ -3948,7 +2592,6 @@
     "first_seen": "2026-03-13",
     "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14",
       "2026-03-15"
     ],
@@ -3969,7 +2612,6 @@
     "first_seen": "2026-03-13",
     "last_seen": "2026-03-25",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14",
       "2026-03-15",
       "2026-03-25"
@@ -3992,7 +2634,6 @@
     "first_seen": "2026-03-13",
     "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14",
       "2026-03-15"
     ],
@@ -4007,49 +2648,10 @@
       "planning"
     ]
   },
-  "meta platforms: lobbying, dark money, and the app store accountability act": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "hacker_news"
-    ],
-    "peak_score": 84,
-    "keywords": [
-      "store",
-      "lobbying,",
-      "money,",
-      "accountability",
-      "meta",
-      "platforms:",
-      "dark"
-    ]
-  },
-  "tui studio – visual terminal ui design tool": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "hacker_news"
-    ],
-    "peak_score": 340,
-    "keywords": [
-      "terminal",
-      "visual",
-      "design",
-      "studio",
-      "tool"
-    ]
-  },
   "i traced $2b in grants and 45 states' lobbying behind age‑verification bills": {
     "first_seen": "2026-03-13",
     "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14",
       "2026-03-15"
     ],
@@ -4068,28 +2670,10 @@
       "states'"
     ]
   },
-  "bucketsquatting is (finally) dead": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "hacker_news",
-      "lobsters"
-    ],
-    "peak_score": 240,
-    "keywords": [
-      "(finally)",
-      "dead",
-      "bucketsquatting"
-    ]
-  },
   "can i run ai locally?": {
     "first_seen": "2026-03-13",
     "last_seen": "2026-03-14",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14"
     ],
     "sources": [
@@ -4100,146 +2684,10 @@
       "locally?"
     ]
   },
-  "e2e encrypted messaging on instagram will no longer be supported after 8 may": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "hacker_news"
-    ],
-    "peak_score": 191,
-    "keywords": [
-      "messaging",
-      "will",
-      "longer",
-      "instagram",
-      "supported",
-      "encrypted",
-      "after"
-    ]
-  },
-  "okmain: how to pick an ok main colour of an image": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "hacker_news"
-    ],
-    "peak_score": 148,
-    "keywords": [
-      "colour",
-      "main",
-      "image",
-      "pick",
-      "okmain:"
-    ]
-  },
-  "executing programs inside transformers with exponentially faster inference": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "hacker_news"
-    ],
-    "peak_score": 226,
-    "keywords": [
-      "with",
-      "exponentially",
-      "faster",
-      "transformers",
-      "programs",
-      "inside",
-      "inference",
-      "executing"
-    ]
-  },
-  "run nanoclaw in docker sandboxes": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "hacker_news"
-    ],
-    "peak_score": 88,
-    "keywords": [
-      "nanoclaw",
-      "docker",
-      "sandboxes"
-    ]
-  },
-  "show hn: what was the world listening to? music charts, 20 countries (1940–2025)": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "hacker_news"
-    ],
-    "peak_score": 68,
-    "keywords": [
-      "music",
-      "countries",
-      "show",
-      "listening",
-      "world",
-      "what",
-      "(1940–2025)",
-      "charts,"
-    ]
-  },
-  "ceno, browse the web without internet access": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "hacker_news"
-    ],
-    "peak_score": 98,
-    "keywords": [
-      "internet",
-      "browse",
-      "ceno,",
-      "without",
-      "access"
-    ]
-  },
-  "enhancing gut-brain communication reversed cognitive decline in aging mice": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "hacker_news"
-    ],
-    "peak_score": 360,
-    "keywords": [
-      "mice",
-      "decline",
-      "aging",
-      "cognitive",
-      "gut-brain",
-      "enhancing",
-      "communication",
-      "reversed"
-    ]
-  },
   "vite 8.0 is out": {
     "first_seen": "2026-03-13",
     "last_seen": "2026-03-26",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-25",
       "2026-03-26"
     ],
@@ -4252,126 +2700,10 @@
       "vite"
     ]
   },
-  "an old photo of a large bbs (2022)": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "hacker_news"
-    ],
-    "peak_score": 253,
-    "keywords": [
-      "large",
-      "(2022)",
-      "photo"
-    ]
-  },
-  "burnlink": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "product_hunt"
-    ],
-    "peak_score": 0,
-    "keywords": [
-      "burnlink"
-    ]
-  },
-  "perfectly": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "product_hunt"
-    ],
-    "peak_score": 0,
-    "keywords": [
-      "perfectly"
-    ]
-  },
-  "gradpipe": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "product_hunt"
-    ],
-    "peak_score": 0,
-    "keywords": [
-      "gradpipe"
-    ]
-  },
-  "wpcursor": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "product_hunt"
-    ],
-    "peak_score": 0,
-    "keywords": [
-      "wpcursor"
-    ]
-  },
-  "pinnacle": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "product_hunt"
-    ],
-    "peak_score": 0,
-    "keywords": [
-      "pinnacle"
-    ]
-  },
-  "fowel by hackmamba": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "product_hunt"
-    ],
-    "peak_score": 0,
-    "keywords": [
-      "fowel",
-      "hackmamba"
-    ]
-  },
-  "kingcoding": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "product_hunt"
-    ],
-    "peak_score": 0,
-    "keywords": [
-      "kingcoding"
-    ]
-  },
   "davebcn87/pi-autoresearch": {
     "first_seen": "2026-03-13",
     "last_seen": "2026-03-17",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14",
       "2026-03-15",
       "2026-03-16",
@@ -4389,7 +2721,6 @@
     "first_seen": "2026-03-13",
     "last_seen": "2026-03-14",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14"
     ],
     "sources": [
@@ -4409,7 +2740,6 @@
     "first_seen": "2026-03-13",
     "last_seen": "2026-03-14",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14"
     ],
     "sources": [
@@ -4430,7 +2760,6 @@
     "first_seen": "2026-03-13",
     "last_seen": "2026-03-14",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14"
     ],
     "sources": [
@@ -4451,7 +2780,6 @@
     "first_seen": "2026-03-13",
     "last_seen": "2026-03-14",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14"
     ],
     "sources": [
@@ -4470,74 +2798,10 @@
       "mobile-first"
     ]
   },
-  "motional robotaxis join the uber app in vegas two years after major reset": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "techcrunch"
-    ],
-    "peak_score": 0,
-    "keywords": [
-      "uber",
-      "vegas",
-      "major",
-      "reset",
-      "robotaxis",
-      "years",
-      "motional",
-      "join",
-      "after"
-    ]
-  },
-  "i was one day away from quitting — and then my career took an unexpected turn": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "devto"
-    ],
-    "peak_score": 11,
-    "keywords": [
-      "turn",
-      "unexpected",
-      "career",
-      "from",
-      "away",
-      "quitting",
-      "then",
-      "took"
-    ]
-  },
-  "the internet is getting quieter - who will feed the next generation of ai?": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "devto"
-    ],
-    "peak_score": 7,
-    "keywords": [
-      "internet",
-      "getting",
-      "will",
-      "quieter",
-      "feed",
-      "next",
-      "generation"
-    ]
-  },
   "the gap in ai agent security nobody talks about: your .env is already in the context window": {
     "first_seen": "2026-03-13",
     "last_seen": "2026-03-21",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14",
       "2026-03-20",
       "2026-03-21"
@@ -4560,32 +2824,12 @@
       "nobody"
     ]
   },
-  "from infrastructure to product: pipelines into a profitable saas": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "devto"
-    ],
-    "peak_score": 2,
-    "keywords": [
-      "product:",
-      "pipelines",
-      "profitable",
-      "into",
-      "saas",
-      "infrastructure",
-      "from"
-    ]
-  },
   "i built surveys that get smarter with every response": {
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-13",
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-28"
     ],
     "sources": [
       "devto"
@@ -4601,53 +2845,10 @@
       "every"
     ]
   },
-  "i have 18 github repos at 17 — here's what i built, broke, and learned": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "devto"
-    ],
-    "peak_score": 2,
-    "keywords": [
-      "have",
-      "learned",
-      "repos",
-      "github",
-      "here's",
-      "what",
-      "built,",
-      "broke,"
-    ]
-  },
-  "kotlin coroutines: from callback hell to clean async code": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "devto"
-    ],
-    "peak_score": 0,
-    "keywords": [
-      "coroutines:",
-      "clean",
-      "code",
-      "callback",
-      "from",
-      "async",
-      "hell",
-      "kotlin"
-    ]
-  },
   "windows 11 after two decades of macos: okay, but also awful": {
     "first_seen": "2026-03-13",
     "last_seen": "2026-03-14",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14"
     ],
     "sources": [
@@ -4668,7 +2869,6 @@
     "first_seen": "2026-03-13",
     "last_seen": "2026-03-21",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-21"
     ],
     "sources": [
@@ -4683,46 +2883,10 @@
       "your"
     ]
   },
-  "computing in freedom with gnu emacs": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "lobsters"
-    ],
-    "peak_score": 11,
-    "keywords": [
-      "emacs",
-      "freedom",
-      "with",
-      "computing"
-    ]
-  },
-  "the best darn grid shader (yet)": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "lobsters"
-    ],
-    "peak_score": 20,
-    "keywords": [
-      "darn",
-      "(yet)",
-      "shader",
-      "best",
-      "grid"
-    ]
-  },
   "reinventing python's asyncio": {
     "first_seen": "2026-03-13",
     "last_seen": "2026-03-14",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14"
     ],
     "sources": [
@@ -4739,7 +2903,6 @@
     "first_seen": "2026-03-13",
     "last_seen": "2026-03-21",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14",
       "2026-03-20",
       "2026-03-21"
@@ -4757,27 +2920,10 @@
       "assembly"
     ]
   },
-  "learn haskell in two weeks": {
-    "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
-    "seen_dates": [
-      "2026-03-13"
-    ],
-    "sources": [
-      "lobsters"
-    ],
-    "peak_score": 14,
-    "keywords": [
-      "haskell",
-      "weeks",
-      "learn"
-    ]
-  },
   "the plumbing of everyday magic": {
     "first_seen": "2026-03-13",
     "last_seen": "2026-03-15",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14",
       "2026-03-15"
     ],
@@ -4795,7 +2941,6 @@
     "first_seen": "2026-03-13",
     "last_seen": "2026-03-17",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14",
       "2026-03-15",
       "2026-03-16",
@@ -4818,7 +2963,6 @@
     "first_seen": "2026-03-13",
     "last_seen": "2026-03-16",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14",
       "2026-03-15",
       "2026-03-16"
@@ -4845,7 +2989,6 @@
     "first_seen": "2026-03-13",
     "last_seen": "2026-03-16",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14",
       "2026-03-15",
       "2026-03-16"
@@ -4869,7 +3012,6 @@
     "first_seen": "2026-03-13",
     "last_seen": "2026-03-16",
     "seen_dates": [
-      "2026-03-13",
       "2026-03-14",
       "2026-03-15",
       "2026-03-16"
@@ -5725,9 +3867,10 @@
   },
   "why i built an email ai that never sends": {
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-14"
+      "2026-03-14",
+      "2026-03-28"
     ],
     "sources": [
       "devto"
@@ -6957,15 +5100,17 @@
   },
   "byterover memory system for openclaw": {
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-03-28",
     "seen_dates": [
       "2026-03-15",
-      "2026-03-16"
+      "2026-03-16",
+      "2026-03-28"
     ],
     "sources": [
-      "product_hunt"
+      "product_hunt",
+      "devto"
     ],
-    "peak_score": 0,
+    "peak_score": 3,
     "keywords": [
       "openclaw",
       "memory",
@@ -8818,11 +6963,12 @@
   },
   "gemini cli and jules: my march 2026 stack": {
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-18",
+    "last_seen": "2026-03-28",
     "seen_dates": [
       "2026-03-16",
       "2026-03-17",
-      "2026-03-18"
+      "2026-03-18",
+      "2026-03-28"
     ],
     "sources": [
       "devto",
@@ -11111,16 +9257,17 @@
   },
   "more than 135 open hardware devices flashable with your own firmware": {
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
       "2026-03-18",
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "hacker_news",
       "lobsters"
     ],
-    "peak_score": 411,
+    "peak_score": 591,
     "keywords": [
       "devices",
       "flashable",
@@ -15456,18 +13603,20 @@
   },
   "composer 2 by cursor": {
     "first_seen": "2026-03-20",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
       "2026-03-20",
       "2026-03-23",
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "product_hunt",
       "techcrunch",
-      "devto"
+      "devto",
+      "hacker_news"
     ],
-    "peak_score": 12,
+    "peak_score": 73,
     "keywords": [
       "composer",
       "cursor"
@@ -19802,18 +17951,19 @@
   },
   "wong2/weixin-agent-sdk": {
     "first_seen": "2026-03-23",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
       "2026-03-23",
       "2026-03-24",
       "2026-03-25",
       "2026-03-26",
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 931,
+    "peak_score": 933,
     "keywords": [
       "wong2/weixin-agent-sdk"
     ]
@@ -21513,10 +19663,11 @@
   },
   "litellm python package compromised by supply-chain attack": {
     "first_seen": "2026-03-24",
-    "last_seen": "2026-03-25",
+    "last_seen": "2026-03-28",
     "seen_dates": [
       "2026-03-24",
-      "2026-03-25"
+      "2026-03-25",
+      "2026-03-28"
     ],
     "sources": [
       "hacker_news",
@@ -21709,15 +19860,16 @@
   },
   "box of secrets: discreetly modding an apartment intercom to work with apple home": {
     "first_seen": "2026-03-24",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
       "2026-03-24",
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 236,
+    "peak_score": 365,
     "keywords": [
       "intercom",
       "discreetly",
@@ -21942,34 +20094,36 @@
   },
   "slavingia/skills": {
     "first_seen": "2026-03-24",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
       "2026-03-24",
       "2026-03-25",
       "2026-03-26",
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 4143,
+    "peak_score": 4604,
     "keywords": [
       "slavingia/skills"
     ]
   },
   "zarazhangrui/codebase-to-course": {
     "first_seen": "2026-03-24",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
       "2026-03-24",
       "2026-03-25",
       "2026-03-26",
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 1973,
+    "peak_score": 2100,
     "keywords": [
       "zarazhangrui/codebase-to-course"
     ]
@@ -22535,10 +20689,11 @@
   },
   "goodbye to sora": {
     "first_seen": "2026-03-25",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
       "2026-03-25",
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "hacker_news",
@@ -22778,16 +20933,17 @@
   },
   "fastclaw-ai/weclaw": {
     "first_seen": "2026-03-25",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
       "2026-03-25",
       "2026-03-26",
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 832,
+    "peak_score": 838,
     "keywords": [
       "fastclaw-ai/weclaw"
     ]
@@ -22809,32 +20965,34 @@
   },
   "opa334/darksword-kexploit": {
     "first_seen": "2026-03-25",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
       "2026-03-25",
       "2026-03-26",
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 938,
+    "peak_score": 962,
     "keywords": [
       "opa334/darksword-kexploit"
     ]
   },
   "gair-nlp/davinci-magihuman": {
     "first_seen": "2026-03-25",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
       "2026-03-25",
       "2026-03-26",
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 1002,
+    "peak_score": 1027,
     "keywords": [
       "gair-nlp/davinci-magihuman"
     ]
@@ -23970,16 +22128,17 @@
   },
   "hkuds/openspace": {
     "first_seen": "2026-03-25",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
       "2026-03-25",
       "2026-03-26",
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 1422,
+    "peak_score": 1517,
     "keywords": [
       "hkuds/openspace"
     ]
@@ -24700,12 +22859,14 @@
   },
   "the eu still wants to scan your private messages and photos": {
     "first_seen": "2026-03-26",
-    "last_seen": "2026-03-26",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-26"
+      "2026-03-26",
+      "2026-03-28"
     ],
     "sources": [
-      "hacker_news"
+      "hacker_news",
+      "techcrunch"
     ],
     "peak_score": 875,
     "keywords": [
@@ -24951,15 +23112,16 @@
   },
   "limhyungtae/awesome-phd-cv": {
     "first_seen": "2026-03-26",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
       "2026-03-26",
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 724,
+    "peak_score": 795,
     "keywords": [
       "limhyungtae/awesome-phd-cv"
     ]
@@ -25822,13 +23984,15 @@
   },
   "swift 6.3": {
     "first_seen": "2026-03-26",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
       "2026-03-26",
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
-      "hacker_news"
+      "hacker_news",
+      "devto"
     ],
     "peak_score": 307,
     "keywords": [
@@ -26073,30 +24237,32 @@
   },
   "nashsu/opencli-rs": {
     "first_seen": "2026-03-26",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
       "2026-03-26",
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 886,
+    "peak_score": 899,
     "keywords": [
       "nashsu/opencli-rs"
     ]
   },
   "alvinunreal/awesome-opensource-ai": {
     "first_seen": "2026-03-26",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
       "2026-03-26",
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 1346,
+    "peak_score": 1492,
     "keywords": [
       "alvinunreal/awesome-opensource-ai"
     ]
@@ -26144,13 +24310,15 @@
   },
   "bytedance’s new ai video generation model, dreamina seedance 2.0, comes to capcut": {
     "first_seen": "2026-03-26",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
       "2026-03-26",
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
-      "techcrunch"
+      "techcrunch",
+      "product_hunt"
     ],
     "peak_score": 0,
     "keywords": [
@@ -27011,23 +25179,25 @@
   },
   "coderluii/holyclaude": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 902,
+    "peak_score": 996,
     "keywords": [
       "coderluii/holyclaude"
     ]
   },
   "anthropic wins injunction against trump administration over defense department saga": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "techcrunch"
@@ -27048,9 +25218,10 @@
   },
   "you can now transfer your chats and personal information from other chatbots directly into gemini": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "techcrunch"
@@ -27072,9 +25243,10 @@
   },
   "wikipedia cracks down on the use of ai in article writing": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "techcrunch"
@@ -27338,14 +25510,15 @@
   },
   "i can't see apple's vision": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "lobsters"
     ],
-    "peak_score": 58,
+    "peak_score": 61,
     "keywords": [
       "can't",
       "apple's",
@@ -27445,9 +25618,10 @@
   },
   "vega: learning to drive with natural language instructions": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "arxiv"
@@ -27465,9 +25639,10 @@
   },
   "drive my way: preference alignment of vision-language-action model for personalized driving": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "arxiv"
@@ -27486,9 +25661,10 @@
   },
   "training the knowledge base through evidence distillation and write-back enrichment": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "arxiv"
@@ -27507,9 +25683,10 @@
   },
   "packforcing: short video training suffices for long video sampling and long context inference": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "arxiv"
@@ -27529,9 +25706,10 @@
   },
   "pixelsmile: toward fine-grained facial expression editing": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "arxiv"
@@ -27548,9 +25726,10 @@
   },
   "back to basics: revisiting asr in the age of voice agents": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "arxiv"
@@ -27566,9 +25745,10 @@
   },
   "natural-language agent harnesses": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "arxiv"
@@ -27582,9 +25762,10 @@
   },
   "no hard negatives required: concept centric learning leads to compositionality without degrading zero-shot capabilities of contrastive models": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "arxiv"
@@ -27609,9 +25790,10 @@
   },
   "r-c2: cycle-consistent reinforcement learning improves multimodal reasoning": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "arxiv"
@@ -27629,9 +25811,10 @@
   },
   "agent factories for high level synthesis: how far can general-purpose coding agents go in hardware optimization?": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "arxiv"
@@ -27652,14 +25835,15 @@
   },
   "anatomy of the .claude/ folder": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 121,
+    "peak_score": 421,
     "keywords": [
       ".claude/",
       "anatomy",
@@ -27668,14 +25852,15 @@
   },
   "installing a let's encrypt tls certificate on a brother printer with certbot": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 69,
+    "peak_score": 203,
     "keywords": [
       "installing",
       "certificate",
@@ -27725,14 +25910,15 @@
   },
   "people inside microsoft are fighting to drop mandatory microsoft account": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 104,
+    "peak_score": 582,
     "keywords": [
       "people",
       "microsoft",
@@ -27767,9 +25953,10 @@
   },
   "stakpak autopilot": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "product_hunt"
@@ -27810,9 +25997,10 @@
   },
   "audos publishing house": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "product_hunt"
@@ -27840,9 +26028,10 @@
   },
   "agentation": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "product_hunt"
@@ -27854,23 +26043,25 @@
   },
   "magnum6actual/flipoff": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "github"
     ],
-    "peak_score": 1094,
+    "peak_score": 1392,
     "keywords": [
       "magnum6actual/flipoff"
     ]
   },
   "rivian gets another $1b from volkswagen": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "techcrunch"
@@ -27886,14 +26077,16 @@
   },
   "iranian hackers claim breach of fbi director kash patel’s personal email account": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
-      "techcrunch"
+      "techcrunch",
+      "hacker_news"
     ],
-    "peak_score": 0,
+    "peak_score": 247,
     "keywords": [
       "personal",
       "breach",
@@ -27909,9 +26102,10 @@
   },
   "apple says no one using lockdown mode has been hacked with spyware": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "techcrunch"
@@ -28075,14 +26269,15 @@
   },
   "auth0 mcp server extension for gemini cli": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "devto"
     ],
-    "peak_score": 5,
+    "peak_score": 7,
     "keywords": [
       "gemini",
       "auth0",
@@ -28111,14 +26306,15 @@
   },
   "immich vs ente photos - the photo backup showdown": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "lobsters"
     ],
-    "peak_score": 23,
+    "peak_score": 48,
     "keywords": [
       "photos",
       "immich",
@@ -28130,14 +26326,15 @@
   },
   "scaling a monolith to 1m loc: 113 pragmatic lessons from tech lead to cto": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "lobsters"
     ],
-    "peak_score": 17,
+    "peak_score": 26,
     "keywords": [
       "from",
       "monolith",
@@ -28151,14 +26348,15 @@
   },
   "bigoish: test the empirical computational complexity of rust algorithms": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "lobsters"
     ],
-    "peak_score": 3,
+    "peak_score": 24,
     "keywords": [
       "computational",
       "bigoish:",
@@ -28171,14 +26369,15 @@
   },
   "distraction-free writing with the micro journal rev.2 (and neovim)": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "lobsters"
     ],
-    "peak_score": 2,
+    "peak_score": 10,
     "keywords": [
       "distraction-free",
       "journal",
@@ -28212,14 +26411,15 @@
   },
   "firefox & gtk emoji picker": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "lobsters"
     ],
-    "peak_score": 4,
+    "peak_score": 15,
     "keywords": [
       "emoji",
       "firefox",
@@ -28228,14 +26428,15 @@
   },
   "a one-line kubernetes fix that saved 600 hours a year": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "lobsters"
     ],
-    "peak_score": 3,
+    "peak_score": 17,
     "keywords": [
       "kubernetes",
       "one-line",
@@ -28247,14 +26448,15 @@
   },
   "uses for nested promises": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "lobsters"
     ],
-    "peak_score": 4,
+    "peak_score": 13,
     "keywords": [
       "nested",
       "uses",
@@ -28263,9 +26465,10 @@
   },
   "driventure, mobilite platformu vignetim'e yatırım yaptı": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "webrazzi"
@@ -28282,9 +26485,10 @@
   },
   "yapay zeka platformlarındaki sohbet geçmişleri doğrudan gemini'a aktarılabilecek": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "webrazzi"
@@ -28303,9 +26507,10 @@
   },
   "meta, iki yeni ray-ban akıllı gözlüğü üzerinde çalışıyor": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "webrazzi"
@@ -28323,9 +26528,10 @@
   },
   "shield ai, 12.7 milyar dolar değerleme üzerinden 1.5 milyar dolar yatırım aldı": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "webrazzi"
@@ -28344,9 +26550,10 @@
   },
   "google translate'in gerçek zamanlı kulaklık çevirisi özelliği, daha fazla ülkede kullanıma sunuluyor": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "webrazzi"
@@ -28369,9 +26576,10 @@
   },
   "whatsapp, konuşmalarınıza göre yapay zeka ile yanıt taslakları sunmaya başlıyor": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "webrazzi"
@@ -28391,9 +26599,10 @@
   },
   "wikipedia, yapay zeka ile yazılan makaleleri yasakladı": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "webrazzi"
@@ -28410,9 +26619,10 @@
   },
   "binance tr, kripto varlık dünyasına adım atmak i̇steyenlere yönelik “büyük bahar kampanyası”nı başlattı [sponsorlu i̇çerik]": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-28"
     ],
     "sources": [
       "webrazzi"
@@ -28433,6 +26643,653 @@
       "i̇steyenlere",
       "“büyük",
       "yönelik"
+    ]
+  },
+  "amd's ryzen 9 9950x3d2 dual edition crams 208mb of cache into a single chip": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 79,
+    "keywords": [
+      "crams",
+      "chip",
+      "9950x3d2",
+      "208mb",
+      "edition",
+      "into",
+      "dual",
+      "cache",
+      "amd's",
+      "single",
+      "ryzen"
+    ]
+  },
+  "show hn: twitch roulette – find live streamers who need views the most": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 79,
+    "keywords": [
+      "roulette",
+      "need",
+      "views",
+      "twitch",
+      "live",
+      "streamers",
+      "most",
+      "find",
+      "show"
+    ]
+  },
+  "nashville library launches memory lab for digitizing home movies": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 124,
+    "keywords": [
+      "memory",
+      "launches",
+      "nashville",
+      "movies",
+      "digitizing",
+      "library",
+      "home"
+    ]
+  },
+  "velxio 2.0 – emulate arduino, esp32, and raspberry pi 3 in the browser": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 111,
+    "keywords": [
+      "esp32,",
+      "raspberry",
+      "browser",
+      "arduino,",
+      "velxio",
+      "emulate"
+    ]
+  },
+  "isbn visualization": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 124,
+    "keywords": [
+      "visualization",
+      "isbn"
+    ]
+  },
+  "meow.camera": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 221,
+    "keywords": [
+      "meow.camera"
+    ]
+  },
+  "explore the hidden world of sand": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 205,
+    "keywords": [
+      "world",
+      "explore",
+      "hidden",
+      "sand"
+    ]
+  },
+  "‘energy independence feels practical’: europeans building mini solar farms": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 243,
+    "keywords": [
+      "mini",
+      "feels",
+      "practical’:",
+      "‘energy",
+      "independence",
+      "farms",
+      "europeans",
+      "solar",
+      "building"
+    ]
+  },
+  "building firestriker: making civic tech free": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 107,
+    "keywords": [
+      "free",
+      "civic",
+      "making",
+      "building",
+      "firestriker:",
+      "tech"
+    ]
+  },
+  "colorado house passes bill to limit surveillance pricing and wage setting": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 90,
+    "keywords": [
+      "passes",
+      "setting",
+      "colorado",
+      "house",
+      "pricing",
+      "limit",
+      "surveillance",
+      "wage",
+      "bill"
+    ]
+  },
+  "embracing bayesian methods in clinical trials": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 92,
+    "keywords": [
+      "bayesian",
+      "trials",
+      "clinical",
+      "embracing",
+      "methods"
+    ]
+  },
+  "dashpane": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "dashpane"
+    ]
+  },
+  "gemini export studio": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "studio",
+      "export",
+      "gemini"
+    ]
+  },
+  "benchspan": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "benchspan"
+    ]
+  },
+  "focus flow 6.7 (jira plugin)": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "(jira",
+      "plugin)",
+      "flow",
+      "focus"
+    ]
+  },
+  "supapin": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "supapin"
+    ]
+  },
+  "elder-plinius/g0dm0d3": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 893,
+    "keywords": [
+      "elder-plinius/g0dm0d3"
+    ]
+  },
+  "jxnxts/mcp-brasil": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 769,
+    "keywords": [
+      "jxnxts/mcp-brasil"
+    ]
+  },
+  "marswaveai/typeno": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 730,
+    "keywords": [
+      "marswaveai/typeno"
+    ]
+  },
+  "physical intelligence is reportedly in talks to raise $1 billion, again": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "intelligence",
+      "billion,",
+      "raise",
+      "again",
+      "reportedly",
+      "talks",
+      "physical"
+    ]
+  },
+  "why softbank’s new $40b loan points to a 2026 openai ipo": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "loan",
+      "2026",
+      "$40b",
+      "softbank’s",
+      "points",
+      "openai"
+    ]
+  },
+  "memory chip giant sk hynix could help end ‘rammageddon’ with blockbuster us ipo": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "memory",
+      "chip",
+      "help",
+      "‘rammageddon’",
+      "hynix",
+      "with",
+      "giant",
+      "blockbuster",
+      "could"
+    ]
+  },
+  "waymo’s skyrocketing ridership in one chart": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "ridership",
+      "chart",
+      "skyrocketing",
+      "waymo’s"
+    ]
+  },
+  "european commission confirms cyberattack after hackers claim data breach": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "claim",
+      "cyberattack",
+      "confirms",
+      "after",
+      "breach",
+      "commission",
+      "european",
+      "hackers",
+      "data"
+    ]
+  },
+  "aetherflux reportedly raising series b at $2 billion valuation": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "aetherflux",
+      "billion",
+      "series",
+      "raising",
+      "valuation",
+      "reportedly"
+    ]
+  },
+  "taming the glucose spike: predicting postprandial peaks with transformers and pytorch": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 3,
+    "keywords": [
+      "peaks",
+      "glucose",
+      "with",
+      "taming",
+      "transformers",
+      "spike:",
+      "postprandial",
+      "pytorch",
+      "predicting"
+    ]
+  },
+  "the .workbuddy/ folder is my brain. here's what's inside.": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 3,
+    "keywords": [
+      "what's",
+      "folder",
+      ".workbuddy/",
+      "brain.",
+      "inside.",
+      "here's"
+    ]
+  },
+  "you inherited a .net codebase with zero tests. now what?": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 1,
+    "keywords": [
+      "codebase",
+      ".net",
+      "zero",
+      "with",
+      "what?",
+      "tests.",
+      "inherited"
+    ]
+  },
+  "turning weekly github activity into blog posts on notion + dev.to": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 40,
+    "keywords": [
+      "activity",
+      "notion",
+      "dev.to",
+      "github",
+      "posts",
+      "weekly",
+      "into",
+      "turning",
+      "blog"
+    ]
+  },
+  "node.js graceful shutdown: the right way (sigterm, connection draining, and kubernetes)": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 2,
+    "keywords": [
+      "draining,",
+      "kubernetes)",
+      "shutdown:",
+      "right",
+      "graceful",
+      "connection",
+      "(sigterm,",
+      "node.js"
+    ]
+  },
+  "tailscale’d into homelabbing": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 18,
+    "keywords": [
+      "homelabbing",
+      "into",
+      "tailscale’d"
+    ]
+  },
+  "the comforting lie of sha pinning": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 19,
+    "keywords": [
+      "comforting",
+      "pinning"
+    ]
+  },
+  "pondering effects": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 8,
+    "keywords": [
+      "pondering",
+      "effects"
+    ]
+  },
+  "which programming language is best for claude code?": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 6,
+    "keywords": [
+      "which",
+      "programming",
+      "code?",
+      "claude",
+      "best",
+      "language"
+    ]
+  },
+  "vibe-coded ext4 for openbsd": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 12,
+    "keywords": [
+      "openbsd",
+      "ext4",
+      "vibe-coded"
+    ]
+  },
+  "cssdoom": {
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "seen_dates": [
+      "2026-03-28"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 14,
+    "keywords": [
+      "cssdoom"
     ]
   }
 }

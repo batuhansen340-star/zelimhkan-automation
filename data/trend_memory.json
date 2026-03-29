@@ -273,16 +273,18 @@
   },
   "thinking line": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-23",
+    "last_seen": "2026-03-29",
     "seen_dates": [
       "2026-03-17",
       "2026-03-22",
-      "2026-03-23"
+      "2026-03-23",
+      "2026-03-29"
     ],
     "sources": [
       "product_hunt",
       "techcrunch",
-      "hacker_news"
+      "hacker_news",
+      "devto"
     ],
     "peak_score": 188,
     "keywords": [
@@ -334,12 +336,13 @@
   },
   "techcrunch mobility: rivian’s r2 gambit": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-23",
+    "last_seen": "2026-03-29",
     "seen_dates": [
       "2026-03-15",
       "2026-03-16",
       "2026-03-22",
-      "2026-03-23"
+      "2026-03-23",
+      "2026-03-29"
     ],
     "sources": [
       "techcrunch"
@@ -2277,7 +2280,7 @@
       "lobsters",
       "hacker_news"
     ],
-    "peak_score": 377,
+    "peak_score": 432,
     "keywords": [
       "boilerplate",
       "built",
@@ -5567,9 +5570,10 @@
   },
   "mod sources warn palantir role at heart of government is threat to uk security": {
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-03-29",
     "seen_dates": [
-      "2026-03-16"
+      "2026-03-16",
+      "2026-03-29"
     ],
     "sources": [
       "hacker_news"
@@ -9758,9 +9762,10 @@
   },
   "i built a free, open-source alternative to localstack — clouddev": {
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18",
+    "last_seen": "2026-03-29",
     "seen_dates": [
-      "2026-03-18"
+      "2026-03-18",
+      "2026-03-29"
     ],
     "sources": [
       "devto"
@@ -12310,7 +12315,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 25,
+    "peak_score": 30,
     "keywords": [
       "server",
       "rust",
@@ -19348,7 +19353,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 5056,
+    "peak_score": 5269,
     "keywords": [
       "slavingia/skills"
     ]
@@ -20219,7 +20224,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 998,
+    "peak_score": 1019,
     "keywords": [
       "opa334/darksword-kexploit"
     ]
@@ -21384,7 +21389,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 2057,
+    "peak_score": 2337,
     "keywords": [
       "hkuds/openspace"
     ]
@@ -22368,7 +22373,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 835,
+    "peak_score": 847,
     "keywords": [
       "limhyungtae/awesome-phd-cv"
     ]
@@ -23495,7 +23500,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 944,
+    "peak_score": 975,
     "keywords": [
       "nashsu/opencli-rs"
     ]
@@ -23512,20 +23517,22 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1781,
+    "peak_score": 1884,
     "keywords": [
       "alvinunreal/awesome-opensource-ai"
     ]
   },
   "google is launching search live globally": {
     "first_seen": "2026-03-26",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-29",
     "seen_dates": [
       "2026-03-26",
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-29"
     ],
     "sources": [
-      "techcrunch"
+      "techcrunch",
+      "product_hunt"
     ],
     "peak_score": 0,
     "keywords": [
@@ -24796,14 +24803,15 @@
   },
   "ssereload(1) introduction": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-29",
     "seen_dates": [
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-29"
     ],
     "sources": [
       "lobsters"
     ],
-    "peak_score": 8,
+    "peak_score": 13,
     "keywords": [
       "introduction",
       "ssereload(1)"
@@ -25305,7 +25313,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 2152,
+    "peak_score": 2333,
     "keywords": [
       "magnum6actual/flipoff"
     ]
@@ -26204,7 +26212,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1609,
+    "peak_score": 1882,
     "keywords": [
       "elder-plinius/g0dm0d3"
     ]
@@ -26219,7 +26227,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 835,
+    "peak_score": 855,
     "keywords": [
       "jxnxts/mcp-brasil"
     ]
@@ -26234,7 +26242,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 747,
+    "peak_score": 753,
     "keywords": [
       "marswaveai/typeno"
     ]
@@ -26720,7 +26728,8 @@
       "2026-03-29"
     ],
     "sources": [
-      "product_hunt"
+      "product_hunt",
+      "devto"
     ],
     "peak_score": 0,
     "keywords": [
@@ -26812,7 +26821,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 2080,
+    "peak_score": 2826,
     "keywords": [
       "larksuite/cli"
     ]
@@ -27037,7 +27046,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 42,
+    "peak_score": 51,
     "keywords": [
       "finally",
       "everyone",
@@ -27123,7 +27132,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 847,
+    "peak_score": 1254,
     "keywords": [
       "battles",
       "companies",
@@ -27142,7 +27151,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 257,
+    "peak_score": 435,
     "keywords": [
       "doomed"
     ]
@@ -27157,7 +27166,7 @@
       "hacker_news",
       "techcrunch"
     ],
-    "peak_score": 582,
+    "peak_score": 723,
     "keywords": [
       "overly",
       "advice",
@@ -27176,7 +27185,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 71,
+    "peak_score": 134,
     "keywords": [
       "motorola",
       "processors",
@@ -27193,7 +27202,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 179,
+    "peak_score": 240,
     "keywords": [
       "problem",
       "human",
@@ -27216,7 +27225,7 @@
       "hacker_news",
       "lobsters"
     ],
-    "peak_score": 453,
+    "peak_score": 589,
     "keywords": [
       "white",
       "house's",
@@ -27287,7 +27296,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 73,
+    "peak_score": 186,
     "keywords": [
       "disease",
       "alzheimer's",
@@ -27451,7 +27460,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 732,
+    "peak_score": 822,
     "keywords": [
       "oaker-io/wewrite"
     ]
@@ -27465,7 +27474,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 681,
+    "peak_score": 744,
     "keywords": [
       "michaelliv/markit"
     ]
@@ -27479,7 +27488,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 679,
+    "peak_score": 721,
     "keywords": [
       "nomadamas/k-skill"
     ]
@@ -27493,7 +27502,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 654,
+    "peak_score": 794,
     "keywords": [
       "facebookresearch/tribev2"
     ]
@@ -27571,7 +27580,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 17,
+    "peak_score": 29,
     "keywords": [
       "beaver",
       "(yes,",
@@ -27729,7 +27738,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 0,
+    "peak_score": 2,
     "keywords": [
       "with",
       "should",
@@ -27751,7 +27760,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 6,
+    "peak_score": 13,
     "keywords": [
       "faster",
       "virtualization",
@@ -27771,7 +27780,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 8,
+    "peak_score": 23,
     "keywords": [
       "legacy",
       "misery",
@@ -27787,7 +27796,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 13,
+    "peak_score": 22,
     "keywords": [
       "cellular",
       "services",
@@ -27804,7 +27813,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 1,
+    "peak_score": 13,
     "keywords": [
       "save",
       "libeatmydata",
@@ -27821,13 +27830,455 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 1,
+    "peak_score": 15,
     "keywords": [
       "platform",
       "takes",
       "alienchow",
       "engineer",
       "from"
+    ]
+  },
+  "overestimation of microplastics potentially caused by scientists' gloves": {
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29",
+    "seen_dates": [
+      "2026-03-29"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 352,
+    "keywords": [
+      "microplastics",
+      "potentially",
+      "overestimation",
+      "gloves",
+      "caused",
+      "scientists'"
+    ]
+  },
+  "miasma: a tool to trap ai web scrapers in an endless poison pit": {
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29",
+    "seen_dates": [
+      "2026-03-29"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 177,
+    "keywords": [
+      "tool",
+      "trap",
+      "poison",
+      "miasma:",
+      "scrapers",
+      "endless"
+    ]
+  },
+  "police used ai facial recognition to wrongly arrest tn woman for crimes in nd": {
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29",
+    "seen_dates": [
+      "2026-03-29"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 86,
+    "keywords": [
+      "woman",
+      "facial",
+      "recognition",
+      "arrest",
+      "crimes",
+      "wrongly",
+      "police",
+      "used"
+    ]
+  },
+  "technology: the (nearly) perfect usb cable tester does exist": {
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29",
+    "seen_dates": [
+      "2026-03-29"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 186,
+    "keywords": [
+      "perfect",
+      "does",
+      "tester",
+      "exist",
+      "(nearly)",
+      "cable",
+      "technology:"
+    ]
+  },
+  "linkedin uses 2.4 gb ram across two tabs": {
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29",
+    "seen_dates": [
+      "2026-03-29"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 247,
+    "keywords": [
+      "tabs",
+      "linkedin",
+      "uses",
+      "across"
+    ]
+  },
+  "i turned my kindle into my own personal newspaper": {
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29",
+    "seen_dates": [
+      "2026-03-29"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 120,
+    "keywords": [
+      "personal",
+      "newspaper",
+      "kindle",
+      "into",
+      "turned"
+    ]
+  },
+  "a verilog to factorio compiler and simulator (working risc-v cpu)": {
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29",
+    "seen_dates": [
+      "2026-03-29"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 127,
+    "keywords": [
+      "(working",
+      "risc-v",
+      "cpu)",
+      "factorio",
+      "verilog",
+      "compiler",
+      "simulator"
+    ]
+  },
+  "what if ai doesn't need more ram but better math?": {
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29",
+    "seen_dates": [
+      "2026-03-29"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 128,
+    "keywords": [
+      "math?",
+      "more",
+      "what",
+      "better",
+      "need",
+      "doesn't"
+    ]
+  },
+  "a laser-based process that enables adhesive-free paper packaging": {
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29",
+    "seen_dates": [
+      "2026-03-29"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 114,
+    "keywords": [
+      "adhesive-free",
+      "process",
+      "packaging",
+      "that",
+      "laser-based",
+      "paper",
+      "enables"
+    ]
+  },
+  "clico": {
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29",
+    "seen_dates": [
+      "2026-03-29"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "clico"
+    ]
+  },
+  "pensieve": {
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29",
+    "seen_dates": [
+      "2026-03-29"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "pensieve"
+    ]
+  },
+  "guideyou": {
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29",
+    "seen_dates": [
+      "2026-03-29"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "guideyou"
+    ]
+  },
+  "sheet ninja": {
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29",
+    "seen_dates": [
+      "2026-03-29"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "sheet",
+      "ninja"
+    ]
+  },
+  "codingprep": {
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29",
+    "seen_dates": [
+      "2026-03-29"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "codingprep"
+    ]
+  },
+  "dipshot": {
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29",
+    "seen_dates": [
+      "2026-03-29"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "dipshot"
+    ]
+  },
+  "genzi": {
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29",
+    "seen_dates": [
+      "2026-03-29"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "genzi"
+    ]
+  },
+  "cline kanban": {
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29",
+    "seen_dates": [
+      "2026-03-29"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "cline",
+      "kanban"
+    ]
+  },
+  "sxsw rebounds as a top networking, ideas festival for founders and vcs": {
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29",
+    "seen_dates": [
+      "2026-03-29"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "rebounds",
+      "founders",
+      "festival",
+      "networking,",
+      "sxsw",
+      "ideas"
+    ]
+  },
+  "stop writing postmessage manually for workers — i built a decorator for that": {
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29",
+    "seen_dates": [
+      "2026-03-29"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 4,
+    "keywords": [
+      "workers",
+      "writing",
+      "decorator",
+      "stop",
+      "built",
+      "that",
+      "manually",
+      "postmessage"
+    ]
+  },
+  "show dev: pressark - talk to your wordpress site instead of clicking through it": {
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29",
+    "seen_dates": [
+      "2026-03-29"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "dev:",
+      "site",
+      "pressark",
+      "clicking",
+      "instead",
+      "wordpress",
+      "through",
+      "your",
+      "talk",
+      "show"
+    ]
+  },
+  "building voice conversations without usage limits: a flutter developer's guide": {
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29",
+    "seen_dates": [
+      "2026-03-29"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "limits:",
+      "guide",
+      "developer's",
+      "without",
+      "flutter",
+      "voice",
+      "building",
+      "conversations",
+      "usage"
+    ]
+  },
+  "what category theory teaches us about dataframes": {
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29",
+    "seen_dates": [
+      "2026-03-29"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 23,
+    "keywords": [
+      "teaches",
+      "category",
+      "about",
+      "dataframes",
+      "what",
+      "theory"
+    ]
+  },
+  "the cognitive dark forest": {
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29",
+    "seen_dates": [
+      "2026-03-29"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 2,
+    "keywords": [
+      "forest",
+      "cognitive",
+      "dark"
+    ]
+  },
+  "heerich.js - a tiny engine for 3d voxel scenes rendered to svg": {
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29",
+    "seen_dates": [
+      "2026-03-29"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 15,
+    "keywords": [
+      "scenes",
+      "tiny",
+      "rendered",
+      "engine",
+      "voxel",
+      "heerich.js"
+    ]
+  },
+  "oneluapro v5.5.0.1 released": {
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29",
+    "seen_dates": [
+      "2026-03-29"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 2,
+    "keywords": [
+      "released",
+      "v5.5.0.1",
+      "oneluapro"
     ]
   }
 }

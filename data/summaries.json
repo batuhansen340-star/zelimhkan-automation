@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-03-03T02:17:38.489070",
-    "commits": 0,
-    "runs": 0,
-    "summary": "Özet oluşturulamadı: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CYfLtmTYv2WRwwmKPqmXF'}"
-  },
-  {
     "date": "2026-03-03T02:31:18.060689",
     "commits": 0,
     "runs": 0,
@@ -178,5 +172,11 @@
     "commits": 0,
     "runs": 0,
     "summary": "# Günlük Geliştirme Özeti\n\n## 1. Bugün Ne Yapıldı\nBugün herhangi bir commit veya kod değişikliği yapılmadı. Geliştirme aktivitesi gözlemlenmedi ve CI/CD pipeline'ları çalıştırılmadı.\n\n## 2. Önemli Değişiklikler\nÖnemli bir değişiklik bulunmuyor.\n\n## 3. Yarın İçin Öneri\nPlanlanan görevlere başlanması ve bekleyen özelliklerin veya hata düzeltmelerinin ele alınması önerilir."
+  },
+  {
+    "date": "2026-03-29T17:23:48.394076",
+    "commits": 0,
+    "runs": 0,
+    "summary": "# Günlük Geliştirme Özeti\n\n## 1. Bugün Ne Yapıldı\nBugün herhangi bir commit kaydı veya GitHub Actions çalıştırması gerçekleşmedi. Geliştirme ekibi aktif kod değişikliği yapmadı veya değişiklikler henüz sisteme yansıtılmadı.\n\n## 2. Önemli Değişiklikler\nKayda değer bir değişiklik bulunmuyor.\n\n## 3. Yarın İçin Öneri\nPlanlanan task'ların durumunu gözden geçirip, bekleyen commit'lerin varsa repository'ye push edilmesi önerilir."
   }
 ]

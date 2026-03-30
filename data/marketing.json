@@ -809,5 +809,34 @@
         }
       ]
     }
+  },
+  {
+    "date": "2026-03-30T06:55:20.426926",
+    "content": {
+      "contents": [
+        {
+          "platform": "twitter",
+          "type": "thread",
+          "content": "Pazartesi sendromu sadece yetişkinlerde değil! 🌅 Çocuğunuz da yeni haftaya heyecansız başlıyorsa, sabah rutinine bir hikaye kahramanı ekleyin.\n\nStoryPal'da çocuğunuz kendi adını taşıyan bir kahramana dönüşüyor. Dişlerini fırçalayan, kahvaltısını yapan bir SÜPER KAHRAMAN! 🦸‍♀️\n\nSabah rutinlerini hikayeleştirerek çocuğunuzun günü pozitif başlamasını sağlayın. Hem eğlenceli hem de motive edici!\n\n📲 App Store'dan ücretsiz deneyin, günde 3 hikaye sizin! #StoryPal #SabahRutini",
+          "hashtags": [
+            "#StoryPal",
+            "#SabahRutini",
+            "#EbeveynlikIpuclari",
+            "#ÇocukGelişimi"
+          ]
+        },
+        {
+          "platform": "instagram",
+          "type": "caption",
+          "content": "Pazartesi sabahları artık daha kolay! 💙\n\nYeni haftaya merhaba derken çocuğunuzun motivasyonunu nasıl artırıyorsunuz? \n\nBiz StoryPal'da her sabahı özel kılmanın yolunu bulduk: Çocuğunuzu hikayenin kahramanı yapın! 🌟\n\nUygulamayı açın, çocuğunuzun adını girin ve yapay zeka anında onun için kişiselleştirilmiş bir macera yaratsın. Sabah rutininden okula hazırlığa, her an özel bir hikaye!\n\n✨ Ücretsiz başlayın, günde 3 hikaye hakkınız var\n📱 iOS için App Store'da\n🎨 Her hikayede benzersiz AI görseller\n\nSiz hangi temalı hikayeleri tercih ediyorsunuz? Yorumlarda paylaşın! 👇\n\n#StoryPal #KisisellestirilmisHikaye #EbeveynlikGunlugu #ÇocukHikayeleri #AileZamani #PazartesiMotivasyonu #DigitalEbeveynlik",
+          "visual_idea": "Bir çocuğun sabah rutinini yapan mutlu görüntüsü (dişlerini fırçalama, kahvaltı) + ekranda StoryPal uygulamasından çocuğun kahramanı olduğu bir hikaye görseli. Split-screen veya collage tarzı. Yumuşak, sıcak sabah ışığında çekilmiş, pozitif enerji veren bir kompozisyon."
+        },
+        {
+          "platform": "blog",
+          "type": "outline",
+          "content": "Blog Başlığı: 'Pazartesi Sendromuna Son: Çocuklarla Yeni Haftaya Nasıl Keyifle Başlanır?'\n\nÖzet Maddeleri:\n1. Pazartesi sabahlarının çocuklar üzerindeki psikolojik etkileri ve hafta başı motivasyon düşüklüğünün nedenleri - Uzman görüşleri ve istatistiklerle desteklenen bilgiler\n\n2. Sabah rutinlerini eğlenceli hale getirmenin 7 pratik yolu - Hikaye anlatımı, oyunlaştırma, görsel takvimler ve kişiselleştirilmiş içeriklerle çocuğunuzun haftaya nasıl pozitif başlayacağına dair ipuçları\n\n3. Teknolojinin olumlu kullanımı: StoryPal gibi araçlarla çocukların hayal gücünü geliştirmek - Kişiselleştirilmiş hikayelerin çocuk gelişimine katkıları, ekran süresi yönetimi ve kaliteli dijital içerik seçimi\n\nCTA: 'StoryPal'ı ücretsiz indirin ve çocuğunuz için ilk kişiselleştirilmiş hikayeyi bugün oluşturun!'"
+        }
+      ]
+    }
   }
 ]

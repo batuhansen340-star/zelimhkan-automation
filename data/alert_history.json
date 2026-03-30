@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-03-18:Hacker News:Rob Pike’s Rules of Programming (1989)",
-    "title": "Rob Pike’s Rules of Programming (1989)",
-    "score": 788,
-    "source": "Hacker News",
-    "timestamp": "2026-03-18T22:35:50.535973"
-  },
-  {
-    "key": "2026-03-19:Hacker News:Rob Pike’s Rules of Programming (1989)",
-    "title": "Rob Pike’s Rules of Programming (1989)",
-    "score": 881,
-    "source": "Hacker News",
-    "timestamp": "2026-03-19T04:23:22.427677"
-  },
-  {
     "key": "2026-03-19:Hacker News:Nightingale – open-source karaoke app that works with any song on your computer",
     "title": "Nightingale – open-source karaoke app that works with any song on your computer",
     "score": 529,
@@ -698,5 +684,19 @@
     "score": 760,
     "source": "Hacker News",
     "timestamp": "2026-03-30T04:44:29.474361"
+  },
+  {
+    "key": "2026-03-30:Hacker News:ChatGPT won't let you type until Cloudflare reads your React state",
+    "title": "ChatGPT won't let you type until Cloudflare reads your React state",
+    "score": 563,
+    "source": "Hacker News",
+    "timestamp": "2026-03-30T07:46:01.336972"
+  },
+  {
+    "key": "2026-03-30:Hacker News:Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
+    "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
+    "score": 506,
+    "source": "Hacker News",
+    "timestamp": "2026-03-30T07:46:01.336988"
   }
 ]

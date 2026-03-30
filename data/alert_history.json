@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-03-18:Hacker News:Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
-    "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
-    "score": 751,
-    "source": "Hacker News",
-    "timestamp": "2026-03-18T07:04:32.474530"
-  },
-  {
-    "key": "2026-03-18:Hacker News:Mistral AI Releases Forge",
-    "title": "Mistral AI Releases Forge",
-    "score": 614,
-    "source": "Hacker News",
-    "timestamp": "2026-03-18T14:55:57.150129"
-  },
-  {
-    "key": "2026-03-18:Hacker News:Have a fucking website",
-    "title": "Have a fucking website",
-    "score": 654,
-    "source": "Hacker News",
-    "timestamp": "2026-03-18T14:55:57.150149"
-  },
-  {
-    "key": "2026-03-18:Hacker News:Rob Pike's Rules of Programming (1989)",
-    "title": "Rob Pike's Rules of Programming (1989)",
-    "score": 631,
-    "source": "Hacker News",
-    "timestamp": "2026-03-18T18:44:05.748832"
-  },
-  {
     "key": "2026-03-18:Hacker News:Rob Pike’s Rules of Programming (1989)",
     "title": "Rob Pike’s Rules of Programming (1989)",
     "score": 788,
@@ -698,5 +670,33 @@
     "score": 543,
     "source": "Hacker News",
     "timestamp": "2026-03-29T22:34:53.850039"
+  },
+  {
+    "key": "2026-03-30:Hacker News:LinkedIn uses 2.4 GB RAM across two tabs",
+    "title": "LinkedIn uses 2.4 GB RAM across two tabs",
+    "score": 658,
+    "source": "Hacker News",
+    "timestamp": "2026-03-30T04:44:29.474336"
+  },
+  {
+    "key": "2026-03-30:Hacker News:Nitrile and latex gloves may cause overestimation of microplastics",
+    "title": "Nitrile and latex gloves may cause overestimation of microplastics",
+    "score": 529,
+    "source": "Hacker News",
+    "timestamp": "2026-03-30T04:44:29.474350"
+  },
+  {
+    "key": "2026-03-30:Hacker News:Founder of GitLab battles cancer by founding companies",
+    "title": "Founder of GitLab battles cancer by founding companies",
+    "score": 1343,
+    "source": "Hacker News",
+    "timestamp": "2026-03-30T04:44:29.474356"
+  },
+  {
+    "key": "2026-03-30:Hacker News:AI overly affirms users asking for personal advice",
+    "title": "AI overly affirms users asking for personal advice",
+    "score": 760,
+    "source": "Hacker News",
+    "timestamp": "2026-03-30T04:44:29.474361"
   }
 ]

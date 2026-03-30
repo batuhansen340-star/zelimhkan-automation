@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-03-19:Hacker News:Nightingale – open-source karaoke app that works with any song on your computer",
-    "title": "Nightingale – open-source karaoke app that works with any song on your computer",
-    "score": 529,
-    "source": "Hacker News",
-    "timestamp": "2026-03-19T04:23:22.427699"
-  },
-  {
     "key": "2026-03-19:Hacker News:Mistral AI Releases Forge",
     "title": "Mistral AI Releases Forge",
     "score": 707,
@@ -698,5 +691,12 @@
     "score": 506,
     "source": "Hacker News",
     "timestamp": "2026-03-30T07:46:01.336988"
+  },
+  {
+    "key": "2026-03-30:Hacker News:Copilot edited an ad into my PR",
+    "title": "Copilot edited an ad into my PR",
+    "score": 623,
+    "source": "Hacker News",
+    "timestamp": "2026-03-30T10:52:04.797539"
   }
 ]

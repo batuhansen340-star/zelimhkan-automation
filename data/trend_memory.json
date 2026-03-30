@@ -815,7 +815,7 @@
   },
   "what are you doing this week?": {
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-28",
+    "last_seen": "2026-03-30",
     "seen_dates": [
       "2026-03-16",
       "2026-03-17",
@@ -824,7 +824,8 @@
       "2026-03-23",
       "2026-03-24",
       "2026-03-27",
-      "2026-03-28"
+      "2026-03-28",
+      "2026-03-30"
     ],
     "sources": [
       "lobsters",
@@ -1003,16 +1004,18 @@
   },
   "i built a vs code extension that lets you chat with your database - everything runs locally": {
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-28",
+    "last_seen": "2026-03-30",
     "seen_dates": [
       "2026-03-16",
       "2026-03-27",
-      "2026-03-28"
+      "2026-03-28",
+      "2026-03-30"
     ],
     "sources": [
-      "devto"
+      "devto",
+      "lobsters"
     ],
-    "peak_score": 3,
+    "peak_score": 5,
     "keywords": [
       "with",
       "your",
@@ -2764,13 +2767,14 @@
   },
   "humanities in the machine": {
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-24",
+    "last_seen": "2026-03-30",
     "seen_dates": [
       "2026-03-16",
       "2026-03-18",
       "2026-03-19",
       "2026-03-20",
-      "2026-03-24"
+      "2026-03-24",
+      "2026-03-30"
     ],
     "sources": [
       "lobsters",
@@ -4562,12 +4566,14 @@
   },
   "i built an ai agent that writes my daily standup in notion automatically": {
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-03-30",
     "seen_dates": [
-      "2026-03-16"
+      "2026-03-16",
+      "2026-03-30"
     ],
     "sources": [
-      "devto"
+      "devto",
+      "product_hunt"
     ],
     "peak_score": 5,
     "keywords": [
@@ -5877,13 +5883,14 @@
   },
   "kagi small web": {
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-30",
     "seen_dates": [
       "2026-03-17",
       "2026-03-18",
       "2026-03-19",
       "2026-03-26",
-      "2026-03-27"
+      "2026-03-27",
+      "2026-03-30"
     ],
     "sources": [
       "hacker_news",
@@ -6047,12 +6054,14 @@
   },
   "gummy geometry": {
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17",
+    "last_seen": "2026-03-30",
     "seen_dates": [
-      "2026-03-17"
+      "2026-03-17",
+      "2026-03-30"
     ],
     "sources": [
-      "hacker_news"
+      "hacker_news",
+      "arxiv"
     ],
     "peak_score": 52,
     "keywords": [
@@ -7467,9 +7476,10 @@
   },
   "demystifing video reasoning": {
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18",
+    "last_seen": "2026-03-30",
     "seen_dates": [
-      "2026-03-18"
+      "2026-03-18",
+      "2026-03-30"
     ],
     "sources": [
       "arxiv"
@@ -9306,12 +9316,14 @@
   },
   "anki on my wrist": {
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-19",
+    "last_seen": "2026-03-30",
     "seen_dates": [
-      "2026-03-19"
+      "2026-03-19",
+      "2026-03-30"
     ],
     "sources": [
-      "devto"
+      "devto",
+      "arxiv"
     ],
     "peak_score": 6,
     "keywords": [
@@ -13116,9 +13128,10 @@
   },
   "do not turn child protection into internet access control": {
     "first_seen": "2026-03-22",
-    "last_seen": "2026-03-22",
+    "last_seen": "2026-03-30",
     "seen_dates": [
-      "2026-03-22"
+      "2026-03-22",
+      "2026-03-30"
     ],
     "sources": [
       "hacker_news"
@@ -19800,7 +19813,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 2550,
+    "peak_score": 2775,
     "keywords": [
       "hkuds/openspace"
     ]
@@ -20661,12 +20674,14 @@
   },
   "freecad v1.1": {
     "first_seen": "2026-03-26",
-    "last_seen": "2026-03-26",
+    "last_seen": "2026-03-30",
     "seen_dates": [
-      "2026-03-26"
+      "2026-03-26",
+      "2026-03-30"
     ],
     "sources": [
-      "hacker_news"
+      "hacker_news",
+      "product_hunt"
     ],
     "peak_score": 212,
     "keywords": [
@@ -20785,7 +20800,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 857,
+    "peak_score": 863,
     "keywords": [
       "limhyungtae/awesome-phd-cv"
     ]
@@ -21913,7 +21928,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 994,
+    "peak_score": 1017,
     "keywords": [
       "nashsu/opencli-rs"
     ]
@@ -21931,7 +21946,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 1950,
+    "peak_score": 2014,
     "keywords": [
       "alvinunreal/awesome-opensource-ai"
     ]
@@ -23294,13 +23309,15 @@
   },
   "vega: learning to drive with natural language instructions": {
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-28",
+    "last_seen": "2026-03-30",
     "seen_dates": [
       "2026-03-27",
-      "2026-03-28"
+      "2026-03-28",
+      "2026-03-30"
     ],
     "sources": [
-      "arxiv"
+      "arxiv",
+      "product_hunt"
     ],
     "peak_score": 0,
     "keywords": [
@@ -23730,7 +23747,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 2442,
+    "peak_score": 2485,
     "keywords": [
       "magnum6actual/flipoff"
     ]
@@ -24638,7 +24655,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 2046,
+    "peak_score": 2173,
     "keywords": [
       "elder-plinius/g0dm0d3"
     ]
@@ -24654,7 +24671,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 882,
+    "peak_score": 916,
     "keywords": [
       "jxnxts/mcp-brasil"
     ]
@@ -25251,7 +25268,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 3806,
+    "peak_score": 4578,
     "keywords": [
       "larksuite/cli"
     ]
@@ -25898,7 +25915,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 877,
+    "peak_score": 926,
     "keywords": [
       "oaker-io/wewrite"
     ]
@@ -25913,7 +25930,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 795,
+    "peak_score": 839,
     "keywords": [
       "michaelliv/markit"
     ]
@@ -25943,7 +25960,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 934,
+    "peak_score": 1005,
     "keywords": [
       "facebookresearch/tribev2"
     ]
@@ -26745,9 +26762,10 @@
       "2026-03-30"
     ],
     "sources": [
-      "hacker_news"
+      "hacker_news",
+      "lobsters"
     ],
-    "peak_score": 159,
+    "peak_score": 1197,
     "keywords": [
       "into",
       "copilot",
@@ -26761,9 +26779,10 @@
       "2026-03-30"
     ],
     "sources": [
-      "hacker_news"
+      "hacker_news",
+      "lobsters"
     ],
-    "peak_score": 461,
+    "peak_score": 880,
     "keywords": [
       "cloudflare",
       "until",
@@ -26785,7 +26804,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 460,
+    "peak_score": 635,
     "keywords": [
       "memory",
       "tape",
@@ -26804,7 +26823,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 166,
+    "peak_score": 367,
     "keywords": [
       "next",
       "philly",
@@ -26825,7 +26844,7 @@
     "sources": [
       "hacker_news"
     ],
-    "peak_score": 257,
+    "peak_score": 358,
     "keywords": [
       "library",
       "typescript",
@@ -26846,7 +26865,7 @@
       "hacker_news",
       "lobsters"
     ],
-    "peak_score": 201,
+    "peak_score": 292,
     "keywords": [
       "trip",
       "standards",
@@ -26990,7 +27009,7 @@
     "sources": [
       "github"
     ],
-    "peak_score": 909,
+    "peak_score": 1246,
     "keywords": [
       "qiuzhi2046/qclaw"
     ]
@@ -27119,7 +27138,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 12,
+    "peak_score": 25,
     "keywords": [
       "deserves",
       "notion",
@@ -27140,7 +27159,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 1,
+    "peak_score": 3,
     "keywords": [
       "building",
       "notion",
@@ -27159,7 +27178,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 0,
+    "peak_score": 2,
     "keywords": [
       "layer",
       "agentic",
@@ -27177,7 +27196,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 1,
+    "peak_score": 3,
     "keywords": [
       "just",
       "stability,",
@@ -27216,7 +27235,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 0,
+    "peak_score": 1,
     "keywords": [
       "mock",
       "returns",
@@ -27235,7 +27254,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 0,
+    "peak_score": 5,
     "keywords": [
       "where",
       "pursuing",
@@ -27295,7 +27314,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 10,
+    "peak_score": 11,
     "keywords": [
       "system",
       "keep_as",
@@ -27314,7 +27333,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 1,
+    "peak_score": 4,
     "keywords": [
       "notion",
       "journaling",
@@ -27334,7 +27353,7 @@
     "sources": [
       "devto"
     ],
-    "peak_score": 0,
+    "peak_score": 2,
     "keywords": [
       "lambda,",
       "step",
@@ -27356,7 +27375,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 28,
+    "peak_score": 45,
     "keywords": [
       "hiring?",
       "who's",
@@ -27372,7 +27391,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 1,
+    "peak_score": 29,
     "keywords": [
       "controller",
       "steam",
@@ -27409,7 +27428,7 @@
     "sources": [
       "lobsters"
     ],
-    "peak_score": 2,
+    "peak_score": 33,
     "keywords": [
       "forking",
       "(waterfox)",
@@ -27431,6 +27450,1006 @@
       "54831",
       "oscilloscopes",
       "agilent"
+    ]
+  },
+  "parrots pack twice as many neurons as primate brains of the same mass": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 178,
+    "keywords": [
+      "many",
+      "same",
+      "twice",
+      "pack",
+      "brains",
+      "neurons",
+      "parrots",
+      "primate",
+      "mass"
+    ]
+  },
+  "codingfont: a game to help you pick a coding font": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 53,
+    "keywords": [
+      "codingfont:",
+      "game",
+      "pick",
+      "help",
+      "coding",
+      "font"
+    ]
+  },
+  "\"over 1.5 million github prs have had ads injected into them by copilot\"": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 189,
+    "keywords": [
+      "million",
+      "injected",
+      "\"over",
+      "github",
+      "copilot\"",
+      "into",
+      "have",
+      "them"
+    ]
+  },
+  "mathematical methods and human thought in the age of ai": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 137,
+    "keywords": [
+      "mathematical",
+      "methods",
+      "human",
+      "thought"
+    ]
+  },
+  "72% of the dollar's purchasing power was destroyed in just four episodes": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 121,
+    "keywords": [
+      "destroyed",
+      "purchasing",
+      "episodes",
+      "dollar's",
+      "four",
+      "just",
+      "power"
+    ]
+  },
+  "ftc action against match and okcupid for deceiving users, sharing personal data": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 52,
+    "keywords": [
+      "against",
+      "sharing",
+      "okcupid",
+      "action",
+      "data",
+      "users,",
+      "deceiving",
+      "personal",
+      "match"
+    ]
+  },
+  "the curious case of retro demo scene graphics": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 298,
+    "keywords": [
+      "case",
+      "scene",
+      "retro",
+      "graphics",
+      "demo",
+      "curious"
+    ]
+  },
+  "i use excalidraw to manage my diagrams for my blog": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 203,
+    "keywords": [
+      "blog",
+      "excalidraw",
+      "manage",
+      "diagrams"
+    ]
+  },
+  "hamilton-jacobi-bellman equation: reinforcement learning and diffusion models": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 115,
+    "keywords": [
+      "reinforcement",
+      "models",
+      "equation:",
+      "hamilton-jacobi-bellman",
+      "diffusion",
+      "learning"
+    ]
+  },
+  "i am definitely missing the pre-ai writing era": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 85,
+    "keywords": [
+      "definitely",
+      "writing",
+      "missing",
+      "pre-ai"
+    ]
+  },
+  "spring boot done right: lessons from a 400-module codebase": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 63,
+    "keywords": [
+      "400-module",
+      "done",
+      "right:",
+      "from",
+      "boot",
+      "lessons",
+      "spring",
+      "codebase"
+    ]
+  },
+  "vhdl's crown jewel": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 115,
+    "keywords": [
+      "vhdl's",
+      "jewel",
+      "crown"
+    ]
+  },
+  "douglas lenat's automated mathematician source code": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 58,
+    "keywords": [
+      "douglas",
+      "code",
+      "automated",
+      "lenat's",
+      "source",
+      "mathematician"
+    ]
+  },
+  "hardware image compression": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "hacker_news"
+    ],
+    "peak_score": 54,
+    "keywords": [
+      "hardware",
+      "image",
+      "compression"
+    ]
+  },
+  "aispace": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "aispace"
+    ]
+  },
+  "bluor ai": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "bluor"
+    ]
+  },
+  "letterbook": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "letterbook"
+    ]
+  },
+  "goals": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "goals"
+    ]
+  },
+  "invoke": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "invoke"
+    ]
+  },
+  "blood sugar journal": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "blood",
+      "sugar",
+      "journal"
+    ]
+  },
+  "poptask": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "product_hunt"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "poptask"
+    ]
+  },
+  "thetom/turboquant_plus": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 1152,
+    "keywords": [
+      "thetom/turboquant_plus"
+    ]
+  },
+  "yetone/voice-input-src": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 989,
+    "keywords": [
+      "yetone/voice-input-src"
+    ]
+  },
+  "wecomteam/wecom-cli": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "github"
+    ],
+    "peak_score": 886,
+    "keywords": [
+      "wecomteam/wecom-cli"
+    ]
+  },
+  "apple will hide your email address from apps and websites, but not cops": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "your",
+      "cops",
+      "websites,",
+      "hide",
+      "from",
+      "apple",
+      "apps",
+      "will",
+      "email",
+      "address"
+    ]
+  },
+  "uber is buying berlin startup blacklane to bolster its ‘elite’ offering": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "startup",
+      "offering",
+      "blacklane",
+      "bolster",
+      "uber",
+      "buying",
+      "‘elite’",
+      "berlin"
+    ]
+  },
+  "mantis biotech is making ‘digital twins’ of humans to help solve medicine’s data availability problem": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "availability",
+      "medicine’s",
+      "problem",
+      "making",
+      "solve",
+      "twins’",
+      "data",
+      "help",
+      "mantis",
+      "‘digital",
+      "humans",
+      "biotech"
+    ]
+  },
+  "scaleops raises $130m to improve computing efficiency amid ai demand": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "computing",
+      "scaleops",
+      "efficiency",
+      "amid",
+      "raises",
+      "demand",
+      "$130m",
+      "improve"
+    ]
+  },
+  "ai chip startup rebellions raises $400 million at $2.3b valuation in pre-ipo round": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "million",
+      "startup",
+      "chip",
+      "raises",
+      "rebellions",
+      "round",
+      "valuation",
+      "pre-ipo",
+      "$2.3b",
+      "$400"
+    ]
+  },
+  "mistral ai raises $830m in debt to set up a data center near paris": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "center",
+      "raises",
+      "near",
+      "paris",
+      "data",
+      "mistral",
+      "$830m",
+      "debt"
+    ]
+  },
+  "qodo raises $70m for code verification as ai coding scales": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "scales",
+      "code",
+      "qodo",
+      "raises",
+      "verification",
+      "coding",
+      "$70m"
+    ]
+  },
+  "starcloud raises $170 million series a to build data centers in space": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "techcrunch"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "million",
+      "series",
+      "raises",
+      "$170",
+      "space",
+      "data",
+      "starcloud",
+      "centers",
+      "build"
+    ]
+  },
+  "when debugging became belonging: what nearly 15 years of helping developers taught me": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 177,
+    "keywords": [
+      "debugging",
+      "what",
+      "nearly",
+      "taught",
+      "years",
+      "became",
+      "helping",
+      "developers",
+      "belonging:",
+      "when"
+    ]
+  },
+  "why sse for ai agents keeps breaking at 2am": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 3,
+    "keywords": [
+      "keeps",
+      "breaking",
+      "agents"
+    ]
+  },
+  "pantry & plate: an ai kitchen assistant that actually knows what's expiring tomorrow": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 3,
+    "keywords": [
+      "assistant",
+      "knows",
+      "that",
+      "kitchen",
+      "actually",
+      "what's",
+      "tomorrow",
+      "plate:",
+      "expiring",
+      "pantry"
+    ]
+  },
+  "safebrowse: a trust layer for ai browser agents (prevent prompt injection & data exfiltration)": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "devto"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "browser",
+      "layer",
+      "exfiltration)",
+      "injection",
+      "prompt",
+      "trust",
+      "(prevent",
+      "agents",
+      "data",
+      "safebrowse:"
+    ]
+  },
+  "okapi, or “what if ripgrep could edit?”": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 42,
+    "keywords": [
+      "edit?”",
+      "ripgrep",
+      "“what",
+      "could",
+      "okapi,"
+    ]
+  },
+  "clojure: the documentary (trailer)": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 31,
+    "keywords": [
+      "(trailer)",
+      "clojure:",
+      "documentary"
+    ]
+  },
+  "uvwatauavawh, the pushy string": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 19,
+    "keywords": [
+      "string",
+      "uvwatauavawh,",
+      "pushy"
+    ]
+  },
+  "your job isn't programming": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 4,
+    "keywords": [
+      "programming",
+      "your",
+      "isn't"
+    ]
+  },
+  "numpy as synth engine": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 4,
+    "keywords": [
+      "engine",
+      "synth",
+      "numpy"
+    ]
+  },
+  "2026 has been the most pivotal year in my career… and it's only march": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "lobsters"
+    ],
+    "peak_score": 4,
+    "keywords": [
+      "been",
+      "march",
+      "pivotal",
+      "only",
+      "2026",
+      "year",
+      "it's",
+      "most",
+      "career…"
+    ]
+  },
+  "podcast üretim sürecini hızlandıran yapay zeka platformu: createwise": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "podcast",
+      "sürecini",
+      "yapay",
+      "zeka",
+      "createwise",
+      "üretim",
+      "hızlandıran",
+      "platformu:"
+    ]
+  },
+  "bluesky'dan kendi algoritmanızı oluşturmanızı sağlayan yapay zeka asistanı: attie": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "algoritmanızı",
+      "asistanı:",
+      "kendi",
+      "yapay",
+      "zeka",
+      "attie",
+      "sağlayan",
+      "bluesky'dan",
+      "oluşturmanızı"
+    ]
+  },
+  "claude'un ücretli abonelikleri, bu yıl iki katından fazla arttı": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "katından",
+      "abonelikleri,",
+      "fazla",
+      "ücretli",
+      "claude'un",
+      "arttı"
+    ]
+  },
+  "yapay zeka şirketi mistral ai, 830 milyon dolar borç finansmanı sağladı": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "milyon",
+      "zeka",
+      "şirketi",
+      "yapay",
+      "finansmanı",
+      "dolar",
+      "sağladı",
+      "mistral",
+      "borç"
+    ]
+  },
+  "xai'ın son iki kurucu ortağı da şirketten ayrıldı": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "webrazzi"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "ortağı",
+      "kurucu",
+      "şirketten",
+      "xai'ın",
+      "ayrıldı"
+    ]
+  },
+  "tunable soft equivariance with guarantees": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "arxiv"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "equivariance",
+      "with",
+      "guarantees",
+      "soft",
+      "tunable"
+    ]
+  },
+  "vision2web: a hierarchical benchmark for visual website development with agent verification": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "arxiv"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "agent",
+      "benchmark",
+      "hierarchical",
+      "development",
+      "with",
+      "vision2web:",
+      "website",
+      "verification",
+      "visual"
+    ]
+  },
+  "an lp-based sampling policy for multi-armed bandits with side-observations and stochastic availability": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "arxiv"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "sampling",
+      "availability",
+      "stochastic",
+      "lp-based",
+      "with",
+      "side-observations",
+      "bandits",
+      "multi-armed",
+      "policy"
+    ]
+  },
+  "automatic laplace collapsed sampling: scalable marginalisation of latent parameters via automatic differentiation": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "arxiv"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "collapsed",
+      "parameters",
+      "automatic",
+      "differentiation",
+      "latent",
+      "sampling:",
+      "scalable",
+      "marginalisation",
+      "laplace"
+    ]
+  },
+  "context-specific credibility-aware multimodal fusion with conditional probabilistic circuits": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "arxiv"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "multimodal",
+      "credibility-aware",
+      "with",
+      "conditional",
+      "circuits",
+      "fusion",
+      "probabilistic",
+      "context-specific"
+    ]
+  },
+  "benchmarking tabular foundation models for conditional density estimation in regression": {
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "seen_dates": [
+      "2026-03-30"
+    ],
+    "sources": [
+      "arxiv"
+    ],
+    "peak_score": 0,
+    "keywords": [
+      "estimation",
+      "benchmarking",
+      "models",
+      "regression",
+      "tabular",
+      "conditional",
+      "density",
+      "foundation"
     ]
   }
 }

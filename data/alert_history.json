@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-03-20:Hacker News:“Your frustration is the product”",
-    "title": "“Your frustration is the product”",
-    "score": 508,
-    "source": "Hacker News",
-    "timestamp": "2026-03-20T06:59:18.306402"
-  },
-  {
-    "key": "2026-03-20:Hacker News:ArXiv Declares Independence from Cornell",
-    "title": "ArXiv Declares Independence from Cornell",
-    "score": 500,
-    "source": "Hacker News",
-    "timestamp": "2026-03-20T14:35:36.751096"
-  },
-  {
-    "key": "2026-03-20:Hacker News:ArXiv declares independence from Cornell",
-    "title": "ArXiv declares independence from Cornell",
-    "score": 635,
-    "source": "Hacker News",
-    "timestamp": "2026-03-20T18:33:36.732614"
-  },
-  {
     "key": "2026-03-20:Hacker News:Chuck Norris has died",
     "title": "Chuck Norris has died",
     "score": 501,
@@ -698,5 +677,26 @@
     "score": 578,
     "source": "Hacker News",
     "timestamp": "2026-03-31T14:53:31.477368"
+  },
+  {
+    "key": "2026-03-31:Hacker News:Ollama is now powered by MLX on Apple Silicon in preview",
+    "title": "Ollama is now powered by MLX on Apple Silicon in preview",
+    "score": 573,
+    "source": "Hacker News",
+    "timestamp": "2026-03-31T18:46:12.653564"
+  },
+  {
+    "key": "2026-03-31:Hacker News:Oracle slashes 30k jobs",
+    "title": "Oracle slashes 30k jobs",
+    "score": 665,
+    "source": "Hacker News",
+    "timestamp": "2026-03-31T18:46:12.653577"
+  },
+  {
+    "key": "2026-03-31:Hacker News:GitHub backs down, kills Copilot pull-request ads after backlash",
+    "title": "GitHub backs down, kills Copilot pull-request ads after backlash",
+    "score": 527,
+    "source": "Hacker News",
+    "timestamp": "2026-03-31T18:46:12.653587"
   }
 ]

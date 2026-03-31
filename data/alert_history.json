@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-03-20:Hacker News:Chuck Norris has died",
-    "title": "Chuck Norris has died",
-    "score": 501,
-    "source": "Hacker News",
-    "timestamp": "2026-03-20T18:33:36.732629"
-  },
-  {
     "key": "2026-03-20:Hacker News:I'm OK being left behind, thanks",
     "title": "I'm OK being left behind, thanks",
     "score": 683,
@@ -698,5 +691,12 @@
     "score": 527,
     "source": "Hacker News",
     "timestamp": "2026-03-31T18:46:12.653587"
+  },
+  {
+    "key": "2026-03-31:Hacker News:The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+    "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+    "score": 529,
+    "source": "Hacker News",
+    "timestamp": "2026-03-31T22:37:21.431352"
   }
 ]

@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-03-20:Hacker News:Google details new 24-hour process to sideload unverified Android apps",
-    "title": "Google details new 24-hour process to sideload unverified Android apps",
-    "score": 596,
-    "source": "Hacker News",
-    "timestamp": "2026-03-20T04:13:44.267965"
-  },
-  {
-    "key": "2026-03-20:Hacker News:Afroman found not liable in defamation case",
-    "title": "Afroman found not liable in defamation case",
-    "score": 1126,
-    "source": "Hacker News",
-    "timestamp": "2026-03-20T04:13:44.267972"
-  },
-  {
     "key": "2026-03-20:Hacker News:“Your frustration is the product”",
     "title": "“Your frustration is the product”",
     "score": 508,
@@ -698,5 +684,19 @@
     "score": 565,
     "source": "Hacker News",
     "timestamp": "2026-03-31T10:41:48.676125"
+  },
+  {
+    "key": "2026-03-31:Hacker News:Claude Code's source code has been leaked via a map file in their NPM registry",
+    "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+    "score": 833,
+    "source": "Hacker News",
+    "timestamp": "2026-03-31T14:53:31.477357"
+  },
+  {
+    "key": "2026-03-31:Hacker News:Artemis II is not safe to fly",
+    "title": "Artemis II is not safe to fly",
+    "score": 578,
+    "source": "Hacker News",
+    "timestamp": "2026-03-31T14:53:31.477368"
   }
 ]

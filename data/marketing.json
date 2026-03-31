@@ -838,5 +838,35 @@
         }
       ]
     }
+  },
+  {
+    "date": "2026-03-31T06:18:39.373231",
+    "content": {
+      "contents": [
+        {
+          "platform": "twitter",
+          "type": "thread",
+          "content": "Tweet 1: Çocuğunuz 'Bir hikaye daha!' diye ısrar ettiğinde ne yapıyorsunuz? 📚 StoryPal ile her gün yeni bir macera yaratın, bitmeyen hikaye kitabınız artık cebinizde! 🎨\n\nTweet 2: Her çocuk kendi hikayesinin kahramanı olmalı. StoryPal, çocuğunuzun adını, ilgi alanlarını ve hayallerini alıp, özel AI görselleriyle benzersiz hikayeler yaratıyor. ✨\n\nTweet 3: Günde 3 hikaye ücretsiz! Premium'la sınırsız hayal gücü sadece 4.99₺/ay. PDF olarak kaydedin, büyükanne-büyükbabaya gönderin 💌\n\nTweet 4: App Store'dan indirin, çocuğunuzun gözlerindeki o mutluluğu görün! 👉 Bugün deneyin, ilk hikayeniz bizden! 🎁",
+          "hashtags": [
+            "#StoryPal",
+            "#KişiselleştirilmişHikaye",
+            "#ÇocukKitapları",
+            "#EbeveynlikIpuçları",
+            "#AIHikaye"
+          ]
+        },
+        {
+          "platform": "instagram",
+          "type": "caption",
+          "content": "Salı akşamı = Hikaye saati! 📖✨\n\n\"Anne/Baba, ben de hikayede olabilir miyim?\" \n\nİşte tam da bunu yapıyoruz! StoryPal ile çocuğunuz sadece dinlemiyor, hikayenin BAŞ KAHRAMANI oluyor! 🦸‍♀️🦸‍♂️\n\nHayvanat bahçesinde macera mı? Uzayda keşif mi? Denizaltı yolculuğu mu? Çocuğunuzun ilgi alanlarına göre AI sihirli hikayeleri ve görselleri yaratıyor.\n\n💫 Her gece farklı bir dünya\n💫 Çocuğunuzun hayal gücünü besleyin\n💫 Ekran karşısında vakit geçirin ama KALİTELİ\n\nİlk 3 hikaye bedava! App Store'dan indirin, bu akşam deneyin. Çocuğunuzun mutluluğu: paha biçilemez! 💝\n\n#StoryPal #KişiselHikaye #ÇocukGelişimi #EbeveynlikGünlükleri #YatmadanÖnceHikaye #AileZamanı #AIOyuncaklar",
+          "visual_idea": "Tablette/telefonda StoryPal uygulamasını inceleyen 5-6 yaşlarında bir çocuğun mutlu ifadesi, arka planda yumuşak ışıklandırma ile rahat bir yatak odası ortamı. Ekranda çocuğun kendisine benzeyen bir karakter görseli. Sıcak, samimi aile atmosferi."
+        },
+        {
+          "platform": "blog",
+          "type": "outline",
+          "content": "Başlık: 'Çocuklar Neden Kendilerini Hikayelerde Görmek İster? Psikolojik Faydaları'\n\n1. Özgüven Gelişimi: Çocukların hikayelerde kendilerini kahraman olarak görmesi, öz saygı ve kendine güven duygusunu nasıl güçlendirir? Uzman görüşleri ve araştırma sonuçları.\n\n2. Empati ve Duygusal Zeka: Kişiselleştirilmiş hikayelerin çocukların farklı durumları güvenli bir ortamda deneyimlemesine nasıl olanak sağladığı. Duygusal gelişime katkıları.\n\n3. Okuma Alışkanlığı Kazandırma: Kendini hikayede gören çocukların okumaya/dinlemeye olan ilgisinin artması. StoryPal kullanıcı deneyimleri ve ebeveyn geri bildirimleri. CTA: 'Çocuğunuzun hikayesini bugün oluşturun!'"
+        }
+      ]
+    }
   }
 ]

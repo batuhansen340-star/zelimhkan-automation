@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-03-19:Hacker News:Austin’s surge of new housing construction drove down rents",
-    "title": "Austin’s surge of new housing construction drove down rents",
-    "score": 540,
-    "source": "Hacker News",
-    "timestamp": "2026-03-19T10:27:39.742720"
-  },
-  {
-    "key": "2026-03-19:Hacker News:Afroman found not liable in defamation case brought by Ohio cops who raided home",
-    "title": "Afroman found not liable in defamation case brought by Ohio cops who raided home",
-    "score": 562,
-    "source": "Hacker News",
-    "timestamp": "2026-03-19T14:40:41.574357"
-  },
-  {
-    "key": "2026-03-19:Hacker News:Astral to Join OpenAI",
-    "title": "Astral to Join OpenAI",
-    "score": 862,
-    "source": "Hacker News",
-    "timestamp": "2026-03-19T18:41:52.824878"
-  },
-  {
     "key": "2026-03-19:Hacker News:Afroman found not liable in defamation case",
     "title": "Afroman found not liable in defamation case",
     "score": 926,
@@ -698,5 +677,26 @@
     "score": 535,
     "source": "Hacker News",
     "timestamp": "2026-03-30T22:40:09.543910"
+  },
+  {
+    "key": "2026-03-31:Hacker News:How to turn anything into a router",
+    "title": "How to turn anything into a router",
+    "score": 627,
+    "source": "Hacker News",
+    "timestamp": "2026-03-31T04:35:38.263592"
+  },
+  {
+    "key": "2026-03-31:Hacker News:Copilot edited an ad into my PR",
+    "title": "Copilot edited an ad into my PR",
+    "score": 1476,
+    "source": "Hacker News",
+    "timestamp": "2026-03-31T04:35:38.263610"
+  },
+  {
+    "key": "2026-03-31:Hacker News:ChatGPT won't let you type until Cloudflare reads your React state",
+    "title": "ChatGPT won't let you type until Cloudflare reads your React state",
+    "score": 943,
+    "source": "Hacker News",
+    "timestamp": "2026-03-31T04:35:38.263617"
   }
 ]

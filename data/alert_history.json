@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-03-21:Hacker News:Google details new 24-hour process to sideload unverified Android apps",
-    "title": "Google details new 24-hour process to sideload unverified Android apps",
-    "score": 1129,
-    "source": "Hacker News",
-    "timestamp": "2026-03-21T04:05:13.957110"
-  },
-  {
     "key": "2026-03-21:Hacker News:Astral to Join OpenAI",
     "title": "Astral to Join OpenAI",
     "score": 1449,
@@ -698,5 +691,12 @@
     "score": 1932,
     "source": "Hacker News",
     "timestamp": "2026-04-01T04:46:34.609643"
+  },
+  {
+    "key": "2026-04-01:Hacker News:Microsoft: Copilot is for entertainment purposes only",
+    "title": "Microsoft: Copilot is for entertainment purposes only",
+    "score": 509,
+    "source": "Hacker News",
+    "timestamp": "2026-04-01T07:24:39.404462"
   }
 ]

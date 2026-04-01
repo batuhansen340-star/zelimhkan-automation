@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-03-22:Hacker News:Some things just take time",
-    "title": "Some things just take time",
-    "score": 556,
-    "source": "Hacker News",
-    "timestamp": "2026-03-22T04:20:21.691284"
-  },
-  {
     "key": "2026-03-22:Hacker News:Do Not Turn Child Protection into Internet Access Control",
     "title": "Do Not Turn Child Protection into Internet Access Control",
     "score": 560,
@@ -698,5 +691,12 @@
     "score": 503,
     "source": "Hacker News",
     "timestamp": "2026-04-01T18:45:17.877126"
+  },
+  {
+    "key": "2026-04-01:Hacker News:OpenAI closes funding round at an $852B valuation",
+    "title": "OpenAI closes funding round at an $852B valuation",
+    "score": 510,
+    "source": "Hacker News",
+    "timestamp": "2026-04-01T22:40:53.523591"
   }
 ]

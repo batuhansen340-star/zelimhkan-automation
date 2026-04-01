@@ -1,40 +1,5 @@
 [
   {
-    "key": "2026-03-20:Hacker News:I'm OK being left behind, thanks",
-    "title": "I'm OK being left behind, thanks",
-    "score": 683,
-    "source": "Hacker News",
-    "timestamp": "2026-03-20T18:33:36.732643"
-  },
-  {
-    "key": "2026-03-21:Hacker News:OpenCode – Open source AI coding agent",
-    "title": "OpenCode – Open source AI coding agent",
-    "score": 534,
-    "source": "Hacker News",
-    "timestamp": "2026-03-21T04:05:13.957078"
-  },
-  {
-    "key": "2026-03-21:Hacker News:France's aircraft carrier located in real time by Le Monde through fitness app",
-    "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
-    "score": 500,
-    "source": "Hacker News",
-    "timestamp": "2026-03-21T04:05:13.957092"
-  },
-  {
-    "key": "2026-03-21:Hacker News:Delve – Fake Compliance as a Service",
-    "title": "Delve – Fake Compliance as a Service",
-    "score": 589,
-    "source": "Hacker News",
-    "timestamp": "2026-03-21T04:05:13.957099"
-  },
-  {
-    "key": "2026-03-21:Hacker News:ArXiv declares independence from Cornell",
-    "title": "ArXiv declares independence from Cornell",
-    "score": 733,
-    "source": "Hacker News",
-    "timestamp": "2026-03-21T04:05:13.957105"
-  },
-  {
     "key": "2026-03-21:Hacker News:Google details new 24-hour process to sideload unverified Android apps",
     "title": "Google details new 24-hour process to sideload unverified Android apps",
     "score": 1129,
@@ -698,5 +663,40 @@
     "score": 529,
     "source": "Hacker News",
     "timestamp": "2026-03-31T22:37:21.431352"
+  },
+  {
+    "key": "2026-04-01:Hacker News:The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+    "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+    "score": 978,
+    "source": "Hacker News",
+    "timestamp": "2026-04-01T04:46:34.609612"
+  },
+  {
+    "key": "2026-04-01:Hacker News:Axios compromised on NPM – Malicious versions drop remote access trojan",
+    "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
+    "score": 1801,
+    "source": "Hacker News",
+    "timestamp": "2026-04-01T04:46:34.609626"
+  },
+  {
+    "key": "2026-04-01:Hacker News:Ollama is now powered by MLX on Apple Silicon in preview",
+    "title": "Ollama is now powered by MLX on Apple Silicon in preview",
+    "score": 610,
+    "source": "Hacker News",
+    "timestamp": "2026-04-01T04:46:34.609632"
+  },
+  {
+    "key": "2026-04-01:Hacker News:Artemis II is not safe to fly",
+    "title": "Artemis II is not safe to fly",
+    "score": 817,
+    "source": "Hacker News",
+    "timestamp": "2026-04-01T04:46:34.609638"
+  },
+  {
+    "key": "2026-04-01:Hacker News:Claude Code's source code has been leaked via a map file in their NPM registry",
+    "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+    "score": 1932,
+    "source": "Hacker News",
+    "timestamp": "2026-04-01T04:46:34.609643"
   }
 ]

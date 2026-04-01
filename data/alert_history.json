@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-03-21:Hacker News:Our commitment to Windows quality",
-    "title": "Our commitment to Windows quality",
-    "score": 522,
-    "source": "Hacker News",
-    "timestamp": "2026-03-21T10:13:50.182926"
-  },
-  {
     "key": "2026-03-22:Hacker News:Some things just take time",
     "title": "Some things just take time",
     "score": 556,
@@ -698,5 +691,12 @@
     "score": 782,
     "source": "Hacker News",
     "timestamp": "2026-04-01T14:56:33.591082"
+  },
+  {
+    "key": "2026-04-01:Hacker News:A dot a day keeps the clutter away",
+    "title": "A dot a day keeps the clutter away",
+    "score": 503,
+    "source": "Hacker News",
+    "timestamp": "2026-04-01T18:45:17.877126"
   }
 ]

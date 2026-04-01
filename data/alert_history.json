@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-03-21:Hacker News:Astral to Join OpenAI",
-    "title": "Astral to Join OpenAI",
-    "score": 1449,
-    "source": "Hacker News",
-    "timestamp": "2026-03-21T06:49:27.240012"
-  },
-  {
     "key": "2026-03-21:Hacker News:Our commitment to Windows quality",
     "title": "Our commitment to Windows quality",
     "score": 522,
@@ -698,5 +691,12 @@
     "score": 509,
     "source": "Hacker News",
     "timestamp": "2026-04-01T07:24:39.404462"
+  },
+  {
+    "key": "2026-04-01:Hacker News:Claude Code Unpacked : A visual guide",
+    "title": "Claude Code Unpacked : A visual guide",
+    "score": 782,
+    "source": "Hacker News",
+    "timestamp": "2026-04-01T14:56:33.591082"
   }
 ]

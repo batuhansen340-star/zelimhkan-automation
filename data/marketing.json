@@ -1,12 +1,5 @@
 [
   {
-    "date": "2026-03-02T05:57:04.938385",
-    "content": {
-      "contents": [],
-      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CYdjpQU3ncA3ML2r6E6yM'}"
-    }
-  },
-  {
     "date": "2026-03-03T05:55:03.179713",
     "content": {
       "contents": [
@@ -867,6 +860,13 @@
           "content": "Başlık: 'Çocuklar Neden Kendilerini Hikayelerde Görmek İster? Psikolojik Faydaları'\n\n1. Özgüven Gelişimi: Çocukların hikayelerde kendilerini kahraman olarak görmesi, öz saygı ve kendine güven duygusunu nasıl güçlendirir? Uzman görüşleri ve araştırma sonuçları.\n\n2. Empati ve Duygusal Zeka: Kişiselleştirilmiş hikayelerin çocukların farklı durumları güvenli bir ortamda deneyimlemesine nasıl olanak sağladığı. Duygusal gelişime katkıları.\n\n3. Okuma Alışkanlığı Kazandırma: Kendini hikayede gören çocukların okumaya/dinlemeye olan ilgisinin artması. StoryPal kullanıcı deneyimleri ve ebeveyn geri bildirimleri. CTA: 'Çocuğunuzun hikayesini bugün oluşturun!'"
         }
       ]
+    }
+  },
+  {
+    "date": "2026-04-01T06:27:44.049142",
+    "content": {
+      "contents": [],
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZcaRSoyEuwY6ZE5fLTd7'}"
     }
   }
 ]

@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-03-23:Hacker News:Migrating to the EU",
-    "title": "Migrating to the EU",
-    "score": 694,
-    "source": "Hacker News",
-    "timestamp": "2026-03-23T18:39:15.202378"
-  },
-  {
     "key": "2026-03-23:Hacker News:The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
     "title": "The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
     "score": 529,
@@ -698,5 +691,12 @@
     "score": 595,
     "source": "Hacker News",
     "timestamp": "2026-04-02T18:41:25.254174"
+  },
+  {
+    "key": "2026-04-02:Hacker News:LinkedIn is searching your browser extensions",
+    "title": "LinkedIn is searching your browser extensions",
+    "score": 1489,
+    "source": "Hacker News",
+    "timestamp": "2026-04-02T22:35:03.024196"
   }
 ]

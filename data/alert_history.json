@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-03-22:Hacker News:Do Not Turn Child Protection into Internet Access Control",
-    "title": "Do Not Turn Child Protection into Internet Access Control",
-    "score": 560,
-    "source": "Hacker News",
-    "timestamp": "2026-03-22T04:20:21.691297"
-  },
-  {
-    "key": "2026-03-22:Hacker News:OpenCode – Open source AI coding agent",
-    "title": "OpenCode – Open source AI coding agent",
-    "score": 1202,
-    "source": "Hacker News",
-    "timestamp": "2026-03-22T04:20:21.691304"
-  },
-  {
     "key": "2026-03-22:Hacker News:Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
     "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
     "score": 501,
@@ -698,5 +684,19 @@
     "score": 510,
     "source": "Hacker News",
     "timestamp": "2026-04-01T22:40:53.523591"
+  },
+  {
+    "key": "2026-04-02:Hacker News:Live: Artemis II Launch Day Updates",
+    "title": "Live: Artemis II Launch Day Updates",
+    "score": 740,
+    "source": "Hacker News",
+    "timestamp": "2026-04-02T04:29:21.377069"
+  },
+  {
+    "key": "2026-04-02:Hacker News:EmDash – A spiritual successor to WordPress that solves plugin security",
+    "title": "EmDash – A spiritual successor to WordPress that solves plugin security",
+    "score": 510,
+    "source": "Hacker News",
+    "timestamp": "2026-04-02T04:29:21.377093"
   }
 ]

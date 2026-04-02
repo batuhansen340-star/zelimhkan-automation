@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-03-22:Hacker News:Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
-    "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
-    "score": 501,
-    "source": "Hacker News",
-    "timestamp": "2026-03-22T04:20:21.691310"
-  },
-  {
-    "key": "2026-03-22:Hacker News:Tinybox – A powerful computer for deep learning",
-    "title": "Tinybox – A powerful computer for deep learning",
-    "score": 533,
-    "source": "Hacker News",
-    "timestamp": "2026-03-22T14:17:42.196383"
-  },
-  {
     "key": "2026-03-22:Hacker News:Hormuz Minesweeper – Are you tired of winning?",
     "title": "Hormuz Minesweeper – Are you tired of winning?",
     "score": 569,
@@ -698,5 +684,19 @@
     "score": 510,
     "source": "Hacker News",
     "timestamp": "2026-04-02T04:29:21.377093"
+  },
+  {
+    "key": "2026-04-02:Hacker News:Artemis II Launch Day Updates",
+    "title": "Artemis II Launch Day Updates",
+    "score": 928,
+    "source": "Hacker News",
+    "timestamp": "2026-04-02T10:39:33.130386"
+  },
+  {
+    "key": "2026-04-02:Hacker News:Axios compromised on NPM – Malicious versions drop remote access trojan",
+    "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
+    "score": 1915,
+    "source": "Hacker News",
+    "timestamp": "2026-04-02T10:39:33.130414"
   }
 ]

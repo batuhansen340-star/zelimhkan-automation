@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-03-22:Hacker News:Hormuz Minesweeper – Are you tired of winning?",
-    "title": "Hormuz Minesweeper – Are you tired of winning?",
-    "score": 569,
-    "source": "Hacker News",
-    "timestamp": "2026-03-22T18:22:29.767442"
-  },
-  {
-    "key": "2026-03-23:Hacker News:PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
-    "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
-    "score": 508,
-    "source": "Hacker News",
-    "timestamp": "2026-03-23T07:14:33.006407"
-  },
-  {
     "key": "2026-03-23:Hacker News:The future of version control",
     "title": "The future of version control",
     "score": 537,
@@ -698,5 +684,19 @@
     "score": 1915,
     "source": "Hacker News",
     "timestamp": "2026-04-02T10:39:33.130414"
+  },
+  {
+    "key": "2026-04-02:Hacker News:Steam on Linux Use Skyrocketed Above 5% in March",
+    "title": "Steam on Linux Use Skyrocketed Above 5% in March",
+    "score": 568,
+    "source": "Hacker News",
+    "timestamp": "2026-04-02T14:45:28.587541"
+  },
+  {
+    "key": "2026-04-02:Hacker News:DRAM pricing is killing the hobbyist SBC market",
+    "title": "DRAM pricing is killing the hobbyist SBC market",
+    "score": 552,
+    "source": "Hacker News",
+    "timestamp": "2026-04-02T14:45:28.587563"
   }
 ]

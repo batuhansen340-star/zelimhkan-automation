@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-03-23:Hacker News:The future of version control",
-    "title": "The future of version control",
-    "score": 537,
-    "source": "Hacker News",
-    "timestamp": "2026-03-23T10:40:35.290354"
-  },
-  {
-    "key": "2026-03-23:Hacker News:Project Nomad – Knowledge That Never Goes Offline",
-    "title": "Project Nomad – Knowledge That Never Goes Offline",
-    "score": 512,
-    "source": "Hacker News",
-    "timestamp": "2026-03-23T14:48:17.124087"
-  },
-  {
-    "key": "2026-03-23:Hacker News:GrapheneOS will remain usable by anyone without requiring personal information",
-    "title": "GrapheneOS will remain usable by anyone without requiring personal information",
-    "score": 515,
-    "source": "Hacker News",
-    "timestamp": "2026-03-23T14:48:17.124098"
-  },
-  {
     "key": "2026-03-23:Hacker News:Migrating to the EU",
     "title": "Migrating to the EU",
     "score": 694,
@@ -698,5 +677,26 @@
     "score": 552,
     "source": "Hacker News",
     "timestamp": "2026-04-02T14:45:28.587563"
+  },
+  {
+    "key": "2026-04-02:Hacker News:Google releases Gemma 4 open models",
+    "title": "Google releases Gemma 4 open models",
+    "score": 542,
+    "source": "Hacker News",
+    "timestamp": "2026-04-02T18:41:25.254151"
+  },
+  {
+    "key": "2026-04-02:Hacker News:LinkedIn is illegally searching your computer",
+    "title": "LinkedIn is illegally searching your computer",
+    "score": 1224,
+    "source": "Hacker News",
+    "timestamp": "2026-04-02T18:41:25.254168"
+  },
+  {
+    "key": "2026-04-02:Hacker News:Sweden goes back to basics, swapping screens for books in the classroom",
+    "title": "Sweden goes back to basics, swapping screens for books in the classroom",
+    "score": 595,
+    "source": "Hacker News",
+    "timestamp": "2026-04-02T18:41:25.254174"
   }
 ]

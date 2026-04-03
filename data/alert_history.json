@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-03-25:Hacker News:Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
-    "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
-    "score": 556,
-    "source": "Hacker News",
-    "timestamp": "2026-03-25T04:21:06.918843"
-  },
-  {
-    "key": "2026-03-25:Hacker News:Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
-    "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
-    "score": 750,
-    "source": "Hacker News",
-    "timestamp": "2026-03-25T04:21:06.918850"
-  },
-  {
     "key": "2026-03-25:Hacker News:Is anybody else bored of talking about AI?",
     "title": "Is anybody else bored of talking about AI?",
     "score": 592,
@@ -698,5 +684,19 @@
     "score": 503,
     "source": "Hacker News",
     "timestamp": "2026-04-03T14:35:22.204772"
+  },
+  {
+    "key": "2026-04-03:Hacker News:Show HN: Apfel – The free AI already on your Mac",
+    "title": "Show HN: Apfel – The free AI already on your Mac",
+    "score": 557,
+    "source": "Hacker News",
+    "timestamp": "2026-04-03T18:33:16.513405"
+  },
+  {
+    "key": "2026-04-03:Hacker News:Cursor 3",
+    "title": "Cursor 3",
+    "score": 517,
+    "source": "Hacker News",
+    "timestamp": "2026-04-03T18:33:16.513426"
   }
 ]

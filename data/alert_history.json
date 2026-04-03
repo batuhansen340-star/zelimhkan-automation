@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-03-24:Hacker News:Microsoft's \"Fix\" for Windows 11: Flowers After the Beating",
-    "title": "Microsoft's \"Fix\" for Windows 11: Flowers After the Beating",
-    "score": 570,
-    "source": "Hacker News",
-    "timestamp": "2026-03-24T14:50:28.026655"
-  },
-  {
     "key": "2026-03-24:Hacker News:Claude Code Cheat Sheet",
     "title": "Claude Code Cheat Sheet",
     "score": 527,
@@ -698,5 +691,12 @@
     "score": 726,
     "source": "Hacker News",
     "timestamp": "2026-04-03T04:29:41.397168"
+  },
+  {
+    "key": "2026-04-03:Hacker News:Decisions that eroded trust in Azure – by a former Azure Core engineer",
+    "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
+    "score": 624,
+    "source": "Hacker News",
+    "timestamp": "2026-04-03T07:13:00.453375"
   }
 ]

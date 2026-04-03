@@ -1,40 +1,5 @@
 [
   {
-    "key": "2026-03-23:Hacker News:The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
-    "title": "The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
-    "score": 529,
-    "source": "Hacker News",
-    "timestamp": "2026-03-23T18:39:15.202396"
-  },
-  {
-    "key": "2026-03-23:Hacker News:Reports of code's death are greatly exaggerated",
-    "title": "Reports of code's death are greatly exaggerated",
-    "score": 536,
-    "source": "Hacker News",
-    "timestamp": "2026-03-23T18:39:15.202402"
-  },
-  {
-    "key": "2026-03-24:Hacker News:iPhone 17 Pro Demonstrated Running a 400B LLM",
-    "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
-    "score": 523,
-    "source": "Hacker News",
-    "timestamp": "2026-03-24T04:19:50.471418"
-  },
-  {
-    "key": "2026-03-24:Hacker News:Migrating to the EU",
-    "title": "Migrating to the EU",
-    "score": 843,
-    "source": "Hacker News",
-    "timestamp": "2026-03-24T04:19:50.471435"
-  },
-  {
-    "key": "2026-03-24:Hacker News:PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
-    "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
-    "score": 815,
-    "source": "Hacker News",
-    "timestamp": "2026-03-24T04:19:50.471441"
-  },
-  {
     "key": "2026-03-24:Hacker News:Microsoft's \"Fix\" for Windows 11: Flowers After the Beating",
     "title": "Microsoft's \"Fix\" for Windows 11: Flowers After the Beating",
     "score": 570,
@@ -698,5 +663,40 @@
     "score": 1489,
     "source": "Hacker News",
     "timestamp": "2026-04-02T22:35:03.024196"
+  },
+  {
+    "key": "2026-04-03:Hacker News:Google releases Gemma 4 open models",
+    "title": "Google releases Gemma 4 open models",
+    "score": 1242,
+    "source": "Hacker News",
+    "timestamp": "2026-04-03T04:29:41.397128"
+  },
+  {
+    "key": "2026-04-03:Hacker News:LinkedIn is searching your browser extensions",
+    "title": "LinkedIn is searching your browser extensions",
+    "score": 1607,
+    "source": "Hacker News",
+    "timestamp": "2026-04-03T04:29:41.397147"
+  },
+  {
+    "key": "2026-04-03:Hacker News:Sweden goes back to basics, swapping screens for books in the classroom",
+    "title": "Sweden goes back to basics, swapping screens for books in the classroom",
+    "score": 772,
+    "source": "Hacker News",
+    "timestamp": "2026-04-03T04:29:41.397156"
+  },
+  {
+    "key": "2026-04-03:Hacker News:Artemis II Launch Day Updates",
+    "title": "Artemis II Launch Day Updates",
+    "score": 1076,
+    "source": "Hacker News",
+    "timestamp": "2026-04-03T04:29:41.397162"
+  },
+  {
+    "key": "2026-04-03:Hacker News:Steam on Linux Use Skyrocketed Above 5% in March",
+    "title": "Steam on Linux Use Skyrocketed Above 5% in March",
+    "score": 726,
+    "source": "Hacker News",
+    "timestamp": "2026-04-03T04:29:41.397168"
   }
 ]

@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-03-25:Hacker News:Apple Business",
-    "title": "Apple Business",
-    "score": 550,
-    "source": "Hacker News",
-    "timestamp": "2026-03-25T04:21:06.918830"
-  },
-  {
     "key": "2026-03-25:Hacker News:Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
     "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
     "score": 556,
@@ -698,5 +691,12 @@
     "score": 521,
     "source": "Hacker News",
     "timestamp": "2026-04-03T10:31:01.384999"
+  },
+  {
+    "key": "2026-04-03:Hacker News:Tailscale's new macOS home",
+    "title": "Tailscale's new macOS home",
+    "score": 503,
+    "source": "Hacker News",
+    "timestamp": "2026-04-03T14:35:22.204772"
   }
 ]

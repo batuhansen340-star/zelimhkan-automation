@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-03-25:Hacker News:Is anybody else bored of talking about AI?",
-    "title": "Is anybody else bored of talking about AI?",
-    "score": 592,
-    "source": "Hacker News",
-    "timestamp": "2026-03-25T04:21:06.918855"
-  },
-  {
     "key": "2026-03-25:Hacker News:Microsoft's \"fix\" for Windows 11",
     "title": "Microsoft's \"fix\" for Windows 11",
     "score": 938,
@@ -698,5 +691,12 @@
     "score": 517,
     "source": "Hacker News",
     "timestamp": "2026-04-03T18:33:16.513426"
+  },
+  {
+    "key": "2026-04-03:Hacker News:Show HN: I built a frontpage for personal blogs",
+    "title": "Show HN: I built a frontpage for personal blogs",
+    "score": 598,
+    "source": "Hacker News",
+    "timestamp": "2026-04-03T22:37:03.114317"
   }
 ]

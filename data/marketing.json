@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-03-05T05:53:49.230074",
-    "content": {
-      "contents": [
-        {
-          "platform": "twitter",
-          "type": "thread",
-          "content": "Tweet 1: 'Anne bana farklı bir masal anlat!' diyen çocuğunuza her gün yeni bir hikaye sunmanın sırrı: StoryPal 🌟\n\nTweet 2: Çocuğunuz dinozor mu seviyor? Uzay mı? Prensesler mi? StoryPal, onun ilgi alanlarına göre özel hikayeler yaratıyor. Üstelik çocuğunuz hikayenin kahramanı! 🚀👑🦕\n\nTweet 3: Günde 3 hikaye ücretsiz! Premium ile sınırsız hayal gücü. PDF olarak kaydedin, uyku saatinde tekrar tekrar okuyun 📚💜\n\nTweet 4: App Store'dan indirin, çocuğunuzun gözlerindeki o parıltıyı görün ✨ Link bio'da!",
-          "hashtags": [
-            "#StoryPal",
-            "#KişiselleştirilmişHikaye",
-            "#ÇocukHikayeleri",
-            "#AIMasal",
-            "#EbeveynlikTüyoları"
-          ]
-        },
-        {
-          "platform": "instagram",
-          "type": "caption",
-          "content": "Perşembe akşamı geldi, hafta sonu yaklaşıyor 🎉\n\nPeki ya çocuğunuzla kaliteli zaman geçirmenin en yaratıcı yolu? 💭\n\nStoryPal ile birlikte hikaye yaratın! Çocuğunuz karakterleri seçsin, siz birlikte macerayı keşfedin. Her sayfa yeni bir sürpriz, her hikaye çocuğunuzun hayal gücünü besliyor 🌈\n\n✨ AI destekli görseller\n📱 Kullanımı çok kolay\n💾 PDF olarak saklayın\n📊 Çocuğunuzun gelişimini takip edin\n\nBugün 3 hikaye ücretsiz! Hemen deneyin 👆\n\n#StoryPal #ÇocukHikayeleri #KaliteliZaman #AileVakti #YaratıcıÇocuklar #EbeveynlikSerüveni #AIMasal #ÇocukGelişimi #DijitalEbeveynlik",
-          "visual_idea": "Bir ebeveynin tablet/telefonda StoryPal uygulamasını çocuğuyla birlikte izlediği sıcak, samimi bir fotoğraf. Arka planda akşam ışığı, rahat bir ortam. Çocuğun yüzünde heyecan ve merak ifadesi. Ekranda renkli bir hikaye görseli görünüyor."
-        },
-        {
-          "platform": "blog",
-          "type": "outline",
-          "content": "Başlık: Çocuğunuzun Okuma Sevgisini Geliştirmenin 5 Kanıtlanmış Yolu (ve StoryPal Nasıl Yardımcı Olur?)\n\n1. Kişiselleştirme Gücü: Araştırmalar, çocukların kendilerini hikayede gördüklerinde %73 daha fazla ilgi gösterdiğini ortaya koyuyor. StoryPal'ın kişiselleştirilmiş hikayeleri bu ihtiyacı nasıl karşılıyor?\n\n2. Rutin Oluşturmanın Önemi: Günlük hikaye okuma ritmi, çocuğun kelime dağarcığını ve hayal gücünü nasıl geliştiriyor? Ücretsiz 3 hikaye limiti ile başlamanın faydaları.\n\n3. Teknoloji ve Geleneksel Yöntemlerin Dengesi: AI destekli hikayelerin ebeveyn-çocuk etkileşimini nasıl güçlendirdiği, ekran süresini kaliteli içeriğe dönüştürme stratejileri.\n\nSonuç CTA: 7 günlük ücretsiz premium deneme ile StoryPal'ı keşfedin!"
-        }
-      ]
-    }
-  },
-  {
     "date": "2026-03-06T05:51:36.318123",
     "content": {
       "contents": [
@@ -822,6 +792,13 @@
     "content": {
       "contents": [],
       "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZgLysY2vDsGzjkLEZuPW'}"
+    }
+  },
+  {
+    "date": "2026-04-04T06:01:50.264889",
+    "content": {
+      "contents": [],
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZiDsf1k88t36JH2XNiSB'}"
     }
   }
 ]

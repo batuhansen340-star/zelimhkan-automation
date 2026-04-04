@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-03-26:Hacker News:My astrophotography in the movie Project Hail Mary",
-    "title": "My astrophotography in the movie Project Hail Mary",
-    "score": 759,
-    "source": "Hacker News",
-    "timestamp": "2026-03-26T04:32:49.352017"
-  },
-  {
     "key": "2026-03-26:Hacker News:The EU still wants to scan  your private messages and photos",
     "title": "The EU still wants to scan  your private messages and photos",
     "score": 827,
@@ -698,5 +691,12 @@
     "score": 1187,
     "source": "Hacker News",
     "timestamp": "2026-04-04T07:04:31.325262"
+  },
+  {
+    "key": "2026-04-04:Hacker News:F-15E jet shot down over Iran",
+    "title": "F-15E jet shot down over Iran",
+    "score": 538,
+    "source": "Hacker News",
+    "timestamp": "2026-04-04T14:23:57.284238"
   }
 ]

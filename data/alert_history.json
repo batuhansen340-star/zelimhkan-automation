@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-03-25:Hacker News:Microsoft's \"fix\" for Windows 11",
-    "title": "Microsoft's \"fix\" for Windows 11",
-    "score": 938,
-    "source": "Hacker News",
-    "timestamp": "2026-03-25T04:21:06.918860"
-  },
-  {
-    "key": "2026-03-25:Hacker News:Goodbye to Sora",
-    "title": "Goodbye to Sora",
-    "score": 617,
-    "source": "Hacker News",
-    "timestamp": "2026-03-25T07:05:17.880387"
-  },
-  {
-    "key": "2026-03-25:Hacker News:Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
-    "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
-    "score": 572,
-    "source": "Hacker News",
-    "timestamp": "2026-03-25T18:42:25.357220"
-  },
-  {
-    "key": "2026-03-25:Hacker News:My astrophotography in the movie Project Hail Mary",
-    "title": "My astrophotography in the movie Project Hail Mary",
-    "score": 635,
-    "source": "Hacker News",
-    "timestamp": "2026-03-25T22:40:02.398469"
-  },
-  {
     "key": "2026-03-25:Hacker News:Thoughts on slowing the fuck down",
     "title": "Thoughts on slowing the fuck down",
     "score": 570,
@@ -698,5 +670,33 @@
     "score": 598,
     "source": "Hacker News",
     "timestamp": "2026-04-03T22:37:03.114317"
+  },
+  {
+    "key": "2026-04-04:Hacker News:Artemis II crew take “spectacular” image of Earth",
+    "title": "Artemis II crew take “spectacular” image of Earth",
+    "score": 588,
+    "source": "Hacker News",
+    "timestamp": "2026-04-04T04:17:47.997932"
+  },
+  {
+    "key": "2026-04-04:Hacker News:Show HN: I built a frontpage for personal blogs",
+    "title": "Show HN: I built a frontpage for personal blogs",
+    "score": 686,
+    "source": "Hacker News",
+    "timestamp": "2026-04-04T04:17:47.997949"
+  },
+  {
+    "key": "2026-04-04:Hacker News:Show HN: Apfel – The free AI already on your Mac",
+    "title": "Show HN: Apfel – The free AI already on your Mac",
+    "score": 653,
+    "source": "Hacker News",
+    "timestamp": "2026-04-04T04:17:47.997956"
+  },
+  {
+    "key": "2026-04-04:Hacker News:Google releases Gemma 4 open models",
+    "title": "Google releases Gemma 4 open models",
+    "score": 1729,
+    "source": "Hacker News",
+    "timestamp": "2026-04-04T04:17:47.997961"
   }
 ]

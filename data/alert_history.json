@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-03-26:Hacker News:The EU still wants to scan  your private messages and photos",
-    "title": "The EU still wants to scan  your private messages and photos",
-    "score": 827,
-    "source": "Hacker News",
-    "timestamp": "2026-03-26T04:32:49.352035"
-  },
-  {
     "key": "2026-03-26:Hacker News:Thoughts on slowing the fuck down",
     "title": "Thoughts on slowing the fuck down",
     "score": 735,
@@ -698,5 +691,12 @@
     "score": 538,
     "source": "Hacker News",
     "timestamp": "2026-04-04T14:23:57.284238"
+  },
+  {
+    "key": "2026-04-04:Hacker News:iNaturalist",
+    "title": "iNaturalist",
+    "score": 501,
+    "source": "Hacker News",
+    "timestamp": "2026-04-04T18:27:00.583117"
   }
 ]

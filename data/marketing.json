@@ -1,34 +1,5 @@
 [
   {
-    "date": "2026-03-06T05:51:36.318123",
-    "content": {
-      "contents": [
-        {
-          "platform": "twitter",
-          "type": "thread",
-          "content": "Cuma akşamı geldi, hafta sonu planları yapılıyor! 🎉 Peki ya çocuğunuzla birlikte geçireceğiniz kaliteli zaman için hazırlığınız tamam mı?\n\nHafta sonu için eğlenceli bir fikir: StoryPal ile birlikte hikaye yaratın! Çocuğunuz kendi ismini, sevdiği hayvanı, favorisi rengini seçsin. Sonra birlikte okuyun! 📚✨\n\nHer hafta sonu sabahı bizim evde hikaye zamanıdır. Kahvaltıdan sonra 15 dakika, telefonsuz, sadece çocuğun hayallerinde gezinti. Premium'la sınırsız hikaye = sınırsız mutluluk 💛\n\nBu hafta sonu deneyin! Free tier'la günde 3 hikaye ücretsiz. iOS'ta indirin, çocuğunuzun gözlerindeki ışıltıyı görün. #HaftaSonuPlanı #KaliteliZaman",
-          "hashtags": [
-            "#StoryPal",
-            "#HaftaSonuPlanı",
-            "#KaliteliZaman",
-            "#EbeveynlikHikayeleri"
-          ]
-        },
-        {
-          "platform": "instagram",
-          "type": "caption",
-          "content": "CUMA AKŞAMI = HAYALLERİN BAŞLADIĞI AN ✨\n\nBu hafta yoruldunuz, çocuklar da yoruldu. Ama hafta sonu heyecanı her şeyi değiştiriyor değil mi? 😊\n\nBiz de StoryPal'de hafta sonunu özel yapmanın yolunu biliyoruz: Çocuğunuzun KENDİ hikayesini yaratmak! 🎨📖\n\n\"Anne bak bu benim!\" dediği andaki mutluluğunu hayal edin. AI destekli görsellerle çocuğunuz hikayenin tam ortasında. Ejderhalara karşı savaşıyor, uzayda macera yaşıyor ya da peri diyarında yeni arkadaşlar edinebilir.\n\n🎁 İlk 3 hikaye ücretsiz\n🌟 Premium'la sınırsız hayal gücü\n📱 App Store'da siz de bize katılın\n\nHaydi, bu hafta sonu hangi macera başlayacak? 💫\n\n#StoryPal #HaftaSonuZamanı #ÇocukHikayeleri #EbeveynlikTavsiyeleri #KişiselleştirilmişHikaye #AileBirlikteliği #YaratıcıÇocuklar",
-          "visual_idea": "Rahat kıyafetlerle kanepede oturan anne-baba ve çocuğun tablet/telefonda StoryPal hikayesine birlikte baktığı sıcak, samimi bir aile fotoğrafı. Arka planda hafif bulanık hafta sonu atmosferi (belki oyuncaklar, yastıklar). Fotoğrafın üzerine overlay olarak 'Hafta Sonu Sihri Başlasın ✨' yazısı eklenebilir."
-        },
-        {
-          "platform": "blog",
-          "type": "outline",
-          "content": "Hafta Sonu Çocuğunuzla Kaliteli Zaman Geçirmenin 5 Yaratıcı Yolu\n\n1. Hikaye Yaratma Ritüeli Oluşturun: Hafta sonu sabahlarını özel kılmanın gücü. StoryPal ile kişiselleştirilmiş hikayeler yaratarak çocuğunuzun hayal gücünü nasıl desteklersiniz? Rutin oluşturmanın çocuk gelişimine katkıları ve aile bağını güçlendiren aktiviteler.\n\n2. Ekran Zamanını Kaliteli Zamana Dönüştürün: Dijital araçların doğru kullanımı. StoryPal gibi eğitici uygulamalarla ekran zamanının nasıl üretken hale getirileceği. Pasif izleme vs. aktif yaratma arasındaki fark. Uzman görüşleri ve ebeveyn deneyimleri.\n\n3. Hafta Sonu Projesi: Yarattığınız Hikayeleri Hayata Geçirin: PDF export özelliğiyle hikayeleri yazdırma, çocukla birlikte resimleme, aile hikaye kitaplığı oluşturma. DIY proje fikirleri ve çocuğunuzun özgüvenini artırmanın yolları. Bonus: Büyükanne-büyükbabalara hediye fikirleri."
-        }
-      ]
-    }
-  },
-  {
     "date": "2026-03-07T05:41:35.242618",
     "content": {
       "contents": [
@@ -799,6 +770,13 @@
     "content": {
       "contents": [],
       "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZiDsf1k88t36JH2XNiSB'}"
+    }
+  },
+  {
+    "date": "2026-04-05T06:15:15.903946",
+    "content": {
+      "contents": [],
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZk8hxcJhWRzRFF7GciU5'}"
     }
   }
 ]

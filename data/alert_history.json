@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-03-26:Hacker News:Running Tesla Model 3's computer on my desk using parts from crashed cars",
-    "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
-    "score": 545,
-    "source": "Hacker News",
-    "timestamp": "2026-03-26T07:13:06.849774"
-  },
-  {
-    "key": "2026-03-26:Hacker News:Miscellanea: The War in Iran",
-    "title": "Miscellanea: The War in Iran",
-    "score": 515,
-    "source": "Hacker News",
-    "timestamp": "2026-03-26T07:13:06.849810"
-  },
-  {
-    "key": "2026-03-26:Hacker News:Personal Encyclopedias",
-    "title": "Personal Encyclopedias",
-    "score": 526,
-    "source": "Hacker News",
-    "timestamp": "2026-03-26T14:55:59.566509"
-  },
-  {
     "key": "2026-03-26:Hacker News:End of \"Chat Control\": EU parliament stops mass surveillance",
     "title": "End of \"Chat Control\": EU parliament stops mass surveillance",
     "score": 535,
@@ -698,5 +677,26 @@
     "score": 640,
     "source": "Hacker News",
     "timestamp": "2026-04-05T18:28:43.843166"
+  },
+  {
+    "key": "2026-04-05:Hacker News:Eight years of wanting, three months of building with AI",
+    "title": "Eight years of wanting, three months of building with AI",
+    "score": 521,
+    "source": "Hacker News",
+    "timestamp": "2026-04-05T22:35:14.435036"
+  },
+  {
+    "key": "2026-04-05:Hacker News:Caveman: Why use many token when few token do trick",
+    "title": "Caveman: Why use many token when few token do trick",
+    "score": 636,
+    "source": "Hacker News",
+    "timestamp": "2026-04-05T22:35:14.435048"
+  },
+  {
+    "key": "2026-04-05:Hacker News:German implementation of eIDAS will require an Apple/Google account to function",
+    "title": "German implementation of eIDAS will require an Apple/Google account to function",
+    "score": 531,
+    "source": "Hacker News",
+    "timestamp": "2026-04-05T22:35:14.435062"
   }
 ]

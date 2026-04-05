@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-03-26:Hacker News:Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
-    "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
-    "score": 621,
-    "source": "Hacker News",
-    "timestamp": "2026-03-26T04:32:49.352079"
-  },
-  {
     "key": "2026-03-26:Hacker News:Running Tesla Model 3's computer on my desk using parts from crashed cars",
     "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
     "score": 545,
@@ -698,5 +691,12 @@
     "score": 557,
     "source": "Hacker News",
     "timestamp": "2026-04-05T07:10:32.819238"
+  },
+  {
+    "key": "2026-04-05:Hacker News:The threat is comfortable drift toward not understanding what you're doing",
+    "title": "The threat is comfortable drift toward not understanding what you're doing",
+    "score": 640,
+    "source": "Hacker News",
+    "timestamp": "2026-04-05T18:28:43.843166"
   }
 ]

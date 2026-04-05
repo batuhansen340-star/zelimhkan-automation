@@ -1,40 +1,5 @@
 [
   {
-    "key": "2026-03-26:Hacker News:TurboQuant: Redefining AI efficiency with extreme compression",
-    "title": "TurboQuant: Redefining AI efficiency with extreme compression",
-    "score": 507,
-    "source": "Hacker News",
-    "timestamp": "2026-03-26T04:32:49.352048"
-  },
-  {
-    "key": "2026-03-26:Hacker News:Slovenian officials blame Israeli firm Black Cube for trying to manipulate vote",
-    "title": "Slovenian officials blame Israeli firm Black Cube for trying to manipulate vote",
-    "score": 551,
-    "source": "Hacker News",
-    "timestamp": "2026-03-26T04:32:49.352053"
-  },
-  {
-    "key": "2026-03-26:Hacker News:Goodbye to Sora",
-    "title": "Goodbye to Sora",
-    "score": 1089,
-    "source": "Hacker News",
-    "timestamp": "2026-03-26T04:32:49.352059"
-  },
-  {
-    "key": "2026-03-26:Hacker News:Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
-    "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
-    "score": 903,
-    "source": "Hacker News",
-    "timestamp": "2026-03-26T04:32:49.352064"
-  },
-  {
-    "key": "2026-03-26:Hacker News:Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
-    "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
-    "score": 1226,
-    "source": "Hacker News",
-    "timestamp": "2026-03-26T04:32:49.352068"
-  },
-  {
     "key": "2026-03-26:Hacker News:Flighty Airports",
     "title": "Flighty Airports",
     "score": 543,
@@ -698,5 +663,40 @@
     "score": 664,
     "source": "Hacker News",
     "timestamp": "2026-04-04T22:33:47.812916"
+  },
+  {
+    "key": "2026-04-05:Hacker News:Show HN: A game where you build a GPU",
+    "title": "Show HN: A game where you build a GPU",
+    "score": 573,
+    "source": "Hacker News",
+    "timestamp": "2026-04-05T04:36:44.577158"
+  },
+  {
+    "key": "2026-04-05:Hacker News:Embarrassingly simple self-distillation improves code generation",
+    "title": "Embarrassingly simple self-distillation improves code generation",
+    "score": 574,
+    "source": "Hacker News",
+    "timestamp": "2026-04-05T04:36:44.577191"
+  },
+  {
+    "key": "2026-04-05:Hacker News:Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+    "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+    "score": 1042,
+    "source": "Hacker News",
+    "timestamp": "2026-04-05T04:36:44.577206"
+  },
+  {
+    "key": "2026-04-05:Hacker News:Artemis II crew take “spectacular” image of Earth",
+    "title": "Artemis II crew take “spectacular” image of Earth",
+    "score": 1027,
+    "source": "Hacker News",
+    "timestamp": "2026-04-05T04:36:44.577212"
+  },
+  {
+    "key": "2026-04-05:Hacker News:Author of \"Careless People\" banned from saying anything negative about Meta",
+    "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
+    "score": 754,
+    "source": "Hacker News",
+    "timestamp": "2026-04-05T04:36:44.577217"
   }
 ]

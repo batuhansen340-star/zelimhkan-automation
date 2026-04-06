@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-03-27:Hacker News:Hold on to Your Hardware",
-    "title": "Hold on to Your Hardware",
-    "score": 542,
-    "source": "Hacker News",
-    "timestamp": "2026-03-27T22:36:34.357911"
-  },
-  {
-    "key": "2026-03-27:Hacker News:The 'paperwork flood': How I drowned a bureaucrat before dinner",
-    "title": "The 'paperwork flood': How I drowned a bureaucrat before dinner",
-    "score": 501,
-    "source": "Hacker News",
-    "timestamp": "2026-03-27T22:36:34.357932"
-  },
-  {
     "key": "2026-03-28:Hacker News:People inside Microsoft are fighting to drop mandatory Microsoft Account",
     "title": "People inside Microsoft are fighting to drop mandatory Microsoft Account",
     "score": 566,
@@ -698,5 +684,19 @@
     "score": 507,
     "source": "Hacker News",
     "timestamp": "2026-04-06T18:42:11.078482"
+  },
+  {
+    "key": "2026-04-06:Hacker News:Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+    "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+    "score": 653,
+    "source": "Hacker News",
+    "timestamp": "2026-04-06T22:40:01.416916"
+  },
+  {
+    "key": "2026-04-06:Hacker News:France pulls last gold held in US",
+    "title": "France pulls last gold held in US",
+    "score": 544,
+    "source": "Hacker News",
+    "timestamp": "2026-04-06T22:40:01.416937"
   }
 ]

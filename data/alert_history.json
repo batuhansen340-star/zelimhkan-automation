@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-03-27:Hacker News:We haven't seen the worst of what gambling and prediction markets will do",
-    "title": "We haven't seen the worst of what gambling and prediction markets will do",
-    "score": 630,
-    "source": "Hacker News",
-    "timestamp": "2026-03-27T04:33:39.080005"
-  },
-  {
-    "key": "2026-03-27:Hacker News:Running Tesla Model 3's computer on my desk using parts from crashed cars",
-    "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
-    "score": 876,
-    "source": "Hacker News",
-    "timestamp": "2026-03-27T04:33:39.080010"
-  },
-  {
-    "key": "2026-03-27:Hacker News:Shell Tricks That Make Life Easier (and Save Your Sanity)",
-    "title": "Shell Tricks That Make Life Easier (and Save Your Sanity)",
-    "score": 550,
-    "source": "Hacker News",
-    "timestamp": "2026-03-27T04:33:39.080015"
-  },
-  {
     "key": "2026-03-27:Hacker News:End of \"Chat Control\": EU parliament stops mass surveillance",
     "title": "End of \"Chat Control\": EU parliament stops mass surveillance",
     "score": 579,
@@ -698,5 +677,26 @@
     "score": 845,
     "source": "Hacker News",
     "timestamp": "2026-04-06T04:44:06.155443"
+  },
+  {
+    "key": "2026-04-06:Hacker News:Show HN: I built a tiny LLM to demystify how language models work",
+    "title": "Show HN: I built a tiny LLM to demystify how language models work",
+    "score": 505,
+    "source": "Hacker News",
+    "timestamp": "2026-04-06T10:44:56.079229"
+  },
+  {
+    "key": "2026-04-06:Hacker News:Why Switzerland has 25 Gbit internet and America doesn't",
+    "title": "Why Switzerland has 25 Gbit internet and America doesn't",
+    "score": 518,
+    "source": "Hacker News",
+    "timestamp": "2026-04-06T10:44:56.079249"
+  },
+  {
+    "key": "2026-04-06:Hacker News:Show HN: A game where you build a GPU",
+    "title": "Show HN: A game where you build a GPU",
+    "score": 916,
+    "source": "Hacker News",
+    "timestamp": "2026-04-06T10:44:56.079266"
   }
 ]

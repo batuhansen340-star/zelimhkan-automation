@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-03-28:Hacker News:Go hard on agents, not on your filesystem",
-    "title": "Go hard on agents, not on your filesystem",
-    "score": 524,
-    "source": "Hacker News",
-    "timestamp": "2026-03-28T18:26:07.800540"
-  },
-  {
     "key": "2026-03-28:Hacker News:Founder of GitLab battles cancer by founding companies",
     "title": "Founder of GitLab battles cancer by founding companies",
     "score": 514,
@@ -698,5 +691,12 @@
     "score": 535,
     "source": "Hacker News",
     "timestamp": "2026-04-07T07:21:38.537667"
+  },
+  {
+    "key": "2026-04-07:Hacker News:A cryptography engineer's perspective on quantum computing timelines",
+    "title": "A cryptography engineer's perspective on quantum computing timelines",
+    "score": 519,
+    "source": "Hacker News",
+    "timestamp": "2026-04-07T14:59:05.822495"
   }
 ]

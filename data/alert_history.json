@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-03-28:Hacker News:Founder of GitLab battles cancer by founding companies",
-    "title": "Founder of GitLab battles cancer by founding companies",
-    "score": 514,
-    "source": "Hacker News",
-    "timestamp": "2026-03-28T22:32:43.197188"
-  },
-  {
     "key": "2026-03-28:Hacker News:Make macOS consistently bad unironically",
     "title": "Make macOS consistently bad unironically",
     "score": 513,
@@ -698,5 +691,12 @@
     "score": 519,
     "source": "Hacker News",
     "timestamp": "2026-04-07T14:59:05.822495"
+  },
+  {
+    "key": "2026-04-07:Hacker News:Show HN: Brutalist Concrete Laptop Stand (2024)",
+    "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
+    "score": 579,
+    "source": "Hacker News",
+    "timestamp": "2026-04-07T18:47:22.283378"
   }
 ]

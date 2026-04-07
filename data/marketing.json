@@ -1,34 +1,5 @@
 [
   {
-    "date": "2026-03-08T05:49:31.083150",
-    "content": {
-      "contents": [
-        {
-          "platform": "twitter",
-          "type": "thread",
-          "content": "Tweet 1: Pazar sabahları çocuğunuzla kaliteli zaman geçirmenin en keyifli yolu: Birlikte hikaye yaratmak! 📚✨ StoryPal ile çocuğunuz kendi macerasının kahramanı oluyor.\n\nTweet 2: Sadece 2 dakikada çocuğunuzun adını, ilgi alanlarını girin. AI, ona özel benzersiz bir hikaye + görseller üretsin. Kahvaltıda okuyun, yatak öncesi PDF olarak kaydedin! 🎨\n\nTweet 3: Pazar günü özel: İlk 3 hikaye tamamen ücretsiz! Premium ile sınırsız hikaye + çocuk gelişim istatistikleri. App Store'dan indirin, aile vaktinizi dönüştürün! 💜\n\nTweet 4: Her çocuk kendi hikayesinin kahramanı olmayı hak ediyor. StoryPal'la bu pazar keyifli anılar biriktirin! 👉 Link bio'da #AileBirlikteliği",
-          "hashtags": [
-            "#StoryPal",
-            "#AileZamanı",
-            "#KişiselleştirilmişHikaye",
-            "#ÇocukGelişimi"
-          ]
-        },
-        {
-          "platform": "instagram",
-          "type": "caption",
-          "content": "Pazar sabahı rutininize yeni bir ritüel ekleyin! ☕📖\n\nKahvaltı masasında telefonlar yerine, çocuğunuzla birlikte yarattığınız özel hikayeleri okumak nasıl olurdu?\n\nStoryPal ile:\n✨ Çocuğunuz kahramanı olduğu maceralarla hayal gücünü geliştiriyor\n🎨 AI tarafından üretilen renkli görseller dikkatini çekiyor\n💚 Siz aranızdaki bağı güçlendiriyorsunuz\n📱 PDF olarak kaydedip defalarca okuyabiliyorsunuz\n\nİlk 3 hikaye tamamen ÜCRETSİZ! Bugün deneyin, farkı görün.\n\n\"Çocuğumun gözlerindeki ışıltı, kendini hikayede görünce... Paha biçilemez!\" - Ayşe A., 2 çocuk annesi\n\n👉 Bio'daki linkten App Store'dan indir\n\n#StoryPal #PazarRitüeli #KaliteliAileZamanı #ÇocuklarlaVakit #KişiselleştirilmişHikaye #EbeveynlikTavsiyeleri #DijitalEbeveynlik #HikayeZamanı",
-          "visual_idea": "Pazar kahvaltı masası başında anne-baba ve 5-6 yaşında bir çocuk, tablet/telefonda StoryPal uygulamasını birlikte incelerken. Masada kahve fincanları, meyve tabağı. Çocuğun yüzünde mutlu, heyecanlı ifade. Sıcak sabah ışığı, rahat ev ortamı. Split-screen: Bir yanda aile fotoğrafı, diğer yanda uygulama ekranından örnek hikaye görseli."
-        },
-        {
-          "platform": "blog",
-          "type": "outline",
-          "content": "Başlık: Pazar Günleri Ekran Süresini Kaliteli Aile Vaktine Dönüştürmenin 5 Yolu\n\n1. Teknoloji ile sağlıklı ilişki kurma: Pasif izleme yerine aktif yaratıcılık - StoryPal gibi araçlarla çocuğunuzun hayal gücünü geliştirin, ekranı eğitici bir araca dönüştürün\n\n2. Aile ritüelleri oluşturmanın önemi: Pazar sabahı hikaye yaratma ritüeli nasıl uygulanır, çocuk gelişimine uzun vadeli katkıları, tutarlılığın psikolojik faydaları\n\n3. Kişiselleştirilmiş içeriğin çocuk gelişimine etkisi: Araştırmalar çocukların kendilerini hikayelerde gördüklerinde öz güvenlerinin arttığını gösteriyor, okuma sevgisi kazandırma stratejileri, StoryPal istatistik özelliği ile ilerlemeyi takip etme"
-        }
-      ]
-    }
-  },
-  {
     "date": "2026-03-09T06:02:51.642469",
     "content": {
       "contents": [
@@ -755,6 +726,13 @@
     "content": {
       "contents": [],
       "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZn5fpch1g6SAqtxRusfJ'}"
+    }
+  },
+  {
+    "date": "2026-04-07T06:20:43.017776",
+    "content": {
+      "contents": [],
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZovjuVwvNF8XsqWFrFxz'}"
     }
   }
 ]

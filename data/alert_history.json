@@ -1,54 +1,5 @@
 [
   {
-    "key": "2026-03-28:Hacker News:People inside Microsoft are fighting to drop mandatory Microsoft Account",
-    "title": "People inside Microsoft are fighting to drop mandatory Microsoft Account",
-    "score": 566,
-    "source": "Hacker News",
-    "timestamp": "2026-03-28T04:21:09.537249"
-  },
-  {
-    "key": "2026-03-28:Hacker News:Hold on to Your Hardware",
-    "title": "Hold on to Your Hardware",
-    "score": 584,
-    "source": "Hacker News",
-    "timestamp": "2026-03-28T04:21:09.537267"
-  },
-  {
-    "key": "2026-03-28:Hacker News:The 'paperwork flood': How I drowned a bureaucrat before dinner",
-    "title": "The 'paperwork flood': How I drowned a bureaucrat before dinner",
-    "score": 531,
-    "source": "Hacker News",
-    "timestamp": "2026-03-28T04:21:09.537273"
-  },
-  {
-    "key": "2026-03-28:Hacker News:Running Tesla Model 3's computer on my desk using parts from crashed cars",
-    "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
-    "score": 951,
-    "source": "Hacker News",
-    "timestamp": "2026-03-28T04:21:09.537279"
-  },
-  {
-    "key": "2026-03-28:Hacker News:Apple discontinues the Mac Pro",
-    "title": "Apple discontinues the Mac Pro",
-    "score": 630,
-    "source": "Hacker News",
-    "timestamp": "2026-03-28T04:21:09.537284"
-  },
-  {
-    "key": "2026-03-28:Hacker News:Why so many control rooms were seafoam green (2025)",
-    "title": "Why so many control rooms were seafoam green (2025)",
-    "score": 1004,
-    "source": "Hacker News",
-    "timestamp": "2026-03-28T04:21:09.537289"
-  },
-  {
-    "key": "2026-03-28:Hacker News:Anatomy of the .claude/ folder",
-    "title": "Anatomy of the .claude/ folder",
-    "score": 529,
-    "source": "Hacker News",
-    "timestamp": "2026-03-28T14:21:59.544706"
-  },
-  {
     "key": "2026-03-28:Hacker News:Spanish legislation as a Git repo",
     "title": "Spanish legislation as a Git repo",
     "score": 588,
@@ -698,5 +649,54 @@
     "score": 544,
     "source": "Hacker News",
     "timestamp": "2026-04-06T22:40:01.416937"
+  },
+  {
+    "key": "2026-04-07:Hacker News:Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+    "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+    "score": 845,
+    "source": "Hacker News",
+    "timestamp": "2026-04-07T04:32:46.947725"
+  },
+  {
+    "key": "2026-04-07:Hacker News:Sam Altman may control our future – can he be trusted?",
+    "title": "Sam Altman may control our future – can he be trusted?",
+    "score": 1060,
+    "source": "Hacker News",
+    "timestamp": "2026-04-07T04:32:46.947740"
+  },
+  {
+    "key": "2026-04-07:Hacker News:France pulls last gold held in US",
+    "title": "France pulls last gold held in US",
+    "score": 572,
+    "source": "Hacker News",
+    "timestamp": "2026-04-07T04:32:46.947746"
+  },
+  {
+    "key": "2026-04-07:Hacker News:Show HN: I built a tiny LLM to demystify how language models work",
+    "title": "Show HN: I built a tiny LLM to demystify how language models work",
+    "score": 851,
+    "source": "Hacker News",
+    "timestamp": "2026-04-07T04:32:46.947752"
+  },
+  {
+    "key": "2026-04-07:Hacker News:Microsoft hasn't had a coherent GUI strategy since Petzold",
+    "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
+    "score": 777,
+    "source": "Hacker News",
+    "timestamp": "2026-04-07T04:32:46.947758"
+  },
+  {
+    "key": "2026-04-07:Hacker News:I won't download your app. The web version is a-ok",
+    "title": "I won't download your app. The web version is a-ok",
+    "score": 841,
+    "source": "Hacker News",
+    "timestamp": "2026-04-07T04:32:46.947763"
+  },
+  {
+    "key": "2026-04-07:Hacker News:Gemma 4 on iPhone",
+    "title": "Gemma 4 on iPhone",
+    "score": 843,
+    "source": "Hacker News",
+    "timestamp": "2026-04-07T04:32:46.947768"
   }
 ]

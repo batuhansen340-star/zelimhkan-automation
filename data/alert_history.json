@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-03-30:Hacker News:LinkedIn uses 2.4 GB RAM across two tabs",
-    "title": "LinkedIn uses 2.4 GB RAM across two tabs",
-    "score": 658,
-    "source": "Hacker News",
-    "timestamp": "2026-03-30T04:44:29.474336"
-  },
-  {
-    "key": "2026-03-30:Hacker News:Nitrile and latex gloves may cause overestimation of microplastics",
-    "title": "Nitrile and latex gloves may cause overestimation of microplastics",
-    "score": 529,
-    "source": "Hacker News",
-    "timestamp": "2026-03-30T04:44:29.474350"
-  },
-  {
-    "key": "2026-03-30:Hacker News:Founder of GitLab battles cancer by founding companies",
-    "title": "Founder of GitLab battles cancer by founding companies",
-    "score": 1343,
-    "source": "Hacker News",
-    "timestamp": "2026-03-30T04:44:29.474356"
-  },
-  {
     "key": "2026-03-30:Hacker News:AI overly affirms users asking for personal advice",
     "title": "AI overly affirms users asking for personal advice",
     "score": 760,
@@ -698,5 +677,26 @@
     "score": 501,
     "source": "Hacker News",
     "timestamp": "2026-04-08T07:24:10.752511"
+  },
+  {
+    "key": "2026-04-08:Hacker News:Git commands I run before reading any code",
+    "title": "Git commands I run before reading any code",
+    "score": 820,
+    "source": "Hacker News",
+    "timestamp": "2026-04-08T15:00:16.232770"
+  },
+  {
+    "key": "2026-04-08:Hacker News:Veracrypt project update",
+    "title": "Veracrypt project update",
+    "score": 667,
+    "source": "Hacker News",
+    "timestamp": "2026-04-08T15:00:16.232785"
+  },
+  {
+    "key": "2026-04-08:Hacker News:US and Iran agree to provisional ceasefire",
+    "title": "US and Iran agree to provisional ceasefire",
+    "score": 552,
+    "source": "Hacker News",
+    "timestamp": "2026-04-08T15:00:16.232808"
   }
 ]

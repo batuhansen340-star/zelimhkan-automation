@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-03-30:Hacker News:AI overly affirms users asking for personal advice",
-    "title": "AI overly affirms users asking for personal advice",
-    "score": 760,
-    "source": "Hacker News",
-    "timestamp": "2026-03-30T04:44:29.474361"
-  },
-  {
     "key": "2026-03-30:Hacker News:ChatGPT won't let you type until Cloudflare reads your React state",
     "title": "ChatGPT won't let you type until Cloudflare reads your React state",
     "score": 563,
@@ -698,5 +691,12 @@
     "score": 552,
     "source": "Hacker News",
     "timestamp": "2026-04-08T15:00:16.232808"
+  },
+  {
+    "key": "2026-04-08:Hacker News:I Ported Mac OS X to the Nintendo Wii",
+    "title": "I Ported Mac OS X to the Nintendo Wii",
+    "score": 592,
+    "source": "Hacker News",
+    "timestamp": "2026-04-08T19:01:55.958978"
   }
 ]

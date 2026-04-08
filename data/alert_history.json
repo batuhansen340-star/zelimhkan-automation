@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-03-29:Hacker News:Founder of GitLab battles cancer by founding companies",
-    "title": "Founder of GitLab battles cancer by founding companies",
-    "score": 803,
-    "source": "Hacker News",
-    "timestamp": "2026-03-29T04:36:56.109977"
-  },
-  {
-    "key": "2026-03-29:Hacker News:AI overly affirms users asking for personal advice",
-    "title": "AI overly affirms users asking for personal advice",
-    "score": 565,
-    "source": "Hacker News",
-    "timestamp": "2026-03-29T04:36:56.109991"
-  },
-  {
-    "key": "2026-03-29:Hacker News:Spanish legislation as a Git repo",
-    "title": "Spanish legislation as a Git repo",
-    "score": 700,
-    "source": "Hacker News",
-    "timestamp": "2026-03-29T04:36:56.109998"
-  },
-  {
-    "key": "2026-03-29:Hacker News:Go hard on agents, not on your filesystem",
-    "title": "Go hard on agents, not on your filesystem",
-    "score": 585,
-    "source": "Hacker News",
-    "timestamp": "2026-03-29T04:36:56.110003"
-  },
-  {
     "key": "2026-03-29:Hacker News:I decompiled the White House's new app",
     "title": "I decompiled the White House's new app",
     "score": 523,
@@ -698,5 +670,33 @@
     "score": 699,
     "source": "Hacker News",
     "timestamp": "2026-04-07T22:40:59.079684"
+  },
+  {
+    "key": "2026-04-08:Hacker News:Project Glasswing: Securing critical software for the AI era",
+    "title": "Project Glasswing: Securing critical software for the AI era",
+    "score": 1031,
+    "source": "Hacker News",
+    "timestamp": "2026-04-08T04:36:31.463763"
+  },
+  {
+    "key": "2026-04-08:Hacker News:System Card: Claude Mythos Preview [pdf]",
+    "title": "System Card: Claude Mythos Preview [pdf]",
+    "score": 595,
+    "source": "Hacker News",
+    "timestamp": "2026-04-08T04:36:31.463780"
+  },
+  {
+    "key": "2026-04-08:Hacker News:Show HN: Brutalist Concrete Laptop Stand (2024)",
+    "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
+    "score": 720,
+    "source": "Hacker News",
+    "timestamp": "2026-04-08T04:36:31.463786"
+  },
+  {
+    "key": "2026-04-08:Hacker News:Sam Altman may control our future – can he be trusted?",
+    "title": "Sam Altman may control our future – can he be trusted?",
+    "score": 1994,
+    "source": "Hacker News",
+    "timestamp": "2026-04-08T04:36:31.463792"
   }
 ]

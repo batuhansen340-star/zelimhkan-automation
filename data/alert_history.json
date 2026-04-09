@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-03-31:Hacker News:GitHub backs down, kills Copilot pull-request ads after backlash",
-    "title": "GitHub backs down, kills Copilot pull-request ads after backlash",
-    "score": 527,
-    "source": "Hacker News",
-    "timestamp": "2026-03-31T18:46:12.653587"
-  },
-  {
-    "key": "2026-03-31:Hacker News:The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
-    "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
-    "score": 529,
-    "source": "Hacker News",
-    "timestamp": "2026-03-31T22:37:21.431352"
-  },
-  {
     "key": "2026-04-01:Hacker News:The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
     "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
     "score": 978,
@@ -698,5 +684,19 @@
     "score": 508,
     "source": "Hacker News",
     "timestamp": "2026-04-09T10:50:39.311114"
+  },
+  {
+    "key": "2026-04-09:Hacker News:EFF is leaving X",
+    "title": "EFF is leaving X",
+    "score": 948,
+    "source": "Hacker News",
+    "timestamp": "2026-04-09T22:43:15.489889"
+  },
+  {
+    "key": "2026-04-09:Hacker News:Meta removes ads for social media addiction litigation",
+    "title": "Meta removes ads for social media addiction litigation",
+    "score": 514,
+    "source": "Hacker News",
+    "timestamp": "2026-04-09T22:43:15.489907"
   }
 ]

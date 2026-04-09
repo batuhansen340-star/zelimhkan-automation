@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-03-31:Hacker News:Fedware: Government apps that spy harder than the apps they ban",
-    "title": "Fedware: Government apps that spy harder than the apps they ban",
-    "score": 533,
-    "source": "Hacker News",
-    "timestamp": "2026-03-31T07:19:07.977151"
-  },
-  {
-    "key": "2026-03-31:Hacker News:Do your own writing",
-    "title": "Do your own writing",
-    "score": 565,
-    "source": "Hacker News",
-    "timestamp": "2026-03-31T10:41:48.676125"
-  },
-  {
-    "key": "2026-03-31:Hacker News:Claude Code's source code has been leaked via a map file in their NPM registry",
-    "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
-    "score": 833,
-    "source": "Hacker News",
-    "timestamp": "2026-03-31T14:53:31.477357"
-  },
-  {
-    "key": "2026-03-31:Hacker News:Artemis II is not safe to fly",
-    "title": "Artemis II is not safe to fly",
-    "score": 578,
-    "source": "Hacker News",
-    "timestamp": "2026-03-31T14:53:31.477368"
-  },
-  {
     "key": "2026-03-31:Hacker News:Ollama is now powered by MLX on Apple Silicon in preview",
     "title": "Ollama is now powered by MLX on Apple Silicon in preview",
     "score": 573,
@@ -698,5 +670,33 @@
     "score": 1484,
     "source": "Hacker News",
     "timestamp": "2026-04-09T04:33:25.230799"
+  },
+  {
+    "key": "2026-04-09:Hacker News:LittleSnitch for Linux",
+    "title": "LittleSnitch for Linux",
+    "score": 547,
+    "source": "Hacker News",
+    "timestamp": "2026-04-09T07:26:39.557193"
+  },
+  {
+    "key": "2026-04-09:Hacker News:They're made out of meat (1991)",
+    "title": "They're made out of meat (1991)",
+    "score": 505,
+    "source": "Hacker News",
+    "timestamp": "2026-04-09T07:26:39.557213"
+  },
+  {
+    "key": "2026-04-09:Hacker News:Sam Altman may control our future – can he be trusted?",
+    "title": "Sam Altman may control our future – can he be trusted?",
+    "score": 2089,
+    "source": "Hacker News",
+    "timestamp": "2026-04-09T07:26:39.557239"
+  },
+  {
+    "key": "2026-04-09:Hacker News:Lunar Flyby",
+    "title": "Lunar Flyby",
+    "score": 938,
+    "source": "Hacker News",
+    "timestamp": "2026-04-09T07:26:39.557243"
   }
 ]

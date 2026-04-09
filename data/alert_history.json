@@ -1,54 +1,5 @@
 [
   {
-    "key": "2026-03-30:Hacker News:Copilot edited an ad into my PR",
-    "title": "Copilot edited an ad into my PR",
-    "score": 623,
-    "source": "Hacker News",
-    "timestamp": "2026-03-30T10:52:04.797539"
-  },
-  {
-    "key": "2026-03-30:Hacker News:The Cognitive Dark Forest",
-    "title": "The Cognitive Dark Forest",
-    "score": 523,
-    "source": "Hacker News",
-    "timestamp": "2026-03-30T18:44:59.959984"
-  },
-  {
-    "key": "2026-03-30:Hacker News:How to turn anything into a router",
-    "title": "How to turn anything into a router",
-    "score": 535,
-    "source": "Hacker News",
-    "timestamp": "2026-03-30T22:40:09.543910"
-  },
-  {
-    "key": "2026-03-31:Hacker News:How to turn anything into a router",
-    "title": "How to turn anything into a router",
-    "score": 627,
-    "source": "Hacker News",
-    "timestamp": "2026-03-31T04:35:38.263592"
-  },
-  {
-    "key": "2026-03-31:Hacker News:Copilot edited an ad into my PR",
-    "title": "Copilot edited an ad into my PR",
-    "score": 1476,
-    "source": "Hacker News",
-    "timestamp": "2026-03-31T04:35:38.263610"
-  },
-  {
-    "key": "2026-03-31:Hacker News:ChatGPT won't let you type until Cloudflare reads your React state",
-    "title": "ChatGPT won't let you type until Cloudflare reads your React state",
-    "score": 943,
-    "source": "Hacker News",
-    "timestamp": "2026-03-31T04:35:38.263617"
-  },
-  {
-    "key": "2026-03-31:Hacker News:Axios compromised on NPM – Malicious versions drop remote access trojan",
-    "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
-    "score": 541,
-    "source": "Hacker News",
-    "timestamp": "2026-03-31T07:19:07.977135"
-  },
-  {
     "key": "2026-03-31:Hacker News:Fedware: Government apps that spy harder than the apps they ban",
     "title": "Fedware: Government apps that spy harder than the apps they ban",
     "score": 533,
@@ -698,5 +649,54 @@
     "score": 586,
     "source": "Hacker News",
     "timestamp": "2026-04-08T22:42:03.300010"
+  },
+  {
+    "key": "2026-04-09:Hacker News:I ported Mac OS X to the Nintendo Wii",
+    "title": "I ported Mac OS X to the Nintendo Wii",
+    "score": 1367,
+    "source": "Hacker News",
+    "timestamp": "2026-04-09T04:33:25.230754"
+  },
+  {
+    "key": "2026-04-09:Hacker News:Git commands I run before reading any code",
+    "title": "Git commands I run before reading any code",
+    "score": 1883,
+    "source": "Hacker News",
+    "timestamp": "2026-04-09T04:33:25.230771"
+  },
+  {
+    "key": "2026-04-09:Hacker News:US cities are axing Flock Safety surveillance technology",
+    "title": "US cities are axing Flock Safety surveillance technology",
+    "score": 666,
+    "source": "Hacker News",
+    "timestamp": "2026-04-09T04:33:25.230777"
+  },
+  {
+    "key": "2026-04-09:Hacker News:Veracrypt project update",
+    "title": "Veracrypt project update",
+    "score": 1169,
+    "source": "Hacker News",
+    "timestamp": "2026-04-09T04:33:25.230783"
+  },
+  {
+    "key": "2026-04-09:Hacker News:Microsoft terminates VeraCrypt account, halting Windows updates",
+    "title": "Microsoft terminates VeraCrypt account, halting Windows updates",
+    "score": 503,
+    "source": "Hacker News",
+    "timestamp": "2026-04-09T04:33:25.230789"
+  },
+  {
+    "key": "2026-04-09:Hacker News:Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones",
+    "title": "Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones",
+    "score": 552,
+    "source": "Hacker News",
+    "timestamp": "2026-04-09T04:33:25.230794"
+  },
+  {
+    "key": "2026-04-09:Hacker News:Project Glasswing: Securing critical software for the AI era",
+    "title": "Project Glasswing: Securing critical software for the AI era",
+    "score": 1484,
+    "source": "Hacker News",
+    "timestamp": "2026-04-09T04:33:25.230799"
   }
 ]

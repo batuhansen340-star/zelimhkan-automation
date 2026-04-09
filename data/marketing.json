@@ -1,34 +1,5 @@
 [
   {
-    "date": "2026-03-10T05:51:56.532230",
-    "content": {
-      "contents": [
-        {
-          "platform": "twitter",
-          "type": "thread",
-          "content": "Tweet 1: Çocuğunuz yemek yerken bile telefondan hikaye mi dinliyor? 📱 Peki ya o hikayenin kahramanı KENDİSİ olsaydı? 🌟\n\nTweet 2: StoryPal ile her hikaye çocuğunuzun adını, ilgi alanlarını ve hayallerini taşıyor. Dinozor seven Zeynep, uzay kaşifi Ege... Her çocuk kendine özel bir dünyada! 🦕🚀\n\nTweet 3: Günde 3 hikaye ÜCRETSİZ! Çocuğunuzun gözleri parlasın, hayal gücü gelişsin. İndirmek 30 saniye: App Store'da 'StoryPal' 💜\n\nTweet 4: Premium'a geçin, sınırsız hikaye + PDF olarak kaydedin = Yastık altı masalları dijital çağda! 📚✨",
-          "hashtags": [
-            "#StoryPal",
-            "#KişiselleştirilmişHikaye",
-            "#ÇocukGelişimi",
-            "#AileZamanı"
-          ]
-        },
-        {
-          "platform": "instagram",
-          "type": "caption",
-          "content": "\"Anne, beni anlatan bir hikaye ister misin?\" 💭\n\nBugün 6 yaşındaki Elif annesiyle birlikte StoryPal'da kendi hikayesini yarattı. Pembe saçlı prenses Elif, ejderha dostlarıyla maceraya atıldı! 🐉💖\n\nPeki ya sizin çocuğunuz neyin kahramanı olmak ister?\n✨ Uzay maceraları mı?\n✨ Hayvan dostlukları mı?\n✨ Sihirli orman keşifleri mi?\n\nStoryPal'ın AI teknolojisi, her hikayeyi çocuğunuza ÖZEL tasarlıyor. Sadece ismini ve ilgi alanlarını girin, gerisini bize bırakın! 🎨📖\n\n📲 App Store'dan ücretsiz indirin\n💜 Günde 3 hikaye bedava\n👉 Bio'daki linkten hemen başlayın!\n\n#StoryPal #KişiselleştirilmişHikaye #ÇocuklaraÖzelHikaye #AIHikaye #EbeveynlikIpuçları #YaratıcıÇocuklar #DijitalEbeveynlik #HikayeZamanı #ÇocukKitapları",
-          "visual_idea": "Carousel (kaydırmalı) post: 1. slayt - Tablette StoryPal uygulamasını inceleyen mutlu bir çocuk ve ebeveyn, 2. slayt - Uygulamadan örnek AI görselli hikaye ekranı (çocuğun karakteri görünüyor), 3. slayt - 'Her çocuk kendi hikayesinin kahramanı' yazılı tipografi + StoryPal logosu, pastel renkler"
-        },
-        {
-          "platform": "blog",
-          "type": "outline",
-          "content": "Başlık: 'Çocuğunuzun Hayal Gücünü Geliştirmenin 5 Bilimsel Yolu (+ Teknolojinin Sürpriz Rolü)'\n\nMadde 1: Hayal gücünün çocuk gelişimindeki kritik rolü - Harvard ve Stanford araştırmaları ışığında problem çözme, empati ve yaratıcılık becerileriyle bağlantısı\n\nMadde 2: Geleneksel yöntemler vs. dijital araçlar dengesi - Kişiselleştirilmiş hikayelerin neden daha etkili olduğu, çocuğun kendini hikayede görmesinin özgüven üzerine etkileri\n\nMadde 3: Pratik uygulamalar ve StoryPal örneği - Ebeveynlerin evde uygulayabileceği 5 somut aktivite + teknolojinin doğru kullanımıyla bu aktiviteleri nasıl zenginleştirebilecekleri, CTA: 'StoryPal'ı ücretsiz deneyin ve çocuğunuzun hayal gücüne tanık olun'"
-        }
-      ]
-    }
-  },
-  {
     "date": "2026-03-11T05:54:34.286311",
     "content": {
       "contents": [
@@ -711,6 +682,13 @@
     "content": {
       "contents": [],
       "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZqphhg4GfGX6RZuqxeWr'}"
+    }
+  },
+  {
+    "date": "2026-04-09T06:23:03.507719",
+    "content": {
+      "contents": [],
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZsiY6GPJV5Kcjqeq1dEn'}"
     }
   }
 ]

@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-04-01:Hacker News:Microsoft: Copilot is for entertainment purposes only",
-    "title": "Microsoft: Copilot is for entertainment purposes only",
-    "score": 509,
-    "source": "Hacker News",
-    "timestamp": "2026-04-01T07:24:39.404462"
-  },
-  {
     "key": "2026-04-01:Hacker News:Claude Code Unpacked : A visual guide",
     "title": "Claude Code Unpacked : A visual guide",
     "score": 782,
@@ -698,5 +691,12 @@
     "score": 2228,
     "source": "Hacker News",
     "timestamp": "2026-04-10T04:46:46.018288"
+  },
+  {
+    "key": "2026-04-10:Hacker News:Native Instant Space Switching on macOS",
+    "title": "Native Instant Space Switching on macOS",
+    "score": 522,
+    "source": "Hacker News",
+    "timestamp": "2026-04-10T10:41:27.499139"
   }
 ]

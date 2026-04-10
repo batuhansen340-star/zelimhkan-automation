@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-04-01:Hacker News:Claude Code Unpacked : A visual guide",
-    "title": "Claude Code Unpacked : A visual guide",
-    "score": 782,
-    "source": "Hacker News",
-    "timestamp": "2026-04-01T14:56:33.591082"
-  },
-  {
     "key": "2026-04-01:Hacker News:A dot a day keeps the clutter away",
     "title": "A dot a day keeps the clutter away",
     "score": 503,
@@ -698,5 +691,12 @@
     "score": 522,
     "source": "Hacker News",
     "timestamp": "2026-04-10T10:41:27.499139"
+  },
+  {
+    "key": "2026-04-10:Hacker News:How NASA built Artemis II’s fault-tolerant computer",
+    "title": "How NASA built Artemis II’s fault-tolerant computer",
+    "score": 569,
+    "source": "Hacker News",
+    "timestamp": "2026-04-10T18:38:54.044728"
   }
 ]

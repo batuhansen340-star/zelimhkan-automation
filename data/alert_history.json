@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-04-01:Hacker News:A dot a day keeps the clutter away",
-    "title": "A dot a day keeps the clutter away",
-    "score": 503,
-    "source": "Hacker News",
-    "timestamp": "2026-04-01T18:45:17.877126"
-  },
-  {
-    "key": "2026-04-01:Hacker News:OpenAI closes funding round at an $852B valuation",
-    "title": "OpenAI closes funding round at an $852B valuation",
-    "score": 510,
-    "source": "Hacker News",
-    "timestamp": "2026-04-01T22:40:53.523591"
-  },
-  {
     "key": "2026-04-02:Hacker News:Live: Artemis II Launch Day Updates",
     "title": "Live: Artemis II Launch Day Updates",
     "score": 740,
@@ -698,5 +684,19 @@
     "score": 569,
     "source": "Hacker News",
     "timestamp": "2026-04-10T18:38:54.044728"
+  },
+  {
+    "key": "2026-04-10:Hacker News:1D Chess",
+    "title": "1D Chess",
+    "score": 571,
+    "source": "Hacker News",
+    "timestamp": "2026-04-10T22:40:57.877948"
+  },
+  {
+    "key": "2026-04-10:Hacker News:FBI used iPhone notification data to retrieve deleted Signal messages",
+    "title": "FBI used iPhone notification data to retrieve deleted Signal messages",
+    "score": 547,
+    "source": "Hacker News",
+    "timestamp": "2026-04-10T22:40:57.877962"
   }
 ]

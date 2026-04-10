@@ -1,40 +1,5 @@
 [
   {
-    "key": "2026-04-01:Hacker News:The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
-    "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
-    "score": 978,
-    "source": "Hacker News",
-    "timestamp": "2026-04-01T04:46:34.609612"
-  },
-  {
-    "key": "2026-04-01:Hacker News:Axios compromised on NPM – Malicious versions drop remote access trojan",
-    "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
-    "score": 1801,
-    "source": "Hacker News",
-    "timestamp": "2026-04-01T04:46:34.609626"
-  },
-  {
-    "key": "2026-04-01:Hacker News:Ollama is now powered by MLX on Apple Silicon in preview",
-    "title": "Ollama is now powered by MLX on Apple Silicon in preview",
-    "score": 610,
-    "source": "Hacker News",
-    "timestamp": "2026-04-01T04:46:34.609632"
-  },
-  {
-    "key": "2026-04-01:Hacker News:Artemis II is not safe to fly",
-    "title": "Artemis II is not safe to fly",
-    "score": 817,
-    "source": "Hacker News",
-    "timestamp": "2026-04-01T04:46:34.609638"
-  },
-  {
-    "key": "2026-04-01:Hacker News:Claude Code's source code has been leaked via a map file in their NPM registry",
-    "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
-    "score": 1932,
-    "source": "Hacker News",
-    "timestamp": "2026-04-01T04:46:34.609643"
-  },
-  {
     "key": "2026-04-01:Hacker News:Microsoft: Copilot is for entertainment purposes only",
     "title": "Microsoft: Copilot is for entertainment purposes only",
     "score": 509,
@@ -698,5 +663,40 @@
     "score": 514,
     "source": "Hacker News",
     "timestamp": "2026-04-09T22:43:15.489907"
+  },
+  {
+    "key": "2026-04-10:Hacker News:EFF is leaving X",
+    "title": "EFF is leaving X",
+    "score": 1220,
+    "source": "Hacker News",
+    "timestamp": "2026-04-10T04:46:46.018254"
+  },
+  {
+    "key": "2026-04-10:Hacker News:LittleSnitch for Linux",
+    "title": "LittleSnitch for Linux",
+    "score": 1286,
+    "source": "Hacker News",
+    "timestamp": "2026-04-10T04:46:46.018270"
+  },
+  {
+    "key": "2026-04-10:Hacker News:I ported Mac OS X to the Nintendo Wii",
+    "title": "I ported Mac OS X to the Nintendo Wii",
+    "score": 1840,
+    "source": "Hacker News",
+    "timestamp": "2026-04-10T04:46:46.018277"
+  },
+  {
+    "key": "2026-04-10:Hacker News:Meta removes ads for social media addiction litigation",
+    "title": "Meta removes ads for social media addiction litigation",
+    "score": 565,
+    "source": "Hacker News",
+    "timestamp": "2026-04-10T04:46:46.018283"
+  },
+  {
+    "key": "2026-04-10:Hacker News:Git commands I run before reading any code",
+    "title": "Git commands I run before reading any code",
+    "score": 2228,
+    "source": "Hacker News",
+    "timestamp": "2026-04-10T04:46:46.018288"
   }
 ]

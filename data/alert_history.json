@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-04-02:Hacker News:Google releases Gemma 4 open models",
-    "title": "Google releases Gemma 4 open models",
-    "score": 542,
-    "source": "Hacker News",
-    "timestamp": "2026-04-02T18:41:25.254151"
-  },
-  {
     "key": "2026-04-02:Hacker News:LinkedIn is illegally searching your computer",
     "title": "LinkedIn is illegally searching your computer",
     "score": 1224,
@@ -698,5 +691,12 @@
     "score": 509,
     "source": "Hacker News",
     "timestamp": "2026-04-11T10:21:10.930949"
+  },
+  {
+    "key": "2026-04-11:Hacker News:WireGuard makes new Windows release following Microsoft signing resolution",
+    "title": "WireGuard makes new Windows release following Microsoft signing resolution",
+    "score": 506,
+    "source": "Hacker News",
+    "timestamp": "2026-04-11T14:26:55.741495"
   }
 ]

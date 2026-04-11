@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-04-02:Hacker News:DRAM pricing is killing the hobbyist SBC market",
-    "title": "DRAM pricing is killing the hobbyist SBC market",
-    "score": 552,
-    "source": "Hacker News",
-    "timestamp": "2026-04-02T14:45:28.587563"
-  },
-  {
     "key": "2026-04-02:Hacker News:Google releases Gemma 4 open models",
     "title": "Google releases Gemma 4 open models",
     "score": 542,
@@ -698,5 +691,12 @@
     "score": 605,
     "source": "Hacker News",
     "timestamp": "2026-04-11T04:21:24.785060"
+  },
+  {
+    "key": "2026-04-11:Hacker News:France to ditch Windows for Linux to reduce reliance on US tech",
+    "title": "France to ditch Windows for Linux to reduce reliance on US tech",
+    "score": 509,
+    "source": "Hacker News",
+    "timestamp": "2026-04-11T10:21:10.930949"
   }
 ]

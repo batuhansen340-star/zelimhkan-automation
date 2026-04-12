@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-04-03:Hacker News:Google releases Gemma 4 open models",
-    "title": "Google releases Gemma 4 open models",
-    "score": 1242,
-    "source": "Hacker News",
-    "timestamp": "2026-04-03T04:29:41.397128"
-  },
-  {
-    "key": "2026-04-03:Hacker News:LinkedIn is searching your browser extensions",
-    "title": "LinkedIn is searching your browser extensions",
-    "score": 1607,
-    "source": "Hacker News",
-    "timestamp": "2026-04-03T04:29:41.397147"
-  },
-  {
-    "key": "2026-04-03:Hacker News:Sweden goes back to basics, swapping screens for books in the classroom",
-    "title": "Sweden goes back to basics, swapping screens for books in the classroom",
-    "score": 772,
-    "source": "Hacker News",
-    "timestamp": "2026-04-03T04:29:41.397156"
-  },
-  {
-    "key": "2026-04-03:Hacker News:Artemis II Launch Day Updates",
-    "title": "Artemis II Launch Day Updates",
-    "score": 1076,
-    "source": "Hacker News",
-    "timestamp": "2026-04-03T04:29:41.397162"
-  },
-  {
     "key": "2026-04-03:Hacker News:Steam on Linux Use Skyrocketed Above 5% in March",
     "title": "Steam on Linux Use Skyrocketed Above 5% in March",
     "score": 726,
@@ -698,5 +670,33 @@
     "score": 528,
     "source": "Hacker News",
     "timestamp": "2026-04-11T22:35:54.673654"
+  },
+  {
+    "key": "2026-04-12:Hacker News:Small models also found the vulnerabilities that Mythos found",
+    "title": "Small models also found the vulnerabilities that Mythos found",
+    "score": 926,
+    "source": "Hacker News",
+    "timestamp": "2026-04-12T04:46:08.535107"
+  },
+  {
+    "key": "2026-04-12:Hacker News:Filing the corners off my MacBooks",
+    "title": "Filing the corners off my MacBooks",
+    "score": 1315,
+    "source": "Hacker News",
+    "timestamp": "2026-04-12T04:46:08.535127"
+  },
+  {
+    "key": "2026-04-12:Hacker News:Starfling: A one-tap endless orbital slingshot game in a single HTML file",
+    "title": "Starfling: A one-tap endless orbital slingshot game in a single HTML file",
+    "score": 581,
+    "source": "Hacker News",
+    "timestamp": "2026-04-12T04:46:08.535136"
+  },
+  {
+    "key": "2026-04-12:Hacker News:1D Chess",
+    "title": "1D Chess",
+    "score": 960,
+    "source": "Hacker News",
+    "timestamp": "2026-04-12T04:46:08.535144"
   }
 ]

@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-04-03:Hacker News:Steam on Linux Use Skyrocketed Above 5% in March",
-    "title": "Steam on Linux Use Skyrocketed Above 5% in March",
-    "score": 726,
-    "source": "Hacker News",
-    "timestamp": "2026-04-03T04:29:41.397168"
-  },
-  {
     "key": "2026-04-03:Hacker News:Decisions that eroded trust in Azure – by a former Azure Core engineer",
     "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
     "score": 624,
@@ -698,5 +691,12 @@
     "score": 960,
     "source": "Hacker News",
     "timestamp": "2026-04-12T04:46:08.535144"
+  },
+  {
+    "key": "2026-04-12:Hacker News:I run multiple $10K MRR companies on a $20/month tech stack",
+    "title": "I run multiple $10K MRR companies on a $20/month tech stack",
+    "score": 659,
+    "source": "Hacker News",
+    "timestamp": "2026-04-12T18:32:37.832925"
   }
 ]

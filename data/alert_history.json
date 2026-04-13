@@ -1,47 +1,5 @@
 [
   {
-    "key": "2026-04-03:Hacker News:Qwen3.6-Plus: Towards real world agents",
-    "title": "Qwen3.6-Plus: Towards real world agents",
-    "score": 534,
-    "source": "Hacker News",
-    "timestamp": "2026-04-03T10:31:01.384980"
-  },
-  {
-    "key": "2026-04-03:Hacker News:Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-    "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-    "score": 521,
-    "source": "Hacker News",
-    "timestamp": "2026-04-03T10:31:01.384999"
-  },
-  {
-    "key": "2026-04-03:Hacker News:Tailscale's new macOS home",
-    "title": "Tailscale's new macOS home",
-    "score": 503,
-    "source": "Hacker News",
-    "timestamp": "2026-04-03T14:35:22.204772"
-  },
-  {
-    "key": "2026-04-03:Hacker News:Show HN: Apfel – The free AI already on your Mac",
-    "title": "Show HN: Apfel – The free AI already on your Mac",
-    "score": 557,
-    "source": "Hacker News",
-    "timestamp": "2026-04-03T18:33:16.513405"
-  },
-  {
-    "key": "2026-04-03:Hacker News:Cursor 3",
-    "title": "Cursor 3",
-    "score": 517,
-    "source": "Hacker News",
-    "timestamp": "2026-04-03T18:33:16.513426"
-  },
-  {
-    "key": "2026-04-03:Hacker News:Show HN: I built a frontpage for personal blogs",
-    "title": "Show HN: I built a frontpage for personal blogs",
-    "score": 598,
-    "source": "Hacker News",
-    "timestamp": "2026-04-03T22:37:03.114317"
-  },
-  {
     "key": "2026-04-04:Hacker News:Artemis II crew take “spectacular” image of Earth",
     "title": "Artemis II crew take “spectacular” image of Earth",
     "score": 588,
@@ -698,5 +656,47 @@
     "score": 590,
     "source": "Hacker News",
     "timestamp": "2026-04-12T22:37:36.722281"
+  },
+  {
+    "key": "2026-04-13:Hacker News:Bring Back Idiomatic Design (2023)",
+    "title": "Bring Back Idiomatic Design (2023)",
+    "score": 500,
+    "source": "Hacker News",
+    "timestamp": "2026-04-13T04:57:37.318163"
+  },
+  {
+    "key": "2026-04-13:Hacker News:Tell HN: Docker pull fails in Spain due to football Cloudflare block",
+    "title": "Tell HN: Docker pull fails in Spain due to football Cloudflare block",
+    "score": 728,
+    "source": "Hacker News",
+    "timestamp": "2026-04-13T04:57:37.318177"
+  },
+  {
+    "key": "2026-04-13:Hacker News:Seven countries now generate 100% of their electricity from renewable energy",
+    "title": "Seven countries now generate 100% of their electricity from renewable energy",
+    "score": 537,
+    "source": "Hacker News",
+    "timestamp": "2026-04-13T04:57:37.318184"
+  },
+  {
+    "key": "2026-04-13:Hacker News:Exploiting the most prominent AI agent benchmarks",
+    "title": "Exploiting the most prominent AI agent benchmarks",
+    "score": 502,
+    "source": "Hacker News",
+    "timestamp": "2026-04-13T04:57:37.318190"
+  },
+  {
+    "key": "2026-04-13:Hacker News:Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
+    "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
+    "score": 566,
+    "source": "Hacker News",
+    "timestamp": "2026-04-13T04:57:37.318195"
+  },
+  {
+    "key": "2026-04-13:Hacker News:I run multiple $10K MRR companies on a $20/month tech stack",
+    "title": "I run multiple $10K MRR companies on a $20/month tech stack",
+    "score": 848,
+    "source": "Hacker News",
+    "timestamp": "2026-04-13T04:57:37.318200"
   }
 ]

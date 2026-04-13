@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-04-04:Hacker News:Google releases Gemma 4 open models",
-    "title": "Google releases Gemma 4 open models",
-    "score": 1729,
-    "source": "Hacker News",
-    "timestamp": "2026-04-04T04:17:47.997961"
-  },
-  {
-    "key": "2026-04-04:Hacker News:Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
-    "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
-    "score": 541,
-    "source": "Hacker News",
-    "timestamp": "2026-04-04T07:04:31.325229"
-  },
-  {
     "key": "2026-04-04:Hacker News:Decisions that eroded trust in Azure – by a former Azure Core engineer",
     "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
     "score": 1187,
@@ -698,5 +684,19 @@
     "score": 1367,
     "source": "Hacker News",
     "timestamp": "2026-04-13T08:08:06.617956"
+  },
+  {
+    "key": "2026-04-13:Hacker News:All elementary functions from a single binary operator",
+    "title": "All elementary functions from a single binary operator",
+    "score": 631,
+    "source": "Hacker News",
+    "timestamp": "2026-04-13T15:06:48.151888"
+  },
+  {
+    "key": "2026-04-13:Hacker News:DIY Soft Drinks",
+    "title": "DIY Soft Drinks",
+    "score": 581,
+    "source": "Hacker News",
+    "timestamp": "2026-04-13T15:06:48.151916"
   }
 ]

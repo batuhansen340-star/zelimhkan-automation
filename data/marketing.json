@@ -1,34 +1,5 @@
 [
   {
-    "date": "2026-03-15T06:07:44.588320",
-    "content": {
-      "contents": [
-        {
-          "platform": "twitter",
-          "type": "thread",
-          "content": "Pazar sabahları çocuğunuzla kahvaltıda hikaye okuma ritüeli var mı? ☕📖\n\nStoryPal ile artık çocuğunuz sadece dinlemiyor, hikayenin kahramanı oluyor! Kendi adıyla, sevdiği hayvanlarla, hayal ettiği macerayla...\n\nÜstelik AI sayesinde her hikaye benzersiz görsellere sahip. Çocuğunuz kendini gerçekten hikayede görüyor! 🎨✨\n\nBu pazar ailenizle özel anılar yaratın. App Store'dan ücretsiz deneyin! 🚀\n#AileBirlikteliği #PazarGünü",
-          "hashtags": [
-            "#StoryPal",
-            "#AileBirlikteliği",
-            "#PazarGünü",
-            "#DijitalEbeveynlik"
-          ]
-        },
-        {
-          "platform": "instagram",
-          "type": "caption",
-          "content": "\"Anne, bak bu hikayede ben varım!\" 🌟\n\nPazar günleri aile zamanıdır. Ekran süresini kaliteli içerikle değerlendirmenin tam zamanı!\n\nStoryPal ile çocuğunuz:\n✨ Kendi hikayesinin kahramanı olur\n🎨 AI ile üretilmiş özel görselleri keşfeder\n📚 Okuma sevgisi kazanır\n💭 Hayal gücünü geliştirir\n\nHer gün 3 hikaye ÜCRETSİZ! Premium ile sınırsız macera...\n\nSiz de çocuğunuzun gözlerindeki o parıltıyı görmek ister misiniz? 💫\n\n👆 Bioda link! App Store'dan hemen indirin.\n\n#StoryPal #KişiselleştirilmisHikaye #AileZamanı #DijitalEbeveynlik #ÇocukGelişimi #OkumaAlışkanlığı #AITeknolojisi #TürkiyedeEbeveynlik",
-          "visual_idea": "Tabletinde StoryPal uygulamasını inceleyen mutlu bir çocuğun close-up fotoğrafı. Ekranda çocuğun karakterize edilmiş görseli görünüyor. Arka planda bulanık ailevi ortam, sıcak doğal ışık. Soft focus efekti ile duygusal bağ vurgusu."
-        },
-        {
-          "platform": "blog",
-          "type": "outline",
-          "content": "Başlık: 'Pazar Rutinleri: Dijital Çağda Çocuklarla Kaliteli Vakit Geçirmenin 5 Yolu'\n\n1. Teknoloji Dostu Ebeveynlik: Ekran süresini nasıl kaliteli içeriğe dönüştürürüz? StoryPal gibi eğitici uygulamaların çocuk gelişimine katkıları, uzman görüşleri ve araştırma verileriyle desteklenen öneriler.\n\n2. Kişiselleştirmenin Gücü: Çocukların hikayede kendilerini görmelerinin öz güven ve okuma motivasyonuna etkisi. Montessori ve Reggio Emilia yaklaşımlarında 'çocuk merkezli' öğrenme ile bağlantı kurma.\n\n3. Aile Ritüelleri Yaratmak: Pazar sabahları hikaye okuma geleneğinin aile bağlarını güçlendirme potansiyeli. Pratik uygulama önerileri ve StoryPal ile interaktif hikaye zamanı nasıl oluşturulur? Gerçek ebeveyn deneyimleri ve başarı hikayeleri."
-        }
-      ]
-    }
-  },
-  {
     "date": "2026-03-16T06:21:49.353449",
     "content": {
       "contents": [
@@ -599,6 +570,13 @@
     "content": {
       "contents": [],
       "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca1Ms8JnGB5EPEv2E81Yv'}"
+    }
+  },
+  {
+    "date": "2026-04-14T06:54:19.519257",
+    "content": {
+      "contents": [],
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca3DxxhpsppdtTAiJewaP'}"
     }
   }
 ]

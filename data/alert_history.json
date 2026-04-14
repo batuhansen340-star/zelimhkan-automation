@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-04-04:Hacker News:F-15E jet shot down over Iran",
-    "title": "F-15E jet shot down over Iran",
-    "score": 538,
-    "source": "Hacker News",
-    "timestamp": "2026-04-04T14:23:57.284238"
-  },
-  {
-    "key": "2026-04-04:Hacker News:iNaturalist",
-    "title": "iNaturalist",
-    "score": 501,
-    "source": "Hacker News",
-    "timestamp": "2026-04-04T18:27:00.583117"
-  },
-  {
-    "key": "2026-04-04:Hacker News:Author of \"Careless People\" banned from saying anything negative about Meta",
-    "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
-    "score": 664,
-    "source": "Hacker News",
-    "timestamp": "2026-04-04T22:33:47.812916"
-  },
-  {
     "key": "2026-04-05:Hacker News:Show HN: A game where you build a GPU",
     "title": "Show HN: A game where you build a GPU",
     "score": 573,
@@ -698,5 +677,26 @@
     "score": 532,
     "source": "Hacker News",
     "timestamp": "2026-04-13T22:47:10.635689"
+  },
+  {
+    "key": "2026-04-14:Hacker News:Someone bought 30 WordPress plugins and planted a backdoor in all of them",
+    "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
+    "score": 791,
+    "source": "Hacker News",
+    "timestamp": "2026-04-14T04:44:43.420098"
+  },
+  {
+    "key": "2026-04-14:Hacker News:GitHub Stacked PRs",
+    "title": "GitHub Stacked PRs",
+    "score": 544,
+    "source": "Hacker News",
+    "timestamp": "2026-04-14T04:44:43.420113"
+  },
+  {
+    "key": "2026-04-14:Hacker News:All elementary functions from a single binary operator",
+    "title": "All elementary functions from a single binary operator",
+    "score": 806,
+    "source": "Hacker News",
+    "timestamp": "2026-04-14T04:44:43.420119"
   }
 ]

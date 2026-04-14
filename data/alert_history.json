@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-04-05:Hacker News:Show HN: A game where you build a GPU",
-    "title": "Show HN: A game where you build a GPU",
-    "score": 573,
-    "source": "Hacker News",
-    "timestamp": "2026-04-05T04:36:44.577158"
-  },
-  {
     "key": "2026-04-05:Hacker News:Embarrassingly simple self-distillation improves code generation",
     "title": "Embarrassingly simple self-distillation improves code generation",
     "score": 574,
@@ -698,5 +691,12 @@
     "score": 806,
     "source": "Hacker News",
     "timestamp": "2026-04-14T04:44:43.420119"
+  },
+  {
+    "key": "2026-04-14:Hacker News:DaVinci Resolve – Photo",
+    "title": "DaVinci Resolve – Photo",
+    "score": 607,
+    "source": "Hacker News",
+    "timestamp": "2026-04-14T10:53:39.227873"
   }
 ]

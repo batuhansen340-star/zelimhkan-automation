@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-03-15T17:22:09.463882",
-    "commits": 0,
-    "runs": 0,
-    "summary": "# Günlük Geliştirme Özeti\n\n## 1. Bugün Ne Yapıldı\nBugün herhangi bir commit kaydı veya GitHub Actions çalışması gerçekleşmedi. Geliştirme ekibi muhtemelen planlama, dokümantasyon veya araştırma faaliyetleriyle meşgul oldu.\n\n## 2. Önemli Değişiklikler\nKod tabanında değişiklik olmadı.\n\n## 3. Yarın İçin Öneri\nPlanlanan geliştirme görevlerine başlanması ve düzenli commit akışının sağlanması önerilir."
-  },
-  {
     "date": "2026-03-16T17:55:22.952207",
     "commits": 0,
     "runs": 0,
@@ -178,5 +172,11 @@
     "commits": 0,
     "runs": 5,
     "summary": "Özet oluşturulamadı: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca2CXPt4J9LDkseqobA92'}"
+  },
+  {
+    "date": "2026-04-14T17:59:04.849649",
+    "commits": 0,
+    "runs": 5,
+    "summary": "Özet oluşturulamadı: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca46f5FuLjP5hHctfdd6P'}"
   }
 ]

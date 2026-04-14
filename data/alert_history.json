@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-04-05:Hacker News:Embarrassingly simple self-distillation improves code generation",
-    "title": "Embarrassingly simple self-distillation improves code generation",
-    "score": 574,
-    "source": "Hacker News",
-    "timestamp": "2026-04-05T04:36:44.577191"
-  },
-  {
     "key": "2026-04-05:Hacker News:Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
     "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
     "score": 1042,
@@ -698,5 +691,12 @@
     "score": 607,
     "source": "Hacker News",
     "timestamp": "2026-04-14T10:53:39.227873"
+  },
+  {
+    "key": "2026-04-14:Hacker News:A new spam policy for “back button hijacking”",
+    "title": "A new spam policy for “back button hijacking”",
+    "score": 593,
+    "source": "Hacker News",
+    "timestamp": "2026-04-14T15:05:18.986902"
   }
 ]

@@ -1,34 +1,5 @@
 [
   {
-    "date": "2026-03-16T06:21:49.353449",
-    "content": {
-      "contents": [
-        {
-          "platform": "twitter",
-          "type": "thread",
-          "content": "Pazartesi sendromu sadece yetişkinlerde değil! Çocuklar da hafta başı motivasyona ihtiyaç duyar. 🌟\n\nStoryPal ile sabah rutininize özel bir hikaye ekleyin. Çocuğunuz kahramanı olduğu hikayeyle güne başlasın! Her sabah yeni bir macera onu bekliyor.\n\nAraştırmalar gösteriyor: Kişiselleştirilmiş hikayeler çocukların özgüvenini %40 artırıyor. Kendi adını hikayede gören çocuk, günlük zorluklarla başa çıkmada daha cesur!\n\nÜcretsiz deneyin, günde 3 hikaye hakkınızla başlayın. App Store'da StoryPal! 📱✨",
-          "hashtags": [
-            "#StoryPal",
-            "#ÇocukGelişimi",
-            "#EbeveynlikTüyoları",
-            "#PazartesiMotivasyonu"
-          ]
-        },
-        {
-          "platform": "instagram",
-          "type": "caption",
-          "content": "Haftaya nasıl başlıyoruz? ☀️\n\nBizde sabah kahvesiyle birlikte çocuklarımız için özel hikayeler var! Ayşe bugün uzay kaşifi, Mehmet denizaltı kaptanı... Senin çocuğun ne olmak ister?\n\nStoryPal'ın AI destekli hikayeleriyle her sabah farklı bir dünyaya yolculuk. Çocuğunuzun adı, özellikleri ve ilgi alanlarıyla oluşturulan benzersiz hikayeler.\n\n✨ Günde 3 hikaye ÜCRETSİZ\n✨ Her hikayeye özel AI görseller\n✨ PDF olarak kaydedin, anıları biriktirin\n\nHaftalık rutininize sihir katın! Link bioda 💜\n\n#StoryPal #KişiselleştirilmişHikayeler #EbeveynlikHikayeleri #ÇocukluğunSihri #AileZamanı #AkıllıEbeveynlik #ÇocukKitapları #DijitalEbeveynlik",
-          "visual_idea": "Carousel post: 1) Sabah kahvesi ve tablet/telefonda StoryPal uygulaması görüntüsü, yumuşak sabah ışığı 2) Uygulama içinden örnek hikaye sayfası (çocuk karakterli, renkli AI görselli) 3) Mutlu çocuk elinde tablet/telefon, gülümseyerek okuyor (veya ebeveynle birlikte)"
-        },
-        {
-          "platform": "blog",
-          "type": "outline",
-          "content": "BAŞLIK: 'Pazartesi Sabahları Artık Daha Kolay: Çocuğunuzu Güne Hazırlamanın 5 Yaratıcı Yolu'\n\nÖZET:\n1. Kişiselleştirilmiş hikayelerin çocuk psikolojisindeki rolü - Neden kendi adını hikayede görmek çocuğu motive eder? Uzman görüşleri ve bilimsel araştırmalar.\n\n2. Sabah rutinine hikaye entegre etmenin pratik faydaları - Okula hazırlanma sürecini eğlenceli hale getirme, ekran süresi endişelerini pozitif aktiviteye dönüştürme, kardeşler arası bağ kurma.\n\n3. StoryPal kullanıcı hikayeleri ve deneyimleri - Gerçek ebeveynlerin paylaşımları, haftalık rutin değişimleri, çocuklardaki gözle görülür gelişimler. Premium vs Free tier karşılaştırması ve hangisinin sizin için uygun olduğu."
-        }
-      ]
-    }
-  },
-  {
     "date": "2026-03-17T06:03:37.660574",
     "content": {
       "contents": [
@@ -577,6 +548,13 @@
     "content": {
       "contents": [],
       "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca3DxxhpsppdtTAiJewaP'}"
+    }
+  },
+  {
+    "date": "2026-04-15T06:56:28.235371",
+    "content": {
+      "contents": [],
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca57wMtqkNDkdYQUUVMbq'}"
     }
   }
 ]

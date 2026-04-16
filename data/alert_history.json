@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-04-07:Hacker News:Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
-    "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
-    "score": 845,
-    "source": "Hacker News",
-    "timestamp": "2026-04-07T04:32:46.947725"
-  },
-  {
-    "key": "2026-04-07:Hacker News:Sam Altman may control our future – can he be trusted?",
-    "title": "Sam Altman may control our future – can he be trusted?",
-    "score": 1060,
-    "source": "Hacker News",
-    "timestamp": "2026-04-07T04:32:46.947740"
-  },
-  {
     "key": "2026-04-07:Hacker News:France pulls last gold held in US",
     "title": "France pulls last gold held in US",
     "score": 572,
@@ -698,5 +684,19 @@
     "score": 580,
     "source": "Hacker News",
     "timestamp": "2026-04-16T15:16:36.633367"
+  },
+  {
+    "key": "2026-04-16:Hacker News:Claude Opus 4.7",
+    "title": "Claude Opus 4.7",
+    "score": 975,
+    "source": "Hacker News",
+    "timestamp": "2026-04-16T18:58:02.131081"
+  },
+  {
+    "key": "2026-04-16:Hacker News:Qwen3.6-35B-A3B: Agentic coding power, now open to all",
+    "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
+    "score": 634,
+    "source": "Hacker News",
+    "timestamp": "2026-04-16T18:58:02.131100"
   }
 ]

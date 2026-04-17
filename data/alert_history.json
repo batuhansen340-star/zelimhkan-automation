@@ -1,40 +1,5 @@
 [
   {
-    "key": "2026-04-07:Hacker News:Show HN: I built a tiny LLM to demystify how language models work",
-    "title": "Show HN: I built a tiny LLM to demystify how language models work",
-    "score": 851,
-    "source": "Hacker News",
-    "timestamp": "2026-04-07T04:32:46.947752"
-  },
-  {
-    "key": "2026-04-07:Hacker News:Microsoft hasn't had a coherent GUI strategy since Petzold",
-    "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
-    "score": 777,
-    "source": "Hacker News",
-    "timestamp": "2026-04-07T04:32:46.947758"
-  },
-  {
-    "key": "2026-04-07:Hacker News:I won't download your app. The web version is a-ok",
-    "title": "I won't download your app. The web version is a-ok",
-    "score": 841,
-    "source": "Hacker News",
-    "timestamp": "2026-04-07T04:32:46.947763"
-  },
-  {
-    "key": "2026-04-07:Hacker News:Gemma 4 on iPhone",
-    "title": "Gemma 4 on iPhone",
-    "score": 843,
-    "source": "Hacker News",
-    "timestamp": "2026-04-07T04:32:46.947768"
-  },
-  {
-    "key": "2026-04-07:Hacker News:The cult of vibe coding is dogfooding run amok",
-    "title": "The cult of vibe coding is dogfooding run amok",
-    "score": 535,
-    "source": "Hacker News",
-    "timestamp": "2026-04-07T07:21:38.537667"
-  },
-  {
     "key": "2026-04-07:Hacker News:A cryptography engineer's perspective on quantum computing timelines",
     "title": "A cryptography engineer's perspective on quantum computing timelines",
     "score": 519,
@@ -698,5 +663,40 @@
     "score": 587,
     "source": "Hacker News",
     "timestamp": "2026-04-16T22:43:43.361379"
+  },
+  {
+    "key": "2026-04-17:Hacker News:Claude Opus 4.7",
+    "title": "Claude Opus 4.7",
+    "score": 1579,
+    "source": "Hacker News",
+    "timestamp": "2026-04-17T04:48:25.663876"
+  },
+  {
+    "key": "2026-04-17:Hacker News:Codex for almost everything",
+    "title": "Codex for almost everything",
+    "score": 763,
+    "source": "Hacker News",
+    "timestamp": "2026-04-17T04:48:25.663899"
+  },
+  {
+    "key": "2026-04-17:Hacker News:Qwen3.6-35B-A3B: Agentic coding power, now open to all",
+    "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
+    "score": 976,
+    "source": "Hacker News",
+    "timestamp": "2026-04-17T04:48:25.663906"
+  },
+  {
+    "key": "2026-04-17:Hacker News:The future of everything is lies, I guess: Where do we go from here?",
+    "title": "The future of everything is lies, I guess: Where do we go from here?",
+    "score": 549,
+    "source": "Hacker News",
+    "timestamp": "2026-04-17T04:48:25.663911"
+  },
+  {
+    "key": "2026-04-17:Hacker News:IPv6 traffic crosses the 50% mark",
+    "title": "IPv6 traffic crosses the 50% mark",
+    "score": 781,
+    "source": "Hacker News",
+    "timestamp": "2026-04-17T04:48:25.663917"
   }
 ]

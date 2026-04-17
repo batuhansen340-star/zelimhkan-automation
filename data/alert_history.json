@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-04-07:Hacker News:A cryptography engineer's perspective on quantum computing timelines",
-    "title": "A cryptography engineer's perspective on quantum computing timelines",
-    "score": 519,
-    "source": "Hacker News",
-    "timestamp": "2026-04-07T14:59:05.822495"
-  },
-  {
     "key": "2026-04-07:Hacker News:Show HN: Brutalist Concrete Laptop Stand (2024)",
     "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
     "score": 579,
@@ -698,5 +691,12 @@
     "score": 781,
     "source": "Hacker News",
     "timestamp": "2026-04-17T04:48:25.663917"
+  },
+  {
+    "key": "2026-04-17:Hacker News:Claude Design",
+    "title": "Claude Design",
+    "score": 502,
+    "source": "Hacker News",
+    "timestamp": "2026-04-17T18:42:48.172731"
   }
 ]

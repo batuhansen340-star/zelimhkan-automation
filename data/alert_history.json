@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-04-07:Hacker News:Show HN: Brutalist Concrete Laptop Stand (2024)",
-    "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
-    "score": 579,
-    "source": "Hacker News",
-    "timestamp": "2026-04-07T18:47:22.283378"
-  },
-  {
-    "key": "2026-04-07:Hacker News:Project Glasswing: Securing critical software for the AI era",
-    "title": "Project Glasswing: Securing critical software for the AI era",
-    "score": 699,
-    "source": "Hacker News",
-    "timestamp": "2026-04-07T22:40:59.079684"
-  },
-  {
     "key": "2026-04-08:Hacker News:Project Glasswing: Securing critical software for the AI era",
     "title": "Project Glasswing: Securing critical software for the AI era",
     "score": 1031,
@@ -698,5 +684,19 @@
     "score": 502,
     "source": "Hacker News",
     "timestamp": "2026-04-17T18:42:48.172731"
+  },
+  {
+    "key": "2026-04-17:Hacker News:Isaac Asimov: The Last Question (1956)",
+    "title": "Isaac Asimov: The Last Question (1956)",
+    "score": 580,
+    "source": "Hacker News",
+    "timestamp": "2026-04-17T22:42:27.002136"
+  },
+  {
+    "key": "2026-04-17:Hacker News:Ban the sale of precise geolocation",
+    "title": "Ban the sale of precise geolocation",
+    "score": 543,
+    "source": "Hacker News",
+    "timestamp": "2026-04-17T22:42:27.002149"
   }
 ]

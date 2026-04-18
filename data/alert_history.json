@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-04-08:Hacker News:Project Glasswing: Securing critical software for the AI era",
-    "title": "Project Glasswing: Securing critical software for the AI era",
-    "score": 1031,
-    "source": "Hacker News",
-    "timestamp": "2026-04-08T04:36:31.463763"
-  },
-  {
-    "key": "2026-04-08:Hacker News:System Card: Claude Mythos Preview [pdf]",
-    "title": "System Card: Claude Mythos Preview [pdf]",
-    "score": 595,
-    "source": "Hacker News",
-    "timestamp": "2026-04-08T04:36:31.463780"
-  },
-  {
-    "key": "2026-04-08:Hacker News:Show HN: Brutalist Concrete Laptop Stand (2024)",
-    "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
-    "score": 720,
-    "source": "Hacker News",
-    "timestamp": "2026-04-08T04:36:31.463786"
-  },
-  {
-    "key": "2026-04-08:Hacker News:Sam Altman may control our future – can he be trusted?",
-    "title": "Sam Altman may control our future – can he be trusted?",
-    "score": 1994,
-    "source": "Hacker News",
-    "timestamp": "2026-04-08T04:36:31.463792"
-  },
-  {
     "key": "2026-04-08:Hacker News:Lunar Flyby",
     "title": "Lunar Flyby",
     "score": 634,
@@ -698,5 +670,33 @@
     "score": 543,
     "source": "Hacker News",
     "timestamp": "2026-04-17T22:42:27.002149"
+  },
+  {
+    "key": "2026-04-18:Hacker News:Claude Design",
+    "title": "Claude Design",
+    "score": 915,
+    "source": "Hacker News",
+    "timestamp": "2026-04-18T04:31:39.802116"
+  },
+  {
+    "key": "2026-04-18:Hacker News:Isaac Asimov: The Last Question (1956)",
+    "title": "Isaac Asimov: The Last Question (1956)",
+    "score": 664,
+    "source": "Hacker News",
+    "timestamp": "2026-04-18T04:31:39.802138"
+  },
+  {
+    "key": "2026-04-18:Hacker News:Measuring Claude 4.7's tokenizer costs",
+    "title": "Measuring Claude 4.7's tokenizer costs",
+    "score": 566,
+    "source": "Hacker News",
+    "timestamp": "2026-04-18T04:31:39.802145"
+  },
+  {
+    "key": "2026-04-18:Hacker News:Ban the sale of precise geolocation",
+    "title": "Ban the sale of precise geolocation",
+    "score": 647,
+    "source": "Hacker News",
+    "timestamp": "2026-04-18T04:31:39.802150"
   }
 ]

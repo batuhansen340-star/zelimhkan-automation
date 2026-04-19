@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-04-08:Hacker News:Veracrypt project update",
-    "title": "Veracrypt project update",
-    "score": 667,
-    "source": "Hacker News",
-    "timestamp": "2026-04-08T15:00:16.232785"
-  },
-  {
     "key": "2026-04-08:Hacker News:US and Iran agree to provisional ceasefire",
     "title": "US and Iran agree to provisional ceasefire",
     "score": 552,
@@ -698,5 +691,12 @@
     "score": 1188,
     "source": "Hacker News",
     "timestamp": "2026-04-19T04:49:56.743819"
+  },
+  {
+    "key": "2026-04-19:Hacker News:Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
+    "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
+    "score": 521,
+    "source": "Hacker News",
+    "timestamp": "2026-04-19T10:27:25.964691"
   }
 ]

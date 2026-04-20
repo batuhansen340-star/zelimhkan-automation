@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-04-08:Hacker News:I ported Mac OS X to the Nintendo Wii",
-    "title": "I ported Mac OS X to the Nintendo Wii",
-    "score": 1059,
-    "source": "Hacker News",
-    "timestamp": "2026-04-08T22:42:03.299989"
-  },
-  {
-    "key": "2026-04-08:Hacker News:US cities are axing Flock Safety surveillance technology",
-    "title": "US cities are axing Flock Safety surveillance technology",
-    "score": 586,
-    "source": "Hacker News",
-    "timestamp": "2026-04-08T22:42:03.300010"
-  },
-  {
     "key": "2026-04-09:Hacker News:I ported Mac OS X to the Nintendo Wii",
     "title": "I ported Mac OS X to the Nintendo Wii",
     "score": 1367,
@@ -698,5 +684,19 @@
     "score": 507,
     "source": "Hacker News",
     "timestamp": "2026-04-19T22:39:35.353786"
+  },
+  {
+    "key": "2026-04-20:Hacker News:Vercel April 2026 security incident",
+    "title": "Vercel April 2026 security incident",
+    "score": 622,
+    "source": "Hacker News",
+    "timestamp": "2026-04-20T04:57:10.038078"
+  },
+  {
+    "key": "2026-04-20:Hacker News:Archive of BYTE magazine, starting with issue #1 in 1975",
+    "title": "Archive of BYTE magazine, starting with issue #1 in 1975",
+    "score": 553,
+    "source": "Hacker News",
+    "timestamp": "2026-04-20T04:57:10.038091"
   }
 ]

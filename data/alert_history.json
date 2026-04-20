@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-04-09:Hacker News:US cities are axing Flock Safety surveillance technology",
-    "title": "US cities are axing Flock Safety surveillance technology",
-    "score": 666,
-    "source": "Hacker News",
-    "timestamp": "2026-04-09T04:33:25.230777"
-  },
-  {
-    "key": "2026-04-09:Hacker News:Veracrypt project update",
-    "title": "Veracrypt project update",
-    "score": 1169,
-    "source": "Hacker News",
-    "timestamp": "2026-04-09T04:33:25.230783"
-  },
-  {
-    "key": "2026-04-09:Hacker News:Microsoft terminates VeraCrypt account, halting Windows updates",
-    "title": "Microsoft terminates VeraCrypt account, halting Windows updates",
-    "score": 503,
-    "source": "Hacker News",
-    "timestamp": "2026-04-09T04:33:25.230789"
-  },
-  {
     "key": "2026-04-09:Hacker News:Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones",
     "title": "Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones",
     "score": 552,
@@ -698,5 +677,26 @@
     "score": 655,
     "source": "Hacker News",
     "timestamp": "2026-04-20T18:51:08.735287"
+  },
+  {
+    "key": "2026-04-20:Hacker News:John Ternus to become Apple CEO",
+    "title": "John Ternus to become Apple CEO",
+    "score": 779,
+    "source": "Hacker News",
+    "timestamp": "2026-04-20T22:48:45.770025"
+  },
+  {
+    "key": "2026-04-20:Hacker News:GitHub's fake star economy",
+    "title": "GitHub's fake star economy",
+    "score": 705,
+    "source": "Hacker News",
+    "timestamp": "2026-04-20T22:48:45.770039"
+  },
+  {
+    "key": "2026-04-20:Hacker News:Kimi K2.6: Advancing open-source coding",
+    "title": "Kimi K2.6: Advancing open-source coding",
+    "score": 514,
+    "source": "Hacker News",
+    "timestamp": "2026-04-20T22:48:45.770050"
   }
 ]

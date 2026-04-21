@@ -1,47 +1,5 @@
 [
   {
-    "key": "2026-04-09:Hacker News:Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones",
-    "title": "Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones",
-    "score": 552,
-    "source": "Hacker News",
-    "timestamp": "2026-04-09T04:33:25.230794"
-  },
-  {
-    "key": "2026-04-09:Hacker News:Project Glasswing: Securing critical software for the AI era",
-    "title": "Project Glasswing: Securing critical software for the AI era",
-    "score": 1484,
-    "source": "Hacker News",
-    "timestamp": "2026-04-09T04:33:25.230799"
-  },
-  {
-    "key": "2026-04-09:Hacker News:LittleSnitch for Linux",
-    "title": "LittleSnitch for Linux",
-    "score": 547,
-    "source": "Hacker News",
-    "timestamp": "2026-04-09T07:26:39.557193"
-  },
-  {
-    "key": "2026-04-09:Hacker News:They're made out of meat (1991)",
-    "title": "They're made out of meat (1991)",
-    "score": 505,
-    "source": "Hacker News",
-    "timestamp": "2026-04-09T07:26:39.557213"
-  },
-  {
-    "key": "2026-04-09:Hacker News:Sam Altman may control our future – can he be trusted?",
-    "title": "Sam Altman may control our future – can he be trusted?",
-    "score": 2089,
-    "source": "Hacker News",
-    "timestamp": "2026-04-09T07:26:39.557239"
-  },
-  {
-    "key": "2026-04-09:Hacker News:Lunar Flyby",
-    "title": "Lunar Flyby",
-    "score": 938,
-    "source": "Hacker News",
-    "timestamp": "2026-04-09T07:26:39.557243"
-  },
-  {
     "key": "2026-04-09:Hacker News:Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator",
     "title": "Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator",
     "score": 509,
@@ -698,5 +656,47 @@
     "score": 514,
     "source": "Hacker News",
     "timestamp": "2026-04-20T22:48:45.770050"
+  },
+  {
+    "key": "2026-04-21:Hacker News:John Ternus to become Apple CEO",
+    "title": "John Ternus to become Apple CEO",
+    "score": 1434,
+    "source": "Hacker News",
+    "timestamp": "2026-04-21T04:47:43.286972"
+  },
+  {
+    "key": "2026-04-21:Hacker News:Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+    "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+    "score": 575,
+    "source": "Hacker News",
+    "timestamp": "2026-04-21T04:47:43.286985"
+  },
+  {
+    "key": "2026-04-21:Hacker News:All phones sold in the EU to have replaceable batteries from 2027",
+    "title": "All phones sold in the EU to have replaceable batteries from 2027",
+    "score": 1069,
+    "source": "Hacker News",
+    "timestamp": "2026-04-21T04:47:43.286991"
+  },
+  {
+    "key": "2026-04-21:Hacker News:Atlassian enables default data collection to train AI",
+    "title": "Atlassian enables default data collection to train AI",
+    "score": 531,
+    "source": "Hacker News",
+    "timestamp": "2026-04-21T04:47:43.286996"
+  },
+  {
+    "key": "2026-04-21:Hacker News:Kimi K2.6: Advancing open-source coding",
+    "title": "Kimi K2.6: Advancing open-source coding",
+    "score": 617,
+    "source": "Hacker News",
+    "timestamp": "2026-04-21T04:47:43.287001"
+  },
+  {
+    "key": "2026-04-21:Hacker News:GitHub's fake star economy",
+    "title": "GitHub's fake star economy",
+    "score": 755,
+    "source": "Hacker News",
+    "timestamp": "2026-04-21T04:47:43.287006"
   }
 ]

@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-04-09:Hacker News:ML promises to be profoundly weird",
-    "title": "ML promises to be profoundly weird",
-    "score": 508,
-    "source": "Hacker News",
-    "timestamp": "2026-04-09T10:50:39.311114"
-  },
-  {
     "key": "2026-04-09:Hacker News:EFF is leaving X",
     "title": "EFF is leaving X",
     "score": 948,
@@ -698,5 +691,12 @@
     "score": 650,
     "source": "Hacker News",
     "timestamp": "2026-04-21T18:56:43.144722"
+  },
+  {
+    "key": "2026-04-21:Hacker News:Framework Laptop 13 Pro",
+    "title": "Framework Laptop 13 Pro",
+    "score": 728,
+    "source": "Hacker News",
+    "timestamp": "2026-04-21T22:40:11.673903"
   }
 ]

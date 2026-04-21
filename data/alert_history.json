@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-04-09:Hacker News:Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator",
-    "title": "Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator",
-    "score": 509,
-    "source": "Hacker News",
-    "timestamp": "2026-04-09T10:50:39.311102"
-  },
-  {
     "key": "2026-04-09:Hacker News:ML promises to be profoundly weird",
     "title": "ML promises to be profoundly weird",
     "score": 508,
@@ -698,5 +691,12 @@
     "score": 755,
     "source": "Hacker News",
     "timestamp": "2026-04-21T04:47:43.287006"
+  },
+  {
+    "key": "2026-04-21:Hacker News:Laws of Software Engineering",
+    "title": "Laws of Software Engineering",
+    "score": 650,
+    "source": "Hacker News",
+    "timestamp": "2026-04-21T18:56:43.144722"
   }
 ]

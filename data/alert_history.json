@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-04-10:Hacker News:LittleSnitch for Linux",
-    "title": "LittleSnitch for Linux",
-    "score": 1286,
-    "source": "Hacker News",
-    "timestamp": "2026-04-10T04:46:46.018270"
-  },
-  {
-    "key": "2026-04-10:Hacker News:I ported Mac OS X to the Nintendo Wii",
-    "title": "I ported Mac OS X to the Nintendo Wii",
-    "score": 1840,
-    "source": "Hacker News",
-    "timestamp": "2026-04-10T04:46:46.018277"
-  },
-  {
-    "key": "2026-04-10:Hacker News:Meta removes ads for social media addiction litigation",
-    "title": "Meta removes ads for social media addiction litigation",
-    "score": 565,
-    "source": "Hacker News",
-    "timestamp": "2026-04-10T04:46:46.018283"
-  },
-  {
     "key": "2026-04-10:Hacker News:Git commands I run before reading any code",
     "title": "Git commands I run before reading any code",
     "score": 2228,
@@ -698,5 +677,26 @@
     "score": 1044,
     "source": "Hacker News",
     "timestamp": "2026-04-22T04:45:50.882370"
+  },
+  {
+    "key": "2026-04-22:Hacker News:SpaceX says it has agreement to acquire Cursor for $60B",
+    "title": "SpaceX says it has agreement to acquire Cursor for $60B",
+    "score": 544,
+    "source": "Hacker News",
+    "timestamp": "2026-04-22T07:52:08.491163"
+  },
+  {
+    "key": "2026-04-22:Hacker News:Meta to start capturing employee mouse movements, keystrokes for AI training",
+    "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
+    "score": 502,
+    "source": "Hacker News",
+    "timestamp": "2026-04-22T07:52:08.491173"
+  },
+  {
+    "key": "2026-04-22:Hacker News:Claude Code to be removed from Anthropic's Pro plan?",
+    "title": "Claude Code to be removed from Anthropic's Pro plan?",
+    "score": 526,
+    "source": "Hacker News",
+    "timestamp": "2026-04-22T07:52:08.491182"
   }
 ]

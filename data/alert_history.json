@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-04-09:Hacker News:EFF is leaving X",
-    "title": "EFF is leaving X",
-    "score": 948,
-    "source": "Hacker News",
-    "timestamp": "2026-04-09T22:43:15.489889"
-  },
-  {
-    "key": "2026-04-09:Hacker News:Meta removes ads for social media addiction litigation",
-    "title": "Meta removes ads for social media addiction litigation",
-    "score": 514,
-    "source": "Hacker News",
-    "timestamp": "2026-04-09T22:43:15.489907"
-  },
-  {
-    "key": "2026-04-10:Hacker News:EFF is leaving X",
-    "title": "EFF is leaving X",
-    "score": 1220,
-    "source": "Hacker News",
-    "timestamp": "2026-04-10T04:46:46.018254"
-  },
-  {
     "key": "2026-04-10:Hacker News:LittleSnitch for Linux",
     "title": "LittleSnitch for Linux",
     "score": 1286,
@@ -698,5 +677,26 @@
     "score": 728,
     "source": "Hacker News",
     "timestamp": "2026-04-21T22:40:11.673903"
+  },
+  {
+    "key": "2026-04-22:Hacker News:ChatGPT Images 2.0",
+    "title": "ChatGPT Images 2.0",
+    "score": 604,
+    "source": "Hacker News",
+    "timestamp": "2026-04-22T04:45:50.882349"
+  },
+  {
+    "key": "2026-04-22:Hacker News:Laws of Software Engineering",
+    "title": "Laws of Software Engineering",
+    "score": 885,
+    "source": "Hacker News",
+    "timestamp": "2026-04-22T04:45:50.882364"
+  },
+  {
+    "key": "2026-04-22:Hacker News:Framework Laptop 13 Pro",
+    "title": "Framework Laptop 13 Pro",
+    "score": 1044,
+    "source": "Hacker News",
+    "timestamp": "2026-04-22T04:45:50.882370"
   }
 ]

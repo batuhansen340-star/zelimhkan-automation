@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-04-10:Hacker News:Git commands I run before reading any code",
-    "title": "Git commands I run before reading any code",
-    "score": 2228,
-    "source": "Hacker News",
-    "timestamp": "2026-04-10T04:46:46.018288"
-  },
-  {
-    "key": "2026-04-10:Hacker News:Native Instant Space Switching on macOS",
-    "title": "Native Instant Space Switching on macOS",
-    "score": 522,
-    "source": "Hacker News",
-    "timestamp": "2026-04-10T10:41:27.499139"
-  },
-  {
     "key": "2026-04-10:Hacker News:How NASA built Artemis II’s fault-tolerant computer",
     "title": "How NASA built Artemis II’s fault-tolerant computer",
     "score": 569,
@@ -698,5 +684,19 @@
     "score": 526,
     "source": "Hacker News",
     "timestamp": "2026-04-22T07:52:08.491182"
+  },
+  {
+    "key": "2026-04-22:Hacker News:Acetaminophen vs. ibuprofen",
+    "title": "Acetaminophen vs. ibuprofen",
+    "score": 560,
+    "source": "Hacker News",
+    "timestamp": "2026-04-22T15:03:12.986856"
+  },
+  {
+    "key": "2026-04-22:Hacker News:Changes to GitHub Copilot individual plans",
+    "title": "Changes to GitHub Copilot individual plans",
+    "score": 508,
+    "source": "Hacker News",
+    "timestamp": "2026-04-22T15:03:12.986889"
   }
 ]

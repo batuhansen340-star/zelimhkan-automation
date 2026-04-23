@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-04-11:Hacker News:Starfling: A one-tap endless orbital slingshot game in a single HTML file",
-    "title": "Starfling: A one-tap endless orbital slingshot game in a single HTML file",
-    "score": 528,
-    "source": "Hacker News",
-    "timestamp": "2026-04-11T22:35:54.673654"
-  },
-  {
-    "key": "2026-04-12:Hacker News:Small models also found the vulnerabilities that Mythos found",
-    "title": "Small models also found the vulnerabilities that Mythos found",
-    "score": 926,
-    "source": "Hacker News",
-    "timestamp": "2026-04-12T04:46:08.535107"
-  },
-  {
-    "key": "2026-04-12:Hacker News:Filing the corners off my MacBooks",
-    "title": "Filing the corners off my MacBooks",
-    "score": 1315,
-    "source": "Hacker News",
-    "timestamp": "2026-04-12T04:46:08.535127"
-  },
-  {
     "key": "2026-04-12:Hacker News:Starfling: A one-tap endless orbital slingshot game in a single HTML file",
     "title": "Starfling: A one-tap endless orbital slingshot game in a single HTML file",
     "score": 581,
@@ -698,5 +677,26 @@
     "score": 712,
     "source": "Hacker News",
     "timestamp": "2026-04-23T15:29:09.085296"
+  },
+  {
+    "key": "2026-04-23:Hacker News:GPT-5.5",
+    "title": "GPT-5.5",
+    "score": 924,
+    "source": "Hacker News",
+    "timestamp": "2026-04-23T22:50:30.291654"
+  },
+  {
+    "key": "2026-04-23:Hacker News:Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
+    "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
+    "score": 578,
+    "source": "Hacker News",
+    "timestamp": "2026-04-23T22:50:30.291667"
+  },
+  {
+    "key": "2026-04-23:Hacker News:Palantir employees are starting to wonder if they're the bad guys",
+    "title": "Palantir employees are starting to wonder if they're the bad guys",
+    "score": 573,
+    "source": "Hacker News",
+    "timestamp": "2026-04-23T22:50:30.291673"
   }
 ]

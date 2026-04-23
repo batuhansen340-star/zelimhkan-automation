@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-04-11:Hacker News:WireGuard makes new Windows release following Microsoft signing resolution",
-    "title": "WireGuard makes new Windows release following Microsoft signing resolution",
-    "score": 506,
-    "source": "Hacker News",
-    "timestamp": "2026-04-11T14:26:55.741495"
-  },
-  {
-    "key": "2026-04-11:Hacker News:Installing every* Firefox extension",
-    "title": "Installing every* Firefox extension",
-    "score": 580,
-    "source": "Hacker News",
-    "timestamp": "2026-04-11T18:29:09.611414"
-  },
-  {
     "key": "2026-04-11:Hacker News:Small models also found the vulnerabilities that Mythos found",
     "title": "Small models also found the vulnerabilities that Mythos found",
     "score": 656,
@@ -698,5 +684,19 @@
     "score": 1005,
     "source": "Hacker News",
     "timestamp": "2026-04-23T04:49:35.170670"
+  },
+  {
+    "key": "2026-04-23:Hacker News:Apple fixes bug that cops used to extract deleted chat messages from iPhones",
+    "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
+    "score": 553,
+    "source": "Hacker News",
+    "timestamp": "2026-04-23T07:58:29.876621"
+  },
+  {
+    "key": "2026-04-23:Hacker News:5x5 Pixel font for tiny screens",
+    "title": "5x5 Pixel font for tiny screens",
+    "score": 569,
+    "source": "Hacker News",
+    "timestamp": "2026-04-23T07:58:29.876638"
   }
 ]

@@ -1,34 +1,5 @@
 [
   {
-    "date": "2026-03-25T06:04:44.656380",
-    "content": {
-      "contents": [
-        {
-          "platform": "twitter",
-          "type": "thread",
-          "content": "Tweet 1: Çarşamba günü yorgunluğu mu? 🥱 Akşam yemeğinden sonra çocuğunuzla 10 dakikalık özel zaman yaratın. StoryPal'da birlikte bir hikaye oluşturun!\n\nTweet 2: Çocuğunuz hikayenin kahramanı olunca ne oluyor biliyor musunuz? Özgüven artıyor, hayal gücü gelişiyor ve siz de bir anda 'en iyi ebeveyn' oluyorsunuz 😊\n\nTweet 3: Bugün hangi maceraya atılacaksınız? Uzay yolculuğu? Dinozor keşfi? StoryPal'ın AI'ı çocuğunuzun ilgi alanlarına göre kişiselleştiriyor.\n\nTweet 4: İlk 3 hikaye bedava! App Store'dan indirin, bugün akşam rutininizi değiştirin 📚✨",
-          "hashtags": [
-            "#StoryPal",
-            "#EbeveynlikTüyoları",
-            "#ÇocukGelişimi",
-            "#DijitalEbeveynlik"
-          ]
-        },
-        {
-          "platform": "instagram",
-          "type": "caption",
-          "content": "Haftanın ortası yorgunluğunu çocuğunuzla kaliteli vakit geçirerek atın! 💙\n\nStoryPal ile her akşam yeni bir macera... Çocuğunuz kendi hikayesinin kahramanı olduğunda, yatma saati en sevilen an haline geliyor.\n\n✨ AI ile kişiselleştirilmiş hikayeler\n🎨 Her hikayeye özel görseller\n📱 3 hikaye bedava, premium ile sınırsız\n\nBugün hangi hikayeyi anlatacaksınız? Yorumlara yazın! 👇\n\nBio'daki linkten hemen keşfedin 🔗\n\n#StoryPal #KişiselleştirilmisHikaye #EbeveynlikTavsiyeleri #ÇocukHikayeleri #KaliteliZaman #AileZamanı #DijitalEbeveynlik #YatmaVakti #ÇocukGelişimi #Ebeveynlik",
-          "visual_idea": "Carousel post: 1. slayt: Tablet başında hikaye dinleyen mutlu bir çocuk ve ebeveyni (sıcak ışıklandırma, akşam atmosferi), 2. slayt: StoryPal uygulama arayüzünden ekran görüntüsü (hikaye oluşturma ekranı), 3. slayt: AI tarafından oluşturulmuş örnek hikaye görseli, 4. slayt: Çocuk kahramanlı hikaye örneği ve çocuğun şaşkın mutlu yüzü"
-        },
-        {
-          "platform": "blog",
-          "type": "outline",
-          "content": "Başlık: 'Çocuklarda Empati Gelişimi: Kişiselleştirilmiş Hikayelerin Gizli Gücü'\n\nÖzet Maddeleri:\n1. Empati nedir ve 3-10 yaş arasında nasıl gelişir? - Gelişim psikologlarının görüşleri ve yaş grubuna göre empati kilometre taşları. Çocukların kendilerini başkalarının yerine koyma yeteneği nasıl şekillenir?\n\n2. Kişiselleştirilmiş hikayelerde çocuk kahraman olunca empati nasıl güçlenir? - StoryPal gibi uygulamalarda çocuk kendi adını ve özelliklerini hikayede görünce, farklı durumları deneyimleme fırsatı bulur. Araştırmalar hikaye anlatımının sosyal-duygusal öğrenmeye etkisini gösteriyor.\n\n3. Ebeveynler evde empati gelişimini desteklemek için neler yapabilir? - Hikaye sonrası soru-cevap teknikleri, karakterlerin duygularını tartışma, günlük rutinlere entegrasyon önerileri. StoryPal'ın istatistik özelliği ile çocuğunuzun ilgi alanlarını takip edin ve empati temelli hikayeler oluşturun."
-        }
-      ]
-    }
-  },
-  {
     "date": "2026-03-26T06:14:57.361082",
     "content": {
       "contents": [
@@ -363,6 +334,13 @@
     "content": {
       "contents": [],
       "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CaLGtjXs9MTtEnM2U4QzY'}"
+    }
+  },
+  {
+    "date": "2026-04-24T07:05:35.551383",
+    "content": {
+      "contents": [],
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CaNAuwpt138cVJmi9pRbA'}"
     }
   }
 ]

@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-04-13:Hacker News:Filing the corners off my MacBooks",
-    "title": "Filing the corners off my MacBooks",
-    "score": 1367,
-    "source": "Hacker News",
-    "timestamp": "2026-04-13T08:08:06.617956"
-  },
-  {
     "key": "2026-04-13:Hacker News:All elementary functions from a single binary operator",
     "title": "All elementary functions from a single binary operator",
     "score": 631,
@@ -698,5 +691,12 @@
     "score": 577,
     "source": "Hacker News",
     "timestamp": "2026-04-24T08:07:39.641972"
+  },
+  {
+    "key": "2026-04-24:Hacker News:US special forces soldier arrested after allegedly winning $400k on Maduro raid",
+    "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
+    "score": 591,
+    "source": "Hacker News",
+    "timestamp": "2026-04-24T18:36:39.989688"
   }
 ]

@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-04-13:Hacker News:Seven countries now generate nearly all their electricity from renewables (2024)",
-    "title": "Seven countries now generate nearly all their electricity from renewables (2024)",
-    "score": 564,
-    "source": "Hacker News",
-    "timestamp": "2026-04-13T08:08:06.617932"
-  },
-  {
-    "key": "2026-04-13:Hacker News:Anthropic downgraded cache TTL on March 6th",
-    "title": "Anthropic downgraded cache TTL on March 6th",
-    "score": 508,
-    "source": "Hacker News",
-    "timestamp": "2026-04-13T08:08:06.617947"
-  },
-  {
     "key": "2026-04-13:Hacker News:Filing the corners off my MacBooks",
     "title": "Filing the corners off my MacBooks",
     "score": 1367,
@@ -698,5 +684,19 @@
     "score": 951,
     "source": "Hacker News",
     "timestamp": "2026-04-24T04:53:54.146292"
+  },
+  {
+    "key": "2026-04-24:Hacker News:DeepSeek v4",
+    "title": "DeepSeek v4",
+    "score": 760,
+    "source": "Hacker News",
+    "timestamp": "2026-04-24T08:07:39.641941"
+  },
+  {
+    "key": "2026-04-24:Hacker News:Meta tells staff it will cut 10% of jobs",
+    "title": "Meta tells staff it will cut 10% of jobs",
+    "score": 577,
+    "source": "Hacker News",
+    "timestamp": "2026-04-24T08:07:39.641972"
   }
 ]

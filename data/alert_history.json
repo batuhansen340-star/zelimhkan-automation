@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-04-13:Hacker News:All elementary functions from a single binary operator",
-    "title": "All elementary functions from a single binary operator",
-    "score": 631,
-    "source": "Hacker News",
-    "timestamp": "2026-04-13T15:06:48.151888"
-  },
-  {
     "key": "2026-04-13:Hacker News:DIY Soft Drinks",
     "title": "DIY Soft Drinks",
     "score": 581,
@@ -698,5 +691,12 @@
     "score": 591,
     "source": "Hacker News",
     "timestamp": "2026-04-24T18:36:39.989688"
+  },
+  {
+    "key": "2026-04-24:Hacker News:I cancelled Claude: Token issues, declining quality, and poor support",
+    "title": "I cancelled Claude: Token issues, declining quality, and poor support",
+    "score": 719,
+    "source": "Hacker News",
+    "timestamp": "2026-04-24T22:41:45.150761"
   }
 ]

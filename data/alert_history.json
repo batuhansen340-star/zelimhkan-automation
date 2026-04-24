@@ -1,75 +1,5 @@
 [
   {
-    "key": "2026-04-12:Hacker News:Starfling: A one-tap endless orbital slingshot game in a single HTML file",
-    "title": "Starfling: A one-tap endless orbital slingshot game in a single HTML file",
-    "score": 581,
-    "source": "Hacker News",
-    "timestamp": "2026-04-12T04:46:08.535136"
-  },
-  {
-    "key": "2026-04-12:Hacker News:1D Chess",
-    "title": "1D Chess",
-    "score": 960,
-    "source": "Hacker News",
-    "timestamp": "2026-04-12T04:46:08.535144"
-  },
-  {
-    "key": "2026-04-12:Hacker News:I run multiple $10K MRR companies on a $20/month tech stack",
-    "title": "I run multiple $10K MRR companies on a $20/month tech stack",
-    "score": 659,
-    "source": "Hacker News",
-    "timestamp": "2026-04-12T18:32:37.832925"
-  },
-  {
-    "key": "2026-04-12:Hacker News:Tell HN: docker pull fails in spain due to football cloudflare block",
-    "title": "Tell HN: docker pull fails in spain due to football cloudflare block",
-    "score": 590,
-    "source": "Hacker News",
-    "timestamp": "2026-04-12T22:37:36.722281"
-  },
-  {
-    "key": "2026-04-13:Hacker News:Bring Back Idiomatic Design (2023)",
-    "title": "Bring Back Idiomatic Design (2023)",
-    "score": 500,
-    "source": "Hacker News",
-    "timestamp": "2026-04-13T04:57:37.318163"
-  },
-  {
-    "key": "2026-04-13:Hacker News:Tell HN: Docker pull fails in Spain due to football Cloudflare block",
-    "title": "Tell HN: Docker pull fails in Spain due to football Cloudflare block",
-    "score": 728,
-    "source": "Hacker News",
-    "timestamp": "2026-04-13T04:57:37.318177"
-  },
-  {
-    "key": "2026-04-13:Hacker News:Seven countries now generate 100% of their electricity from renewable energy",
-    "title": "Seven countries now generate 100% of their electricity from renewable energy",
-    "score": 537,
-    "source": "Hacker News",
-    "timestamp": "2026-04-13T04:57:37.318184"
-  },
-  {
-    "key": "2026-04-13:Hacker News:Exploiting the most prominent AI agent benchmarks",
-    "title": "Exploiting the most prominent AI agent benchmarks",
-    "score": 502,
-    "source": "Hacker News",
-    "timestamp": "2026-04-13T04:57:37.318190"
-  },
-  {
-    "key": "2026-04-13:Hacker News:Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
-    "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
-    "score": 566,
-    "source": "Hacker News",
-    "timestamp": "2026-04-13T04:57:37.318195"
-  },
-  {
-    "key": "2026-04-13:Hacker News:I run multiple $10K MRR companies on a $20/month tech stack",
-    "title": "I run multiple $10K MRR companies on a $20/month tech stack",
-    "score": 848,
-    "source": "Hacker News",
-    "timestamp": "2026-04-13T04:57:37.318200"
-  },
-  {
     "key": "2026-04-13:Hacker News:Seven countries now generate nearly all their electricity from renewables (2024)",
     "title": "Seven countries now generate nearly all their electricity from renewables (2024)",
     "score": 564,
@@ -698,5 +628,75 @@
     "score": 573,
     "source": "Hacker News",
     "timestamp": "2026-04-23T22:50:30.291673"
+  },
+  {
+    "key": "2026-04-24:Hacker News:GPT-5.5",
+    "title": "GPT-5.5",
+    "score": 1208,
+    "source": "Hacker News",
+    "timestamp": "2026-04-24T04:53:54.146235"
+  },
+  {
+    "key": "2026-04-24:Hacker News:Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
+    "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
+    "score": 697,
+    "source": "Hacker News",
+    "timestamp": "2026-04-24T04:53:54.146250"
+  },
+  {
+    "key": "2026-04-24:Hacker News:Your hex editor should color-code bytes",
+    "title": "Your hex editor should color-code bytes",
+    "score": 536,
+    "source": "Hacker News",
+    "timestamp": "2026-04-24T04:53:54.146256"
+  },
+  {
+    "key": "2026-04-24:Hacker News:An update on recent Claude Code quality reports",
+    "title": "An update on recent Claude Code quality reports",
+    "score": 616,
+    "source": "Hacker News",
+    "timestamp": "2026-04-24T04:53:54.146262"
+  },
+  {
+    "key": "2026-04-24:Hacker News:Alberta startup sells no-tech tractors for half price",
+    "title": "Alberta startup sells no-tech tractors for half price",
+    "score": 2164,
+    "source": "Hacker News",
+    "timestamp": "2026-04-24T04:53:54.146267"
+  },
+  {
+    "key": "2026-04-24:Hacker News:I am building a cloud",
+    "title": "I am building a cloud",
+    "score": 1036,
+    "source": "Hacker News",
+    "timestamp": "2026-04-24T04:53:54.146272"
+  },
+  {
+    "key": "2026-04-24:Hacker News:Apple fixes bug that cops used to extract deleted chat messages from iPhones",
+    "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
+    "score": 853,
+    "source": "Hacker News",
+    "timestamp": "2026-04-24T04:53:54.146277"
+  },
+  {
+    "key": "2026-04-24:Hacker News:Palantir employees are starting to wonder if they're the bad guys",
+    "title": "Palantir employees are starting to wonder if they're the bad guys",
+    "score": 803,
+    "source": "Hacker News",
+    "timestamp": "2026-04-24T04:53:54.146281"
+  },
+  {
+    "key": "2026-04-24:Hacker News:We found a stable Firefox identifier linking all your private Tor identities",
+    "title": "We found a stable Firefox identifier linking all your private Tor identities",
+    "score": 902,
+    "source": "Hacker News",
+    "timestamp": "2026-04-24T04:53:54.146286"
+  },
+  {
+    "key": "2026-04-24:Hacker News:Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+    "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+    "score": 951,
+    "source": "Hacker News",
+    "timestamp": "2026-04-24T04:53:54.146292"
   }
 ]

@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-03-26T17:55:30.622838",
-    "commits": 0,
-    "runs": 0,
-    "summary": "# Günlük Geliştirme Özeti\n\n## 1. Bugün Ne Yapıldı\nBugün kod tabanında herhangi bir commit kaydedilmedi ve GitHub Actions çalıştırılmadı. Geliştirme ekibi muhtemelen planlama, analiz veya lokal geliştirme üzerinde çalıştı.\n\n## 2. Önemli Değişiklikler\nKayda değer bir değişiklik bulunmuyor.\n\n## 3. Yarın İçin Öneri\nDevam eden çalışmaları commit'leyerek versiyon kontrolüne almayı ve ekip ile senkronize olmayı düşünün."
-  },
-  {
     "date": "2026-03-27T17:43:31.931196",
     "commits": 0,
     "runs": 0,
@@ -178,5 +172,11 @@
     "commits": 0,
     "runs": 5,
     "summary": "Özet oluşturulamadı: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CaP1cvRXQvEao64aQ59t8'}"
+  },
+  {
+    "date": "2026-04-25T17:32:24.614618",
+    "commits": 0,
+    "runs": 5,
+    "summary": "Özet oluşturulamadı: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CaQtXBe6RyzfDp3KcuUvD'}"
   }
 ]

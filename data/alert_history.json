@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-04-14:Hacker News:All elementary functions from a single binary operator",
-    "title": "All elementary functions from a single binary operator",
-    "score": 806,
-    "source": "Hacker News",
-    "timestamp": "2026-04-14T04:44:43.420119"
-  },
-  {
     "key": "2026-04-14:Hacker News:DaVinci Resolve – Photo",
     "title": "DaVinci Resolve – Photo",
     "score": 607,
@@ -698,5 +691,12 @@
     "score": 649,
     "source": "Hacker News",
     "timestamp": "2026-04-25T04:35:24.865039"
+  },
+  {
+    "key": "2026-04-25:Hacker News:Google plans to invest up to $40B in Anthropic",
+    "title": "Google plans to invest up to $40B in Anthropic",
+    "score": 522,
+    "source": "Hacker News",
+    "timestamp": "2026-04-25T07:21:07.196831"
   }
 ]

@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-04-13:Hacker News:DIY Soft Drinks",
-    "title": "DIY Soft Drinks",
-    "score": 581,
-    "source": "Hacker News",
-    "timestamp": "2026-04-13T15:06:48.151916"
-  },
-  {
-    "key": "2026-04-13:Hacker News:Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them",
-    "title": "Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them",
-    "score": 532,
-    "source": "Hacker News",
-    "timestamp": "2026-04-13T22:47:10.635689"
-  },
-  {
-    "key": "2026-04-14:Hacker News:Someone bought 30 WordPress plugins and planted a backdoor in all of them",
-    "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
-    "score": 791,
-    "source": "Hacker News",
-    "timestamp": "2026-04-14T04:44:43.420098"
-  },
-  {
-    "key": "2026-04-14:Hacker News:GitHub Stacked PRs",
-    "title": "GitHub Stacked PRs",
-    "score": 544,
-    "source": "Hacker News",
-    "timestamp": "2026-04-14T04:44:43.420113"
-  },
-  {
     "key": "2026-04-14:Hacker News:All elementary functions from a single binary operator",
     "title": "All elementary functions from a single binary operator",
     "score": 806,
@@ -698,5 +670,33 @@
     "score": 719,
     "source": "Hacker News",
     "timestamp": "2026-04-24T22:41:45.150761"
+  },
+  {
+    "key": "2026-04-25:Hacker News:DeepSeek v4",
+    "title": "DeepSeek v4",
+    "score": 1856,
+    "source": "Hacker News",
+    "timestamp": "2026-04-25T04:35:24.865010"
+  },
+  {
+    "key": "2026-04-25:Hacker News:I cancelled Claude: Token issues, declining quality, and poor support",
+    "title": "I cancelled Claude: Token issues, declining quality, and poor support",
+    "score": 824,
+    "source": "Hacker News",
+    "timestamp": "2026-04-25T04:35:24.865027"
+  },
+  {
+    "key": "2026-04-25:Hacker News:GPT-5.5",
+    "title": "GPT-5.5",
+    "score": 1534,
+    "source": "Hacker News",
+    "timestamp": "2026-04-25T04:35:24.865034"
+  },
+  {
+    "key": "2026-04-25:Hacker News:US special forces soldier arrested after allegedly winning $400k on Maduro raid",
+    "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
+    "score": 649,
+    "source": "Hacker News",
+    "timestamp": "2026-04-25T04:35:24.865039"
   }
 ]

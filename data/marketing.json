@@ -1,34 +1,5 @@
 [
   {
-    "date": "2026-03-27T06:15:13.253206",
-    "content": {
-      "contents": [
-        {
-          "platform": "twitter",
-          "type": "thread",
-          "content": "Tweet 1: Cuma akşamı geldi, hafta sonu planları yapma zamanı! 🎉 Peki çocuğunuzla kaliteli vakit geçirmenin en eğlenceli yolu nedir? Biz biliyoruz! 🧚‍♀️\n\nTweet 2: StoryPal ile çocuğunuz kendi hikayesinin kahramanı oluyor. Birlikte hikaye yaratın, AI görselleri inceleyin, kahkaha atın. Ekran başında geçen vakit hiç bu kadar özel olmamıştı! 📱✨\n\nTweet 3: Hafta sonu özel: Ücretsiz hesapla günde 3 hikaye yaratın, beğenirseniz Premium'a geçin. İlk hafta sonu maceranız için App Store'dan indirin! 🚀\n\nTweet 4: Çocuğunuzun hayal gücü sınırsız, hikayeleriniz de öyle olsun! #HaftaSonuKeyfi #KaliteliZaman",
-          "hashtags": [
-            "#StoryPal",
-            "#HaftaSonuKeyfi",
-            "#KaliteliZaman",
-            "#AileVakti"
-          ]
-        },
-        {
-          "platform": "instagram",
-          "type": "caption",
-          "content": "Cuma akşamı ritüelimiz: Yemekten sonra kanepeye uzanıp StoryPal ile hikaye zamanı! 🌙✨\n\nBu hafta Ayşe'nin kendi adını taşıyan bir astronot olduğu, uzayda yeni gezegenler keşfettiği bir hikaye yarattık. Gözlerindeki o ışıltıyı görmeliydiniz! 🚀💫\n\nHer çocuk kendi hikayesinin kahramanı olmayı hak ediyor. StoryPal'in AI destekli görselleri sayesinde çocuğunuz kendini gerçekten hikayenin içinde hissediyor.\n\n📲 Hemen App Store'dan indirin, ilk 3 hikaye ücretsiz!\n💎 Premium ile sınırsız hikaye + PDF export\n\nSiz bu hafta sonu hangi macerayı yaşayacaksınız? Yorumlarda bizimle paylaşın! 👇\n\n#StoryPal #CumaAkşamı #HikayeZamanı #EbeveynlikSerüveni #ÇocukHayalleri #KaliteliVakit #AileBirlikteliği #YaratıcıÇocuklar",
-          "visual_idea": "Kanepe üzerinde tablet tutan bir ebeveyn ve yanında merakla ekrana bakan çocuk. Tabletin ekranında StoryPal uygulamasından renkli bir hikaye görseli. Arka planda yumuşak aydınlatma, rahat ev ortamı. Sıcak, samimi, akşam saatleri atmosferi. Carousel formatında: 1) Ana görsel 2) Uygulama ekran görüntüsü 3) Çocuğun mutlu ifadesi close-up"
-        },
-        {
-          "platform": "blog",
-          "type": "outline",
-          "content": "Başlık: Hafta Sonu Çocuğunuzla Kaliteli Vakit Geçirmenin 5 Yaratıcı Yolu (StoryPal ile Daha da Özel!)\n\nÖzet Maddeleri:\n1. Ekran süresini kaliteli etkileşime dönüştürme: Pasif izlemek yerine birlikte yaratmanın çocuk gelişimine faydaları. StoryPal ile interaktif hikaye yaratma deneyimi nasıl aile bağlarını güçlendiriyor?\n\n2. Hafta sonu ritüelleri oluşturmanın önemi: Çocuklar için öngörülebilir, tekrarlanan aktivitelerin duygusal güvenlik sağlaması. 'Cuma akşamı hikaye zamanı' gibi gelenekler nasıl oluşturulur?\n\n3. Yaratıcılık ve hayal gücünü beslemenin pratik yolları: AI destekli araçların çocukların yaratıcılığını sınırlamak yerine nasıl genişlettiği. StoryPal'in kişiselleştirme özelliklerinin çocuğun özgüvenine katkısı. Ücretsiz denemeyle başlama rehberi ve Premium'a geçiş ipuçları."
-        }
-      ]
-    }
-  },
-  {
     "date": "2026-03-28T06:01:18.824407",
     "content": {
       "contents": [
@@ -318,6 +289,13 @@
     "content": {
       "contents": [],
       "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CaQ1NQ2nWMCqaZjYuTKE9'}"
+    }
+  },
+  {
+    "date": "2026-04-26T07:00:19.497941",
+    "content": {
+      "contents": [],
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CaRx8V1SZfKPhcPBdE71V'}"
     }
   }
 ]

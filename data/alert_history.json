@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-04-15:Hacker News:A new spam policy for “back button hijacking”",
-    "title": "A new spam policy for “back button hijacking”",
-    "score": 859,
-    "source": "Hacker News",
-    "timestamp": "2026-04-15T04:45:02.234118"
-  },
-  {
-    "key": "2026-04-15:Hacker News:DaVinci Resolve – Photo",
-    "title": "DaVinci Resolve – Photo",
-    "score": 1076,
-    "source": "Hacker News",
-    "timestamp": "2026-04-15T04:45:02.234123"
-  },
-  {
     "key": "2026-04-15:Hacker News:jj – the CLI for Jujutsu",
     "title": "jj – the CLI for Jujutsu",
     "score": 511,
@@ -698,5 +684,19 @@
     "score": 707,
     "source": "Hacker News",
     "timestamp": "2026-04-26T14:35:04.077626"
+  },
+  {
+    "key": "2026-04-26:Hacker News:Asahi Linux Progress Linux 7.0",
+    "title": "Asahi Linux Progress Linux 7.0",
+    "score": 576,
+    "source": "Hacker News",
+    "timestamp": "2026-04-26T22:42:04.241169"
+  },
+  {
+    "key": "2026-04-26:Hacker News:Tell HN: An app is silently installing itself on my iPhone every day",
+    "title": "Tell HN: An app is silently installing itself on my iPhone every day",
+    "score": 518,
+    "source": "Hacker News",
+    "timestamp": "2026-04-26T22:42:04.241180"
   }
 ]

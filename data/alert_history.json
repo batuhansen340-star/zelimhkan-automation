@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-04-15:Hacker News:Tell HN: Fiverr left customer files public and searchable",
-    "title": "Tell HN: Fiverr left customer files public and searchable",
-    "score": 587,
-    "source": "Hacker News",
-    "timestamp": "2026-04-15T07:50:29.150556"
-  },
-  {
-    "key": "2026-04-15:Hacker News:Google broke its promise to me – now ICE has my data",
-    "title": "Google broke its promise to me – now ICE has my data",
-    "score": 893,
-    "source": "Hacker News",
-    "timestamp": "2026-04-15T22:44:44.989325"
-  },
-  {
     "key": "2026-04-16:Hacker News:Google broke its promise to me – now ICE has my data",
     "title": "Google broke its promise to me – now ICE has my data",
     "score": 1273,
@@ -698,5 +684,19 @@
     "score": 602,
     "source": "Hacker News",
     "timestamp": "2026-04-27T05:22:54.617258"
+  },
+  {
+    "key": "2026-04-27:Hacker News:AI should elevate your thinking, not replace it",
+    "title": "AI should elevate your thinking, not replace it",
+    "score": 538,
+    "source": "Hacker News",
+    "timestamp": "2026-04-27T11:28:23.537019"
+  },
+  {
+    "key": "2026-04-27:Hacker News:Amateur armed with ChatGPT solves an Erdős problem",
+    "title": "Amateur armed with ChatGPT solves an Erdős problem",
+    "score": 760,
+    "source": "Hacker News",
+    "timestamp": "2026-04-27T11:28:23.537046"
   }
 ]

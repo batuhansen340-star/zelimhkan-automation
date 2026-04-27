@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-04-15:Hacker News:jj – the CLI for Jujutsu",
-    "title": "jj – the CLI for Jujutsu",
-    "score": 511,
-    "source": "Hacker News",
-    "timestamp": "2026-04-15T04:45:02.234128"
-  },
-  {
-    "key": "2026-04-15:Hacker News:Someone bought 30 WordPress plugins and planted a backdoor in all of them",
-    "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
-    "score": 1152,
-    "source": "Hacker News",
-    "timestamp": "2026-04-15T04:45:02.234133"
-  },
-  {
-    "key": "2026-04-15:Hacker News:GitHub Stacked PRs",
-    "title": "GitHub Stacked PRs",
-    "score": 872,
-    "source": "Hacker News",
-    "timestamp": "2026-04-15T04:45:02.234138"
-  },
-  {
-    "key": "2026-04-15:Hacker News:Stop Flock",
-    "title": "Stop Flock",
-    "score": 607,
-    "source": "Hacker News",
-    "timestamp": "2026-04-15T07:50:29.150542"
-  },
-  {
     "key": "2026-04-15:Hacker News:Tell HN: Fiverr left customer files public and searchable",
     "title": "Tell HN: Fiverr left customer files public and searchable",
     "score": 587,
@@ -698,5 +670,33 @@
     "score": 518,
     "source": "Hacker News",
     "timestamp": "2026-04-26T22:42:04.241180"
+  },
+  {
+    "key": "2026-04-27:Hacker News:I bought Friendster for $30k – Here's what I'm doing with it",
+    "title": "I bought Friendster for $30k – Here's what I'm doing with it",
+    "score": 580,
+    "source": "Hacker News",
+    "timestamp": "2026-04-27T05:22:54.617232"
+  },
+  {
+    "key": "2026-04-27:Hacker News:An AI agent deleted our production database. The agent's confession is below",
+    "title": "An AI agent deleted our production database. The agent's confession is below",
+    "score": 573,
+    "source": "Hacker News",
+    "timestamp": "2026-04-27T05:22:54.617247"
+  },
+  {
+    "key": "2026-04-27:Hacker News:GoDaddy gave a domain to a stranger without any documentation",
+    "title": "GoDaddy gave a domain to a stranger without any documentation",
+    "score": 573,
+    "source": "Hacker News",
+    "timestamp": "2026-04-27T05:22:54.617253"
+  },
+  {
+    "key": "2026-04-27:Hacker News:Asahi Linux Progress Linux 7.0",
+    "title": "Asahi Linux Progress Linux 7.0",
+    "score": 602,
+    "source": "Hacker News",
+    "timestamp": "2026-04-27T05:22:54.617258"
   }
 ]

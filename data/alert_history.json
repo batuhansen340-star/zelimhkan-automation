@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-04-16:Hacker News:Google broke its promise to me – now ICE has my data",
-    "title": "Google broke its promise to me – now ICE has my data",
-    "score": 1273,
-    "source": "Hacker News",
-    "timestamp": "2026-04-16T04:50:51.800706"
-  },
-  {
-    "key": "2026-04-16:Hacker News:Live Nation illegally monopolized ticketing market, jury finds",
-    "title": "Live Nation illegally monopolized ticketing market, jury finds",
-    "score": 516,
-    "source": "Hacker News",
-    "timestamp": "2026-04-16T07:51:11.255126"
-  },
-  {
     "key": "2026-04-16:Hacker News:God sleeps in the minerals",
     "title": "God sleeps in the minerals",
     "score": 514,
@@ -698,5 +684,19 @@
     "score": 760,
     "source": "Hacker News",
     "timestamp": "2026-04-27T11:28:23.537046"
+  },
+  {
+    "key": "2026-04-27:Hacker News:Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+    "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+    "score": 686,
+    "source": "Hacker News",
+    "timestamp": "2026-04-27T22:56:03.320517"
+  },
+  {
+    "key": "2026-04-27:Hacker News:Flipdiscs",
+    "title": "Flipdiscs",
+    "score": 537,
+    "source": "Hacker News",
+    "timestamp": "2026-04-27T22:56:03.320533"
   }
 ]

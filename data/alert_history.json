@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-04-17:Hacker News:Codex for almost everything",
-    "title": "Codex for almost everything",
-    "score": 763,
-    "source": "Hacker News",
-    "timestamp": "2026-04-17T04:48:25.663899"
-  },
-  {
-    "key": "2026-04-17:Hacker News:Qwen3.6-35B-A3B: Agentic coding power, now open to all",
-    "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
-    "score": 976,
-    "source": "Hacker News",
-    "timestamp": "2026-04-17T04:48:25.663906"
-  },
-  {
     "key": "2026-04-17:Hacker News:The future of everything is lies, I guess: Where do we go from here?",
     "title": "The future of everything is lies, I guess: Where do we go from here?",
     "score": 549,
@@ -698,5 +684,19 @@
     "score": 623,
     "source": "Hacker News",
     "timestamp": "2026-04-28T19:18:30.774079"
+  },
+  {
+    "key": "2026-04-28:Hacker News:Ghostty is leaving GitHub",
+    "title": "Ghostty is leaving GitHub",
+    "score": 1275,
+    "source": "Hacker News",
+    "timestamp": "2026-04-28T22:58:01.955604"
+  },
+  {
+    "key": "2026-04-28:Hacker News:Your phone is about to stop being yours",
+    "title": "Your phone is about to stop being yours",
+    "score": 818,
+    "source": "Hacker News",
+    "timestamp": "2026-04-28T22:58:01.955617"
   }
 ]

@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-04-16:Hacker News:God sleeps in the minerals",
-    "title": "God sleeps in the minerals",
-    "score": 514,
-    "source": "Hacker News",
-    "timestamp": "2026-04-16T07:51:11.255136"
-  },
-  {
-    "key": "2026-04-16:Hacker News:The local LLM ecosystem doesn’t need Ollama",
-    "title": "The local LLM ecosystem doesn’t need Ollama",
-    "score": 517,
-    "source": "Hacker News",
-    "timestamp": "2026-04-16T10:53:00.858973"
-  },
-  {
-    "key": "2026-04-16:Hacker News:IPv6 traffic crosses the 50% mark",
-    "title": "IPv6 traffic crosses the 50% mark",
-    "score": 572,
-    "source": "Hacker News",
-    "timestamp": "2026-04-16T15:16:36.633342"
-  },
-  {
     "key": "2026-04-16:Hacker News:Cybersecurity looks like proof of work now",
     "title": "Cybersecurity looks like proof of work now",
     "score": 505,
@@ -698,5 +677,26 @@
     "score": 537,
     "source": "Hacker News",
     "timestamp": "2026-04-27T22:56:03.320533"
+  },
+  {
+    "key": "2026-04-28:Hacker News:Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+    "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+    "score": 819,
+    "source": "Hacker News",
+    "timestamp": "2026-04-28T05:30:03.410988"
+  },
+  {
+    "key": "2026-04-28:Hacker News:Men who stare at walls",
+    "title": "Men who stare at walls",
+    "score": 506,
+    "source": "Hacker News",
+    "timestamp": "2026-04-28T05:30:03.411003"
+  },
+  {
+    "key": "2026-04-28:Hacker News:GitHub Copilot is moving to usage-based billing",
+    "title": "GitHub Copilot is moving to usage-based billing",
+    "score": 603,
+    "source": "Hacker News",
+    "timestamp": "2026-04-28T05:30:03.411009"
   }
 ]

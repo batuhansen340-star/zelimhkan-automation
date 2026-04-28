@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-04-16:Hacker News:Cybersecurity looks like proof of work now",
-    "title": "Cybersecurity looks like proof of work now",
-    "score": 505,
-    "source": "Hacker News",
-    "timestamp": "2026-04-16T15:16:36.633356"
-  },
-  {
-    "key": "2026-04-16:Hacker News:The buns in McDonald's Japan's burger photos are all slightly askew",
-    "title": "The buns in McDonald's Japan's burger photos are all slightly askew",
-    "score": 580,
-    "source": "Hacker News",
-    "timestamp": "2026-04-16T15:16:36.633367"
-  },
-  {
-    "key": "2026-04-16:Hacker News:Claude Opus 4.7",
-    "title": "Claude Opus 4.7",
-    "score": 975,
-    "source": "Hacker News",
-    "timestamp": "2026-04-16T18:58:02.131081"
-  },
-  {
     "key": "2026-04-16:Hacker News:Qwen3.6-35B-A3B: Agentic coding power, now open to all",
     "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
     "score": 634,
@@ -698,5 +677,26 @@
     "score": 603,
     "source": "Hacker News",
     "timestamp": "2026-04-28T05:30:03.411009"
+  },
+  {
+    "key": "2026-04-28:Hacker News:Is my blue your blue?",
+    "title": "Is my blue your blue?",
+    "score": 503,
+    "source": "Hacker News",
+    "timestamp": "2026-04-28T08:27:57.980983"
+  },
+  {
+    "key": "2026-04-28:Hacker News:4TB of voice samples just stolen from 40k AI contractors at Mercor",
+    "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+    "score": 515,
+    "source": "Hacker News",
+    "timestamp": "2026-04-28T08:27:57.980995"
+  },
+  {
+    "key": "2026-04-28:Hacker News:I bought Friendster for $30k – Here's what I'm doing with it",
+    "title": "I bought Friendster for $30k – Here's what I'm doing with it",
+    "score": 1081,
+    "source": "Hacker News",
+    "timestamp": "2026-04-28T08:27:57.981008"
   }
 ]

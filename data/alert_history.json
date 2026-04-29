@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-04-17:Hacker News:Ban the sale of precise geolocation",
-    "title": "Ban the sale of precise geolocation",
-    "score": 543,
-    "source": "Hacker News",
-    "timestamp": "2026-04-17T22:42:27.002149"
-  },
-  {
     "key": "2026-04-18:Hacker News:Claude Design",
     "title": "Claude Design",
     "score": 915,
@@ -698,5 +691,12 @@
     "score": 779,
     "source": "Hacker News",
     "timestamp": "2026-04-29T05:25:41.861664"
+  },
+  {
+    "key": "2026-04-29:Hacker News:Before GitHub",
+    "title": "Before GitHub",
+    "score": 500,
+    "source": "Hacker News",
+    "timestamp": "2026-04-29T11:21:49.362237"
   }
 ]

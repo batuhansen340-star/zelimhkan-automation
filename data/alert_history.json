@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-04-18:Hacker News:Claude Design",
-    "title": "Claude Design",
-    "score": 915,
-    "source": "Hacker News",
-    "timestamp": "2026-04-18T04:31:39.802116"
-  },
-  {
-    "key": "2026-04-18:Hacker News:Isaac Asimov: The Last Question (1956)",
-    "title": "Isaac Asimov: The Last Question (1956)",
-    "score": 664,
-    "source": "Hacker News",
-    "timestamp": "2026-04-18T04:31:39.802138"
-  },
-  {
     "key": "2026-04-18:Hacker News:Measuring Claude 4.7's tokenizer costs",
     "title": "Measuring Claude 4.7's tokenizer costs",
     "score": 566,
@@ -698,5 +684,19 @@
     "score": 500,
     "source": "Hacker News",
     "timestamp": "2026-04-29T11:21:49.362237"
+  },
+  {
+    "key": "2026-04-29:Hacker News:Zed 1.0",
+    "title": "Zed 1.0",
+    "score": 1030,
+    "source": "Hacker News",
+    "timestamp": "2026-04-29T19:08:08.023692"
+  },
+  {
+    "key": "2026-04-29:Hacker News:Bugs Rust won't catch",
+    "title": "Bugs Rust won't catch",
+    "score": 567,
+    "source": "Hacker News",
+    "timestamp": "2026-04-29T19:08:08.023708"
   }
 ]

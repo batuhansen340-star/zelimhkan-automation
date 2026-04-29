@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-04-18:Hacker News:Measuring Claude 4.7's tokenizer costs",
-    "title": "Measuring Claude 4.7's tokenizer costs",
-    "score": 566,
-    "source": "Hacker News",
-    "timestamp": "2026-04-18T04:31:39.802145"
-  },
-  {
-    "key": "2026-04-18:Hacker News:Ban the sale of precise geolocation",
-    "title": "Ban the sale of precise geolocation",
-    "score": 647,
-    "source": "Hacker News",
-    "timestamp": "2026-04-18T04:31:39.802150"
-  },
-  {
-    "key": "2026-04-18:Hacker News:Migrating from DigitalOcean to Hetzner",
-    "title": "Migrating from DigitalOcean to Hetzner",
-    "score": 632,
-    "source": "Hacker News",
-    "timestamp": "2026-04-18T22:38:35.005865"
-  },
-  {
-    "key": "2026-04-19:Hacker News:Migrating from DigitalOcean to Hetzner",
-    "title": "Migrating from DigitalOcean to Hetzner",
-    "score": 713,
-    "source": "Hacker News",
-    "timestamp": "2026-04-19T04:49:56.743800"
-  },
-  {
     "key": "2026-04-19:Hacker News:Claude Design",
     "title": "Claude Design",
     "score": 1188,
@@ -698,5 +670,33 @@
     "score": 567,
     "source": "Hacker News",
     "timestamp": "2026-04-29T19:08:08.023708"
+  },
+  {
+    "key": "2026-04-29:Hacker News:HERMES.md in commit messages causes requests to route to extra usage billing",
+    "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
+    "score": 894,
+    "source": "Hacker News",
+    "timestamp": "2026-04-29T22:59:06.201819"
+  },
+  {
+    "key": "2026-04-29:Hacker News:We need a federation of forges",
+    "title": "We need a federation of forges",
+    "score": 501,
+    "source": "Hacker News",
+    "timestamp": "2026-04-29T22:59:06.201832"
+  },
+  {
+    "key": "2026-04-29:Hacker News:Soft launch of open-source code platform for government",
+    "title": "Soft launch of open-source code platform for government",
+    "score": 505,
+    "source": "Hacker News",
+    "timestamp": "2026-04-29T22:59:06.201838"
+  },
+  {
+    "key": "2026-04-29:Hacker News:Online age verification is the hill to die on",
+    "title": "Online age verification is the hill to die on",
+    "score": 660,
+    "source": "Hacker News",
+    "timestamp": "2026-04-29T22:59:06.201844"
   }
 ]

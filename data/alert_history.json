@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-04-21:Hacker News:All phones sold in the EU to have replaceable batteries from 2027",
-    "title": "All phones sold in the EU to have replaceable batteries from 2027",
-    "score": 1069,
-    "source": "Hacker News",
-    "timestamp": "2026-04-21T04:47:43.286991"
-  },
-  {
     "key": "2026-04-21:Hacker News:Atlassian enables default data collection to train AI",
     "title": "Atlassian enables default data collection to train AI",
     "score": 531,
@@ -698,5 +691,12 @@
     "score": 527,
     "source": "Hacker News",
     "timestamp": "2026-04-30T19:05:01.713095"
+  },
+  {
+    "key": "2026-04-30:Hacker News:Mozilla's opposition to Chrome's Prompt API",
+    "title": "Mozilla's opposition to Chrome's Prompt API",
+    "score": 561,
+    "source": "Hacker News",
+    "timestamp": "2026-04-30T22:55:30.664556"
   }
 ]

@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-04-20:Hacker News:Kimi K2.6: Advancing open-source coding",
-    "title": "Kimi K2.6: Advancing open-source coding",
-    "score": 514,
-    "source": "Hacker News",
-    "timestamp": "2026-04-20T22:48:45.770050"
-  },
-  {
     "key": "2026-04-21:Hacker News:John Ternus to become Apple CEO",
     "title": "John Ternus to become Apple CEO",
     "score": 1434,
@@ -698,5 +691,12 @@
     "score": 749,
     "source": "Hacker News",
     "timestamp": "2026-04-30T08:25:11.743149"
+  },
+  {
+    "key": "2026-04-30:Hacker News:The Zig project's rationale for their anti-AI contribution policy",
+    "title": "The Zig project's rationale for their anti-AI contribution policy",
+    "score": 513,
+    "source": "Hacker News",
+    "timestamp": "2026-04-30T15:42:25.691373"
   }
 ]

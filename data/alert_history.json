@@ -1,61 +1,5 @@
 [
   {
-    "key": "2026-04-19:Hacker News:Claude Design",
-    "title": "Claude Design",
-    "score": 1188,
-    "source": "Hacker News",
-    "timestamp": "2026-04-19T04:49:56.743819"
-  },
-  {
-    "key": "2026-04-19:Hacker News:Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
-    "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
-    "score": 521,
-    "source": "Hacker News",
-    "timestamp": "2026-04-19T10:27:25.964691"
-  },
-  {
-    "key": "2026-04-19:Hacker News:Why Japan has such good railways",
-    "title": "Why Japan has such good railways",
-    "score": 508,
-    "source": "Hacker News",
-    "timestamp": "2026-04-19T18:33:49.056793"
-  },
-  {
-    "key": "2026-04-19:Hacker News:Archive of BYTE magazine, starting with issue #1 in 1975",
-    "title": "Archive of BYTE magazine, starting with issue #1 in 1975",
-    "score": 507,
-    "source": "Hacker News",
-    "timestamp": "2026-04-19T22:39:35.353786"
-  },
-  {
-    "key": "2026-04-20:Hacker News:Vercel April 2026 security incident",
-    "title": "Vercel April 2026 security incident",
-    "score": 622,
-    "source": "Hacker News",
-    "timestamp": "2026-04-20T04:57:10.038078"
-  },
-  {
-    "key": "2026-04-20:Hacker News:Archive of BYTE magazine, starting with issue #1 in 1975",
-    "title": "Archive of BYTE magazine, starting with issue #1 in 1975",
-    "score": 553,
-    "source": "Hacker News",
-    "timestamp": "2026-04-20T04:57:10.038091"
-  },
-  {
-    "key": "2026-04-20:Hacker News:GitHub's Fake Star Economy",
-    "title": "GitHub's Fake Star Economy",
-    "score": 565,
-    "source": "Hacker News",
-    "timestamp": "2026-04-20T18:51:08.735259"
-  },
-  {
-    "key": "2026-04-20:Hacker News:All phones sold in the EU to have replaceable batteries from 2027",
-    "title": "All phones sold in the EU to have replaceable batteries from 2027",
-    "score": 655,
-    "source": "Hacker News",
-    "timestamp": "2026-04-20T18:51:08.735287"
-  },
-  {
     "key": "2026-04-20:Hacker News:John Ternus to become Apple CEO",
     "title": "John Ternus to become Apple CEO",
     "score": 779,
@@ -698,5 +642,61 @@
     "score": 660,
     "source": "Hacker News",
     "timestamp": "2026-04-29T22:59:06.201844"
+  },
+  {
+    "key": "2026-04-30:Hacker News:Zed 1.0",
+    "title": "Zed 1.0",
+    "score": 1680,
+    "source": "Hacker News",
+    "timestamp": "2026-04-30T05:29:26.424949"
+  },
+  {
+    "key": "2026-04-30:Hacker News:Copy Fail",
+    "title": "Copy Fail",
+    "score": 767,
+    "source": "Hacker News",
+    "timestamp": "2026-04-30T05:29:26.424972"
+  },
+  {
+    "key": "2026-04-30:Hacker News:Cursor Camp",
+    "title": "Cursor Camp",
+    "score": 797,
+    "source": "Hacker News",
+    "timestamp": "2026-04-30T05:29:26.424978"
+  },
+  {
+    "key": "2026-04-30:Hacker News:HERMES.md in commit messages causes requests to route to extra usage billing",
+    "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
+    "score": 1060,
+    "source": "Hacker News",
+    "timestamp": "2026-04-30T05:29:26.424983"
+  },
+  {
+    "key": "2026-04-30:Hacker News:We need a federation of forges",
+    "title": "We need a federation of forges",
+    "score": 545,
+    "source": "Hacker News",
+    "timestamp": "2026-04-30T05:29:26.424988"
+  },
+  {
+    "key": "2026-04-30:Hacker News:Ghostty is leaving GitHub",
+    "title": "Ghostty is leaving GitHub",
+    "score": 3381,
+    "source": "Hacker News",
+    "timestamp": "2026-04-30T05:29:26.424993"
+  },
+  {
+    "key": "2026-04-30:Hacker News:Online age verification is the hill to die on",
+    "title": "Online age verification is the hill to die on",
+    "score": 855,
+    "source": "Hacker News",
+    "timestamp": "2026-04-30T05:29:26.424998"
+  },
+  {
+    "key": "2026-04-30:Hacker News:Soft launch of open-source code platform for government",
+    "title": "Soft launch of open-source code platform for government",
+    "score": 533,
+    "source": "Hacker News",
+    "timestamp": "2026-04-30T05:29:26.425002"
   }
 ]

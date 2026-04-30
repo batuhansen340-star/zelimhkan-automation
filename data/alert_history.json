@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-04-21:Hacker News:John Ternus to become Apple CEO",
-    "title": "John Ternus to become Apple CEO",
-    "score": 1434,
-    "source": "Hacker News",
-    "timestamp": "2026-04-21T04:47:43.286972"
-  },
-  {
-    "key": "2026-04-21:Hacker News:Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
-    "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
-    "score": 575,
-    "source": "Hacker News",
-    "timestamp": "2026-04-21T04:47:43.286985"
-  },
-  {
     "key": "2026-04-21:Hacker News:All phones sold in the EU to have replaceable batteries from 2027",
     "title": "All phones sold in the EU to have replaceable batteries from 2027",
     "score": 1069,
@@ -698,5 +684,19 @@
     "score": 513,
     "source": "Hacker News",
     "timestamp": "2026-04-30T15:42:25.691373"
+  },
+  {
+    "key": "2026-04-30:Hacker News:Belgium stops decommissioning nuclear power plants",
+    "title": "Belgium stops decommissioning nuclear power plants",
+    "score": 612,
+    "source": "Hacker News",
+    "timestamp": "2026-04-30T19:05:01.713078"
+  },
+  {
+    "key": "2026-04-30:Hacker News:Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+    "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+    "score": 527,
+    "source": "Hacker News",
+    "timestamp": "2026-04-30T19:05:01.713095"
   }
 ]

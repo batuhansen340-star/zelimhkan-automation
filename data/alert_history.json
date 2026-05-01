@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-04-22:Hacker News:SpaceX says it has agreement to acquire Cursor for $60B",
-    "title": "SpaceX says it has agreement to acquire Cursor for $60B",
-    "score": 544,
-    "source": "Hacker News",
-    "timestamp": "2026-04-22T07:52:08.491163"
-  },
-  {
     "key": "2026-04-22:Hacker News:Meta to start capturing employee mouse movements, keystrokes for AI training",
     "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
     "score": 502,
@@ -698,5 +691,12 @@
     "score": 510,
     "source": "Hacker News",
     "timestamp": "2026-05-01T10:58:43.839880"
+  },
+  {
+    "key": "2026-05-01:Hacker News:How an oil refinery works",
+    "title": "How an oil refinery works",
+    "score": 508,
+    "source": "Hacker News",
+    "timestamp": "2026-05-01T18:56:19.788694"
   }
 ]

@@ -1,54 +1,5 @@
 [
   {
-    "key": "2026-04-21:Hacker News:Atlassian enables default data collection to train AI",
-    "title": "Atlassian enables default data collection to train AI",
-    "score": 531,
-    "source": "Hacker News",
-    "timestamp": "2026-04-21T04:47:43.286996"
-  },
-  {
-    "key": "2026-04-21:Hacker News:Kimi K2.6: Advancing open-source coding",
-    "title": "Kimi K2.6: Advancing open-source coding",
-    "score": 617,
-    "source": "Hacker News",
-    "timestamp": "2026-04-21T04:47:43.287001"
-  },
-  {
-    "key": "2026-04-21:Hacker News:GitHub's fake star economy",
-    "title": "GitHub's fake star economy",
-    "score": 755,
-    "source": "Hacker News",
-    "timestamp": "2026-04-21T04:47:43.287006"
-  },
-  {
-    "key": "2026-04-21:Hacker News:Laws of Software Engineering",
-    "title": "Laws of Software Engineering",
-    "score": 650,
-    "source": "Hacker News",
-    "timestamp": "2026-04-21T18:56:43.144722"
-  },
-  {
-    "key": "2026-04-21:Hacker News:Framework Laptop 13 Pro",
-    "title": "Framework Laptop 13 Pro",
-    "score": 728,
-    "source": "Hacker News",
-    "timestamp": "2026-04-21T22:40:11.673903"
-  },
-  {
-    "key": "2026-04-22:Hacker News:ChatGPT Images 2.0",
-    "title": "ChatGPT Images 2.0",
-    "score": 604,
-    "source": "Hacker News",
-    "timestamp": "2026-04-22T04:45:50.882349"
-  },
-  {
-    "key": "2026-04-22:Hacker News:Laws of Software Engineering",
-    "title": "Laws of Software Engineering",
-    "score": 885,
-    "source": "Hacker News",
-    "timestamp": "2026-04-22T04:45:50.882364"
-  },
-  {
     "key": "2026-04-22:Hacker News:Framework Laptop 13 Pro",
     "title": "Framework Laptop 13 Pro",
     "score": 1044,
@@ -698,5 +649,54 @@
     "score": 561,
     "source": "Hacker News",
     "timestamp": "2026-04-30T22:55:30.664556"
+  },
+  {
+    "key": "2026-05-01:Hacker News:How Mark Klein told the EFF about Room 641A [book excerpt]",
+    "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
+    "score": 509,
+    "source": "Hacker News",
+    "timestamp": "2026-05-01T05:41:02.231641"
+  },
+  {
+    "key": "2026-05-01:Hacker News:Can I disable all data collection from my vehicle?",
+    "title": "Can I disable all data collection from my vehicle?",
+    "score": 572,
+    "source": "Hacker News",
+    "timestamp": "2026-05-01T05:41:02.231656"
+  },
+  {
+    "key": "2026-05-01:Hacker News:Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+    "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+    "score": 1055,
+    "source": "Hacker News",
+    "timestamp": "2026-05-01T05:41:02.231663"
+  },
+  {
+    "key": "2026-05-01:Hacker News:Belgium stops decommissioning nuclear power plants",
+    "title": "Belgium stops decommissioning nuclear power plants",
+    "score": 784,
+    "source": "Hacker News",
+    "timestamp": "2026-05-01T05:41:02.231669"
+  },
+  {
+    "key": "2026-05-01:Hacker News:Mozilla's opposition to Chrome's Prompt API",
+    "title": "Mozilla's opposition to Chrome's Prompt API",
+    "score": 607,
+    "source": "Hacker News",
+    "timestamp": "2026-05-01T05:41:02.231674"
+  },
+  {
+    "key": "2026-05-01:Hacker News:Zed 1.0",
+    "title": "Zed 1.0",
+    "score": 2069,
+    "source": "Hacker News",
+    "timestamp": "2026-05-01T05:41:02.231679"
+  },
+  {
+    "key": "2026-05-01:Hacker News:Copy Fail",
+    "title": "Copy Fail",
+    "score": 1378,
+    "source": "Hacker News",
+    "timestamp": "2026-05-01T05:41:02.231685"
   }
 ]

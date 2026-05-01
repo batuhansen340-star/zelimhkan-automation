@@ -1,12 +1,5 @@
 [
   {
-    "date": "2026-04-01T06:27:44.049142",
-    "content": {
-      "contents": [],
-      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZcaRSoyEuwY6ZE5fLTd7'}"
-    }
-  },
-  {
     "date": "2026-04-02T06:14:20.031787",
     "content": {
       "contents": [],
@@ -207,6 +200,13 @@
     "content": {
       "contents": [],
       "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CaZZh7KjbcAkXmSaurrN5'}"
+    }
+  },
+  {
+    "date": "2026-05-01T07:27:51.065331",
+    "content": {
+      "contents": [],
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CabTGoZHmwMx2kpBCntA2'}"
     }
   }
 ]

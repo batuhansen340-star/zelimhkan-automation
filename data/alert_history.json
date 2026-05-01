@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-04-22:Hacker News:Framework Laptop 13 Pro",
-    "title": "Framework Laptop 13 Pro",
-    "score": 1044,
-    "source": "Hacker News",
-    "timestamp": "2026-04-22T04:45:50.882370"
-  },
-  {
     "key": "2026-04-22:Hacker News:SpaceX says it has agreement to acquire Cursor for $60B",
     "title": "SpaceX says it has agreement to acquire Cursor for $60B",
     "score": 544,
@@ -698,5 +691,12 @@
     "score": 1378,
     "source": "Hacker News",
     "timestamp": "2026-05-01T05:41:02.231685"
+  },
+  {
+    "key": "2026-05-01:Hacker News:For Linux kernel vulnerabilities, there is no heads-up to distributions",
+    "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
+    "score": 510,
+    "source": "Hacker News",
+    "timestamp": "2026-05-01T10:58:43.839880"
   }
 ]

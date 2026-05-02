@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-04-22:Hacker News:Acetaminophen vs. ibuprofen",
-    "title": "Acetaminophen vs. ibuprofen",
-    "score": 560,
-    "source": "Hacker News",
-    "timestamp": "2026-04-22T15:03:12.986856"
-  },
-  {
     "key": "2026-04-22:Hacker News:Changes to GitHub Copilot individual plans",
     "title": "Changes to GitHub Copilot individual plans",
     "score": 508,
@@ -698,5 +691,12 @@
     "score": 505,
     "source": "Hacker News",
     "timestamp": "2026-05-02T14:39:53.852064"
+  },
+  {
+    "key": "2026-05-02:Hacker News:Why does it take so long to release black fan versions?",
+    "title": "Why does it take so long to release black fan versions?",
+    "score": 602,
+    "source": "Hacker News",
+    "timestamp": "2026-05-02T18:42:06.025869"
   }
 ]

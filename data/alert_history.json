@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-04-22:Hacker News:Meta to start capturing employee mouse movements, keystrokes for AI training",
-    "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
-    "score": 502,
-    "source": "Hacker News",
-    "timestamp": "2026-04-22T07:52:08.491173"
-  },
-  {
     "key": "2026-04-22:Hacker News:Claude Code to be removed from Anthropic's Pro plan?",
     "title": "Claude Code to be removed from Anthropic's Pro plan?",
     "score": 526,
@@ -698,5 +691,12 @@
     "score": 508,
     "source": "Hacker News",
     "timestamp": "2026-05-01T18:56:19.788694"
+  },
+  {
+    "key": "2026-05-02:Hacker News:The gay jailbreak technique (2025)",
+    "title": "The gay jailbreak technique (2025)",
+    "score": 527,
+    "source": "Hacker News",
+    "timestamp": "2026-05-02T10:38:39.108886"
   }
 ]

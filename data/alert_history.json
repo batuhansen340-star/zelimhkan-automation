@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-04-22:Hacker News:Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
-    "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
-    "score": 590,
-    "source": "Hacker News",
-    "timestamp": "2026-04-22T22:51:23.611120"
-  },
-  {
     "key": "2026-04-23:Hacker News:Alberta startup sells no-tech tractors for half price",
     "title": "Alberta startup sells no-tech tractors for half price",
     "score": 1501,
@@ -698,5 +691,12 @@
     "score": 544,
     "source": "Hacker News",
     "timestamp": "2026-05-03T10:41:26.232099"
+  },
+  {
+    "key": "2026-05-03:Hacker News:Dav2d",
+    "title": "Dav2d",
+    "score": 539,
+    "source": "Hacker News",
+    "timestamp": "2026-05-03T14:40:19.446107"
   }
 ]

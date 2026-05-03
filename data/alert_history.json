@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-04-23:Hacker News:Alberta startup sells no-tech tractors for half price",
-    "title": "Alberta startup sells no-tech tractors for half price",
-    "score": 1501,
-    "source": "Hacker News",
-    "timestamp": "2026-04-23T04:49:35.170637"
-  },
-  {
     "key": "2026-04-23:Hacker News:We found a stable Firefox identifier linking all your private Tor identities",
     "title": "We found a stable Firefox identifier linking all your private Tor identities",
     "score": 537,
@@ -698,5 +691,12 @@
     "score": 539,
     "source": "Hacker News",
     "timestamp": "2026-05-03T14:40:19.446107"
+  },
+  {
+    "key": "2026-05-03:Hacker News:Mercedes-Benz commits to bringing back physical buttons",
+    "title": "Mercedes-Benz commits to bringing back physical buttons",
+    "score": 556,
+    "source": "Hacker News",
+    "timestamp": "2026-05-03T22:47:01.518918"
   }
 ]

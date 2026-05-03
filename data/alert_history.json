@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-04-22:Hacker News:Changes to GitHub Copilot individual plans",
-    "title": "Changes to GitHub Copilot individual plans",
-    "score": 508,
-    "source": "Hacker News",
-    "timestamp": "2026-04-22T15:03:12.986889"
-  },
-  {
-    "key": "2026-04-22:Hacker News:Alberta startup sells no-tech tractors for half price",
-    "title": "Alberta startup sells no-tech tractors for half price",
-    "score": 539,
-    "source": "Hacker News",
-    "timestamp": "2026-04-22T18:57:51.897542"
-  },
-  {
-    "key": "2026-04-22:Hacker News:Windows 9x Subsystem for Linux",
-    "title": "Windows 9x Subsystem for Linux",
-    "score": 741,
-    "source": "Hacker News",
-    "timestamp": "2026-04-22T18:57:51.897557"
-  },
-  {
     "key": "2026-04-22:Hacker News:Making RAM at Home [video]",
     "title": "Making RAM at Home [video]",
     "score": 556,
@@ -698,5 +677,26 @@
     "score": 602,
     "source": "Hacker News",
     "timestamp": "2026-05-02T18:42:06.025869"
+  },
+  {
+    "key": "2026-05-03:Hacker News:VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+    "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+    "score": 987,
+    "source": "Hacker News",
+    "timestamp": "2026-05-03T05:29:45.614808"
+  },
+  {
+    "key": "2026-05-03:Hacker News:DeepSeek V4—almost on the frontier",
+    "title": "DeepSeek V4—almost on the frontier",
+    "score": 516,
+    "source": "Hacker News",
+    "timestamp": "2026-05-03T05:29:45.614825"
+  },
+  {
+    "key": "2026-05-03:Hacker News:Why does it take so long to release black fan versions?",
+    "title": "Why does it take so long to release black fan versions?",
+    "score": 713,
+    "source": "Hacker News",
+    "timestamp": "2026-05-03T05:29:45.614832"
   }
 ]

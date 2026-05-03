@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-04-22:Hacker News:Making RAM at Home [video]",
-    "title": "Making RAM at Home [video]",
-    "score": 556,
-    "source": "Hacker News",
-    "timestamp": "2026-04-22T18:57:51.897563"
-  },
-  {
     "key": "2026-04-22:Hacker News:Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
     "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
     "score": 590,
@@ -698,5 +691,12 @@
     "score": 713,
     "source": "Hacker News",
     "timestamp": "2026-05-03T05:29:45.614832"
+  },
+  {
+    "key": "2026-05-03:Hacker News:DeepSeek V4 – almost on the frontier",
+    "title": "DeepSeek V4 – almost on the frontier",
+    "score": 544,
+    "source": "Hacker News",
+    "timestamp": "2026-05-03T10:41:26.232099"
   }
 ]

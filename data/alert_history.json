@@ -1,40 +1,5 @@
 [
   {
-    "key": "2026-04-23:Hacker News:Apple fixes bug that cops used to extract deleted chat messages from iPhones",
-    "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
-    "score": 553,
-    "source": "Hacker News",
-    "timestamp": "2026-04-23T07:58:29.876621"
-  },
-  {
-    "key": "2026-04-23:Hacker News:5x5 Pixel font for tiny screens",
-    "title": "5x5 Pixel font for tiny screens",
-    "score": 569,
-    "source": "Hacker News",
-    "timestamp": "2026-04-23T07:58:29.876638"
-  },
-  {
-    "key": "2026-04-23:Hacker News:I am building a cloud",
-    "title": "I am building a cloud",
-    "score": 712,
-    "source": "Hacker News",
-    "timestamp": "2026-04-23T15:29:09.085296"
-  },
-  {
-    "key": "2026-04-23:Hacker News:GPT-5.5",
-    "title": "GPT-5.5",
-    "score": 924,
-    "source": "Hacker News",
-    "timestamp": "2026-04-23T22:50:30.291654"
-  },
-  {
-    "key": "2026-04-23:Hacker News:Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
-    "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
-    "score": 578,
-    "source": "Hacker News",
-    "timestamp": "2026-04-23T22:50:30.291667"
-  },
-  {
     "key": "2026-04-23:Hacker News:Palantir employees are starting to wonder if they're the bad guys",
     "title": "Palantir employees are starting to wonder if they're the bad guys",
     "score": 573,
@@ -698,5 +663,40 @@
     "score": 581,
     "source": "Hacker News",
     "timestamp": "2026-05-04T15:52:50.261553"
+  },
+  {
+    "key": "2026-05-04:Hacker News:Talking to strangers at the gym",
+    "title": "Talking to strangers at the gym",
+    "score": 771,
+    "source": "Hacker News",
+    "timestamp": "2026-05-04T19:12:53.540008"
+  },
+  {
+    "key": "2026-05-04:Hacker News:GameStop makes $55.5B takeover offer for eBay",
+    "title": "GameStop makes $55.5B takeover offer for eBay",
+    "score": 519,
+    "source": "Hacker News",
+    "timestamp": "2026-05-04T19:12:53.540024"
+  },
+  {
+    "key": "2026-05-04:Hacker News:Trademark violation: Fake Notepad++ for Mac",
+    "title": "Trademark violation: Fake Notepad++ for Mac",
+    "score": 532,
+    "source": "Hacker News",
+    "timestamp": "2026-05-04T19:12:53.540029"
+  },
+  {
+    "key": "2026-05-04:Hacker News:Let's Buy Spirit Air",
+    "title": "Let's Buy Spirit Air",
+    "score": 545,
+    "source": "Hacker News",
+    "timestamp": "2026-05-04T19:12:53.540038"
+  },
+  {
+    "key": "2026-05-04:Hacker News:New statue in London, attributed to Banksy, of a suited man, blinded by a flag",
+    "title": "New statue in London, attributed to Banksy, of a suited man, blinded by a flag",
+    "score": 529,
+    "source": "Hacker News",
+    "timestamp": "2026-05-04T19:12:53.540042"
   }
 ]

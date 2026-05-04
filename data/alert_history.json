@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-04-23:Hacker News:We found a stable Firefox identifier linking all your private Tor identities",
-    "title": "We found a stable Firefox identifier linking all your private Tor identities",
-    "score": 537,
-    "source": "Hacker News",
-    "timestamp": "2026-04-23T04:49:35.170654"
-  },
-  {
-    "key": "2026-04-23:Hacker News:Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
-    "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
-    "score": 764,
-    "source": "Hacker News",
-    "timestamp": "2026-04-23T04:49:35.170660"
-  },
-  {
     "key": "2026-04-23:Hacker News:Windows 9x Subsystem for Linux",
     "title": "Windows 9x Subsystem for Linux",
     "score": 912,
@@ -698,5 +684,19 @@
     "score": 556,
     "source": "Hacker News",
     "timestamp": "2026-05-03T22:47:01.518918"
+  },
+  {
+    "key": "2026-05-04:Hacker News:Mercedes-Benz commits to bringing back physical buttons",
+    "title": "Mercedes-Benz commits to bringing back physical buttons",
+    "score": 647,
+    "source": "Hacker News",
+    "timestamp": "2026-05-04T05:33:43.955281"
+  },
+  {
+    "key": "2026-05-04:Hacker News:DeepSeek V4 – almost on the frontier",
+    "title": "DeepSeek V4 – almost on the frontier",
+    "score": 626,
+    "source": "Hacker News",
+    "timestamp": "2026-05-04T05:33:43.955302"
   }
 ]

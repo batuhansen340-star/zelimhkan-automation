@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-04-23:Hacker News:Palantir employees are starting to wonder if they're the bad guys",
-    "title": "Palantir employees are starting to wonder if they're the bad guys",
-    "score": 573,
-    "source": "Hacker News",
-    "timestamp": "2026-04-23T22:50:30.291673"
-  },
-  {
-    "key": "2026-04-24:Hacker News:GPT-5.5",
-    "title": "GPT-5.5",
-    "score": 1208,
-    "source": "Hacker News",
-    "timestamp": "2026-04-24T04:53:54.146235"
-  },
-  {
-    "key": "2026-04-24:Hacker News:Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
-    "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
-    "score": 697,
-    "source": "Hacker News",
-    "timestamp": "2026-04-24T04:53:54.146250"
-  },
-  {
     "key": "2026-04-24:Hacker News:Your hex editor should color-code bytes",
     "title": "Your hex editor should color-code bytes",
     "score": 536,
@@ -698,5 +677,26 @@
     "score": 529,
     "source": "Hacker News",
     "timestamp": "2026-05-04T19:12:53.540042"
+  },
+  {
+    "key": "2026-05-05:Hacker News:Talking to strangers at the gym",
+    "title": "Talking to strangers at the gym",
+    "score": 1261,
+    "source": "Hacker News",
+    "timestamp": "2026-05-05T05:14:33.549977"
+  },
+  {
+    "key": "2026-05-05:Hacker News:GameStop makes $55.5B takeover offer for eBay",
+    "title": "GameStop makes $55.5B takeover offer for eBay",
+    "score": 659,
+    "source": "Hacker News",
+    "timestamp": "2026-05-05T05:14:33.549995"
+  },
+  {
+    "key": "2026-05-05:Hacker News:Trademark violation: Fake Notepad++ for Mac",
+    "title": "Trademark violation: Fake Notepad++ for Mac",
+    "score": 594,
+    "source": "Hacker News",
+    "timestamp": "2026-05-05T05:14:33.550002"
   }
 ]

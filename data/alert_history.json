@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-04-25:Hacker News:DeepSeek v4",
-    "title": "DeepSeek v4",
-    "score": 1856,
-    "source": "Hacker News",
-    "timestamp": "2026-04-25T04:35:24.865010"
-  },
-  {
-    "key": "2026-04-25:Hacker News:I cancelled Claude: Token issues, declining quality, and poor support",
-    "title": "I cancelled Claude: Token issues, declining quality, and poor support",
-    "score": 824,
-    "source": "Hacker News",
-    "timestamp": "2026-04-25T04:35:24.865027"
-  },
-  {
     "key": "2026-04-25:Hacker News:GPT-5.5",
     "title": "GPT-5.5",
     "score": 1534,
@@ -698,5 +684,19 @@
     "score": 502,
     "source": "Hacker News",
     "timestamp": "2026-05-06T15:56:24.139994"
+  },
+  {
+    "key": "2026-05-06:Hacker News:Valve releases Steam Controller CAD files under Creative Commons license",
+    "title": "Valve releases Steam Controller CAD files under Creative Commons license",
+    "score": 552,
+    "source": "Hacker News",
+    "timestamp": "2026-05-06T19:20:39.484982"
+  },
+  {
+    "key": "2026-05-06:Hacker News:Red Squares – GitHub outages as contributions",
+    "title": "Red Squares – GitHub outages as contributions",
+    "score": 720,
+    "source": "Hacker News",
+    "timestamp": "2026-05-06T19:20:39.485020"
   }
 ]

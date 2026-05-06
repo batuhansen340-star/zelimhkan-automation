@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-04-24:Hacker News:DeepSeek v4",
-    "title": "DeepSeek v4",
-    "score": 760,
-    "source": "Hacker News",
-    "timestamp": "2026-04-24T08:07:39.641941"
-  },
-  {
-    "key": "2026-04-24:Hacker News:Meta tells staff it will cut 10% of jobs",
-    "title": "Meta tells staff it will cut 10% of jobs",
-    "score": 577,
-    "source": "Hacker News",
-    "timestamp": "2026-04-24T08:07:39.641972"
-  },
-  {
-    "key": "2026-04-24:Hacker News:US special forces soldier arrested after allegedly winning $400k on Maduro raid",
-    "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
-    "score": 591,
-    "source": "Hacker News",
-    "timestamp": "2026-04-24T18:36:39.989688"
-  },
-  {
-    "key": "2026-04-24:Hacker News:I cancelled Claude: Token issues, declining quality, and poor support",
-    "title": "I cancelled Claude: Token issues, declining quality, and poor support",
-    "score": 719,
-    "source": "Hacker News",
-    "timestamp": "2026-04-24T22:41:45.150761"
-  },
-  {
     "key": "2026-04-25:Hacker News:DeepSeek v4",
     "title": "DeepSeek v4",
     "score": 1856,
@@ -698,5 +670,33 @@
     "score": 652,
     "source": "Hacker News",
     "timestamp": "2026-05-06T08:29:33.640987"
+  },
+  {
+    "key": "2026-05-06:Hacker News:Show HN: Red Squares – GitHub outages as contributions",
+    "title": "Show HN: Red Squares – GitHub outages as contributions",
+    "score": 663,
+    "source": "Hacker News",
+    "timestamp": "2026-05-06T15:56:24.139939"
+  },
+  {
+    "key": "2026-05-06:Hacker News:Agents can now create Cloudflare accounts, buy domains, and deploy",
+    "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+    "score": 515,
+    "source": "Hacker News",
+    "timestamp": "2026-05-06T15:56:24.139974"
+  },
+  {
+    "key": "2026-05-06:Hacker News:StarFighter 16-Inch",
+    "title": "StarFighter 16-Inch",
+    "score": 541,
+    "source": "Hacker News",
+    "timestamp": "2026-05-06T15:56:24.139981"
+  },
+  {
+    "key": "2026-05-06:Hacker News:Three Inverse Laws of AI",
+    "title": "Three Inverse Laws of AI",
+    "score": 502,
+    "source": "Hacker News",
+    "timestamp": "2026-05-06T15:56:24.139994"
   }
 ]

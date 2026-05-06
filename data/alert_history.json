@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-04-25:Hacker News:GPT-5.5",
-    "title": "GPT-5.5",
-    "score": 1534,
-    "source": "Hacker News",
-    "timestamp": "2026-04-25T04:35:24.865034"
-  },
-  {
     "key": "2026-04-25:Hacker News:US special forces soldier arrested after allegedly winning $400k on Maduro raid",
     "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
     "score": 649,
@@ -698,5 +691,12 @@
     "score": 720,
     "source": "Hacker News",
     "timestamp": "2026-05-06T19:20:39.485020"
+  },
+  {
+    "key": "2026-05-06:Hacker News:Appearing productive in the workplace",
+    "title": "Appearing productive in the workplace",
+    "score": 568,
+    "source": "Hacker News",
+    "timestamp": "2026-05-06T22:54:58.346548"
   }
 ]

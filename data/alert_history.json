@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-04-26:Hacker News:Amateur armed with ChatGPT solves an Erdős problem",
-    "title": "Amateur armed with ChatGPT solves an Erdős problem",
-    "score": 517,
-    "source": "Hacker News",
-    "timestamp": "2026-04-26T14:35:04.077602"
-  },
-  {
     "key": "2026-04-26:Hacker News:The West forgot how to make things, now it’s forgetting how to code",
     "title": "The West forgot how to make things, now it’s forgetting how to code",
     "score": 707,
@@ -698,5 +691,12 @@
     "score": 574,
     "source": "Hacker News",
     "timestamp": "2026-05-07T08:36:32.670826"
+  },
+  {
+    "key": "2026-05-07:Hacker News:SQLite Is a Library of Congress Recommended Storage Format",
+    "title": "SQLite Is a Library of Congress Recommended Storage Format",
+    "score": 562,
+    "source": "Hacker News",
+    "timestamp": "2026-05-07T19:24:57.918844"
   }
 ]

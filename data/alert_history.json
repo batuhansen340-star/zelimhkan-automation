@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-04-26:Hacker News:DeepSeek v4",
-    "title": "DeepSeek v4",
-    "score": 2038,
-    "source": "Hacker News",
-    "timestamp": "2026-04-26T04:58:13.240520"
-  },
-  {
     "key": "2026-04-26:Hacker News:Amateur armed with ChatGPT solves an Erdős problem",
     "title": "Amateur armed with ChatGPT solves an Erdős problem",
     "score": 517,
@@ -698,5 +691,12 @@
     "score": 1660,
     "source": "Hacker News",
     "timestamp": "2026-05-07T05:31:01.945084"
+  },
+  {
+    "key": "2026-05-07:Hacker News:Vibe coding and agentic engineering are getting closer than I'd like",
+    "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+    "score": 574,
+    "source": "Hacker News",
+    "timestamp": "2026-05-07T08:36:32.670826"
   }
 ]

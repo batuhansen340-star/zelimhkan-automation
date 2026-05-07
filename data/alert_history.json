@@ -1,47 +1,5 @@
 [
   {
-    "key": "2026-04-25:Hacker News:US special forces soldier arrested after allegedly winning $400k on Maduro raid",
-    "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
-    "score": 649,
-    "source": "Hacker News",
-    "timestamp": "2026-04-25T04:35:24.865039"
-  },
-  {
-    "key": "2026-04-25:Hacker News:Google plans to invest up to $40B in Anthropic",
-    "title": "Google plans to invest up to $40B in Anthropic",
-    "score": 522,
-    "source": "Hacker News",
-    "timestamp": "2026-04-25T07:21:07.196831"
-  },
-  {
-    "key": "2026-04-25:Hacker News:New 10 GbE USB adapters are cooler, smaller, cheaper",
-    "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
-    "score": 517,
-    "source": "Hacker News",
-    "timestamp": "2026-04-25T22:40:15.508065"
-  },
-  {
-    "key": "2026-04-25:Hacker News:Sabotaging projects by overthinking, scope creep, and structural diffing",
-    "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
-    "score": 508,
-    "source": "Hacker News",
-    "timestamp": "2026-04-25T22:40:15.508078"
-  },
-  {
-    "key": "2026-04-26:Hacker News:1-Bit Hokusai's \"The Great Wave\" (2023)",
-    "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
-    "score": 539,
-    "source": "Hacker News",
-    "timestamp": "2026-04-26T04:58:13.240500"
-  },
-  {
-    "key": "2026-04-26:Hacker News:New 10 GbE USB adapters are cooler, smaller, cheaper",
-    "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
-    "score": 562,
-    "source": "Hacker News",
-    "timestamp": "2026-04-26T04:58:13.240514"
-  },
-  {
     "key": "2026-04-26:Hacker News:DeepSeek v4",
     "title": "DeepSeek v4",
     "score": 2038,
@@ -698,5 +656,47 @@
     "score": 568,
     "source": "Hacker News",
     "timestamp": "2026-05-06T22:54:58.346548"
+  },
+  {
+    "key": "2026-05-07:Hacker News:Valve releases Steam Controller CAD files under Creative Commons license",
+    "title": "Valve releases Steam Controller CAD files under Creative Commons license",
+    "score": 1214,
+    "source": "Hacker News",
+    "timestamp": "2026-05-07T05:31:01.945043"
+  },
+  {
+    "key": "2026-05-07:Hacker News:Appearing productive in the workplace",
+    "title": "Appearing productive in the workplace",
+    "score": 880,
+    "source": "Hacker News",
+    "timestamp": "2026-05-07T05:31:01.945061"
+  },
+  {
+    "key": "2026-05-07:Hacker News:The bottleneck was never the code",
+    "title": "The bottleneck was never the code",
+    "score": 540,
+    "source": "Hacker News",
+    "timestamp": "2026-05-07T05:31:01.945068"
+  },
+  {
+    "key": "2026-05-07:Hacker News:Agents can now create Cloudflare accounts, buy domains, and deploy",
+    "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+    "score": 630,
+    "source": "Hacker News",
+    "timestamp": "2026-05-07T05:31:01.945074"
+  },
+  {
+    "key": "2026-05-07:Hacker News:StarFighter 16-Inch",
+    "title": "StarFighter 16-Inch",
+    "score": 650,
+    "source": "Hacker News",
+    "timestamp": "2026-05-07T05:31:01.945079"
+  },
+  {
+    "key": "2026-05-07:Hacker News:Google Chrome silently installs a 4 GB AI model on your device without consent",
+    "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+    "score": 1660,
+    "source": "Hacker News",
+    "timestamp": "2026-05-07T05:31:01.945084"
   }
 ]

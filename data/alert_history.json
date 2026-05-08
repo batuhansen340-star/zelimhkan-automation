@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-04-27:Hacker News:AI should elevate your thinking, not replace it",
-    "title": "AI should elevate your thinking, not replace it",
-    "score": 538,
-    "source": "Hacker News",
-    "timestamp": "2026-04-27T11:28:23.537019"
-  },
-  {
-    "key": "2026-04-27:Hacker News:Amateur armed with ChatGPT solves an Erdős problem",
-    "title": "Amateur armed with ChatGPT solves an Erdős problem",
-    "score": 760,
-    "source": "Hacker News",
-    "timestamp": "2026-04-27T11:28:23.537046"
-  },
-  {
     "key": "2026-04-27:Hacker News:Microsoft and OpenAI end their exclusive and revenue-sharing deal",
     "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
     "score": 686,
@@ -698,5 +684,19 @@
     "score": 1692,
     "source": "Hacker News",
     "timestamp": "2026-05-08T04:52:44.925587"
+  },
+  {
+    "key": "2026-05-08:Hacker News:Canvas is down as ShinyHunters threatens to leak schools’ data",
+    "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
+    "score": 568,
+    "source": "Hacker News",
+    "timestamp": "2026-05-08T07:44:49.449092"
+  },
+  {
+    "key": "2026-05-08:Hacker News:Cloudflare to cut about 20% workforce",
+    "title": "Cloudflare to cut about 20% workforce",
+    "score": 625,
+    "source": "Hacker News",
+    "timestamp": "2026-05-08T07:44:49.449105"
   }
 ]

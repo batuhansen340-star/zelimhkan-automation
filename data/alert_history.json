@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-04-28:Hacker News:4TB of voice samples just stolen from 40k AI contractors at Mercor",
-    "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-    "score": 515,
-    "source": "Hacker News",
-    "timestamp": "2026-04-28T08:27:57.980995"
-  },
-  {
     "key": "2026-04-28:Hacker News:I bought Friendster for $30k – Here's what I'm doing with it",
     "title": "I bought Friendster for $30k – Here's what I'm doing with it",
     "score": 1081,
@@ -698,5 +691,12 @@
     "score": 876,
     "source": "Hacker News",
     "timestamp": "2026-05-08T19:02:42.226548"
+  },
+  {
+    "key": "2026-05-08:Hacker News:Google Cloud Fraud Defence is just WEI repackaged",
+    "title": "Google Cloud Fraud Defence is just WEI repackaged",
+    "score": 632,
+    "source": "Hacker News",
+    "timestamp": "2026-05-08T22:57:16.756133"
   }
 ]

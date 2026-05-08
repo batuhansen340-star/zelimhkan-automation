@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-04-27:Hacker News:Flipdiscs",
-    "title": "Flipdiscs",
-    "score": 537,
-    "source": "Hacker News",
-    "timestamp": "2026-04-27T22:56:03.320533"
-  },
-  {
-    "key": "2026-04-28:Hacker News:Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-    "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-    "score": 819,
-    "source": "Hacker News",
-    "timestamp": "2026-04-28T05:30:03.410988"
-  },
-  {
     "key": "2026-04-28:Hacker News:Men who stare at walls",
     "title": "Men who stare at walls",
     "score": 506,
@@ -698,5 +684,19 @@
     "score": 557,
     "source": "Hacker News",
     "timestamp": "2026-05-08T11:00:13.787316"
+  },
+  {
+    "key": "2026-05-08:Hacker News:Rumors of my death are slightly exaggerated",
+    "title": "Rumors of my death are slightly exaggerated",
+    "score": 686,
+    "source": "Hacker News",
+    "timestamp": "2026-05-08T15:12:21.673622"
+  },
+  {
+    "key": "2026-05-08:Hacker News:Agents need control flow, not more prompts",
+    "title": "Agents need control flow, not more prompts",
+    "score": 534,
+    "source": "Hacker News",
+    "timestamp": "2026-05-08T15:12:21.673639"
   }
 ]

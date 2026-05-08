@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-04-27:Hacker News:Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-    "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-    "score": 686,
-    "source": "Hacker News",
-    "timestamp": "2026-04-27T22:56:03.320517"
-  },
-  {
     "key": "2026-04-27:Hacker News:Flipdiscs",
     "title": "Flipdiscs",
     "score": 537,
@@ -698,5 +691,12 @@
     "score": 625,
     "source": "Hacker News",
     "timestamp": "2026-05-08T07:44:49.449105"
+  },
+  {
+    "key": "2026-05-08:Hacker News:Maybe you shouldn't install new software for a bit",
+    "title": "Maybe you shouldn't install new software for a bit",
+    "score": 557,
+    "source": "Hacker News",
+    "timestamp": "2026-05-08T11:00:13.787316"
   }
 ]

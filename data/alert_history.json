@@ -1,47 +1,5 @@
 [
   {
-    "key": "2026-04-28:Hacker News:I bought Friendster for $30k – Here's what I'm doing with it",
-    "title": "I bought Friendster for $30k – Here's what I'm doing with it",
-    "score": 1081,
-    "source": "Hacker News",
-    "timestamp": "2026-04-28T08:27:57.981008"
-  },
-  {
-    "key": "2026-04-28:Hacker News:Talkie: a 13B vintage language model from 1930",
-    "title": "Talkie: a 13B vintage language model from 1930",
-    "score": 537,
-    "source": "Hacker News",
-    "timestamp": "2026-04-28T16:08:00.206235"
-  },
-  {
-    "key": "2026-04-28:Hacker News:Is my blue your blue? (2024)",
-    "title": "Is my blue your blue? (2024)",
-    "score": 653,
-    "source": "Hacker News",
-    "timestamp": "2026-04-28T16:08:00.206253"
-  },
-  {
-    "key": "2026-04-28:Hacker News:Localsend: An open-source cross-platform alternative to AirDrop",
-    "title": "Localsend: An open-source cross-platform alternative to AirDrop",
-    "score": 623,
-    "source": "Hacker News",
-    "timestamp": "2026-04-28T19:18:30.774079"
-  },
-  {
-    "key": "2026-04-28:Hacker News:Ghostty is leaving GitHub",
-    "title": "Ghostty is leaving GitHub",
-    "score": 1275,
-    "source": "Hacker News",
-    "timestamp": "2026-04-28T22:58:01.955604"
-  },
-  {
-    "key": "2026-04-28:Hacker News:Your phone is about to stop being yours",
-    "title": "Your phone is about to stop being yours",
-    "score": 818,
-    "source": "Hacker News",
-    "timestamp": "2026-04-28T22:58:01.955617"
-  },
-  {
     "key": "2026-04-29:Hacker News:Ghostty is leaving GitHub",
     "title": "Ghostty is leaving GitHub",
     "score": 2081,
@@ -698,5 +656,47 @@
     "score": 632,
     "source": "Hacker News",
     "timestamp": "2026-05-08T22:57:16.756133"
+  },
+  {
+    "key": "2026-05-09:Hacker News:Google broke reCAPTCHA for de-googled Android users",
+    "title": "Google broke reCAPTCHA for de-googled Android users",
+    "score": 821,
+    "source": "Hacker News",
+    "timestamp": "2026-05-09T05:20:39.712611"
+  },
+  {
+    "key": "2026-05-09:Hacker News:David Attenborough's 100th Birthday",
+    "title": "David Attenborough's 100th Birthday",
+    "score": 531,
+    "source": "Hacker News",
+    "timestamp": "2026-05-09T05:20:39.712626"
+  },
+  {
+    "key": "2026-05-09:Hacker News:Poland is now among the 20 largest economies",
+    "title": "Poland is now among the 20 largest economies",
+    "score": 937,
+    "source": "Hacker News",
+    "timestamp": "2026-05-09T05:20:39.712632"
+  },
+  {
+    "key": "2026-05-09:Hacker News:Cloudflare to cut about 20% of its workforce",
+    "title": "Cloudflare to cut about 20% of its workforce",
+    "score": 1285,
+    "source": "Hacker News",
+    "timestamp": "2026-05-09T05:20:39.712637"
+  },
+  {
+    "key": "2026-05-09:Hacker News:Rumors of my death are slightly exaggerated",
+    "title": "Rumors of my death are slightly exaggerated",
+    "score": 1575,
+    "source": "Hacker News",
+    "timestamp": "2026-05-09T05:20:39.712642"
+  },
+  {
+    "key": "2026-05-09:Hacker News:Canvas online again as ShinyHunters threatens to leak schools’ data",
+    "title": "Canvas online again as ShinyHunters threatens to leak schools’ data",
+    "score": 900,
+    "source": "Hacker News",
+    "timestamp": "2026-05-09T05:20:39.712648"
   }
 ]

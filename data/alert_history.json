@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-04-29:Hacker News:Ghostty is leaving GitHub",
-    "title": "Ghostty is leaving GitHub",
-    "score": 2081,
-    "source": "Hacker News",
-    "timestamp": "2026-04-29T05:25:41.861630"
-  },
-  {
     "key": "2026-04-29:Hacker News:Your phone is about to stop being yours",
     "title": "Your phone is about to stop being yours",
     "score": 1156,
@@ -698,5 +691,12 @@
     "score": 900,
     "source": "Hacker News",
     "timestamp": "2026-05-09T05:20:39.712648"
+  },
+  {
+    "key": "2026-05-09:Hacker News:A recent experience with ChatGPT 5.5 Pro",
+    "title": "A recent experience with ChatGPT 5.5 Pro",
+    "score": 519,
+    "source": "Hacker News",
+    "timestamp": "2026-05-09T18:43:25.159502"
   }
 ]

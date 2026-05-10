@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-04-29:Hacker News:Before GitHub",
-    "title": "Before GitHub",
-    "score": 500,
-    "source": "Hacker News",
-    "timestamp": "2026-04-29T11:21:49.362237"
-  },
-  {
-    "key": "2026-04-29:Hacker News:Zed 1.0",
-    "title": "Zed 1.0",
-    "score": 1030,
-    "source": "Hacker News",
-    "timestamp": "2026-04-29T19:08:08.023692"
-  },
-  {
     "key": "2026-04-29:Hacker News:Bugs Rust won't catch",
     "title": "Bugs Rust won't catch",
     "score": 567,
@@ -698,5 +684,19 @@
     "score": 1452,
     "source": "Hacker News",
     "timestamp": "2026-05-10T05:36:20.177906"
+  },
+  {
+    "key": "2026-05-10:Hacker News:Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+    "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+    "score": 530,
+    "source": "Hacker News",
+    "timestamp": "2026-05-10T08:10:17.764668"
+  },
+  {
+    "key": "2026-05-10:Hacker News:EU Parliamentary Research Service calls VPNs \"a loophole that needs closing\"",
+    "title": "EU Parliamentary Research Service calls VPNs \"a loophole that needs closing\"",
+    "score": 518,
+    "source": "Hacker News",
+    "timestamp": "2026-05-10T08:10:17.764691"
   }
 ]

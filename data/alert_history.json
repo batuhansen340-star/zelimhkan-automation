@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-04-29:Hacker News:Bugs Rust won't catch",
-    "title": "Bugs Rust won't catch",
-    "score": 567,
-    "source": "Hacker News",
-    "timestamp": "2026-04-29T19:08:08.023708"
-  },
-  {
     "key": "2026-04-29:Hacker News:HERMES.md in commit messages causes requests to route to extra usage billing",
     "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
     "score": 894,
@@ -698,5 +691,12 @@
     "score": 518,
     "source": "Hacker News",
     "timestamp": "2026-05-10T08:10:17.764691"
+  },
+  {
+    "key": "2026-05-10:Hacker News:I’ve banned query strings",
+    "title": "I’ve banned query strings",
+    "score": 511,
+    "source": "Hacker News",
+    "timestamp": "2026-05-10T18:44:52.393595"
   }
 ]

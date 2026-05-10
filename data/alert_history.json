@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-04-29:Hacker News:Your phone is about to stop being yours",
-    "title": "Your phone is about to stop being yours",
-    "score": 1156,
-    "source": "Hacker News",
-    "timestamp": "2026-04-29T05:25:41.861652"
-  },
-  {
-    "key": "2026-04-29:Hacker News:Talkie: a 13B vintage language model from 1930",
-    "title": "Talkie: a 13B vintage language model from 1930",
-    "score": 655,
-    "source": "Hacker News",
-    "timestamp": "2026-04-29T05:25:41.861659"
-  },
-  {
-    "key": "2026-04-29:Hacker News:Localsend: An open-source cross-platform alternative to AirDrop",
-    "title": "Localsend: An open-source cross-platform alternative to AirDrop",
-    "score": 779,
-    "source": "Hacker News",
-    "timestamp": "2026-04-29T05:25:41.861664"
-  },
-  {
     "key": "2026-04-29:Hacker News:Before GitHub",
     "title": "Before GitHub",
     "score": 500,
@@ -698,5 +677,26 @@
     "score": 519,
     "source": "Hacker News",
     "timestamp": "2026-05-09T18:43:25.159502"
+  },
+  {
+    "key": "2026-05-10:Hacker News:Internet Archive Switzerland",
+    "title": "Internet Archive Switzerland",
+    "score": 577,
+    "source": "Hacker News",
+    "timestamp": "2026-05-10T05:36:20.177883"
+  },
+  {
+    "key": "2026-05-10:Hacker News:A recent experience with ChatGPT 5.5 Pro",
+    "title": "A recent experience with ChatGPT 5.5 Pro",
+    "score": 620,
+    "source": "Hacker News",
+    "timestamp": "2026-05-10T05:36:20.177899"
+  },
+  {
+    "key": "2026-05-10:Hacker News:Google broke reCAPTCHA for de-googled Android users",
+    "title": "Google broke reCAPTCHA for de-googled Android users",
+    "score": 1452,
+    "source": "Hacker News",
+    "timestamp": "2026-05-10T05:36:20.177906"
   }
 ]

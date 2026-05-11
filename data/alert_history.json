@@ -1,47 +1,5 @@
 [
   {
-    "key": "2026-04-29:Hacker News:Soft launch of open-source code platform for government",
-    "title": "Soft launch of open-source code platform for government",
-    "score": 505,
-    "source": "Hacker News",
-    "timestamp": "2026-04-29T22:59:06.201838"
-  },
-  {
-    "key": "2026-04-29:Hacker News:Online age verification is the hill to die on",
-    "title": "Online age verification is the hill to die on",
-    "score": 660,
-    "source": "Hacker News",
-    "timestamp": "2026-04-29T22:59:06.201844"
-  },
-  {
-    "key": "2026-04-30:Hacker News:Zed 1.0",
-    "title": "Zed 1.0",
-    "score": 1680,
-    "source": "Hacker News",
-    "timestamp": "2026-04-30T05:29:26.424949"
-  },
-  {
-    "key": "2026-04-30:Hacker News:Copy Fail",
-    "title": "Copy Fail",
-    "score": 767,
-    "source": "Hacker News",
-    "timestamp": "2026-04-30T05:29:26.424972"
-  },
-  {
-    "key": "2026-04-30:Hacker News:Cursor Camp",
-    "title": "Cursor Camp",
-    "score": 797,
-    "source": "Hacker News",
-    "timestamp": "2026-04-30T05:29:26.424978"
-  },
-  {
-    "key": "2026-04-30:Hacker News:HERMES.md in commit messages causes requests to route to extra usage billing",
-    "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
-    "score": 1060,
-    "source": "Hacker News",
-    "timestamp": "2026-04-30T05:29:26.424983"
-  },
-  {
     "key": "2026-04-30:Hacker News:We need a federation of forges",
     "title": "We need a federation of forges",
     "score": 545,
@@ -698,5 +656,47 @@
     "score": 609,
     "source": "Hacker News",
     "timestamp": "2026-05-10T22:51:59.761097"
+  },
+  {
+    "key": "2026-05-11:Hacker News:Hardware Attestation as Monopoly Enabler",
+    "title": "Hardware Attestation as Monopoly Enabler",
+    "score": 1210,
+    "source": "Hacker News",
+    "timestamp": "2026-05-11T05:57:48.927737"
+  },
+  {
+    "key": "2026-05-11:Hacker News:Local AI needs to be the norm",
+    "title": "Local AI needs to be the norm",
+    "score": 854,
+    "source": "Hacker News",
+    "timestamp": "2026-05-11T05:57:48.927751"
+  },
+  {
+    "key": "2026-05-11:Hacker News:I returned to AWS and was reminded why I left",
+    "title": "I returned to AWS and was reminded why I left",
+    "score": 711,
+    "source": "Hacker News",
+    "timestamp": "2026-05-11T05:57:48.927757"
+  },
+  {
+    "key": "2026-05-11:Hacker News:Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
+    "title": "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
+    "score": 519,
+    "source": "Hacker News",
+    "timestamp": "2026-05-11T05:57:48.927762"
+  },
+  {
+    "key": "2026-05-11:Hacker News:A recent experience with ChatGPT 5.5 Pro",
+    "title": "A recent experience with ChatGPT 5.5 Pro",
+    "score": 687,
+    "source": "Hacker News",
+    "timestamp": "2026-05-11T05:57:48.927768"
+  },
+  {
+    "key": "2026-05-11:Hacker News:Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+    "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+    "score": 690,
+    "source": "Hacker News",
+    "timestamp": "2026-05-11T05:57:48.927773"
   }
 ]

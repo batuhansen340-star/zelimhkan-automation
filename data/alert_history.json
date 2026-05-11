@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-04-30:Hacker News:Talkie: a 13B vintage language model from 1930",
-    "title": "Talkie: a 13B vintage language model from 1930",
-    "score": 749,
-    "source": "Hacker News",
-    "timestamp": "2026-04-30T08:25:11.743149"
-  },
-  {
     "key": "2026-04-30:Hacker News:The Zig project's rationale for their anti-AI contribution policy",
     "title": "The Zig project's rationale for their anti-AI contribution policy",
     "score": 513,
@@ -698,5 +691,12 @@
     "score": 543,
     "source": "Hacker News",
     "timestamp": "2026-05-11T19:26:37.058998"
+  },
+  {
+    "key": "2026-05-11:Hacker News:Gmail registration now requires scanning a QR code and sending a text message",
+    "title": "Gmail registration now requires scanning a QR code and sending a text message",
+    "score": 518,
+    "source": "Hacker News",
+    "timestamp": "2026-05-11T22:56:58.895809"
   }
 ]

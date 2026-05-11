@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-04-30:Hacker News:We need a federation of forges",
-    "title": "We need a federation of forges",
-    "score": 545,
-    "source": "Hacker News",
-    "timestamp": "2026-04-30T05:29:26.424988"
-  },
-  {
     "key": "2026-04-30:Hacker News:Ghostty is leaving GitHub",
     "title": "Ghostty is leaving GitHub",
     "score": 3381,
@@ -698,5 +691,12 @@
     "score": 690,
     "source": "Hacker News",
     "timestamp": "2026-05-11T05:57:48.927773"
+  },
+  {
+    "key": "2026-05-11:Hacker News:Incident Report: CVE-2024-YIKES",
+    "title": "Incident Report: CVE-2024-YIKES",
+    "score": 533,
+    "source": "Hacker News",
+    "timestamp": "2026-05-11T09:42:58.063105"
   }
 ]

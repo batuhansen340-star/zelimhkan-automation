@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-05-01:Hacker News:For Linux kernel vulnerabilities, there is no heads-up to distributions",
-    "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
-    "score": 510,
-    "source": "Hacker News",
-    "timestamp": "2026-05-01T10:58:43.839880"
-  },
-  {
-    "key": "2026-05-01:Hacker News:How an oil refinery works",
-    "title": "How an oil refinery works",
-    "score": 508,
-    "source": "Hacker News",
-    "timestamp": "2026-05-01T18:56:19.788694"
-  },
-  {
     "key": "2026-05-02:Hacker News:The gay jailbreak technique (2025)",
     "title": "The gay jailbreak technique (2025)",
     "score": 527,
@@ -698,5 +684,19 @@
     "score": 505,
     "source": "Hacker News",
     "timestamp": "2026-05-12T16:12:06.960358"
+  },
+  {
+    "key": "2026-05-12:Hacker News:Bambu Lab is abusing the open source social contract",
+    "title": "Bambu Lab is abusing the open source social contract",
+    "score": 795,
+    "source": "Hacker News",
+    "timestamp": "2026-05-12T19:27:11.604247"
+  },
+  {
+    "key": "2026-05-12:Hacker News:They Live (1988) inspired Adblocker",
+    "title": "They Live (1988) inspired Adblocker",
+    "score": 504,
+    "source": "Hacker News",
+    "timestamp": "2026-05-12T19:27:11.604273"
   }
 ]

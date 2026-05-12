@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-05-02:Hacker News:The gay jailbreak technique (2025)",
-    "title": "The gay jailbreak technique (2025)",
-    "score": 527,
-    "source": "Hacker News",
-    "timestamp": "2026-05-02T10:38:39.108886"
-  },
-  {
-    "key": "2026-05-02:Hacker News:Ti-84 Evo",
-    "title": "Ti-84 Evo",
-    "score": 505,
-    "source": "Hacker News",
-    "timestamp": "2026-05-02T14:39:53.852064"
-  },
-  {
     "key": "2026-05-02:Hacker News:Why does it take so long to release black fan versions?",
     "title": "Why does it take so long to release black fan versions?",
     "score": 602,
@@ -698,5 +684,19 @@
     "score": 504,
     "source": "Hacker News",
     "timestamp": "2026-05-12T19:27:11.604273"
+  },
+  {
+    "key": "2026-05-12:Hacker News:Googlebook",
+    "title": "Googlebook",
+    "score": 503,
+    "source": "Hacker News",
+    "timestamp": "2026-05-12T23:04:45.645844"
+  },
+  {
+    "key": "2026-05-12:Hacker News:Learning Software Architecture",
+    "title": "Learning Software Architecture",
+    "score": 502,
+    "source": "Hacker News",
+    "timestamp": "2026-05-12T23:04:45.645856"
   }
 ]

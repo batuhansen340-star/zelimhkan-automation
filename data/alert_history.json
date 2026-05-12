@@ -1,54 +1,5 @@
 [
   {
-    "key": "2026-04-30:Hacker News:The Zig project's rationale for their anti-AI contribution policy",
-    "title": "The Zig project's rationale for their anti-AI contribution policy",
-    "score": 513,
-    "source": "Hacker News",
-    "timestamp": "2026-04-30T15:42:25.691373"
-  },
-  {
-    "key": "2026-04-30:Hacker News:Belgium stops decommissioning nuclear power plants",
-    "title": "Belgium stops decommissioning nuclear power plants",
-    "score": 612,
-    "source": "Hacker News",
-    "timestamp": "2026-04-30T19:05:01.713078"
-  },
-  {
-    "key": "2026-04-30:Hacker News:Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-    "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-    "score": 527,
-    "source": "Hacker News",
-    "timestamp": "2026-04-30T19:05:01.713095"
-  },
-  {
-    "key": "2026-04-30:Hacker News:Mozilla's opposition to Chrome's Prompt API",
-    "title": "Mozilla's opposition to Chrome's Prompt API",
-    "score": 561,
-    "source": "Hacker News",
-    "timestamp": "2026-04-30T22:55:30.664556"
-  },
-  {
-    "key": "2026-05-01:Hacker News:How Mark Klein told the EFF about Room 641A [book excerpt]",
-    "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
-    "score": 509,
-    "source": "Hacker News",
-    "timestamp": "2026-05-01T05:41:02.231641"
-  },
-  {
-    "key": "2026-05-01:Hacker News:Can I disable all data collection from my vehicle?",
-    "title": "Can I disable all data collection from my vehicle?",
-    "score": 572,
-    "source": "Hacker News",
-    "timestamp": "2026-05-01T05:41:02.231656"
-  },
-  {
-    "key": "2026-05-01:Hacker News:Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-    "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-    "score": 1055,
-    "source": "Hacker News",
-    "timestamp": "2026-05-01T05:41:02.231663"
-  },
-  {
     "key": "2026-05-01:Hacker News:Belgium stops decommissioning nuclear power plants",
     "title": "Belgium stops decommissioning nuclear power plants",
     "score": 784,
@@ -698,5 +649,54 @@
     "score": 518,
     "source": "Hacker News",
     "timestamp": "2026-05-11T22:56:58.895809"
+  },
+  {
+    "key": "2026-05-12:Hacker News:Postmortem: TanStack npm supply-chain compromise",
+    "title": "Postmortem: TanStack npm supply-chain compromise",
+    "score": 685,
+    "source": "Hacker News",
+    "timestamp": "2026-05-12T05:37:13.083005"
+  },
+  {
+    "key": "2026-05-12:Hacker News:Hardware Attestation as Monopoly Enabler",
+    "title": "Hardware Attestation as Monopoly Enabler",
+    "score": 2098,
+    "source": "Hacker News",
+    "timestamp": "2026-05-12T05:37:13.083025"
+  },
+  {
+    "key": "2026-05-12:Hacker News:Ratty – A terminal emulator with inline 3D graphics",
+    "title": "Ratty – A terminal emulator with inline 3D graphics",
+    "score": 632,
+    "source": "Hacker News",
+    "timestamp": "2026-05-12T05:37:13.083036"
+  },
+  {
+    "key": "2026-05-12:Hacker News:Gmail registration now requires scanning a QR code and sending a text message",
+    "title": "Gmail registration now requires scanning a QR code and sending a text message",
+    "score": 585,
+    "source": "Hacker News",
+    "timestamp": "2026-05-12T05:37:13.083041"
+  },
+  {
+    "key": "2026-05-12:Hacker News:Local AI needs to be the norm",
+    "title": "Local AI needs to be the norm",
+    "score": 1787,
+    "source": "Hacker News",
+    "timestamp": "2026-05-12T05:37:13.083046"
+  },
+  {
+    "key": "2026-05-12:Hacker News:I'm going back to writing code by hand",
+    "title": "I'm going back to writing code by hand",
+    "score": 933,
+    "source": "Hacker News",
+    "timestamp": "2026-05-12T05:37:13.083052"
+  },
+  {
+    "key": "2026-05-12:Hacker News:Mythos Finds a Curl Vulnerability",
+    "title": "Mythos Finds a Curl Vulnerability",
+    "score": 635,
+    "source": "Hacker News",
+    "timestamp": "2026-05-12T05:37:13.083056"
   }
 ]

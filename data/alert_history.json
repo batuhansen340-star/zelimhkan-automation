@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-05-01:Hacker News:Mozilla's opposition to Chrome's Prompt API",
-    "title": "Mozilla's opposition to Chrome's Prompt API",
-    "score": 607,
-    "source": "Hacker News",
-    "timestamp": "2026-05-01T05:41:02.231674"
-  },
-  {
-    "key": "2026-05-01:Hacker News:Zed 1.0",
-    "title": "Zed 1.0",
-    "score": 2069,
-    "source": "Hacker News",
-    "timestamp": "2026-05-01T05:41:02.231679"
-  },
-  {
     "key": "2026-05-01:Hacker News:Copy Fail",
     "title": "Copy Fail",
     "score": 1378,
@@ -698,5 +684,19 @@
     "score": 813,
     "source": "Hacker News",
     "timestamp": "2026-05-12T08:43:02.334406"
+  },
+  {
+    "key": "2026-05-12:Hacker News:If AI writes your code, why use Python?",
+    "title": "If AI writes your code, why use Python?",
+    "score": 558,
+    "source": "Hacker News",
+    "timestamp": "2026-05-12T11:45:30.802322"
+  },
+  {
+    "key": "2026-05-12:Hacker News:GitLab announces workforce reduction and end of their CREDIT values",
+    "title": "GitLab announces workforce reduction and end of their CREDIT values",
+    "score": 559,
+    "source": "Hacker News",
+    "timestamp": "2026-05-12T11:45:30.802335"
   }
 ]

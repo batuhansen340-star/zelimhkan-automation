@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-04-12T17:28:13.051538",
-    "commits": 0,
-    "runs": 5,
-    "summary": "Özet oluşturulamadı: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZzGgk9uYQD9VbF9FjFWU'}"
-  },
-  {
     "date": "2026-04-13T17:54:50.292739",
     "commits": 0,
     "runs": 5,
@@ -178,5 +172,11 @@
     "commits": 0,
     "runs": 5,
     "summary": "Özet oluşturulamadı: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CawHYEBhnqzvqXA4wypB2'}"
+  },
+  {
+    "date": "2026-05-12T18:52:05.762863",
+    "commits": 0,
+    "runs": 5,
+    "summary": "Özet oluşturulamadı: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CayBMBvXyzkUg3uvCJZLX'}"
   }
 ]

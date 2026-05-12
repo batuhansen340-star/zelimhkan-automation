@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-05-01:Hacker News:Belgium stops decommissioning nuclear power plants",
-    "title": "Belgium stops decommissioning nuclear power plants",
-    "score": 784,
-    "source": "Hacker News",
-    "timestamp": "2026-05-01T05:41:02.231669"
-  },
-  {
     "key": "2026-05-01:Hacker News:Mozilla's opposition to Chrome's Prompt API",
     "title": "Mozilla's opposition to Chrome's Prompt API",
     "score": 607,
@@ -698,5 +691,12 @@
     "score": 635,
     "source": "Hacker News",
     "timestamp": "2026-05-12T05:37:13.083056"
+  },
+  {
+    "key": "2026-05-12:Hacker News:Postmortem: TanStack NPM supply-chain compromise",
+    "title": "Postmortem: TanStack NPM supply-chain compromise",
+    "score": 813,
+    "source": "Hacker News",
+    "timestamp": "2026-05-12T08:43:02.334406"
   }
 ]

@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-05-04:Hacker News:Talking to strangers at the gym",
-    "title": "Talking to strangers at the gym",
-    "score": 771,
-    "source": "Hacker News",
-    "timestamp": "2026-05-04T19:12:53.540008"
-  },
-  {
     "key": "2026-05-04:Hacker News:GameStop makes $55.5B takeover offer for eBay",
     "title": "GameStop makes $55.5B takeover offer for eBay",
     "score": 519,
@@ -698,5 +691,12 @@
     "score": 756,
     "source": "Hacker News",
     "timestamp": "2026-05-13T19:29:46.159806"
+  },
+  {
+    "key": "2026-05-13:Hacker News:Leaving GitHub for Forgejo",
+    "title": "Leaving GitHub for Forgejo",
+    "score": 507,
+    "source": "Hacker News",
+    "timestamp": "2026-05-13T23:06:23.909715"
   }
 ]

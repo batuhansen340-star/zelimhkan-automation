@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-05-03:Hacker News:Mercedes-Benz commits to bringing back physical buttons",
-    "title": "Mercedes-Benz commits to bringing back physical buttons",
-    "score": 556,
-    "source": "Hacker News",
-    "timestamp": "2026-05-03T22:47:01.518918"
-  },
-  {
-    "key": "2026-05-04:Hacker News:Mercedes-Benz commits to bringing back physical buttons",
-    "title": "Mercedes-Benz commits to bringing back physical buttons",
-    "score": 647,
-    "source": "Hacker News",
-    "timestamp": "2026-05-04T05:33:43.955281"
-  },
-  {
-    "key": "2026-05-04:Hacker News:DeepSeek V4 – almost on the frontier",
-    "title": "DeepSeek V4 – almost on the frontier",
-    "score": 626,
-    "source": "Hacker News",
-    "timestamp": "2026-05-04T05:33:43.955302"
-  },
-  {
-    "key": "2026-05-04:Hacker News:Talking to 35 Strangers at the Gym",
-    "title": "Talking to 35 Strangers at the Gym",
-    "score": 517,
-    "source": "Hacker News",
-    "timestamp": "2026-05-04T15:52:50.261538"
-  },
-  {
     "key": "2026-05-04:Hacker News:DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
     "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
     "score": 581,
@@ -698,5 +670,33 @@
     "score": 546,
     "source": "Hacker News",
     "timestamp": "2026-05-13T08:46:57.920614"
+  },
+  {
+    "key": "2026-05-13:Hacker News:I Moved My Digital Stack to Europe",
+    "title": "I Moved My Digital Stack to Europe",
+    "score": 586,
+    "source": "Hacker News",
+    "timestamp": "2026-05-13T16:12:28.627334"
+  },
+  {
+    "key": "2026-05-13:Hacker News:Restore full BambuNetwork support for Bambu Lab printers",
+    "title": "Restore full BambuNetwork support for Bambu Lab printers",
+    "score": 596,
+    "source": "Hacker News",
+    "timestamp": "2026-05-13T16:12:28.627356"
+  },
+  {
+    "key": "2026-05-13:Hacker News:Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+    "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+    "score": 573,
+    "source": "Hacker News",
+    "timestamp": "2026-05-13T16:12:28.627366"
+  },
+  {
+    "key": "2026-05-13:Hacker News:Rendering the Sky, Sunsets, and Planets",
+    "title": "Rendering the Sky, Sunsets, and Planets",
+    "score": 515,
+    "source": "Hacker News",
+    "timestamp": "2026-05-13T16:12:28.627376"
   }
 ]

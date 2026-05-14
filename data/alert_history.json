@@ -1,40 +1,5 @@
 [
   {
-    "key": "2026-05-04:Hacker News:GameStop makes $55.5B takeover offer for eBay",
-    "title": "GameStop makes $55.5B takeover offer for eBay",
-    "score": 519,
-    "source": "Hacker News",
-    "timestamp": "2026-05-04T19:12:53.540024"
-  },
-  {
-    "key": "2026-05-04:Hacker News:Trademark violation: Fake Notepad++ for Mac",
-    "title": "Trademark violation: Fake Notepad++ for Mac",
-    "score": 532,
-    "source": "Hacker News",
-    "timestamp": "2026-05-04T19:12:53.540029"
-  },
-  {
-    "key": "2026-05-04:Hacker News:Let's Buy Spirit Air",
-    "title": "Let's Buy Spirit Air",
-    "score": 545,
-    "source": "Hacker News",
-    "timestamp": "2026-05-04T19:12:53.540038"
-  },
-  {
-    "key": "2026-05-04:Hacker News:New statue in London, attributed to Banksy, of a suited man, blinded by a flag",
-    "title": "New statue in London, attributed to Banksy, of a suited man, blinded by a flag",
-    "score": 529,
-    "source": "Hacker News",
-    "timestamp": "2026-05-04T19:12:53.540042"
-  },
-  {
-    "key": "2026-05-05:Hacker News:Talking to strangers at the gym",
-    "title": "Talking to strangers at the gym",
-    "score": 1261,
-    "source": "Hacker News",
-    "timestamp": "2026-05-05T05:14:33.549977"
-  },
-  {
     "key": "2026-05-05:Hacker News:GameStop makes $55.5B takeover offer for eBay",
     "title": "GameStop makes $55.5B takeover offer for eBay",
     "score": 659,
@@ -698,5 +663,40 @@
     "score": 507,
     "source": "Hacker News",
     "timestamp": "2026-05-13T23:06:23.909715"
+  },
+  {
+    "key": "2026-05-14:Hacker News:Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+    "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+    "score": 625,
+    "source": "Hacker News",
+    "timestamp": "2026-05-14T05:46:45.011935"
+  },
+  {
+    "key": "2026-05-14:Hacker News:Setting up a free *.city.state.us locality domain (2025)",
+    "title": "Setting up a free *.city.state.us locality domain (2025)",
+    "score": 541,
+    "source": "Hacker News",
+    "timestamp": "2026-05-14T05:46:45.011950"
+  },
+  {
+    "key": "2026-05-14:Hacker News:Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+    "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+    "score": 659,
+    "source": "Hacker News",
+    "timestamp": "2026-05-14T05:46:45.011969"
+  },
+  {
+    "key": "2026-05-14:Hacker News:I moved my digital stack to Europe",
+    "title": "I moved my digital stack to Europe",
+    "score": 921,
+    "source": "Hacker News",
+    "timestamp": "2026-05-14T05:46:45.011975"
+  },
+  {
+    "key": "2026-05-14:Hacker News:Leaving GitHub for Forgejo",
+    "title": "Leaving GitHub for Forgejo",
+    "score": 558,
+    "source": "Hacker News",
+    "timestamp": "2026-05-14T05:46:45.011980"
   }
 ]

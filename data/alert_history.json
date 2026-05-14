@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-05-05:Hacker News:GameStop makes $55.5B takeover offer for eBay",
-    "title": "GameStop makes $55.5B takeover offer for eBay",
-    "score": 659,
-    "source": "Hacker News",
-    "timestamp": "2026-05-05T05:14:33.549995"
-  },
-  {
     "key": "2026-05-05:Hacker News:Trademark violation: Fake Notepad++ for Mac",
     "title": "Trademark violation: Fake Notepad++ for Mac",
     "score": 594,
@@ -698,5 +691,12 @@
     "score": 558,
     "source": "Hacker News",
     "timestamp": "2026-05-14T05:46:45.011980"
+  },
+  {
+    "key": "2026-05-14:Hacker News:A message from President Kornbluth about funding and the talent pipeline",
+    "title": "A message from President Kornbluth about funding and the talent pipeline",
+    "score": 554,
+    "source": "Hacker News",
+    "timestamp": "2026-05-14T22:59:02.440289"
   }
 ]

@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-05-06:Hacker News:.de TLD offline due to DNSSEC?",
-    "title": ".de TLD offline due to DNSSEC?",
-    "score": 582,
-    "source": "Hacker News",
-    "timestamp": "2026-05-06T05:28:32.152585"
-  },
-  {
     "key": "2026-05-06:Hacker News:Accelerating Gemma 4: faster inference with multi-token prediction drafters",
     "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
     "score": 511,
@@ -698,5 +691,12 @@
     "score": 733,
     "source": "Hacker News",
     "timestamp": "2026-05-15T05:53:42.994474"
+  },
+  {
+    "key": "2026-05-15:Hacker News:New arXiv policy: 1-year ban for hallucinated references",
+    "title": "New arXiv policy: 1-year ban for hallucinated references",
+    "score": 528,
+    "source": "Hacker News",
+    "timestamp": "2026-05-15T11:45:11.549184"
   }
 ]

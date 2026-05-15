@@ -1,40 +1,5 @@
 [
   {
-    "key": "2026-05-05:Hacker News:Trademark violation: Fake Notepad++ for Mac",
-    "title": "Trademark violation: Fake Notepad++ for Mac",
-    "score": 594,
-    "source": "Hacker News",
-    "timestamp": "2026-05-05T05:14:33.550002"
-  },
-  {
-    "key": "2026-05-05:Hacker News:Microsoft Edge stores all passwords in memory in clear text, even when unused",
-    "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
-    "score": 519,
-    "source": "Hacker News",
-    "timestamp": "2026-05-05T08:13:14.048667"
-  },
-  {
-    "key": "2026-05-05:Hacker News:Bun is being ported from Zig to Rust",
-    "title": "Bun is being ported from Zig to Rust",
-    "score": 541,
-    "source": "Hacker News",
-    "timestamp": "2026-05-05T11:07:26.889829"
-  },
-  {
-    "key": "2026-05-05:Hacker News:Google Chrome silently installs a 4 GB AI model on your device without consent",
-    "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-    "score": 647,
-    "source": "Hacker News",
-    "timestamp": "2026-05-05T15:27:39.190794"
-  },
-  {
-    "key": "2026-05-05:Hacker News:I am worried about Bun",
-    "title": "I am worried about Bun",
-    "score": 502,
-    "source": "Hacker News",
-    "timestamp": "2026-05-05T15:27:39.190835"
-  },
-  {
     "key": "2026-05-06:Hacker News:.de TLD offline due to DNSSEC?",
     "title": ".de TLD offline due to DNSSEC?",
     "score": 582,
@@ -698,5 +663,40 @@
     "score": 554,
     "source": "Hacker News",
     "timestamp": "2026-05-14T22:59:02.440289"
+  },
+  {
+    "key": "2026-05-15:Hacker News:Removing the modem and GPS from my 2024 RAV4 hybrid",
+    "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+    "score": 745,
+    "source": "Hacker News",
+    "timestamp": "2026-05-15T05:53:42.994439"
+  },
+  {
+    "key": "2026-05-15:Hacker News:RTX 5090 and M4 MacBook Air: Can It Game?",
+    "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+    "score": 538,
+    "source": "Hacker News",
+    "timestamp": "2026-05-15T05:53:42.994456"
+  },
+  {
+    "key": "2026-05-15:Hacker News:Rewrite Bun in Rust has been merged",
+    "title": "Rewrite Bun in Rust has been merged",
+    "score": 576,
+    "source": "Hacker News",
+    "timestamp": "2026-05-15T05:53:42.994463"
+  },
+  {
+    "key": "2026-05-15:Hacker News:A message from President Kornbluth about funding and the talent pipeline",
+    "title": "A message from President Kornbluth about funding and the talent pipeline",
+    "score": 596,
+    "source": "Hacker News",
+    "timestamp": "2026-05-15T05:53:42.994469"
+  },
+  {
+    "key": "2026-05-15:Hacker News:Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+    "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+    "score": 733,
+    "source": "Hacker News",
+    "timestamp": "2026-05-15T05:53:42.994474"
   }
 ]

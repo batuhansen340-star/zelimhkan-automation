@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-05-06:Hacker News:Red Squares – GitHub outages as contributions",
-    "title": "Red Squares – GitHub outages as contributions",
-    "score": 720,
-    "source": "Hacker News",
-    "timestamp": "2026-05-06T19:20:39.485020"
-  },
-  {
     "key": "2026-05-06:Hacker News:Appearing productive in the workplace",
     "title": "Appearing productive in the workplace",
     "score": 568,
@@ -698,5 +691,12 @@
     "score": 1169,
     "source": "Hacker News",
     "timestamp": "2026-05-17T05:47:43.272455"
+  },
+  {
+    "key": "2026-05-17:Hacker News:Moving away from Tailwind, and learning to structure my CSS",
+    "title": "Moving away from Tailwind, and learning to structure my CSS",
+    "score": 523,
+    "source": "Hacker News",
+    "timestamp": "2026-05-17T08:23:38.713687"
   }
 ]

@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-05-06:Hacker News:Appearing productive in the workplace",
-    "title": "Appearing productive in the workplace",
-    "score": 568,
-    "source": "Hacker News",
-    "timestamp": "2026-05-06T22:54:58.346548"
-  },
-  {
-    "key": "2026-05-07:Hacker News:Valve releases Steam Controller CAD files under Creative Commons license",
-    "title": "Valve releases Steam Controller CAD files under Creative Commons license",
-    "score": 1214,
-    "source": "Hacker News",
-    "timestamp": "2026-05-07T05:31:01.945043"
-  },
-  {
     "key": "2026-05-07:Hacker News:Appearing productive in the workplace",
     "title": "Appearing productive in the workplace",
     "score": 880,
@@ -698,5 +684,19 @@
     "score": 523,
     "source": "Hacker News",
     "timestamp": "2026-05-17T08:23:38.713687"
+  },
+  {
+    "key": "2026-05-17:Hacker News:Zerostack – A Unix-inspired coding agent written in pure Rust",
+    "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+    "score": 508,
+    "source": "Hacker News",
+    "timestamp": "2026-05-17T18:52:28.915719"
+  },
+  {
+    "key": "2026-05-17:Hacker News:Mozilla to UK regulators: VPNs are essential privacy and security tools",
+    "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
+    "score": 530,
+    "source": "Hacker News",
+    "timestamp": "2026-05-17T18:52:28.915738"
   }
 ]

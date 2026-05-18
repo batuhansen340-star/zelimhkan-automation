@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-05-07:Hacker News:Appearing productive in the workplace",
-    "title": "Appearing productive in the workplace",
-    "score": 880,
-    "source": "Hacker News",
-    "timestamp": "2026-05-07T05:31:01.945061"
-  },
-  {
-    "key": "2026-05-07:Hacker News:The bottleneck was never the code",
-    "title": "The bottleneck was never the code",
-    "score": 540,
-    "source": "Hacker News",
-    "timestamp": "2026-05-07T05:31:01.945068"
-  },
-  {
-    "key": "2026-05-07:Hacker News:Agents can now create Cloudflare accounts, buy domains, and deploy",
-    "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-    "score": 630,
-    "source": "Hacker News",
-    "timestamp": "2026-05-07T05:31:01.945074"
-  },
-  {
     "key": "2026-05-07:Hacker News:StarFighter 16-Inch",
     "title": "StarFighter 16-Inch",
     "score": 650,
@@ -698,5 +677,26 @@
     "score": 530,
     "source": "Hacker News",
     "timestamp": "2026-05-17T18:52:28.915738"
+  },
+  {
+    "key": "2026-05-18:Hacker News:I don't think AI will make your processes go faster",
+    "title": "I don't think AI will make your processes go faster",
+    "score": 544,
+    "source": "Hacker News",
+    "timestamp": "2026-05-18T06:12:57.464853"
+  },
+  {
+    "key": "2026-05-18:Hacker News:Mozilla to UK regulators: VPNs are essential privacy and security tools",
+    "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
+    "score": 692,
+    "source": "Hacker News",
+    "timestamp": "2026-05-18T06:12:57.464880"
+  },
+  {
+    "key": "2026-05-18:Hacker News:Zerostack – A Unix-inspired coding agent written in pure Rust",
+    "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+    "score": 546,
+    "source": "Hacker News",
+    "timestamp": "2026-05-18T06:12:57.464887"
   }
 ]

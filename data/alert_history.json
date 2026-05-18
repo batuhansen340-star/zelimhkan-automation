@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-05-07:Hacker News:StarFighter 16-Inch",
-    "title": "StarFighter 16-Inch",
-    "score": 650,
-    "source": "Hacker News",
-    "timestamp": "2026-05-07T05:31:01.945079"
-  },
-  {
-    "key": "2026-05-07:Hacker News:Google Chrome silently installs a 4 GB AI model on your device without consent",
-    "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-    "score": 1660,
-    "source": "Hacker News",
-    "timestamp": "2026-05-07T05:31:01.945084"
-  },
-  {
     "key": "2026-05-07:Hacker News:Vibe coding and agentic engineering are getting closer than I'd like",
     "title": "Vibe coding and agentic engineering are getting closer than I'd like",
     "score": 574,
@@ -698,5 +684,19 @@
     "score": 546,
     "source": "Hacker News",
     "timestamp": "2026-05-18T06:12:57.464887"
+  },
+  {
+    "key": "2026-05-18:Hacker News:Show HN: Files.md – Open-source alternative to Obsidian",
+    "title": "Show HN: Files.md – Open-source alternative to Obsidian",
+    "score": 502,
+    "source": "Hacker News",
+    "timestamp": "2026-05-18T23:04:21.120763"
+  },
+  {
+    "key": "2026-05-18:Hacker News:Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+    "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+    "score": 672,
+    "source": "Hacker News",
+    "timestamp": "2026-05-18T23:04:21.120780"
   }
 ]

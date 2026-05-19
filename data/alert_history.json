@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-05-08:Hacker News:AI slop is killing online communities",
-    "title": "AI slop is killing online communities",
-    "score": 525,
-    "source": "Hacker News",
-    "timestamp": "2026-05-08T04:52:44.925572"
-  },
-  {
     "key": "2026-05-08:Hacker News:Programming Still Sucks",
     "title": "Programming Still Sucks",
     "score": 524,
@@ -698,5 +691,12 @@
     "score": 509,
     "source": "Hacker News",
     "timestamp": "2026-05-19T16:42:42.527932"
+  },
+  {
+    "key": "2026-05-19:Hacker News:I’ve joined Anthropic",
+    "title": "I’ve joined Anthropic",
+    "score": 878,
+    "source": "Hacker News",
+    "timestamp": "2026-05-19T19:42:21.937529"
   }
 ]

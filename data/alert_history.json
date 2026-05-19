@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-05-07:Hacker News:Vibe coding and agentic engineering are getting closer than I'd like",
-    "title": "Vibe coding and agentic engineering are getting closer than I'd like",
-    "score": 574,
-    "source": "Hacker News",
-    "timestamp": "2026-05-07T08:36:32.670826"
-  },
-  {
-    "key": "2026-05-07:Hacker News:SQLite Is a Library of Congress Recommended Storage Format",
-    "title": "SQLite Is a Library of Congress Recommended Storage Format",
-    "score": 562,
-    "source": "Hacker News",
-    "timestamp": "2026-05-07T19:24:57.918844"
-  },
-  {
-    "key": "2026-05-07:Hacker News:The Burning Man MOOP Map",
-    "title": "The Burning Man MOOP Map",
-    "score": 500,
-    "source": "Hacker News",
-    "timestamp": "2026-05-07T23:01:59.743940"
-  },
-  {
     "key": "2026-05-08:Hacker News:Dirtyfrag: Universal Linux LPE",
     "title": "Dirtyfrag: Universal Linux LPE",
     "score": 511,
@@ -698,5 +677,26 @@
     "score": 672,
     "source": "Hacker News",
     "timestamp": "2026-05-18T23:04:21.120780"
+  },
+  {
+    "key": "2026-05-19:Hacker News:The quiet renovation at Bitwarden",
+    "title": "The quiet renovation at Bitwarden",
+    "score": 607,
+    "source": "Hacker News",
+    "timestamp": "2026-05-19T06:06:50.434182"
+  },
+  {
+    "key": "2026-05-19:Hacker News:Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+    "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+    "score": 893,
+    "source": "Hacker News",
+    "timestamp": "2026-05-19T06:06:50.434197"
+  },
+  {
+    "key": "2026-05-19:Hacker News:Show HN: Files.md – Open-source alternative to Obsidian",
+    "title": "Show HN: Files.md – Open-source alternative to Obsidian",
+    "score": 606,
+    "source": "Hacker News",
+    "timestamp": "2026-05-19T06:06:50.434204"
   }
 ]

@@ -1,40 +1,5 @@
 [
   {
-    "key": "2026-05-08:Hacker News:Valve releases Steam Controller CAD files under Creative Commons license",
-    "title": "Valve releases Steam Controller CAD files under Creative Commons license",
-    "score": 1692,
-    "source": "Hacker News",
-    "timestamp": "2026-05-08T04:52:44.925587"
-  },
-  {
-    "key": "2026-05-08:Hacker News:Canvas is down as ShinyHunters threatens to leak schools’ data",
-    "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
-    "score": 568,
-    "source": "Hacker News",
-    "timestamp": "2026-05-08T07:44:49.449092"
-  },
-  {
-    "key": "2026-05-08:Hacker News:Cloudflare to cut about 20% workforce",
-    "title": "Cloudflare to cut about 20% workforce",
-    "score": 625,
-    "source": "Hacker News",
-    "timestamp": "2026-05-08T07:44:49.449105"
-  },
-  {
-    "key": "2026-05-08:Hacker News:Maybe you shouldn't install new software for a bit",
-    "title": "Maybe you shouldn't install new software for a bit",
-    "score": 557,
-    "source": "Hacker News",
-    "timestamp": "2026-05-08T11:00:13.787316"
-  },
-  {
-    "key": "2026-05-08:Hacker News:Rumors of my death are slightly exaggerated",
-    "title": "Rumors of my death are slightly exaggerated",
-    "score": 686,
-    "source": "Hacker News",
-    "timestamp": "2026-05-08T15:12:21.673622"
-  },
-  {
     "key": "2026-05-08:Hacker News:Agents need control flow, not more prompts",
     "title": "Agents need control flow, not more prompts",
     "score": 534,
@@ -698,5 +663,40 @@
     "score": 555,
     "source": "Hacker News",
     "timestamp": "2026-05-19T23:04:45.857994"
+  },
+  {
+    "key": "2026-05-20:Hacker News:Gemini 3.5 Flash",
+    "title": "Gemini 3.5 Flash",
+    "score": 700,
+    "source": "Hacker News",
+    "timestamp": "2026-05-20T06:06:12.939611"
+  },
+  {
+    "key": "2026-05-20:Hacker News:I’ve built a virtual museum with nearly every operating system you can think of",
+    "title": "I’ve built a virtual museum with nearly every operating system you can think of",
+    "score": 696,
+    "source": "Hacker News",
+    "timestamp": "2026-05-20T06:06:12.939625"
+  },
+  {
+    "key": "2026-05-20:Hacker News:Apple unveils new accessibility features",
+    "title": "Apple unveils new accessibility features",
+    "score": 643,
+    "source": "Hacker News",
+    "timestamp": "2026-05-20T06:06:12.939632"
+  },
+  {
+    "key": "2026-05-20:Hacker News:Minnesota becomes first state to ban prediction markets",
+    "title": "Minnesota becomes first state to ban prediction markets",
+    "score": 594,
+    "source": "Hacker News",
+    "timestamp": "2026-05-20T06:06:12.939637"
+  },
+  {
+    "key": "2026-05-20:Hacker News:I’ve joined Anthropic",
+    "title": "I’ve joined Anthropic",
+    "score": 1257,
+    "source": "Hacker News",
+    "timestamp": "2026-05-20T06:06:12.939643"
   }
 ]

@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-05-08:Hacker News:Agents need control flow, not more prompts",
-    "title": "Agents need control flow, not more prompts",
-    "score": 534,
-    "source": "Hacker News",
-    "timestamp": "2026-05-08T15:12:21.673639"
-  },
-  {
     "key": "2026-05-08:Hacker News:Poland is now among the 20 largest economies",
     "title": "Poland is now among the 20 largest economies",
     "score": 743,
@@ -698,5 +691,12 @@
     "score": 1257,
     "source": "Hacker News",
     "timestamp": "2026-05-20T06:06:12.939643"
+  },
+  {
+    "key": "2026-05-20:Hacker News:Google changes its search box",
+    "title": "Google changes its search box",
+    "score": 542,
+    "source": "Hacker News",
+    "timestamp": "2026-05-20T09:38:22.413243"
   }
 ]

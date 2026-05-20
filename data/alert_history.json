@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-05-08:Hacker News:Poland is now among the 20 largest economies",
-    "title": "Poland is now among the 20 largest economies",
-    "score": 743,
-    "source": "Hacker News",
-    "timestamp": "2026-05-08T19:02:42.226523"
-  },
-  {
-    "key": "2026-05-08:Hacker News:Cloudflare to cut about 20% of its workforce",
-    "title": "Cloudflare to cut about 20% of its workforce",
-    "score": 1193,
-    "source": "Hacker News",
-    "timestamp": "2026-05-08T19:02:42.226541"
-  },
-  {
     "key": "2026-05-08:Hacker News:Canvas online again as ShinyHunters threatens to leak schools’ data",
     "title": "Canvas online again as ShinyHunters threatens to leak schools’ data",
     "score": 876,
@@ -698,5 +684,19 @@
     "score": 542,
     "source": "Hacker News",
     "timestamp": "2026-05-20T09:38:22.413243"
+  },
+  {
+    "key": "2026-05-20:Hacker News:Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+    "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+    "score": 533,
+    "source": "Hacker News",
+    "timestamp": "2026-05-20T12:13:07.401130"
+  },
+  {
+    "key": "2026-05-20:Hacker News:GitHub is investigating unauthorized access to their internal repositories",
+    "title": "GitHub is investigating unauthorized access to their internal repositories",
+    "score": 503,
+    "source": "Hacker News",
+    "timestamp": "2026-05-20T12:13:07.401146"
   }
 ]

@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-05-10:Hacker News:Hardware Attestation as Monopoly Enabler",
-    "title": "Hardware Attestation as Monopoly Enabler",
-    "score": 664,
-    "source": "Hacker News",
-    "timestamp": "2026-05-10T22:51:59.761075"
-  },
-  {
     "key": "2026-05-10:Hacker News:I returned to AWS and was reminded why I left",
     "title": "I returned to AWS and was reminded why I left",
     "score": 609,
@@ -698,5 +691,12 @@
     "score": 536,
     "source": "Hacker News",
     "timestamp": "2026-05-21T16:32:18.475094"
+  },
+  {
+    "key": "2026-05-21:Hacker News:We're testing new ad formats in Search and expanding our Direct Offers pilot",
+    "title": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
+    "score": 502,
+    "source": "Hacker News",
+    "timestamp": "2026-05-21T19:42:01.232354"
   }
 ]

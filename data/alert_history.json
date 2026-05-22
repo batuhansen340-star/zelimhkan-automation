@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-05-11:Hacker News:Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
-    "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
-    "score": 690,
-    "source": "Hacker News",
-    "timestamp": "2026-05-11T05:57:48.927773"
-  },
-  {
     "key": "2026-05-11:Hacker News:Incident Report: CVE-2024-YIKES",
     "title": "Incident Report: CVE-2024-YIKES",
     "score": 533,
@@ -698,5 +691,12 @@
     "score": 1383,
     "source": "Hacker News",
     "timestamp": "2026-05-22T06:05:17.797583"
+  },
+  {
+    "key": "2026-05-22:Hacker News:GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+    "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+    "score": 1020,
+    "source": "Hacker News",
+    "timestamp": "2026-05-22T09:29:51.002602"
   }
 ]

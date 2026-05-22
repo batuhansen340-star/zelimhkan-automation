@@ -1,47 +1,5 @@
 [
   {
-    "key": "2026-05-10:Hacker News:I returned to AWS and was reminded why I left",
-    "title": "I returned to AWS and was reminded why I left",
-    "score": 609,
-    "source": "Hacker News",
-    "timestamp": "2026-05-10T22:51:59.761097"
-  },
-  {
-    "key": "2026-05-11:Hacker News:Hardware Attestation as Monopoly Enabler",
-    "title": "Hardware Attestation as Monopoly Enabler",
-    "score": 1210,
-    "source": "Hacker News",
-    "timestamp": "2026-05-11T05:57:48.927737"
-  },
-  {
-    "key": "2026-05-11:Hacker News:Local AI needs to be the norm",
-    "title": "Local AI needs to be the norm",
-    "score": 854,
-    "source": "Hacker News",
-    "timestamp": "2026-05-11T05:57:48.927751"
-  },
-  {
-    "key": "2026-05-11:Hacker News:I returned to AWS and was reminded why I left",
-    "title": "I returned to AWS and was reminded why I left",
-    "score": 711,
-    "source": "Hacker News",
-    "timestamp": "2026-05-11T05:57:48.927757"
-  },
-  {
-    "key": "2026-05-11:Hacker News:Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
-    "title": "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
-    "score": 519,
-    "source": "Hacker News",
-    "timestamp": "2026-05-11T05:57:48.927762"
-  },
-  {
-    "key": "2026-05-11:Hacker News:A recent experience with ChatGPT 5.5 Pro",
-    "title": "A recent experience with ChatGPT 5.5 Pro",
-    "score": 687,
-    "source": "Hacker News",
-    "timestamp": "2026-05-11T05:57:48.927768"
-  },
-  {
     "key": "2026-05-11:Hacker News:Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
     "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
     "score": 690,
@@ -698,5 +656,47 @@
     "score": 502,
     "source": "Hacker News",
     "timestamp": "2026-05-21T19:42:01.232354"
+  },
+  {
+    "key": "2026-05-22:Hacker News:Project Hail Mary – Stellar Navigation Chart",
+    "title": "Project Hail Mary – Stellar Navigation Chart",
+    "score": 773,
+    "source": "Hacker News",
+    "timestamp": "2026-05-22T06:05:17.797548"
+  },
+  {
+    "key": "2026-05-22:Hacker News:Flipper One – we need your help",
+    "title": "Flipper One – we need your help",
+    "score": 1111,
+    "source": "Hacker News",
+    "timestamp": "2026-05-22T06:05:17.797561"
+  },
+  {
+    "key": "2026-05-22:Hacker News:Google's Antigravity bait and switch",
+    "title": "Google's Antigravity bait and switch",
+    "score": 625,
+    "source": "Hacker News",
+    "timestamp": "2026-05-22T06:05:17.797568"
+  },
+  {
+    "key": "2026-05-22:Hacker News:Throwing AI-generated walls of text into conversations",
+    "title": "Throwing AI-generated walls of text into conversations",
+    "score": 559,
+    "source": "Hacker News",
+    "timestamp": "2026-05-22T06:05:17.797573"
+  },
+  {
+    "key": "2026-05-22:Hacker News:We're testing new ad formats in Search and expanding our Direct Offers pilot",
+    "title": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
+    "score": 587,
+    "source": "Hacker News",
+    "timestamp": "2026-05-22T06:05:17.797578"
+  },
+  {
+    "key": "2026-05-22:Hacker News:An OpenAI model has disproved a central conjecture in discrete geometry",
+    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+    "score": 1383,
+    "source": "Hacker News",
+    "timestamp": "2026-05-22T06:05:17.797583"
   }
 ]

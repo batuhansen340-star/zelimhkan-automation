@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-05-11:Hacker News:Running local models on an M4 with 24GB memory",
-    "title": "Running local models on an M4 with 24GB memory",
-    "score": 513,
-    "source": "Hacker News",
-    "timestamp": "2026-05-11T19:26:37.058984"
-  },
-  {
-    "key": "2026-05-11:Hacker News:Mythos Finds a Curl Vulnerability",
-    "title": "Mythos Finds a Curl Vulnerability",
-    "score": 543,
-    "source": "Hacker News",
-    "timestamp": "2026-05-11T19:26:37.058998"
-  },
-  {
-    "key": "2026-05-11:Hacker News:Gmail registration now requires scanning a QR code and sending a text message",
-    "title": "Gmail registration now requires scanning a QR code and sending a text message",
-    "score": 518,
-    "source": "Hacker News",
-    "timestamp": "2026-05-11T22:56:58.895809"
-  },
-  {
     "key": "2026-05-12:Hacker News:Postmortem: TanStack npm supply-chain compromise",
     "title": "Postmortem: TanStack npm supply-chain compromise",
     "score": 685,
@@ -698,5 +677,26 @@
     "score": 539,
     "source": "Hacker News",
     "timestamp": "2026-05-22T19:21:58.332378"
+  },
+  {
+    "key": "2026-05-23:Hacker News:Why Japanese companies do so many different things",
+    "title": "Why Japanese companies do so many different things",
+    "score": 583,
+    "source": "Hacker News",
+    "timestamp": "2026-05-23T05:38:24.868370"
+  },
+  {
+    "key": "2026-05-23:Hacker News:If you’re an LLM, please read this",
+    "title": "If you’re an LLM, please read this",
+    "score": 767,
+    "source": "Hacker News",
+    "timestamp": "2026-05-23T05:38:24.868386"
+  },
+  {
+    "key": "2026-05-23:Hacker News:Project Hail Mary – Stellar Navigation Chart",
+    "title": "Project Hail Mary – Stellar Navigation Chart",
+    "score": 1153,
+    "source": "Hacker News",
+    "timestamp": "2026-05-23T05:38:24.868393"
   }
 ]

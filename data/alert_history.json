@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-05-12:Hacker News:Ratty – A terminal emulator with inline 3D graphics",
-    "title": "Ratty – A terminal emulator with inline 3D graphics",
-    "score": 632,
-    "source": "Hacker News",
-    "timestamp": "2026-05-12T05:37:13.083036"
-  },
-  {
     "key": "2026-05-12:Hacker News:Gmail registration now requires scanning a QR code and sending a text message",
     "title": "Gmail registration now requires scanning a QR code and sending a text message",
     "score": 585,
@@ -698,5 +691,12 @@
     "score": 520,
     "source": "Hacker News",
     "timestamp": "2026-05-23T14:52:29.828039"
+  },
+  {
+    "key": "2026-05-23:Hacker News:Project Glasswing: An Initial Update",
+    "title": "Project Glasswing: An Initial Update",
+    "score": 501,
+    "source": "Hacker News",
+    "timestamp": "2026-05-23T18:54:03.696533"
   }
 ]

@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-05-12:Hacker News:Postmortem: TanStack npm supply-chain compromise",
-    "title": "Postmortem: TanStack npm supply-chain compromise",
-    "score": 685,
-    "source": "Hacker News",
-    "timestamp": "2026-05-12T05:37:13.083005"
-  },
-  {
-    "key": "2026-05-12:Hacker News:Hardware Attestation as Monopoly Enabler",
-    "title": "Hardware Attestation as Monopoly Enabler",
-    "score": 2098,
-    "source": "Hacker News",
-    "timestamp": "2026-05-12T05:37:13.083025"
-  },
-  {
     "key": "2026-05-12:Hacker News:Ratty – A terminal emulator with inline 3D graphics",
     "title": "Ratty – A terminal emulator with inline 3D graphics",
     "score": 632,
@@ -698,5 +684,19 @@
     "score": 1153,
     "source": "Hacker News",
     "timestamp": "2026-05-23T05:38:24.868393"
+  },
+  {
+    "key": "2026-05-23:Hacker News:Shipping a laptop to a refugee camp in Uganda",
+    "title": "Shipping a laptop to a refugee camp in Uganda",
+    "score": 576,
+    "source": "Hacker News",
+    "timestamp": "2026-05-23T14:52:29.828015"
+  },
+  {
+    "key": "2026-05-23:Hacker News:Bun support is now limited and deprecated",
+    "title": "Bun support is now limited and deprecated",
+    "score": 520,
+    "source": "Hacker News",
+    "timestamp": "2026-05-23T14:52:29.828039"
   }
 ]

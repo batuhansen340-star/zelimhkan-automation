@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-05-12:Hacker News:Gmail registration now requires scanning a QR code and sending a text message",
-    "title": "Gmail registration now requires scanning a QR code and sending a text message",
-    "score": 585,
-    "source": "Hacker News",
-    "timestamp": "2026-05-12T05:37:13.083041"
-  },
-  {
     "key": "2026-05-12:Hacker News:Local AI needs to be the norm",
     "title": "Local AI needs to be the norm",
     "score": 1787,
@@ -698,5 +691,12 @@
     "score": 501,
     "source": "Hacker News",
     "timestamp": "2026-05-23T18:54:03.696533"
+  },
+  {
+    "key": "2026-05-23:Hacker News:Texas woman arrested for Facebook post about town water quality",
+    "title": "Texas woman arrested for Facebook post about town water quality",
+    "score": 552,
+    "source": "Hacker News",
+    "timestamp": "2026-05-23T22:55:15.555645"
   }
 ]

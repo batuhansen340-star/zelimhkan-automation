@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-05-12:Hacker News:Local AI needs to be the norm",
-    "title": "Local AI needs to be the norm",
-    "score": 1787,
-    "source": "Hacker News",
-    "timestamp": "2026-05-12T05:37:13.083046"
-  },
-  {
-    "key": "2026-05-12:Hacker News:I'm going back to writing code by hand",
-    "title": "I'm going back to writing code by hand",
-    "score": 933,
-    "source": "Hacker News",
-    "timestamp": "2026-05-12T05:37:13.083052"
-  },
-  {
-    "key": "2026-05-12:Hacker News:Mythos Finds a Curl Vulnerability",
-    "title": "Mythos Finds a Curl Vulnerability",
-    "score": 635,
-    "source": "Hacker News",
-    "timestamp": "2026-05-12T05:37:13.083056"
-  },
-  {
     "key": "2026-05-12:Hacker News:Postmortem: TanStack NPM supply-chain compromise",
     "title": "Postmortem: TanStack NPM supply-chain compromise",
     "score": 813,
@@ -698,5 +677,26 @@
     "score": 552,
     "source": "Hacker News",
     "timestamp": "2026-05-23T22:55:15.555645"
+  },
+  {
+    "key": "2026-05-24:Hacker News:Green card seekers must leave U.S. to apply, Trump administration says",
+    "title": "Green card seekers must leave U.S. to apply, Trump administration says",
+    "score": 770,
+    "source": "Hacker News",
+    "timestamp": "2026-05-24T06:00:20.433873"
+  },
+  {
+    "key": "2026-05-24:Hacker News:Texas woman arrested for Facebook post about town water quality",
+    "title": "Texas woman arrested for Facebook post about town water quality",
+    "score": 684,
+    "source": "Hacker News",
+    "timestamp": "2026-05-24T06:00:20.433888"
+  },
+  {
+    "key": "2026-05-24:Hacker News:Project Glasswing: An Initial Update",
+    "title": "Project Glasswing: An Initial Update",
+    "score": 531,
+    "source": "Hacker News",
+    "timestamp": "2026-05-24T06:00:20.433894"
   }
 ]

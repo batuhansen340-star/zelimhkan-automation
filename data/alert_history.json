@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-05-12:Hacker News:Googlebook",
-    "title": "Googlebook",
-    "score": 503,
-    "source": "Hacker News",
-    "timestamp": "2026-05-12T23:04:45.645844"
-  },
-  {
     "key": "2026-05-12:Hacker News:Learning Software Architecture",
     "title": "Learning Software Architecture",
     "score": 502,
@@ -698,5 +691,12 @@
     "score": 532,
     "source": "Hacker News",
     "timestamp": "2026-05-25T16:13:27.675153"
+  },
+  {
+    "key": "2026-05-25:Hacker News:Magnifica Humanitas",
+    "title": "Magnifica Humanitas",
+    "score": 974,
+    "source": "Hacker News",
+    "timestamp": "2026-05-25T19:14:22.765388"
   }
 ]

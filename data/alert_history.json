@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-05-13:Hacker News:Screenshots of Old Desktop OSes",
-    "title": "Screenshots of Old Desktop OSes",
-    "score": 660,
-    "source": "Hacker News",
-    "timestamp": "2026-05-13T05:47:45.175539"
-  },
-  {
     "key": "2026-05-13:Hacker News:Postmortem: TanStack NPM supply-chain compromise",
     "title": "Postmortem: TanStack NPM supply-chain compromise",
     "score": 1069,
@@ -698,5 +691,12 @@
     "score": 1387,
     "source": "Hacker News",
     "timestamp": "2026-05-26T06:05:31.038981"
+  },
+  {
+    "key": "2026-05-26:Hacker News:Using AI to write better code more slowly",
+    "title": "Using AI to write better code more slowly",
+    "score": 646,
+    "source": "Hacker News",
+    "timestamp": "2026-05-26T09:59:38.929376"
   }
 ]

@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-05-13:Hacker News:Leaving GitHub for Forgejo",
-    "title": "Leaving GitHub for Forgejo",
-    "score": 507,
-    "source": "Hacker News",
-    "timestamp": "2026-05-13T23:06:23.909715"
-  },
-  {
-    "key": "2026-05-14:Hacker News:Linux gaming is faster because Windows APIs are becoming Linux kernel features",
-    "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
-    "score": 625,
-    "source": "Hacker News",
-    "timestamp": "2026-05-14T05:46:45.011935"
-  },
-  {
     "key": "2026-05-14:Hacker News:Setting up a free *.city.state.us locality domain (2025)",
     "title": "Setting up a free *.city.state.us locality domain (2025)",
     "score": 541,
@@ -698,5 +684,19 @@
     "score": 577,
     "source": "Hacker News",
     "timestamp": "2026-05-27T06:19:35.571130"
+  },
+  {
+    "key": "2026-05-27:Hacker News:I'm Tired of Talking to AI",
+    "title": "I'm Tired of Talking to AI",
+    "score": 1515,
+    "source": "Hacker News",
+    "timestamp": "2026-05-27T16:56:24.441595"
+  },
+  {
+    "key": "2026-05-27:Hacker News:The worst job interview I ever had",
+    "title": "The worst job interview I ever had",
+    "score": 542,
+    "source": "Hacker News",
+    "timestamp": "2026-05-27T16:56:24.441610"
   }
 ]

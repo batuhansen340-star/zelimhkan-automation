@@ -1,54 +1,5 @@
 [
   {
-    "key": "2026-05-14:Hacker News:A message from President Kornbluth about funding and the talent pipeline",
-    "title": "A message from President Kornbluth about funding and the talent pipeline",
-    "score": 554,
-    "source": "Hacker News",
-    "timestamp": "2026-05-14T22:59:02.440289"
-  },
-  {
-    "key": "2026-05-15:Hacker News:Removing the modem and GPS from my 2024 RAV4 hybrid",
-    "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
-    "score": 745,
-    "source": "Hacker News",
-    "timestamp": "2026-05-15T05:53:42.994439"
-  },
-  {
-    "key": "2026-05-15:Hacker News:RTX 5090 and M4 MacBook Air: Can It Game?",
-    "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-    "score": 538,
-    "source": "Hacker News",
-    "timestamp": "2026-05-15T05:53:42.994456"
-  },
-  {
-    "key": "2026-05-15:Hacker News:Rewrite Bun in Rust has been merged",
-    "title": "Rewrite Bun in Rust has been merged",
-    "score": 576,
-    "source": "Hacker News",
-    "timestamp": "2026-05-15T05:53:42.994463"
-  },
-  {
-    "key": "2026-05-15:Hacker News:A message from President Kornbluth about funding and the talent pipeline",
-    "title": "A message from President Kornbluth about funding and the talent pipeline",
-    "score": 596,
-    "source": "Hacker News",
-    "timestamp": "2026-05-15T05:53:42.994469"
-  },
-  {
-    "key": "2026-05-15:Hacker News:Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-    "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-    "score": 733,
-    "source": "Hacker News",
-    "timestamp": "2026-05-15T05:53:42.994474"
-  },
-  {
-    "key": "2026-05-15:Hacker News:New arXiv policy: 1-year ban for hallucinated references",
-    "title": "New arXiv policy: 1-year ban for hallucinated references",
-    "score": 528,
-    "source": "Hacker News",
-    "timestamp": "2026-05-15T11:45:11.549184"
-  },
-  {
     "key": "2026-05-15:Hacker News:Mullvad exit IPs are surprisingly identifying",
     "title": "Mullvad exit IPs are surprisingly identifying",
     "score": 508,
@@ -698,5 +649,54 @@
     "score": 511,
     "source": "Hacker News",
     "timestamp": "2026-05-27T23:19:26.808567"
+  },
+  {
+    "key": "2026-05-28:Hacker News:YouTube to automatically label AI-generated videos",
+    "title": "YouTube to automatically label AI-generated videos",
+    "score": 725,
+    "source": "Hacker News",
+    "timestamp": "2026-05-28T06:10:51.856136"
+  },
+  {
+    "key": "2026-05-28:Hacker News:I think Anthropic and OpenAI have found product-market fit",
+    "title": "I think Anthropic and OpenAI have found product-market fit",
+    "score": 774,
+    "source": "Hacker News",
+    "timestamp": "2026-05-28T06:10:51.856156"
+  },
+  {
+    "key": "2026-05-28:Hacker News:Can we have the day off?",
+    "title": "Can we have the day off?",
+    "score": 878,
+    "source": "Hacker News",
+    "timestamp": "2026-05-28T06:10:51.856162"
+  },
+  {
+    "key": "2026-05-28:Hacker News:DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+    "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+    "score": 768,
+    "source": "Hacker News",
+    "timestamp": "2026-05-28T06:10:51.856167"
+  },
+  {
+    "key": "2026-05-28:Hacker News:Last.fm is now independent",
+    "title": "Last.fm is now independent",
+    "score": 708,
+    "source": "Hacker News",
+    "timestamp": "2026-05-28T06:10:51.856172"
+  },
+  {
+    "key": "2026-05-28:Hacker News:Private equity bought America's essential services",
+    "title": "Private equity bought America's essential services",
+    "score": 500,
+    "source": "Hacker News",
+    "timestamp": "2026-05-28T06:10:51.856177"
+  },
+  {
+    "key": "2026-05-28:Hacker News:Tech CEOs are apparently suffering from AI psychosis",
+    "title": "Tech CEOs are apparently suffering from AI psychosis",
+    "score": 630,
+    "source": "Hacker News",
+    "timestamp": "2026-05-28T06:10:51.856181"
   }
 ]

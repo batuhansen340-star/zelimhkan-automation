@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-05-17:Hacker News:I believe there are entire companies right now under AI psychosis",
-    "title": "I believe there are entire companies right now under AI psychosis",
-    "score": 1931,
-    "source": "Hacker News",
-    "timestamp": "2026-05-17T05:47:43.272440"
-  },
-  {
     "key": "2026-05-17:Hacker News:Project Gutenberg – keeps getting better",
     "title": "Project Gutenberg – keeps getting better",
     "score": 1169,
@@ -698,5 +691,12 @@
     "score": 513,
     "source": "Hacker News",
     "timestamp": "2026-05-29T17:25:06.501764"
+  },
+  {
+    "key": "2026-05-29:Hacker News:I am retiring from tech to live offline",
+    "title": "I am retiring from tech to live offline",
+    "score": 619,
+    "source": "Hacker News",
+    "timestamp": "2026-05-29T20:06:52.484924"
   }
 ]

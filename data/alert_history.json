@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-05-18:Hacker News:Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-    "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-    "score": 672,
-    "source": "Hacker News",
-    "timestamp": "2026-05-18T23:04:21.120780"
-  },
-  {
     "key": "2026-05-19:Hacker News:The quiet renovation at Bitwarden",
     "title": "The quiet renovation at Bitwarden",
     "score": 607,
@@ -698,5 +691,12 @@
     "score": 1301,
     "source": "Hacker News",
     "timestamp": "2026-05-30T05:47:06.195327"
+  },
+  {
+    "key": "2026-05-30:Hacker News:SQLite is all you need for durable workflows",
+    "title": "SQLite is all you need for durable workflows",
+    "score": 507,
+    "source": "Hacker News",
+    "timestamp": "2026-05-30T08:29:56.896589"
   }
 ]

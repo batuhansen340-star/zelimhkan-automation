@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-05-19:Hacker News:Show HN: Files.md – Open-source alternative to Obsidian",
-    "title": "Show HN: Files.md – Open-source alternative to Obsidian",
-    "score": 606,
-    "source": "Hacker News",
-    "timestamp": "2026-05-19T06:06:50.434204"
-  },
-  {
     "key": "2026-05-19:Hacker News:The last six months in LLMs in five minutes",
     "title": "The last six months in LLMs in five minutes",
     "score": 513,
@@ -698,5 +691,12 @@
     "score": 678,
     "source": "Hacker News",
     "timestamp": "2026-05-31T06:17:15.982539"
+  },
+  {
+    "key": "2026-05-31:Hacker News:Domain expertise has always been the real moat",
+    "title": "Domain expertise has always been the real moat",
+    "score": 554,
+    "source": "Hacker News",
+    "timestamp": "2026-05-31T08:48:21.691723"
   }
 ]

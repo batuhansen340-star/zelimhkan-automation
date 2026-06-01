@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-05-20:Hacker News:Gemini 3.5 Flash",
-    "title": "Gemini 3.5 Flash",
-    "score": 700,
-    "source": "Hacker News",
-    "timestamp": "2026-05-20T06:06:12.939611"
-  },
-  {
-    "key": "2026-05-20:Hacker News:I’ve built a virtual museum with nearly every operating system you can think of",
-    "title": "I’ve built a virtual museum with nearly every operating system you can think of",
-    "score": 696,
-    "source": "Hacker News",
-    "timestamp": "2026-05-20T06:06:12.939625"
-  },
-  {
-    "key": "2026-05-20:Hacker News:Apple unveils new accessibility features",
-    "title": "Apple unveils new accessibility features",
-    "score": 643,
-    "source": "Hacker News",
-    "timestamp": "2026-05-20T06:06:12.939632"
-  },
-  {
     "key": "2026-05-20:Hacker News:Minnesota becomes first state to ban prediction markets",
     "title": "Minnesota becomes first state to ban prediction markets",
     "score": 594,
@@ -698,5 +677,26 @@
     "score": 571,
     "source": "Hacker News",
     "timestamp": "2026-06-01T11:38:45.528149"
+  },
+  {
+    "key": "2026-06-01:Hacker News:The newest Instagram “exploit” is the goofiest I've seen",
+    "title": "The newest Instagram “exploit” is the goofiest I've seen",
+    "score": 605,
+    "source": "Hacker News",
+    "timestamp": "2026-06-01T19:14:44.455709"
+  },
+  {
+    "key": "2026-06-01:Hacker News:A 10 year old Xeon is all you need",
+    "title": "A 10 year old Xeon is all you need",
+    "score": 586,
+    "source": "Hacker News",
+    "timestamp": "2026-06-01T19:14:44.455726"
+  },
+  {
+    "key": "2026-06-01:Hacker News:Malicious npm packages detected across Red Hat Cloud Services",
+    "title": "Malicious npm packages detected across Red Hat Cloud Services",
+    "score": 662,
+    "source": "Hacker News",
+    "timestamp": "2026-06-01T19:14:44.455734"
   }
 ]

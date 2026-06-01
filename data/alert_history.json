@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-05-19:Hacker News:The last six months in LLMs in five minutes",
-    "title": "The last six months in LLMs in five minutes",
-    "score": 513,
-    "source": "Hacker News",
-    "timestamp": "2026-05-19T12:32:20.270523"
-  },
-  {
-    "key": "2026-05-19:Hacker News:Anthropic acquires Stainless",
-    "title": "Anthropic acquires Stainless",
-    "score": 509,
-    "source": "Hacker News",
-    "timestamp": "2026-05-19T16:42:42.527932"
-  },
-  {
     "key": "2026-05-19:Hacker News:I’ve joined Anthropic",
     "title": "I’ve joined Anthropic",
     "score": 878,
@@ -698,5 +684,19 @@
     "score": 554,
     "source": "Hacker News",
     "timestamp": "2026-05-31T08:48:21.691723"
+  },
+  {
+    "key": "2026-06-01:Hacker News:Cloudflare Turnstile requiring fingerprintable WebGL",
+    "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
+    "score": 620,
+    "source": "Hacker News",
+    "timestamp": "2026-06-01T06:54:56.039075"
+  },
+  {
+    "key": "2026-06-01:Hacker News:Domain expertise has always been the real moat",
+    "title": "Domain expertise has always been the real moat",
+    "score": 830,
+    "source": "Hacker News",
+    "timestamp": "2026-06-01T06:54:56.039095"
   }
 ]

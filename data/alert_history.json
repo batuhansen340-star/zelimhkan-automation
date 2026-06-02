@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-05-20:Hacker News:Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment",
-    "title": "Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment",
-    "score": 620,
-    "source": "Hacker News",
-    "timestamp": "2026-05-20T16:42:37.691915"
-  },
-  {
     "key": "2026-05-20:Hacker News:Incident Report: Railway Blocked by Google Cloud (Resolved)",
     "title": "Incident Report: Railway Blocked by Google Cloud (Resolved)",
     "score": 525,
@@ -698,5 +691,12 @@
     "score": 504,
     "source": "Hacker News",
     "timestamp": "2026-06-02T13:44:36.910377"
+  },
+  {
+    "key": "2026-06-02:Hacker News:Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+    "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+    "score": 618,
+    "source": "Hacker News",
+    "timestamp": "2026-06-02T17:58:14.503870"
   }
 ]

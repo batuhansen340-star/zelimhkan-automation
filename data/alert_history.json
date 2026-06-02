@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-05-20:Hacker News:Incident Report: Railway Blocked by Google Cloud (Resolved)",
-    "title": "Incident Report: Railway Blocked by Google Cloud (Resolved)",
-    "score": 525,
-    "source": "Hacker News",
-    "timestamp": "2026-05-20T16:42:37.691942"
-  },
-  {
     "key": "2026-05-20:Hacker News:Qwen3.7-Max: The Agent Frontier",
     "title": "Qwen3.7-Max: The Agent Frontier",
     "score": 500,
@@ -698,5 +691,12 @@
     "score": 618,
     "source": "Hacker News",
     "timestamp": "2026-06-02T17:58:14.503870"
+  },
+  {
+    "key": "2026-06-02:Hacker News:Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
+    "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
+    "score": 531,
+    "source": "Hacker News",
+    "timestamp": "2026-06-02T20:33:48.099062"
   }
 ]

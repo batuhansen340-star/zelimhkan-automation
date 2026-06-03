@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-05-20:Hacker News:Meta blocks human rights accounts from reaching audiences in Saudi Arabia, UAE",
-    "title": "Meta blocks human rights accounts from reaching audiences in Saudi Arabia, UAE",
-    "score": 808,
-    "source": "Hacker News",
-    "timestamp": "2026-05-20T20:00:56.967143"
-  },
-  {
-    "key": "2026-05-20:Hacker News:Tennessee man jailed 37 days for Trump meme wins settlement after lawsuit",
-    "title": "Tennessee man jailed 37 days for Trump meme wins settlement after lawsuit",
-    "score": 552,
-    "source": "Hacker News",
-    "timestamp": "2026-05-20T20:00:56.967150"
-  },
-  {
-    "key": "2026-05-20:Hacker News:An OpenAI model has disproved a central conjecture in discrete geometry",
-    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-    "score": 578,
-    "source": "Hacker News",
-    "timestamp": "2026-05-20T23:15:26.505176"
-  },
-  {
-    "key": "2026-05-21:Hacker News:An OpenAI model has disproved a central conjecture in discrete geometry",
-    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-    "score": 975,
-    "source": "Hacker News",
-    "timestamp": "2026-05-21T06:08:59.258371"
-  },
-  {
     "key": "2026-05-21:Hacker News:GitHub confirms breach of 3,800 repos via malicious VSCode extension",
     "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
     "score": 708,
@@ -698,5 +670,33 @@
     "score": 529,
     "source": "Hacker News",
     "timestamp": "2026-06-02T23:48:00.821810"
+  },
+  {
+    "key": "2026-06-03:Hacker News:Gmail thinks I'm stupid, so I left",
+    "title": "Gmail thinks I'm stupid, so I left",
+    "score": 820,
+    "source": "Hacker News",
+    "timestamp": "2026-06-03T06:51:51.941296"
+  },
+  {
+    "key": "2026-06-03:Hacker News:Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
+    "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
+    "score": 646,
+    "source": "Hacker News",
+    "timestamp": "2026-06-03T06:51:51.941314"
+  },
+  {
+    "key": "2026-06-03:Hacker News:The newest Instagram “exploit” is the goofiest I've seen",
+    "title": "The newest Instagram “exploit” is the goofiest I've seen",
+    "score": 2146,
+    "source": "Hacker News",
+    "timestamp": "2026-06-03T06:51:51.941321"
+  },
+  {
+    "key": "2026-06-03:Hacker News:Age verification for social media, the beginning of the end for a free internet?",
+    "title": "Age verification for social media, the beginning of the end for a free internet?",
+    "score": 510,
+    "source": "Hacker News",
+    "timestamp": "2026-06-03T06:51:51.941327"
   }
 ]

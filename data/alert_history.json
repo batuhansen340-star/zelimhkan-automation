@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-05-21:Hacker News:Google Declaring War on the Web",
-    "title": "Google Declaring War on the Web",
-    "score": 524,
-    "source": "Hacker News",
-    "timestamp": "2026-05-21T09:44:58.547874"
-  },
-  {
     "key": "2026-05-21:Hacker News:Flipper One – we need your help",
     "title": "Flipper One – we need your help",
     "score": 668,
@@ -698,5 +691,12 @@
     "score": 502,
     "source": "Hacker News",
     "timestamp": "2026-06-03T18:14:12.053761"
+  },
+  {
+    "key": "2026-06-03:Hacker News:Gemma 4 12B: A unified, encoder-free multimodal model",
+    "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+    "score": 510,
+    "source": "Hacker News",
+    "timestamp": "2026-06-03T20:46:24.179110"
   }
 ]

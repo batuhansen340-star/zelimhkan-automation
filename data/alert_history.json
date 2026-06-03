@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-05-21:Hacker News:Flipper One – we need your help",
-    "title": "Flipper One – we need your help",
-    "score": 668,
-    "source": "Hacker News",
-    "timestamp": "2026-05-21T16:32:18.475080"
-  },
-  {
     "key": "2026-05-21:Hacker News:AI is just unauthorised plagiarism at a bigger scale",
     "title": "AI is just unauthorised plagiarism at a bigger scale",
     "score": 536,
@@ -698,5 +691,12 @@
     "score": 510,
     "source": "Hacker News",
     "timestamp": "2026-06-03T20:46:24.179110"
+  },
+  {
+    "key": "2026-06-03:Hacker News:Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
+    "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
+    "score": 630,
+    "source": "Hacker News",
+    "timestamp": "2026-06-03T23:46:29.574662"
   }
 ]

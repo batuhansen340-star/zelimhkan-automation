@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-05-21:Hacker News:GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-    "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-    "score": 708,
-    "source": "Hacker News",
-    "timestamp": "2026-05-21T06:08:59.258386"
-  },
-  {
-    "key": "2026-05-21:Hacker News:Meta blocks human rights accounts from reaching audiences in Saudi Arabia, UAE",
-    "title": "Meta blocks human rights accounts from reaching audiences in Saudi Arabia, UAE",
-    "score": 983,
-    "source": "Hacker News",
-    "timestamp": "2026-05-21T06:08:59.258393"
-  },
-  {
     "key": "2026-05-21:Hacker News:Qwen3.7-Max: The Agent Frontier",
     "title": "Qwen3.7-Max: The Agent Frontier",
     "score": 650,
@@ -698,5 +684,19 @@
     "score": 510,
     "source": "Hacker News",
     "timestamp": "2026-06-03T06:51:51.941327"
+  },
+  {
+    "key": "2026-06-03:Hacker News:1-Click GitHub Token Stealing via a VSCode Bug",
+    "title": "1-Click GitHub Token Stealing via a VSCode Bug",
+    "score": 532,
+    "source": "Hacker News",
+    "timestamp": "2026-06-03T14:17:51.546018"
+  },
+  {
+    "key": "2026-06-03:Hacker News:MAI-Code-1-Flash",
+    "title": "MAI-Code-1-Flash",
+    "score": 500,
+    "source": "Hacker News",
+    "timestamp": "2026-06-03T14:17:51.546032"
   }
 ]

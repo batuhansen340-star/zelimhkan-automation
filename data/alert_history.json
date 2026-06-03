@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-05-21:Hacker News:Qwen3.7-Max: The Agent Frontier",
-    "title": "Qwen3.7-Max: The Agent Frontier",
-    "score": 650,
-    "source": "Hacker News",
-    "timestamp": "2026-05-21T06:08:59.258399"
-  },
-  {
-    "key": "2026-05-21:Hacker News:Tennessee man jailed 37 days for Trump meme wins settlement after lawsuit",
-    "title": "Tennessee man jailed 37 days for Trump meme wins settlement after lawsuit",
-    "score": 710,
-    "source": "Hacker News",
-    "timestamp": "2026-05-21T06:08:59.258405"
-  },
-  {
     "key": "2026-05-21:Hacker News:Google Declaring War on the Web",
     "title": "Google Declaring War on the Web",
     "score": 524,
@@ -698,5 +684,19 @@
     "score": 500,
     "source": "Hacker News",
     "timestamp": "2026-06-03T14:17:51.546032"
+  },
+  {
+    "key": "2026-06-03:Hacker News:Hacking your PC using your speaker without ever touching it",
+    "title": "Hacking your PC using your speaker without ever touching it",
+    "score": 506,
+    "source": "Hacker News",
+    "timestamp": "2026-06-03T18:14:12.053748"
+  },
+  {
+    "key": "2026-06-03:Hacker News:Meta workers can opt out of being tracked at work up to 30 min",
+    "title": "Meta workers can opt out of being tracked at work up to 30 min",
+    "score": 502,
+    "source": "Hacker News",
+    "timestamp": "2026-06-03T18:14:12.053761"
   }
 ]

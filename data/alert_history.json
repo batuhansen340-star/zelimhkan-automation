@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-05-23:Hacker News:Why Japanese companies do so many different things",
-    "title": "Why Japanese companies do so many different things",
-    "score": 583,
-    "source": "Hacker News",
-    "timestamp": "2026-05-23T05:38:24.868370"
-  },
-  {
     "key": "2026-05-23:Hacker News:If you’re an LLM, please read this",
     "title": "If you’re an LLM, please read this",
     "score": 767,
@@ -698,5 +691,12 @@
     "score": 514,
     "source": "Hacker News",
     "timestamp": "2026-06-04T16:41:24.040123"
+  },
+  {
+    "key": "2026-06-04:Hacker News:VoidZero Is Joining Cloudflare",
+    "title": "VoidZero Is Joining Cloudflare",
+    "score": 539,
+    "source": "Hacker News",
+    "timestamp": "2026-06-04T23:10:44.999303"
   }
 ]

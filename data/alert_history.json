@@ -1,40 +1,5 @@
 [
   {
-    "key": "2026-05-21:Hacker News:AI is just unauthorised plagiarism at a bigger scale",
-    "title": "AI is just unauthorised plagiarism at a bigger scale",
-    "score": 536,
-    "source": "Hacker News",
-    "timestamp": "2026-05-21T16:32:18.475094"
-  },
-  {
-    "key": "2026-05-21:Hacker News:We're testing new ad formats in Search and expanding our Direct Offers pilot",
-    "title": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
-    "score": 502,
-    "source": "Hacker News",
-    "timestamp": "2026-05-21T19:42:01.232354"
-  },
-  {
-    "key": "2026-05-22:Hacker News:Project Hail Mary – Stellar Navigation Chart",
-    "title": "Project Hail Mary – Stellar Navigation Chart",
-    "score": 773,
-    "source": "Hacker News",
-    "timestamp": "2026-05-22T06:05:17.797548"
-  },
-  {
-    "key": "2026-05-22:Hacker News:Flipper One – we need your help",
-    "title": "Flipper One – we need your help",
-    "score": 1111,
-    "source": "Hacker News",
-    "timestamp": "2026-05-22T06:05:17.797561"
-  },
-  {
-    "key": "2026-05-22:Hacker News:Google's Antigravity bait and switch",
-    "title": "Google's Antigravity bait and switch",
-    "score": 625,
-    "source": "Hacker News",
-    "timestamp": "2026-05-22T06:05:17.797568"
-  },
-  {
     "key": "2026-05-22:Hacker News:Throwing AI-generated walls of text into conversations",
     "title": "Throwing AI-generated walls of text into conversations",
     "score": 559,
@@ -698,5 +663,40 @@
     "score": 630,
     "source": "Hacker News",
     "timestamp": "2026-06-03T23:46:29.574662"
+  },
+  {
+    "key": "2026-06-04:Hacker News:Elixir v1.20: Now a gradually typed language",
+    "title": "Elixir v1.20: Now a gradually typed language",
+    "score": 690,
+    "source": "Hacker News",
+    "timestamp": "2026-06-04T06:41:26.459610"
+  },
+  {
+    "key": "2026-06-04:Hacker News:Gemma 4 12B: A unified, encoder-free multimodal model",
+    "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+    "score": 789,
+    "source": "Hacker News",
+    "timestamp": "2026-06-04T06:41:26.459627"
+  },
+  {
+    "key": "2026-06-04:Hacker News:I was recently diagnosed with anti-NMDA receptor encephalitis",
+    "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
+    "score": 574,
+    "source": "Hacker News",
+    "timestamp": "2026-06-04T06:41:26.459633"
+  },
+  {
+    "key": "2026-06-04:Hacker News:Meta workers can opt out of being tracked at work up to 30 min",
+    "title": "Meta workers can opt out of being tracked at work up to 30 min",
+    "score": 718,
+    "source": "Hacker News",
+    "timestamp": "2026-06-04T06:41:26.459638"
+  },
+  {
+    "key": "2026-06-04:Hacker News:Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
+    "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
+    "score": 664,
+    "source": "Hacker News",
+    "timestamp": "2026-06-04T06:41:26.459644"
   }
 ]

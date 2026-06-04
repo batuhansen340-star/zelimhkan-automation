@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-05-22:Hacker News:Throwing AI-generated walls of text into conversations",
-    "title": "Throwing AI-generated walls of text into conversations",
-    "score": 559,
-    "source": "Hacker News",
-    "timestamp": "2026-05-22T06:05:17.797573"
-  },
-  {
     "key": "2026-05-22:Hacker News:We're testing new ad formats in Search and expanding our Direct Offers pilot",
     "title": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
     "score": 587,
@@ -698,5 +691,12 @@
     "score": 664,
     "source": "Hacker News",
     "timestamp": "2026-06-04T06:41:26.459644"
+  },
+  {
+    "key": "2026-06-04:Hacker News:They’re made out of weights",
+    "title": "They’re made out of weights",
+    "score": 691,
+    "source": "Hacker News",
+    "timestamp": "2026-06-04T09:58:34.232300"
   }
 ]

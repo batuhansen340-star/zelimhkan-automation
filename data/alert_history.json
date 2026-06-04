@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-05-22:Hacker News:Was my $48K GPU server worth it?",
-    "title": "Was my $48K GPU server worth it?",
-    "score": 519,
-    "source": "Hacker News",
-    "timestamp": "2026-05-22T16:12:41.893438"
-  },
-  {
-    "key": "2026-05-22:Hacker News:If you’re an LLM, please read this",
-    "title": "If you’re an LLM, please read this",
-    "score": 611,
-    "source": "Hacker News",
-    "timestamp": "2026-05-22T19:21:58.332356"
-  },
-  {
-    "key": "2026-05-22:Hacker News:Steve Wozniak cheered after telling students they have AI – actual intelligence",
-    "title": "Steve Wozniak cheered after telling students they have AI – actual intelligence",
-    "score": 539,
-    "source": "Hacker News",
-    "timestamp": "2026-05-22T19:21:58.332378"
-  },
-  {
     "key": "2026-05-23:Hacker News:Why Japanese companies do so many different things",
     "title": "Why Japanese companies do so many different things",
     "score": 583,
@@ -698,5 +677,26 @@
     "score": 520,
     "source": "Hacker News",
     "timestamp": "2026-06-04T12:34:22.436304"
+  },
+  {
+    "key": "2026-06-04:Hacker News:Artificial intelligence is not conscious",
+    "title": "Artificial intelligence is not conscious",
+    "score": 623,
+    "source": "Hacker News",
+    "timestamp": "2026-06-04T16:41:24.040101"
+  },
+  {
+    "key": "2026-06-04:Hacker News:Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+    "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+    "score": 567,
+    "source": "Hacker News",
+    "timestamp": "2026-06-04T16:41:24.040118"
+  },
+  {
+    "key": "2026-06-04:Hacker News:DaVinci Resolve 21",
+    "title": "DaVinci Resolve 21",
+    "score": 514,
+    "source": "Hacker News",
+    "timestamp": "2026-06-04T16:41:24.040123"
   }
 ]

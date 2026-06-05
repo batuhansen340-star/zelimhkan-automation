@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-05-23:Hacker News:If you’re an LLM, please read this",
-    "title": "If you’re an LLM, please read this",
-    "score": 767,
-    "source": "Hacker News",
-    "timestamp": "2026-05-23T05:38:24.868386"
-  },
-  {
-    "key": "2026-05-23:Hacker News:Project Hail Mary – Stellar Navigation Chart",
-    "title": "Project Hail Mary – Stellar Navigation Chart",
-    "score": 1153,
-    "source": "Hacker News",
-    "timestamp": "2026-05-23T05:38:24.868393"
-  },
-  {
-    "key": "2026-05-23:Hacker News:Shipping a laptop to a refugee camp in Uganda",
-    "title": "Shipping a laptop to a refugee camp in Uganda",
-    "score": 576,
-    "source": "Hacker News",
-    "timestamp": "2026-05-23T14:52:29.828015"
-  },
-  {
-    "key": "2026-05-23:Hacker News:Bun support is now limited and deprecated",
-    "title": "Bun support is now limited and deprecated",
-    "score": 520,
-    "source": "Hacker News",
-    "timestamp": "2026-05-23T14:52:29.828039"
-  },
-  {
     "key": "2026-05-23:Hacker News:Project Glasswing: An Initial Update",
     "title": "Project Glasswing: An Initial Update",
     "score": 501,
@@ -698,5 +670,33 @@
     "score": 539,
     "source": "Hacker News",
     "timestamp": "2026-06-04T23:10:44.999303"
+  },
+  {
+    "key": "2026-06-05:Hacker News:VoidZero Is Joining Cloudflare",
+    "title": "VoidZero Is Joining Cloudflare",
+    "score": 612,
+    "source": "Hacker News",
+    "timestamp": "2026-06-05T06:21:17.934775"
+  },
+  {
+    "key": "2026-06-05:Hacker News:They’re made out of weights",
+    "title": "They’re made out of weights",
+    "score": 1434,
+    "source": "Hacker News",
+    "timestamp": "2026-06-05T06:21:17.934792"
+  },
+  {
+    "key": "2026-06-05:Hacker News:Ian's Secure Shoelace Knot",
+    "title": "Ian's Secure Shoelace Knot",
+    "score": 536,
+    "source": "Hacker News",
+    "timestamp": "2026-06-05T06:21:17.934798"
+  },
+  {
+    "key": "2026-06-05:Hacker News:Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+    "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+    "score": 756,
+    "source": "Hacker News",
+    "timestamp": "2026-06-05T06:21:17.934805"
   }
 ]

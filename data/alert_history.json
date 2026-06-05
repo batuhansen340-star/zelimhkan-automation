@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-05-23:Hacker News:Texas woman arrested for Facebook post about town water quality",
-    "title": "Texas woman arrested for Facebook post about town water quality",
-    "score": 552,
-    "source": "Hacker News",
-    "timestamp": "2026-05-23T22:55:15.555645"
-  },
-  {
     "key": "2026-05-24:Hacker News:Green card seekers must leave U.S. to apply, Trump administration says",
     "title": "Green card seekers must leave U.S. to apply, Trump administration says",
     "score": 770,
@@ -698,5 +691,12 @@
     "score": 563,
     "source": "Hacker News",
     "timestamp": "2026-06-05T09:54:21.275533"
+  },
+  {
+    "key": "2026-06-05:Hacker News:Changing how we develop Ladybird",
+    "title": "Changing how we develop Ladybird",
+    "score": 665,
+    "source": "Hacker News",
+    "timestamp": "2026-06-05T16:23:50.740981"
   }
 ]

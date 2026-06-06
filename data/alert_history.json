@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-05-24:Hacker News:DeepSeek makes the V4 Pro price discount permanent",
-    "title": "DeepSeek makes the V4 Pro price discount permanent",
-    "score": 515,
-    "source": "Hacker News",
-    "timestamp": "2026-05-24T22:59:07.851401"
-  },
-  {
-    "key": "2026-05-25:Hacker News:DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-    "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-    "score": 515,
-    "source": "Hacker News",
-    "timestamp": "2026-05-25T06:26:41.908341"
-  },
-  {
     "key": "2026-05-25:Hacker News:DeepSeek makes the V4 Pro price discount permanent",
     "title": "DeepSeek makes the V4 Pro price discount permanent",
     "score": 573,
@@ -698,5 +684,19 @@
     "score": 545,
     "source": "Hacker News",
     "timestamp": "2026-06-06T11:12:56.605778"
+  },
+  {
+    "key": "2026-06-06:Hacker News:How LLMs work",
+    "title": "How LLMs work",
+    "score": 591,
+    "source": "Hacker News",
+    "timestamp": "2026-06-06T15:03:49.454766"
+  },
+  {
+    "key": "2026-06-06:Hacker News:Gov.uk has replaced Stripe with Dutch provider Adyen",
+    "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
+    "score": 525,
+    "source": "Hacker News",
+    "timestamp": "2026-06-06T15:03:49.454798"
   }
 ]

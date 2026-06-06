@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-05-24:Hacker News:Green card seekers must leave U.S. to apply, Trump administration says",
-    "title": "Green card seekers must leave U.S. to apply, Trump administration says",
-    "score": 770,
-    "source": "Hacker News",
-    "timestamp": "2026-05-24T06:00:20.433873"
-  },
-  {
-    "key": "2026-05-24:Hacker News:Texas woman arrested for Facebook post about town water quality",
-    "title": "Texas woman arrested for Facebook post about town water quality",
-    "score": 684,
-    "source": "Hacker News",
-    "timestamp": "2026-05-24T06:00:20.433888"
-  },
-  {
     "key": "2026-05-24:Hacker News:Project Glasswing: An Initial Update",
     "title": "Project Glasswing: An Initial Update",
     "score": 531,
@@ -698,5 +684,19 @@
     "score": 665,
     "source": "Hacker News",
     "timestamp": "2026-06-05T16:23:50.740981"
+  },
+  {
+    "key": "2026-06-06:Hacker News:Mouseless – keyboard-driven control of macOS/Linux/Windows",
+    "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
+    "score": 504,
+    "source": "Hacker News",
+    "timestamp": "2026-06-06T05:53:07.919463"
+  },
+  {
+    "key": "2026-06-06:Hacker News:Changing how we develop Ladybird",
+    "title": "Changing how we develop Ladybird",
+    "score": 822,
+    "source": "Hacker News",
+    "timestamp": "2026-06-06T05:53:07.919476"
   }
 ]

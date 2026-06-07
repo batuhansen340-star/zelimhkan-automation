@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-05-25:Hacker News:Green card seekers must leave U.S. to apply, Trump administration says",
-    "title": "Green card seekers must leave U.S. to apply, Trump administration says",
-    "score": 1058,
-    "source": "Hacker News",
-    "timestamp": "2026-05-25T06:26:41.908361"
-  },
-  {
-    "key": "2026-05-25:Hacker News:I spent 50 hours drawing a line graph",
-    "title": "I spent 50 hours drawing a line graph",
-    "score": 543,
-    "source": "Hacker News",
-    "timestamp": "2026-05-25T10:10:58.455732"
-  },
-  {
-    "key": "2026-05-25:Hacker News:Magnifica Humanitas (Encyclical Letter)",
-    "title": "Magnifica Humanitas (Encyclical Letter)",
-    "score": 532,
-    "source": "Hacker News",
-    "timestamp": "2026-05-25T16:13:27.675153"
-  },
-  {
     "key": "2026-05-25:Hacker News:Magnifica Humanitas",
     "title": "Magnifica Humanitas",
     "score": 974,
@@ -698,5 +677,26 @@
     "score": 528,
     "source": "Hacker News",
     "timestamp": "2026-06-06T23:06:33.122316"
+  },
+  {
+    "key": "2026-06-07:Hacker News:Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+    "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+    "score": 530,
+    "source": "Hacker News",
+    "timestamp": "2026-06-07T06:23:14.209659"
+  },
+  {
+    "key": "2026-06-07:Hacker News:Ask HN: What was your \"oh shit\" moment with GenAI?",
+    "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
+    "score": 589,
+    "source": "Hacker News",
+    "timestamp": "2026-06-07T06:23:14.209675"
+  },
+  {
+    "key": "2026-06-07:Hacker News:How LLMs work",
+    "title": "How LLMs work",
+    "score": 869,
+    "source": "Hacker News",
+    "timestamp": "2026-06-07T06:23:14.209683"
   }
 ]

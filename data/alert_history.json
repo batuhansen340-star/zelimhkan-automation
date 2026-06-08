@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-05-26:Hacker News:Using AI to write better code more slowly",
-    "title": "Using AI to write better code more slowly",
-    "score": 646,
-    "source": "Hacker News",
-    "timestamp": "2026-05-26T09:59:38.929376"
-  },
-  {
     "key": "2026-05-26:Hacker News:Taking a walk may lead to more creativity than sitting, study finds (2014)",
     "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
     "score": 503,
@@ -698,5 +691,12 @@
     "score": 694,
     "source": "Hacker News",
     "timestamp": "2026-06-08T06:42:14.908073"
+  },
+  {
+    "key": "2026-06-08:Hacker News:Anthropic, please ship an official Claude Desktop for Linux",
+    "title": "Anthropic, please ship an official Claude Desktop for Linux",
+    "score": 502,
+    "source": "Hacker News",
+    "timestamp": "2026-06-08T11:00:03.930045"
   }
 ]

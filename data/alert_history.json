@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-05-25:Hacker News:Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
-    "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
-    "score": 506,
-    "source": "Hacker News",
-    "timestamp": "2026-05-25T23:06:27.571717"
-  },
-  {
-    "key": "2026-05-26:Hacker News:California moves to exempt Linux from its age-verification law after backlash",
-    "title": "California moves to exempt Linux from its age-verification law after backlash",
-    "score": 792,
-    "source": "Hacker News",
-    "timestamp": "2026-05-26T06:05:31.038970"
-  },
-  {
-    "key": "2026-05-26:Hacker News:Magnifica Humanitas",
-    "title": "Magnifica Humanitas",
-    "score": 1387,
-    "source": "Hacker News",
-    "timestamp": "2026-05-26T06:05:31.038981"
-  },
-  {
     "key": "2026-05-26:Hacker News:Using AI to write better code more slowly",
     "title": "Using AI to write better code more slowly",
     "score": 646,
@@ -698,5 +677,26 @@
     "score": 655,
     "source": "Hacker News",
     "timestamp": "2026-06-07T19:05:07.984747"
+  },
+  {
+    "key": "2026-06-08:Hacker News:Building from zero after addiction, prison, and a felony",
+    "title": "Building from zero after addiction, prison, and a felony",
+    "score": 564,
+    "source": "Hacker News",
+    "timestamp": "2026-06-08T06:42:14.908051"
+  },
+  {
+    "key": "2026-06-08:Hacker News:LLMs are eroding my software engineering career and I don't know what to do",
+    "title": "LLMs are eroding my software engineering career and I don't know what to do",
+    "score": 901,
+    "source": "Hacker News",
+    "timestamp": "2026-06-08T06:42:14.908066"
+  },
+  {
+    "key": "2026-06-08:Hacker News:Ask HN: What was your \"oh shit\" moment with GenAI?",
+    "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
+    "score": 694,
+    "source": "Hacker News",
+    "timestamp": "2026-06-08T06:42:14.908073"
   }
 ]

@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-05-26:Hacker News:Netherlands blocks US takeover of vital digital supplier",
-    "title": "Netherlands blocks US takeover of vital digital supplier",
-    "score": 502,
-    "source": "Hacker News",
-    "timestamp": "2026-05-26T23:12:11.785955"
-  },
-  {
-    "key": "2026-05-27:Hacker News:Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
-    "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
-    "score": 855,
-    "source": "Hacker News",
-    "timestamp": "2026-05-27T06:19:35.571100"
-  },
-  {
-    "key": "2026-05-27:Hacker News:Using AI to write better code more slowly",
-    "title": "Using AI to write better code more slowly",
-    "score": 1158,
-    "source": "Hacker News",
-    "timestamp": "2026-05-27T06:19:35.571117"
-  },
-  {
     "key": "2026-05-27:Hacker News:Netherlands blocks US takeover of vital digital supplier",
     "title": "Netherlands blocks US takeover of vital digital supplier",
     "score": 545,
@@ -698,5 +677,26 @@
     "score": 579,
     "source": "Hacker News",
     "timestamp": "2026-06-08T19:59:41.746483"
+  },
+  {
+    "key": "2026-06-08:Hacker News:Show HN: Performative-UI – A react component library of design tropes",
+    "title": "Show HN: Performative-UI – A react component library of design tropes",
+    "score": 703,
+    "source": "Hacker News",
+    "timestamp": "2026-06-08T23:12:41.464289"
+  },
+  {
+    "key": "2026-06-08:Hacker News:Anti-social: It's fads, not friends, which now dominate social media feeds",
+    "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
+    "score": 507,
+    "source": "Hacker News",
+    "timestamp": "2026-06-08T23:12:41.464303"
+  },
+  {
+    "key": "2026-06-08:Hacker News:Stop the Apple Music app from launching",
+    "title": "Stop the Apple Music app from launching",
+    "score": 545,
+    "source": "Hacker News",
+    "timestamp": "2026-06-08T23:12:41.464310"
   }
 ]

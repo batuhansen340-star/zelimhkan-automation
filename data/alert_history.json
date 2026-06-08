@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-05-26:Hacker News:Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
-    "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
-    "score": 519,
-    "source": "Hacker News",
-    "timestamp": "2026-05-26T19:54:34.495781"
-  },
-  {
     "key": "2026-05-26:Hacker News:Netherlands blocks US takeover of vital digital supplier",
     "title": "Netherlands blocks US takeover of vital digital supplier",
     "score": 502,
@@ -698,5 +691,12 @@
     "score": 525,
     "source": "Hacker News",
     "timestamp": "2026-06-08T13:55:41.478241"
+  },
+  {
+    "key": "2026-06-08:Hacker News:Show HN: Performative-UI – a react component library of design tropes",
+    "title": "Show HN: Performative-UI – a react component library of design tropes",
+    "score": 579,
+    "source": "Hacker News",
+    "timestamp": "2026-06-08T19:59:41.746483"
   }
 ]

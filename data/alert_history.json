@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-05-26:Hacker News:Taking a walk may lead to more creativity than sitting, study finds (2014)",
-    "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
-    "score": 503,
-    "source": "Hacker News",
-    "timestamp": "2026-05-26T17:17:16.700639"
-  },
-  {
     "key": "2026-05-26:Hacker News:Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
     "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
     "score": 519,
@@ -698,5 +691,12 @@
     "score": 502,
     "source": "Hacker News",
     "timestamp": "2026-06-08T11:00:03.930045"
+  },
+  {
+    "key": "2026-06-08:Hacker News:Dopamine Fracking",
+    "title": "Dopamine Fracking",
+    "score": 525,
+    "source": "Hacker News",
+    "timestamp": "2026-06-08T13:55:41.478241"
   }
 ]

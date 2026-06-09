@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-05-28:Hacker News:Can we have the day off?",
-    "title": "Can we have the day off?",
-    "score": 878,
-    "source": "Hacker News",
-    "timestamp": "2026-05-28T06:10:51.856162"
-  },
-  {
-    "key": "2026-05-28:Hacker News:DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-    "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-    "score": 768,
-    "source": "Hacker News",
-    "timestamp": "2026-05-28T06:10:51.856167"
-  },
-  {
     "key": "2026-05-28:Hacker News:Last.fm is now independent",
     "title": "Last.fm is now independent",
     "score": 708,
@@ -698,5 +684,19 @@
     "score": 501,
     "source": "Hacker News",
     "timestamp": "2026-06-09T16:23:32.990426"
+  },
+  {
+    "key": "2026-06-09:Hacker News:Claude Fable 5",
+    "title": "Claude Fable 5",
+    "score": 1071,
+    "source": "Hacker News",
+    "timestamp": "2026-06-09T19:55:01.207849"
+  },
+  {
+    "key": "2026-06-09:Hacker News:Making Graphics Like it's 1993",
+    "title": "Making Graphics Like it's 1993",
+    "score": 609,
+    "source": "Hacker News",
+    "timestamp": "2026-06-09T19:55:01.207862"
   }
 ]

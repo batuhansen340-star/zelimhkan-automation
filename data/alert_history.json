@@ -1,40 +1,5 @@
 [
   {
-    "key": "2026-05-27:Hacker News:Netherlands blocks US takeover of vital digital supplier",
-    "title": "Netherlands blocks US takeover of vital digital supplier",
-    "score": 545,
-    "source": "Hacker News",
-    "timestamp": "2026-05-27T06:19:35.571124"
-  },
-  {
-    "key": "2026-05-27:Hacker News:Taking a walk may lead to more creativity than sitting, study finds (2014)",
-    "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
-    "score": 577,
-    "source": "Hacker News",
-    "timestamp": "2026-05-27T06:19:35.571130"
-  },
-  {
-    "key": "2026-05-27:Hacker News:I'm Tired of Talking to AI",
-    "title": "I'm Tired of Talking to AI",
-    "score": 1515,
-    "source": "Hacker News",
-    "timestamp": "2026-05-27T16:56:24.441595"
-  },
-  {
-    "key": "2026-05-27:Hacker News:The worst job interview I ever had",
-    "title": "The worst job interview I ever had",
-    "score": 542,
-    "source": "Hacker News",
-    "timestamp": "2026-05-27T16:56:24.441610"
-  },
-  {
-    "key": "2026-05-27:Hacker News:I think Anthropic and OpenAI have found product-market fit",
-    "title": "I think Anthropic and OpenAI have found product-market fit",
-    "score": 559,
-    "source": "Hacker News",
-    "timestamp": "2026-05-27T23:19:26.808541"
-  },
-  {
     "key": "2026-05-27:Hacker News:DuckDuckGo search saw 28% more visits after Google said people love AI mode",
     "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
     "score": 601,
@@ -698,5 +663,40 @@
     "score": 545,
     "source": "Hacker News",
     "timestamp": "2026-06-08T23:12:41.464310"
+  },
+  {
+    "key": "2026-06-09:Hacker News:Siri AI",
+    "title": "Siri AI",
+    "score": 510,
+    "source": "Hacker News",
+    "timestamp": "2026-06-09T06:08:07.451988"
+  },
+  {
+    "key": "2026-06-09:Hacker News:Show HN: Performative-UI – A react component library of design tropes",
+    "title": "Show HN: Performative-UI – A react component library of design tropes",
+    "score": 885,
+    "source": "Hacker News",
+    "timestamp": "2026-06-09T06:08:07.452009"
+  },
+  {
+    "key": "2026-06-09:Hacker News:MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+    "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+    "score": 535,
+    "source": "Hacker News",
+    "timestamp": "2026-06-09T06:08:07.452016"
+  },
+  {
+    "key": "2026-06-09:Hacker News:Anti-social: It's fads, not friends, which now dominate social media feeds",
+    "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
+    "score": 609,
+    "source": "Hacker News",
+    "timestamp": "2026-06-09T06:08:07.452021"
+  },
+  {
+    "key": "2026-06-09:Hacker News:Stop the Apple Music app from launching",
+    "title": "Stop the Apple Music app from launching",
+    "score": 605,
+    "source": "Hacker News",
+    "timestamp": "2026-06-09T06:08:07.452026"
   }
 ]

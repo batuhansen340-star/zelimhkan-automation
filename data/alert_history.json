@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-05-28:Hacker News:Last.fm is now independent",
-    "title": "Last.fm is now independent",
-    "score": 708,
-    "source": "Hacker News",
-    "timestamp": "2026-05-28T06:10:51.856172"
-  },
-  {
     "key": "2026-05-28:Hacker News:Private equity bought America's essential services",
     "title": "Private equity bought America's essential services",
     "score": 500,
@@ -698,5 +691,12 @@
     "score": 609,
     "source": "Hacker News",
     "timestamp": "2026-06-09T19:55:01.207862"
+  },
+  {
+    "key": "2026-06-09:Hacker News:Microsoft's open source tools were hacked to steal passwords of AI developers",
+    "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+    "score": 521,
+    "source": "Hacker News",
+    "timestamp": "2026-06-09T23:17:45.884360"
   }
 ]

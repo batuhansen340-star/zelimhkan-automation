@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-05-28:Hacker News:I think Anthropic and OpenAI have found product-market fit",
-    "title": "I think Anthropic and OpenAI have found product-market fit",
-    "score": 774,
-    "source": "Hacker News",
-    "timestamp": "2026-05-28T06:10:51.856156"
-  },
-  {
     "key": "2026-05-28:Hacker News:Can we have the day off?",
     "title": "Can we have the day off?",
     "score": 878,
@@ -698,5 +691,12 @@
     "score": 551,
     "source": "Hacker News",
     "timestamp": "2026-06-09T09:49:13.669744"
+  },
+  {
+    "key": "2026-06-09:Hacker News:OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+    "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+    "score": 501,
+    "source": "Hacker News",
+    "timestamp": "2026-06-09T16:23:32.990426"
   }
 ]

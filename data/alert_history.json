@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-05-27:Hacker News:DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-    "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-    "score": 601,
-    "source": "Hacker News",
-    "timestamp": "2026-05-27T23:19:26.808555"
-  },
-  {
-    "key": "2026-05-27:Hacker News:Last.fm is now independent",
-    "title": "Last.fm is now independent",
-    "score": 583,
-    "source": "Hacker News",
-    "timestamp": "2026-05-27T23:19:26.808561"
-  },
-  {
-    "key": "2026-05-27:Hacker News:Tech CEOs are apparently suffering from AI psychosis",
-    "title": "Tech CEOs are apparently suffering from AI psychosis",
-    "score": 511,
-    "source": "Hacker News",
-    "timestamp": "2026-05-27T23:19:26.808567"
-  },
-  {
-    "key": "2026-05-28:Hacker News:YouTube to automatically label AI-generated videos",
-    "title": "YouTube to automatically label AI-generated videos",
-    "score": 725,
-    "source": "Hacker News",
-    "timestamp": "2026-05-28T06:10:51.856136"
-  },
-  {
     "key": "2026-05-28:Hacker News:I think Anthropic and OpenAI have found product-market fit",
     "title": "I think Anthropic and OpenAI have found product-market fit",
     "score": 774,
@@ -698,5 +670,33 @@
     "score": 605,
     "source": "Hacker News",
     "timestamp": "2026-06-09T06:08:07.452026"
+  },
+  {
+    "key": "2026-06-09:Hacker News:Apple reveals new AI architecture built around Google Gemini models",
+    "title": "Apple reveals new AI architecture built around Google Gemini models",
+    "score": 590,
+    "source": "Hacker News",
+    "timestamp": "2026-06-09T09:49:13.669706"
+  },
+  {
+    "key": "2026-06-09:Hacker News:xAI is looking more like a datacentre REIT than a frontier lab",
+    "title": "xAI is looking more like a datacentre REIT than a frontier lab",
+    "score": 561,
+    "source": "Hacker News",
+    "timestamp": "2026-06-09T09:49:13.669724"
+  },
+  {
+    "key": "2026-06-09:Hacker News:Surveillance is not safety: A statement on the UK's latest threat to privacy [pd",
+    "title": "Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]",
+    "score": 566,
+    "source": "Hacker News",
+    "timestamp": "2026-06-09T09:49:13.669739"
+  },
+  {
+    "key": "2026-06-09:Hacker News:AI is slowing down",
+    "title": "AI is slowing down",
+    "score": 551,
+    "source": "Hacker News",
+    "timestamp": "2026-06-09T09:49:13.669744"
   }
 ]

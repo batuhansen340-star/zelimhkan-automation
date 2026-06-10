@@ -1,61 +1,5 @@
 [
   {
-    "key": "2026-05-28:Hacker News:Private equity bought America's essential services",
-    "title": "Private equity bought America's essential services",
-    "score": 500,
-    "source": "Hacker News",
-    "timestamp": "2026-05-28T06:10:51.856177"
-  },
-  {
-    "key": "2026-05-28:Hacker News:Tech CEOs are apparently suffering from AI psychosis",
-    "title": "Tech CEOs are apparently suffering from AI psychosis",
-    "score": 630,
-    "source": "Hacker News",
-    "timestamp": "2026-05-28T06:10:51.856181"
-  },
-  {
-    "key": "2026-05-28:Hacker News:Canada to order military plane fleet from Sweden in shift from US suppliers",
-    "title": "Canada to order military plane fleet from Sweden in shift from US suppliers",
-    "score": 550,
-    "source": "Hacker News",
-    "timestamp": "2026-05-28T10:05:28.883237"
-  },
-  {
-    "key": "2026-05-28:Hacker News:Claude Opus 4.8",
-    "title": "Claude Opus 4.8",
-    "score": 835,
-    "source": "Hacker News",
-    "timestamp": "2026-05-28T20:04:06.936004"
-  },
-  {
-    "key": "2026-05-29:Hacker News:Claude Opus 4.8",
-    "title": "Claude Opus 4.8",
-    "score": 1374,
-    "source": "Hacker News",
-    "timestamp": "2026-05-29T06:12:23.192766"
-  },
-  {
-    "key": "2026-05-29:Hacker News:Bricks and Minifigs Stole a Man's $200k Lego Collection",
-    "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
-    "score": 789,
-    "source": "Hacker News",
-    "timestamp": "2026-05-29T06:12:23.192779"
-  },
-  {
-    "key": "2026-05-29:Hacker News:YouTube to automatically label AI-generated videos",
-    "title": "YouTube to automatically label AI-generated videos",
-    "score": 1282,
-    "source": "Hacker News",
-    "timestamp": "2026-05-29T06:12:23.192785"
-  },
-  {
-    "key": "2026-05-29:Hacker News:I made a million dollar product from my dorm room (2025)",
-    "title": "I made a million dollar product from my dorm room (2025)",
-    "score": 513,
-    "source": "Hacker News",
-    "timestamp": "2026-05-29T17:25:06.501764"
-  },
-  {
     "key": "2026-05-29:Hacker News:I am retiring from tech to live offline",
     "title": "I am retiring from tech to live offline",
     "score": 619,
@@ -698,5 +642,61 @@
     "score": 521,
     "source": "Hacker News",
     "timestamp": "2026-06-09T23:17:45.884360"
+  },
+  {
+    "key": "2026-06-10:Hacker News:macOS Container Machines",
+    "title": "macOS Container Machines",
+    "score": 531,
+    "source": "Hacker News",
+    "timestamp": "2026-06-10T06:23:02.224466"
+  },
+  {
+    "key": "2026-06-10:Hacker News:Claude Fable 5",
+    "title": "Claude Fable 5",
+    "score": 2035,
+    "source": "Hacker News",
+    "timestamp": "2026-06-10T06:23:02.224483"
+  },
+  {
+    "key": "2026-06-10:Hacker News:If Claude Fable stops helping you, you'll never know",
+    "title": "If Claude Fable stops helping you, you'll never know",
+    "score": 700,
+    "source": "Hacker News",
+    "timestamp": "2026-06-10T06:23:02.224490"
+  },
+  {
+    "key": "2026-06-10:Hacker News:OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+    "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+    "score": 737,
+    "source": "Hacker News",
+    "timestamp": "2026-06-10T06:23:02.224495"
+  },
+  {
+    "key": "2026-06-10:Hacker News:CEOs who think AI replaces their employees are just bad CEOs",
+    "title": "CEOs who think AI replaces their employees are just bad CEOs",
+    "score": 581,
+    "source": "Hacker News",
+    "timestamp": "2026-06-10T06:23:02.224501"
+  },
+  {
+    "key": "2026-06-10:Hacker News:Making Graphics Like it's 1993",
+    "title": "Making Graphics Like it's 1993",
+    "score": 826,
+    "source": "Hacker News",
+    "timestamp": "2026-06-10T06:23:02.224506"
+  },
+  {
+    "key": "2026-06-10:Hacker News:FCC wants to kill burner phones by forcing telecoms to get all customers' IDs",
+    "title": "FCC wants to kill burner phones by forcing telecoms to get all customers' IDs",
+    "score": 511,
+    "source": "Hacker News",
+    "timestamp": "2026-06-10T06:23:02.224511"
+  },
+  {
+    "key": "2026-06-10:Hacker News:Microsoft's open source tools were hacked to steal passwords of AI developers",
+    "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+    "score": 533,
+    "source": "Hacker News",
+    "timestamp": "2026-06-10T06:23:02.224515"
   }
 ]

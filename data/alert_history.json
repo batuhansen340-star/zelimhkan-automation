@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-05-31:Hacker News:Domain expertise has always been the real moat",
-    "title": "Domain expertise has always been the real moat",
-    "score": 554,
-    "source": "Hacker News",
-    "timestamp": "2026-05-31T08:48:21.691723"
-  },
-  {
     "key": "2026-06-01:Hacker News:Cloudflare Turnstile requiring fingerprintable WebGL",
     "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
     "score": 620,
@@ -698,5 +691,12 @@
     "score": 596,
     "source": "Hacker News",
     "timestamp": "2026-06-11T17:30:24.114342"
+  },
+  {
+    "key": "2026-06-11:Hacker News:Show HN: Homebrew 6.0.0",
+    "title": "Show HN: Homebrew 6.0.0",
+    "score": 561,
+    "source": "Hacker News",
+    "timestamp": "2026-06-11T20:08:53.046094"
   }
 ]

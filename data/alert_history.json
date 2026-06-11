@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-05-30:Hacker News:SQLite is all you need for durable workflows",
-    "title": "SQLite is all you need for durable workflows",
-    "score": 507,
-    "source": "Hacker News",
-    "timestamp": "2026-05-30T08:29:56.896589"
-  },
-  {
-    "key": "2026-05-31:Hacker News:Microsoft Office 2019 and 2021 for Mac view-only conversion",
-    "title": "Microsoft Office 2019 and 2021 for Mac view-only conversion",
-    "score": 764,
-    "source": "Hacker News",
-    "timestamp": "2026-05-31T06:17:15.982524"
-  },
-  {
     "key": "2026-05-31:Hacker News:SQLite is all you need for durable workflows",
     "title": "SQLite is all you need for durable workflows",
     "score": 678,
@@ -698,5 +684,19 @@
     "score": 825,
     "source": "Hacker News",
     "timestamp": "2026-06-11T06:47:37.842545"
+  },
+  {
+    "key": "2026-06-11:Hacker News:Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+    "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+    "score": 512,
+    "source": "Hacker News",
+    "timestamp": "2026-06-11T13:45:59.077375"
+  },
+  {
+    "key": "2026-06-11:Hacker News:Anthropic requires 30 day data retention for Fable and Mythos",
+    "title": "Anthropic requires 30 day data retention for Fable and Mythos",
+    "score": 520,
+    "source": "Hacker News",
+    "timestamp": "2026-06-11T13:45:59.077397"
   }
 ]

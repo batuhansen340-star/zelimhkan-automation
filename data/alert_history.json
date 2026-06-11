@@ -1,54 +1,5 @@
 [
   {
-    "key": "2026-05-29:Hacker News:GTA 6 Developers Unionize",
-    "title": "GTA 6 Developers Unionize",
-    "score": 524,
-    "source": "Hacker News",
-    "timestamp": "2026-05-29T23:15:53.611903"
-  },
-  {
-    "key": "2026-05-30:Hacker News:The dead economy theory",
-    "title": "The dead economy theory",
-    "score": 865,
-    "source": "Hacker News",
-    "timestamp": "2026-05-30T05:47:06.195286"
-  },
-  {
-    "key": "2026-05-30:Hacker News:Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
-    "title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
-    "score": 535,
-    "source": "Hacker News",
-    "timestamp": "2026-05-30T05:47:06.195305"
-  },
-  {
-    "key": "2026-05-30:Hacker News:GTA 6 Developers Unionize",
-    "title": "GTA 6 Developers Unionize",
-    "score": 625,
-    "source": "Hacker News",
-    "timestamp": "2026-05-30T05:47:06.195312"
-  },
-  {
-    "key": "2026-05-30:Hacker News:Claude Opus 4.8",
-    "title": "Claude Opus 4.8",
-    "score": 1732,
-    "source": "Hacker News",
-    "timestamp": "2026-05-30T05:47:06.195317"
-  },
-  {
-    "key": "2026-05-30:Hacker News:I am retiring from tech to live offline",
-    "title": "I am retiring from tech to live offline",
-    "score": 777,
-    "source": "Hacker News",
-    "timestamp": "2026-05-30T05:47:06.195322"
-  },
-  {
-    "key": "2026-05-30:Hacker News:Bricks and Minifigs Stole a Man's $200k Lego Collection",
-    "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
-    "score": 1301,
-    "source": "Hacker News",
-    "timestamp": "2026-05-30T05:47:06.195327"
-  },
-  {
     "key": "2026-05-30:Hacker News:SQLite is all you need for durable workflows",
     "title": "SQLite is all you need for durable workflows",
     "score": 507,
@@ -698,5 +649,54 @@
     "score": 583,
     "source": "Hacker News",
     "timestamp": "2026-06-10T16:53:04.670018"
+  },
+  {
+    "key": "2026-06-11:Hacker News:πFS",
+    "title": "πFS",
+    "score": 675,
+    "source": "Hacker News",
+    "timestamp": "2026-06-11T06:47:37.842499"
+  },
+  {
+    "key": "2026-06-11:Hacker News:I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
+    "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
+    "score": 615,
+    "source": "Hacker News",
+    "timestamp": "2026-06-11T06:47:37.842517"
+  },
+  {
+    "key": "2026-06-11:Hacker News:Building an HTML-first site doubled our users overnight",
+    "title": "Building an HTML-first site doubled our users overnight",
+    "score": 1072,
+    "source": "Hacker News",
+    "timestamp": "2026-06-11T06:47:37.842524"
+  },
+  {
+    "key": "2026-06-11:Hacker News:Claude Fable 5",
+    "title": "Claude Fable 5",
+    "score": 2562,
+    "source": "Hacker News",
+    "timestamp": "2026-06-11T06:47:37.842530"
+  },
+  {
+    "key": "2026-06-11:Hacker News:macOS Container Machines",
+    "title": "macOS Container Machines",
+    "score": 1210,
+    "source": "Hacker News",
+    "timestamp": "2026-06-11T06:47:37.842535"
+  },
+  {
+    "key": "2026-06-11:Hacker News:Mercedes‑Benz starts large‑scale production of electric axial flux motor",
+    "title": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
+    "score": 525,
+    "source": "Hacker News",
+    "timestamp": "2026-06-11T06:47:37.842541"
+  },
+  {
+    "key": "2026-06-11:Hacker News:OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+    "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+    "score": 825,
+    "source": "Hacker News",
+    "timestamp": "2026-06-11T06:47:37.842545"
   }
 ]

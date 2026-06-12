@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-06-01:Hacker News:Cloudflare Turnstile requiring fingerprintable WebGL",
-    "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
-    "score": 620,
-    "source": "Hacker News",
-    "timestamp": "2026-06-01T06:54:56.039075"
-  },
-  {
-    "key": "2026-06-01:Hacker News:Domain expertise has always been the real moat",
-    "title": "Domain expertise has always been the real moat",
-    "score": 830,
-    "source": "Hacker News",
-    "timestamp": "2026-06-01T06:54:56.039095"
-  },
-  {
-    "key": "2026-06-01:Hacker News:Dav2d",
-    "title": "Dav2d",
-    "score": 500,
-    "source": "Hacker News",
-    "timestamp": "2026-06-01T11:38:45.528127"
-  },
-  {
     "key": "2026-06-01:Hacker News:The Website Specification",
     "title": "The Website Specification",
     "score": 506,
@@ -698,5 +677,26 @@
     "score": 561,
     "source": "Hacker News",
     "timestamp": "2026-06-11T20:08:53.046094"
+  },
+  {
+    "key": "2026-06-12:Hacker News:If you are asking for human attention, demonstrate human effort",
+    "title": "If you are asking for human attention, demonstrate human effort",
+    "score": 528,
+    "source": "Hacker News",
+    "timestamp": "2026-06-12T06:40:20.075205"
+  },
+  {
+    "key": "2026-06-12:Hacker News:Show HN: Homebrew 6.0.0",
+    "title": "Show HN: Homebrew 6.0.0",
+    "score": 1134,
+    "source": "Hacker News",
+    "timestamp": "2026-06-12T06:40:20.075219"
+  },
+  {
+    "key": "2026-06-12:Hacker News:Pokémon Go Scans Trained the Navigation Tech for Military Drones",
+    "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
+    "score": 692,
+    "source": "Hacker News",
+    "timestamp": "2026-06-12T06:40:20.075226"
   }
 ]

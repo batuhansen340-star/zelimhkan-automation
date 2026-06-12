@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-06-01:Hacker News:Codex just found a \"workaround\" of not having sudo on my PC",
-    "title": "Codex just found a \"workaround\" of not having sudo on my PC",
-    "score": 571,
-    "source": "Hacker News",
-    "timestamp": "2026-06-01T11:38:45.528149"
-  },
-  {
-    "key": "2026-06-01:Hacker News:The newest Instagram “exploit” is the goofiest I've seen",
-    "title": "The newest Instagram “exploit” is the goofiest I've seen",
-    "score": 605,
-    "source": "Hacker News",
-    "timestamp": "2026-06-01T19:14:44.455709"
-  },
-  {
-    "key": "2026-06-01:Hacker News:A 10 year old Xeon is all you need",
-    "title": "A 10 year old Xeon is all you need",
-    "score": 586,
-    "source": "Hacker News",
-    "timestamp": "2026-06-01T19:14:44.455726"
-  },
-  {
     "key": "2026-06-01:Hacker News:Malicious npm packages detected across Red Hat Cloud Services",
     "title": "Malicious npm packages detected across Red Hat Cloud Services",
     "score": 662,
@@ -698,5 +677,26 @@
     "score": 585,
     "source": "Hacker News",
     "timestamp": "2026-06-12T10:16:36.148704"
+  },
+  {
+    "key": "2026-06-12:Hacker News:Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+    "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+    "score": 537,
+    "source": "Hacker News",
+    "timestamp": "2026-06-12T12:45:32.086329"
+  },
+  {
+    "key": "2026-06-12:Hacker News:Claude Fable is relentlessly proactive",
+    "title": "Claude Fable is relentlessly proactive",
+    "score": 537,
+    "source": "Hacker News",
+    "timestamp": "2026-06-12T12:45:32.086344"
+  },
+  {
+    "key": "2026-06-12:Hacker News:MiMo Code is now released and open-source",
+    "title": "MiMo Code is now released and open-source",
+    "score": 515,
+    "source": "Hacker News",
+    "timestamp": "2026-06-12T12:45:32.086349"
   }
 ]

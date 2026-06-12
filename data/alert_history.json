@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-01:Hacker News:Malicious npm packages detected across Red Hat Cloud Services",
-    "title": "Malicious npm packages detected across Red Hat Cloud Services",
-    "score": 662,
-    "source": "Hacker News",
-    "timestamp": "2026-06-01T19:14:44.455734"
-  },
-  {
     "key": "2026-06-02:Hacker News:The newest Instagram “exploit” is the goofiest I've seen",
     "title": "The newest Instagram “exploit” is the goofiest I've seen",
     "score": 1595,
@@ -698,5 +691,12 @@
     "score": 515,
     "source": "Hacker News",
     "timestamp": "2026-06-12T12:45:32.086349"
+  },
+  {
+    "key": "2026-06-12:Hacker News:CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
+    "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
+    "score": 635,
+    "source": "Hacker News",
+    "timestamp": "2026-06-12T23:19:44.941343"
   }
 ]

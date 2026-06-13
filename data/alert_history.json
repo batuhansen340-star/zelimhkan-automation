@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-02:Hacker News:Gmail thinks I'm stupid, so I left",
-    "title": "Gmail thinks I'm stupid, so I left",
-    "score": 529,
-    "source": "Hacker News",
-    "timestamp": "2026-06-02T23:48:00.821810"
-  },
-  {
     "key": "2026-06-03:Hacker News:Gmail thinks I'm stupid, so I left",
     "title": "Gmail thinks I'm stupid, so I left",
     "score": 820,
@@ -698,5 +691,12 @@
     "score": 507,
     "source": "Hacker News",
     "timestamp": "2026-06-13T11:44:25.269044"
+  },
+  {
+    "key": "2026-06-13:Hacker News:Noise infusion banned from statistical products published by Census Bureau",
+    "title": "Noise infusion banned from statistical products published by Census Bureau",
+    "score": 659,
+    "source": "Hacker News",
+    "timestamp": "2026-06-13T23:08:21.173242"
   }
 ]

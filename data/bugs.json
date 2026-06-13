@@ -1,13 +1,5 @@
 [
   {
-    "date": "2026-05-14T06:47:23.730857",
-    "total_issues": 0,
-    "analysis": {
-      "bugs": [],
-      "summary": "Açık hata yok. 🎉"
-    }
-  },
-  {
     "date": "2026-05-15T06:56:41.234452",
     "total_issues": 0,
     "analysis": {
@@ -233,6 +225,14 @@
   },
   {
     "date": "2026-06-12T08:26:20.977684",
+    "total_issues": 0,
+    "analysis": {
+      "bugs": [],
+      "summary": "Açık hata yok. 🎉"
+    }
+  },
+  {
+    "date": "2026-06-13T07:49:41.437572",
     "total_issues": 0,
     "analysis": {
       "bugs": [],

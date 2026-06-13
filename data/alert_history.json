@@ -1,54 +1,5 @@
 [
   {
-    "key": "2026-06-02:Hacker News:The newest Instagram “exploit” is the goofiest I've seen",
-    "title": "The newest Instagram “exploit” is the goofiest I've seen",
-    "score": 1595,
-    "source": "Hacker News",
-    "timestamp": "2026-06-02T06:40:40.361196"
-  },
-  {
-    "key": "2026-06-02:Hacker News:The Pirate Bay Remains Resilient, 20 Years After the Raid",
-    "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
-    "score": 547,
-    "source": "Hacker News",
-    "timestamp": "2026-06-02T06:40:40.361218"
-  },
-  {
-    "key": "2026-06-02:Hacker News:Malicious npm packages detected across Red Hat Cloud Services",
-    "title": "Malicious npm packages detected across Red Hat Cloud Services",
-    "score": 743,
-    "source": "Hacker News",
-    "timestamp": "2026-06-02T06:40:40.361225"
-  },
-  {
-    "key": "2026-06-02:Hacker News:A 10 year old Xeon is all you need",
-    "title": "A 10 year old Xeon is all you need",
-    "score": 688,
-    "source": "Hacker News",
-    "timestamp": "2026-06-02T06:40:40.361231"
-  },
-  {
-    "key": "2026-06-02:Hacker News:CS336: Language Modeling from Scratch",
-    "title": "CS336: Language Modeling from Scratch",
-    "score": 507,
-    "source": "Hacker News",
-    "timestamp": "2026-06-02T13:44:36.910361"
-  },
-  {
-    "key": "2026-06-02:Hacker News:Anthropic confidentially submits draft S-1 to the SEC",
-    "title": "Anthropic confidentially submits draft S-1 to the SEC",
-    "score": 504,
-    "source": "Hacker News",
-    "timestamp": "2026-06-02T13:44:36.910377"
-  },
-  {
-    "key": "2026-06-02:Hacker News:Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-    "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-    "score": 618,
-    "source": "Hacker News",
-    "timestamp": "2026-06-02T17:58:14.503870"
-  },
-  {
     "key": "2026-06-02:Hacker News:Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
     "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
     "score": 531,
@@ -698,5 +649,54 @@
     "score": 635,
     "source": "Hacker News",
     "timestamp": "2026-06-12T23:19:44.941343"
+  },
+  {
+    "key": "2026-06-13:Hacker News:Statement on US government directive to suspend access to Fable 5 and Mythos 5",
+    "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
+    "score": 1763,
+    "source": "Hacker News",
+    "timestamp": "2026-06-13T06:15:40.729200"
+  },
+  {
+    "key": "2026-06-13:Hacker News:Open source AI must win",
+    "title": "Open source AI must win",
+    "score": 647,
+    "source": "Hacker News",
+    "timestamp": "2026-06-13T06:15:40.729218"
+  },
+  {
+    "key": "2026-06-13:Hacker News:CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
+    "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
+    "score": 773,
+    "source": "Hacker News",
+    "timestamp": "2026-06-13T06:15:40.729230"
+  },
+  {
+    "key": "2026-06-13:Hacker News:If you are asking for human attention, demonstrate human effort",
+    "title": "If you are asking for human attention, demonstrate human effort",
+    "score": 1550,
+    "source": "Hacker News",
+    "timestamp": "2026-06-13T06:15:40.729236"
+  },
+  {
+    "key": "2026-06-13:Hacker News:Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+    "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+    "score": 733,
+    "source": "Hacker News",
+    "timestamp": "2026-06-13T06:15:40.729241"
+  },
+  {
+    "key": "2026-06-13:Hacker News:AI agent bankrupted their operator while trying to scan DN42",
+    "title": "AI agent bankrupted their operator while trying to scan DN42",
+    "score": 1406,
+    "source": "Hacker News",
+    "timestamp": "2026-06-13T06:15:40.729246"
+  },
+  {
+    "key": "2026-06-13:Hacker News:Show HN: Homebrew 6.0.0",
+    "title": "Show HN: Homebrew 6.0.0",
+    "score": 1410,
+    "source": "Hacker News",
+    "timestamp": "2026-06-13T06:15:40.729250"
   }
 ]

@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-03:Hacker News:MAI-Code-1-Flash",
-    "title": "MAI-Code-1-Flash",
-    "score": 500,
-    "source": "Hacker News",
-    "timestamp": "2026-06-03T14:17:51.546032"
-  },
-  {
     "key": "2026-06-03:Hacker News:Hacking your PC using your speaker without ever touching it",
     "title": "Hacking your PC using your speaker without ever touching it",
     "score": 506,
@@ -698,5 +691,12 @@
     "score": 572,
     "source": "Hacker News",
     "timestamp": "2026-06-14T09:37:31.247184"
+  },
+  {
+    "key": "2026-06-14:Hacker News:Firewood Splitting Simulator",
+    "title": "Firewood Splitting Simulator",
+    "score": 573,
+    "source": "Hacker News",
+    "timestamp": "2026-06-14T23:11:02.196171"
   }
 ]

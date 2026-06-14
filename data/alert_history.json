@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-06-03:Hacker News:Gmail thinks I'm stupid, so I left",
-    "title": "Gmail thinks I'm stupid, so I left",
-    "score": 820,
-    "source": "Hacker News",
-    "timestamp": "2026-06-03T06:51:51.941296"
-  },
-  {
-    "key": "2026-06-03:Hacker News:Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
-    "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
-    "score": 646,
-    "source": "Hacker News",
-    "timestamp": "2026-06-03T06:51:51.941314"
-  },
-  {
-    "key": "2026-06-03:Hacker News:The newest Instagram “exploit” is the goofiest I've seen",
-    "title": "The newest Instagram “exploit” is the goofiest I've seen",
-    "score": 2146,
-    "source": "Hacker News",
-    "timestamp": "2026-06-03T06:51:51.941321"
-  },
-  {
-    "key": "2026-06-03:Hacker News:Age verification for social media, the beginning of the end for a free internet?",
-    "title": "Age verification for social media, the beginning of the end for a free internet?",
-    "score": 510,
-    "source": "Hacker News",
-    "timestamp": "2026-06-03T06:51:51.941327"
-  },
-  {
     "key": "2026-06-03:Hacker News:1-Click GitHub Token Stealing via a VSCode Bug",
     "title": "1-Click GitHub Token Stealing via a VSCode Bug",
     "score": 532,
@@ -698,5 +670,33 @@
     "score": 659,
     "source": "Hacker News",
     "timestamp": "2026-06-13T23:08:21.173242"
+  },
+  {
+    "key": "2026-06-14:Hacker News:Noise infusion banned from statistical products published by Census Bureau",
+    "title": "Noise infusion banned from statistical products published by Census Bureau",
+    "score": 797,
+    "source": "Hacker News",
+    "timestamp": "2026-06-14T06:39:28.388119"
+  },
+  {
+    "key": "2026-06-14:Hacker News:Every Frame Perfect",
+    "title": "Every Frame Perfect",
+    "score": 656,
+    "source": "Hacker News",
+    "timestamp": "2026-06-14T06:39:28.388135"
+  },
+  {
+    "key": "2026-06-14:Hacker News:Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+    "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+    "score": 637,
+    "source": "Hacker News",
+    "timestamp": "2026-06-14T06:39:28.388142"
+  },
+  {
+    "key": "2026-06-14:Hacker News:Israeli firm BlackCore suspected of meddling in New York and Scotland votes",
+    "title": "Israeli firm BlackCore suspected of meddling in New York and Scotland votes",
+    "score": 619,
+    "source": "Hacker News",
+    "timestamp": "2026-06-14T06:39:28.388147"
   }
 ]

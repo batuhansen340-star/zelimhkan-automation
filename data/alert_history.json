@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-03:Hacker News:1-Click GitHub Token Stealing via a VSCode Bug",
-    "title": "1-Click GitHub Token Stealing via a VSCode Bug",
-    "score": 532,
-    "source": "Hacker News",
-    "timestamp": "2026-06-03T14:17:51.546018"
-  },
-  {
     "key": "2026-06-03:Hacker News:MAI-Code-1-Flash",
     "title": "MAI-Code-1-Flash",
     "score": 500,
@@ -698,5 +691,12 @@
     "score": 619,
     "source": "Hacker News",
     "timestamp": "2026-06-14T06:39:28.388147"
+  },
+  {
+    "key": "2026-06-14:Hacker News:GLM 5.2 Is Out",
+    "title": "GLM 5.2 Is Out",
+    "score": 572,
+    "source": "Hacker News",
+    "timestamp": "2026-06-14T09:37:31.247184"
   }
 ]

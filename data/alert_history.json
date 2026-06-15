@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-06-04:Hacker News:Artificial intelligence is not conscious – Ted Chiang",
-    "title": "Artificial intelligence is not conscious – Ted Chiang",
-    "score": 503,
-    "source": "Hacker News",
-    "timestamp": "2026-06-04T12:34:22.436284"
-  },
-  {
-    "key": "2026-06-04:Hacker News:Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-    "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-    "score": 517,
-    "source": "Hacker News",
-    "timestamp": "2026-06-04T12:34:22.436299"
-  },
-  {
-    "key": "2026-06-04:Hacker News:U.S. to dismantle system tracking Atlantic currents that are at risk of collapse",
-    "title": "U.S. to dismantle system tracking Atlantic currents that are at risk of collapse",
-    "score": 520,
-    "source": "Hacker News",
-    "timestamp": "2026-06-04T12:34:22.436304"
-  },
-  {
     "key": "2026-06-04:Hacker News:Artificial intelligence is not conscious",
     "title": "Artificial intelligence is not conscious",
     "score": 623,
@@ -698,5 +677,26 @@
     "score": 507,
     "source": "Hacker News",
     "timestamp": "2026-06-15T20:43:56.726287"
+  },
+  {
+    "key": "2026-06-15:Hacker News:A backdoor in a LinkedIn job offer",
+    "title": "A backdoor in a LinkedIn job offer",
+    "score": 528,
+    "source": "Hacker News",
+    "timestamp": "2026-06-15T23:47:48.569313"
+  },
+  {
+    "key": "2026-06-15:Hacker News:TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+    "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+    "score": 547,
+    "source": "Hacker News",
+    "timestamp": "2026-06-15T23:47:48.569334"
+  },
+  {
+    "key": "2026-06-15:Hacker News:Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+    "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+    "score": 595,
+    "source": "Hacker News",
+    "timestamp": "2026-06-15T23:47:48.569340"
   }
 ]

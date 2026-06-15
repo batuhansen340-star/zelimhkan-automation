@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-04:Hacker News:I was recently diagnosed with anti-NMDA receptor encephalitis",
-    "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
-    "score": 574,
-    "source": "Hacker News",
-    "timestamp": "2026-06-04T06:41:26.459633"
-  },
-  {
     "key": "2026-06-04:Hacker News:Meta workers can opt out of being tracked at work up to 30 min",
     "title": "Meta workers can opt out of being tracked at work up to 30 min",
     "score": 718,
@@ -698,5 +691,12 @@
     "score": 684,
     "source": "Hacker News",
     "timestamp": "2026-06-15T12:18:54.726150"
+  },
+  {
+    "key": "2026-06-15:Hacker News:Curl will not accept vulnerability reports during July 2026",
+    "title": "Curl will not accept vulnerability reports during July 2026",
+    "score": 621,
+    "source": "Hacker News",
+    "timestamp": "2026-06-15T15:32:40.777748"
   }
 ]

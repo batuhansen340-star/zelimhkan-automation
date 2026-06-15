@@ -1,40 +1,5 @@
 [
   {
-    "key": "2026-06-03:Hacker News:Hacking your PC using your speaker without ever touching it",
-    "title": "Hacking your PC using your speaker without ever touching it",
-    "score": 506,
-    "source": "Hacker News",
-    "timestamp": "2026-06-03T18:14:12.053748"
-  },
-  {
-    "key": "2026-06-03:Hacker News:Meta workers can opt out of being tracked at work up to 30 min",
-    "title": "Meta workers can opt out of being tracked at work up to 30 min",
-    "score": 502,
-    "source": "Hacker News",
-    "timestamp": "2026-06-03T18:14:12.053761"
-  },
-  {
-    "key": "2026-06-03:Hacker News:Gemma 4 12B: A unified, encoder-free multimodal model",
-    "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
-    "score": 510,
-    "source": "Hacker News",
-    "timestamp": "2026-06-03T20:46:24.179110"
-  },
-  {
-    "key": "2026-06-03:Hacker News:Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
-    "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
-    "score": 630,
-    "source": "Hacker News",
-    "timestamp": "2026-06-03T23:46:29.574662"
-  },
-  {
-    "key": "2026-06-04:Hacker News:Elixir v1.20: Now a gradually typed language",
-    "title": "Elixir v1.20: Now a gradually typed language",
-    "score": 690,
-    "source": "Hacker News",
-    "timestamp": "2026-06-04T06:41:26.459610"
-  },
-  {
     "key": "2026-06-04:Hacker News:Gemma 4 12B: A unified, encoder-free multimodal model",
     "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
     "score": 789,
@@ -698,5 +663,40 @@
     "score": 573,
     "source": "Hacker News",
     "timestamp": "2026-06-14T23:11:02.196171"
+  },
+  {
+    "key": "2026-06-15:Hacker News:Show HN: Kage – Shadow any website to a single binary for offline viewing",
+    "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+    "score": 516,
+    "source": "Hacker News",
+    "timestamp": "2026-06-15T07:19:09.562576"
+  },
+  {
+    "key": "2026-06-15:Hacker News:Firewood Splitting Simulator",
+    "title": "Firewood Splitting Simulator",
+    "score": 762,
+    "source": "Hacker News",
+    "timestamp": "2026-06-15T07:19:09.562589"
+  },
+  {
+    "key": "2026-06-15:Hacker News:How to earn a billion dollars",
+    "title": "How to earn a billion dollars",
+    "score": 588,
+    "source": "Hacker News",
+    "timestamp": "2026-06-15T07:19:09.562595"
+  },
+  {
+    "key": "2026-06-15:Hacker News:GLM 5.2 Is Out",
+    "title": "GLM 5.2 Is Out",
+    "score": 739,
+    "source": "Hacker News",
+    "timestamp": "2026-06-15T07:19:09.562601"
+  },
+  {
+    "key": "2026-06-15:Hacker News:Every Frame Perfect",
+    "title": "Every Frame Perfect",
+    "score": 831,
+    "source": "Hacker News",
+    "timestamp": "2026-06-15T07:19:09.562606"
   }
 ]

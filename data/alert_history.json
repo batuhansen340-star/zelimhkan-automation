@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-04:Hacker News:Meta workers can opt out of being tracked at work up to 30 min",
-    "title": "Meta workers can opt out of being tracked at work up to 30 min",
-    "score": 718,
-    "source": "Hacker News",
-    "timestamp": "2026-06-04T06:41:26.459638"
-  },
-  {
     "key": "2026-06-04:Hacker News:Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
     "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
     "score": 664,
@@ -698,5 +691,12 @@
     "score": 621,
     "source": "Hacker News",
     "timestamp": "2026-06-15T15:32:40.777748"
+  },
+  {
+    "key": "2026-06-15:Hacker News:What happened to nerds?",
+    "title": "What happened to nerds?",
+    "score": 651,
+    "source": "Hacker News",
+    "timestamp": "2026-06-15T18:19:23.250751"
   }
 ]

@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-06-04:Hacker News:Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
-    "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
-    "score": 664,
-    "source": "Hacker News",
-    "timestamp": "2026-06-04T06:41:26.459644"
-  },
-  {
-    "key": "2026-06-04:Hacker News:They’re made out of weights",
-    "title": "They’re made out of weights",
-    "score": 691,
-    "source": "Hacker News",
-    "timestamp": "2026-06-04T09:58:34.232300"
-  },
-  {
     "key": "2026-06-04:Hacker News:Artificial intelligence is not conscious – Ted Chiang",
     "title": "Artificial intelligence is not conscious – Ted Chiang",
     "score": 503,
@@ -698,5 +684,19 @@
     "score": 651,
     "source": "Hacker News",
     "timestamp": "2026-06-15T18:19:23.250751"
+  },
+  {
+    "key": "2026-06-15:Hacker News:Iroh 1.0",
+    "title": "Iroh 1.0",
+    "score": 750,
+    "source": "Hacker News",
+    "timestamp": "2026-06-15T20:43:56.726268"
+  },
+  {
+    "key": "2026-06-15:Hacker News:CrankGPT",
+    "title": "CrankGPT",
+    "score": 507,
+    "source": "Hacker News",
+    "timestamp": "2026-06-15T20:43:56.726287"
   }
 ]

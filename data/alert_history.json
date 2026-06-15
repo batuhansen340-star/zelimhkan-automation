@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-04:Hacker News:Gemma 4 12B: A unified, encoder-free multimodal model",
-    "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
-    "score": 789,
-    "source": "Hacker News",
-    "timestamp": "2026-06-04T06:41:26.459627"
-  },
-  {
     "key": "2026-06-04:Hacker News:I was recently diagnosed with anti-NMDA receptor encephalitis",
     "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
     "score": 574,
@@ -698,5 +691,12 @@
     "score": 831,
     "source": "Hacker News",
     "timestamp": "2026-06-15T07:19:09.562606"
+  },
+  {
+    "key": "2026-06-15:Hacker News:Your ePub Is fine",
+    "title": "Your ePub Is fine",
+    "score": 684,
+    "source": "Hacker News",
+    "timestamp": "2026-06-15T12:18:54.726150"
   }
 ]

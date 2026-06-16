@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-06-05:Hacker News:VoidZero Is Joining Cloudflare",
-    "title": "VoidZero Is Joining Cloudflare",
-    "score": 612,
-    "source": "Hacker News",
-    "timestamp": "2026-06-05T06:21:17.934775"
-  },
-  {
-    "key": "2026-06-05:Hacker News:They’re made out of weights",
-    "title": "They’re made out of weights",
-    "score": 1434,
-    "source": "Hacker News",
-    "timestamp": "2026-06-05T06:21:17.934792"
-  },
-  {
     "key": "2026-06-05:Hacker News:Ian's Secure Shoelace Knot",
     "title": "Ian's Secure Shoelace Knot",
     "score": 536,
@@ -698,5 +684,19 @@
     "score": 763,
     "source": "Hacker News",
     "timestamp": "2026-06-16T07:25:40.842514"
+  },
+  {
+    "key": "2026-06-16:Hacker News:I admire Fabrice Bellard. He is almost certainly a better overall programmer",
+    "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
+    "score": 550,
+    "source": "Hacker News",
+    "timestamp": "2026-06-16T14:48:48.652275"
+  },
+  {
+    "key": "2026-06-16:Hacker News:Hetzner Price Adjustment",
+    "title": "Hetzner Price Adjustment",
+    "score": 511,
+    "source": "Hacker News",
+    "timestamp": "2026-06-16T14:48:48.652304"
   }
 ]

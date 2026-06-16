@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-06-05:Hacker News:Ian's Secure Shoelace Knot",
-    "title": "Ian's Secure Shoelace Knot",
-    "score": 536,
-    "source": "Hacker News",
-    "timestamp": "2026-06-05T06:21:17.934798"
-  },
-  {
-    "key": "2026-06-05:Hacker News:Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-    "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-    "score": 756,
-    "source": "Hacker News",
-    "timestamp": "2026-06-05T06:21:17.934805"
-  },
-  {
-    "key": "2026-06-05:Hacker News:SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P",
-    "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P",
-    "score": 563,
-    "source": "Hacker News",
-    "timestamp": "2026-06-05T09:54:21.275533"
-  },
-  {
-    "key": "2026-06-05:Hacker News:Changing how we develop Ladybird",
-    "title": "Changing how we develop Ladybird",
-    "score": 665,
-    "source": "Hacker News",
-    "timestamp": "2026-06-05T16:23:50.740981"
-  },
-  {
     "key": "2026-06-06:Hacker News:Mouseless – keyboard-driven control of macOS/Linux/Windows",
     "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
     "score": 504,
@@ -698,5 +670,33 @@
     "score": 511,
     "source": "Hacker News",
     "timestamp": "2026-06-16T14:48:48.652304"
+  },
+  {
+    "key": "2026-06-16:Hacker News:Running local models is good now",
+    "title": "Running local models is good now",
+    "score": 540,
+    "source": "Hacker News",
+    "timestamp": "2026-06-16T18:23:20.791117"
+  },
+  {
+    "key": "2026-06-16:Hacker News:SpaceX to buy Cursor for $60B",
+    "title": "SpaceX to buy Cursor for $60B",
+    "score": 501,
+    "source": "Hacker News",
+    "timestamp": "2026-06-16T18:23:20.791133"
+  },
+  {
+    "key": "2026-06-16:Hacker News:Mechanical Watch (2022)",
+    "title": "Mechanical Watch (2022)",
+    "score": 515,
+    "source": "Hacker News",
+    "timestamp": "2026-06-16T18:23:20.791140"
+  },
+  {
+    "key": "2026-06-16:Hacker News:Banned book library in a wi-fi smart light bulb",
+    "title": "Banned book library in a wi-fi smart light bulb",
+    "score": 548,
+    "source": "Hacker News",
+    "timestamp": "2026-06-16T18:23:20.791150"
   }
 ]

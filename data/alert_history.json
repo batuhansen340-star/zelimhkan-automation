@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-06:Hacker News:Mouseless – keyboard-driven control of macOS/Linux/Windows",
-    "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
-    "score": 504,
-    "source": "Hacker News",
-    "timestamp": "2026-06-06T05:53:07.919463"
-  },
-  {
     "key": "2026-06-06:Hacker News:Changing how we develop Ladybird",
     "title": "Changing how we develop Ladybird",
     "score": 822,
@@ -698,5 +691,12 @@
     "score": 548,
     "source": "Hacker News",
     "timestamp": "2026-06-16T18:23:20.791150"
+  },
+  {
+    "key": "2026-06-16:Hacker News:Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers",
+    "title": "Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers",
+    "score": 513,
+    "source": "Hacker News",
+    "timestamp": "2026-06-16T20:35:58.356747"
   }
 ]

@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-06-08:Hacker News:Building from zero after addiction, prison, and a felony",
-    "title": "Building from zero after addiction, prison, and a felony",
-    "score": 564,
-    "source": "Hacker News",
-    "timestamp": "2026-06-08T06:42:14.908051"
-  },
-  {
-    "key": "2026-06-08:Hacker News:LLMs are eroding my software engineering career and I don't know what to do",
-    "title": "LLMs are eroding my software engineering career and I don't know what to do",
-    "score": 901,
-    "source": "Hacker News",
-    "timestamp": "2026-06-08T06:42:14.908066"
-  },
-  {
-    "key": "2026-06-08:Hacker News:Ask HN: What was your \"oh shit\" moment with GenAI?",
-    "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
-    "score": 694,
-    "source": "Hacker News",
-    "timestamp": "2026-06-08T06:42:14.908073"
-  },
-  {
-    "key": "2026-06-08:Hacker News:Anthropic, please ship an official Claude Desktop for Linux",
-    "title": "Anthropic, please ship an official Claude Desktop for Linux",
-    "score": 502,
-    "source": "Hacker News",
-    "timestamp": "2026-06-08T11:00:03.930045"
-  },
-  {
     "key": "2026-06-08:Hacker News:Dopamine Fracking",
     "title": "Dopamine Fracking",
     "score": 525,
@@ -698,5 +670,33 @@
     "score": 1359,
     "source": "Hacker News",
     "timestamp": "2026-06-17T07:08:13.151318"
+  },
+  {
+    "key": "2026-06-17:Hacker News:GLM-5.2 is the new leading open weights model on Artificial Analysis",
+    "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+    "score": 552,
+    "source": "Hacker News",
+    "timestamp": "2026-06-17T16:49:25.985196"
+  },
+  {
+    "key": "2026-06-17:Hacker News:Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+    "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+    "score": 684,
+    "source": "Hacker News",
+    "timestamp": "2026-06-17T16:49:25.985214"
+  },
+  {
+    "key": "2026-06-17:Hacker News:TIL: You can make HTTP requests without curl using Bash /dev/TCP",
+    "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
+    "score": 511,
+    "source": "Hacker News",
+    "timestamp": "2026-06-17T16:49:25.985226"
+  },
+  {
+    "key": "2026-06-17:Hacker News:Calvin and Hobbes and the price of integrity",
+    "title": "Calvin and Hobbes and the price of integrity",
+    "score": 519,
+    "source": "Hacker News",
+    "timestamp": "2026-06-17T16:49:25.985230"
   }
 ]

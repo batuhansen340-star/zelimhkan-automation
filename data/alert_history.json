@@ -1,75 +1,5 @@
 [
   {
-    "key": "2026-06-06:Hacker News:Changing how we develop Ladybird",
-    "title": "Changing how we develop Ladybird",
-    "score": 822,
-    "source": "Hacker News",
-    "timestamp": "2026-06-06T05:53:07.919476"
-  },
-  {
-    "key": "2026-06-06:Hacker News:S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-    "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-    "score": 545,
-    "source": "Hacker News",
-    "timestamp": "2026-06-06T11:12:56.605778"
-  },
-  {
-    "key": "2026-06-06:Hacker News:How LLMs work",
-    "title": "How LLMs work",
-    "score": 591,
-    "source": "Hacker News",
-    "timestamp": "2026-06-06T15:03:49.454766"
-  },
-  {
-    "key": "2026-06-06:Hacker News:Gov.uk has replaced Stripe with Dutch provider Adyen",
-    "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
-    "score": 525,
-    "source": "Hacker News",
-    "timestamp": "2026-06-06T15:03:49.454798"
-  },
-  {
-    "key": "2026-06-06:Hacker News:Ask HN: What was your \"oh shit\" moment with GenAI?",
-    "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
-    "score": 528,
-    "source": "Hacker News",
-    "timestamp": "2026-06-06T23:06:33.122316"
-  },
-  {
-    "key": "2026-06-07:Hacker News:Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-    "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-    "score": 530,
-    "source": "Hacker News",
-    "timestamp": "2026-06-07T06:23:14.209659"
-  },
-  {
-    "key": "2026-06-07:Hacker News:Ask HN: What was your \"oh shit\" moment with GenAI?",
-    "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
-    "score": 589,
-    "source": "Hacker News",
-    "timestamp": "2026-06-07T06:23:14.209675"
-  },
-  {
-    "key": "2026-06-07:Hacker News:How LLMs work",
-    "title": "How LLMs work",
-    "score": 869,
-    "source": "Hacker News",
-    "timestamp": "2026-06-07T06:23:14.209683"
-  },
-  {
-    "key": "2026-06-07:Hacker News:Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
-    "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
-    "score": 512,
-    "source": "Hacker News",
-    "timestamp": "2026-06-07T09:15:26.606997"
-  },
-  {
-    "key": "2026-06-07:Hacker News:LLMs are eroding my software engineering career and I don't know what to do",
-    "title": "LLMs are eroding my software engineering career and I don't know what to do",
-    "score": 655,
-    "source": "Hacker News",
-    "timestamp": "2026-06-07T19:05:07.984747"
-  },
-  {
     "key": "2026-06-08:Hacker News:Building from zero after addiction, prison, and a felony",
     "title": "Building from zero after addiction, prison, and a felony",
     "score": 564,
@@ -698,5 +628,75 @@
     "score": 513,
     "source": "Hacker News",
     "timestamp": "2026-06-16T20:35:58.356747"
+  },
+  {
+    "key": "2026-06-17:Hacker News:GrapheneOS has been ported to Android 17",
+    "title": "GrapheneOS has been ported to Android 17",
+    "score": 651,
+    "source": "Hacker News",
+    "timestamp": "2026-06-17T07:08:13.151262"
+  },
+  {
+    "key": "2026-06-17:Hacker News:Running local models is good now",
+    "title": "Running local models is good now",
+    "score": 1218,
+    "source": "Hacker News",
+    "timestamp": "2026-06-17T07:08:13.151277"
+  },
+  {
+    "key": "2026-06-17:Hacker News:SpaceX to buy Cursor for $60B",
+    "title": "SpaceX to buy Cursor for $60B",
+    "score": 980,
+    "source": "Hacker News",
+    "timestamp": "2026-06-17T07:08:13.151284"
+  },
+  {
+    "key": "2026-06-17:Hacker News:Apple's weird anti-nausea dots cured my car sickness",
+    "title": "Apple's weird anti-nausea dots cured my car sickness",
+    "score": 708,
+    "source": "Hacker News",
+    "timestamp": "2026-06-17T07:08:13.151289"
+  },
+  {
+    "key": "2026-06-17:Hacker News:Mechanical Watch (2022)",
+    "title": "Mechanical Watch (2022)",
+    "score": 676,
+    "source": "Hacker News",
+    "timestamp": "2026-06-17T07:08:13.151294"
+  },
+  {
+    "key": "2026-06-17:Hacker News:Is Meta destroying its engineering organization?",
+    "title": "Is Meta destroying its engineering organization?",
+    "score": 545,
+    "source": "Hacker News",
+    "timestamp": "2026-06-17T07:08:13.151298"
+  },
+  {
+    "key": "2026-06-17:Hacker News:A backdoor in a LinkedIn job offer",
+    "title": "A backdoor in a LinkedIn job offer",
+    "score": 1551,
+    "source": "Hacker News",
+    "timestamp": "2026-06-17T07:08:13.151303"
+  },
+  {
+    "key": "2026-06-17:Hacker News:I admire Fabrice Bellard. He is almost certainly a better overall programmer",
+    "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
+    "score": 879,
+    "source": "Hacker News",
+    "timestamp": "2026-06-17T07:08:13.151308"
+  },
+  {
+    "key": "2026-06-17:Hacker News:Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers",
+    "title": "Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers",
+    "score": 565,
+    "source": "Hacker News",
+    "timestamp": "2026-06-17T07:08:13.151313"
+  },
+  {
+    "key": "2026-06-17:Hacker News:Iroh 1.0",
+    "title": "Iroh 1.0",
+    "score": 1359,
+    "source": "Hacker News",
+    "timestamp": "2026-06-17T07:08:13.151318"
   }
 ]

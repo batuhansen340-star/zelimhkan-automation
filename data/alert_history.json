@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-06-08:Hacker News:Show HN: Performative-UI – A react component library of design tropes",
-    "title": "Show HN: Performative-UI – A react component library of design tropes",
-    "score": 703,
-    "source": "Hacker News",
-    "timestamp": "2026-06-08T23:12:41.464289"
-  },
-  {
-    "key": "2026-06-08:Hacker News:Anti-social: It's fads, not friends, which now dominate social media feeds",
-    "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
-    "score": 507,
-    "source": "Hacker News",
-    "timestamp": "2026-06-08T23:12:41.464303"
-  },
-  {
-    "key": "2026-06-08:Hacker News:Stop the Apple Music app from launching",
-    "title": "Stop the Apple Music app from launching",
-    "score": 545,
-    "source": "Hacker News",
-    "timestamp": "2026-06-08T23:12:41.464310"
-  },
-  {
     "key": "2026-06-09:Hacker News:Siri AI",
     "title": "Siri AI",
     "score": 510,
@@ -698,5 +677,26 @@
     "score": 535,
     "source": "Hacker News",
     "timestamp": "2026-06-17T19:57:51.752226"
+  },
+  {
+    "key": "2026-06-17:Hacker News:Lore – Open source version control system designed for scalability",
+    "title": "Lore – Open source version control system designed for scalability",
+    "score": 893,
+    "source": "Hacker News",
+    "timestamp": "2026-06-17T23:27:26.364121"
+  },
+  {
+    "key": "2026-06-17:Hacker News:U.S. science is in chaos",
+    "title": "U.S. science is in chaos",
+    "score": 591,
+    "source": "Hacker News",
+    "timestamp": "2026-06-17T23:27:26.364148"
+  },
+  {
+    "key": "2026-06-17:Hacker News:Hacker News but for independent blogs",
+    "title": "Hacker News but for independent blogs",
+    "score": 518,
+    "source": "Hacker News",
+    "timestamp": "2026-06-17T23:27:26.364155"
   }
 ]

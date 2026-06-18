@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-09:Hacker News:AI is slowing down",
-    "title": "AI is slowing down",
-    "score": 551,
-    "source": "Hacker News",
-    "timestamp": "2026-06-09T09:49:13.669744"
-  },
-  {
     "key": "2026-06-09:Hacker News:OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
     "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
     "score": 501,
@@ -698,5 +691,12 @@
     "score": 982,
     "source": "Hacker News",
     "timestamp": "2026-06-18T06:50:55.755649"
+  },
+  {
+    "key": "2026-06-18:Hacker News:Swiss parliament lifts ban on new nuclear power plants",
+    "title": "Swiss parliament lifts ban on new nuclear power plants",
+    "score": 508,
+    "source": "Hacker News",
+    "timestamp": "2026-06-18T20:09:48.133340"
   }
 ]

@@ -1,61 +1,5 @@
 [
   {
-    "key": "2026-06-09:Hacker News:Siri AI",
-    "title": "Siri AI",
-    "score": 510,
-    "source": "Hacker News",
-    "timestamp": "2026-06-09T06:08:07.451988"
-  },
-  {
-    "key": "2026-06-09:Hacker News:Show HN: Performative-UI – A react component library of design tropes",
-    "title": "Show HN: Performative-UI – A react component library of design tropes",
-    "score": 885,
-    "source": "Hacker News",
-    "timestamp": "2026-06-09T06:08:07.452009"
-  },
-  {
-    "key": "2026-06-09:Hacker News:MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
-    "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
-    "score": 535,
-    "source": "Hacker News",
-    "timestamp": "2026-06-09T06:08:07.452016"
-  },
-  {
-    "key": "2026-06-09:Hacker News:Anti-social: It's fads, not friends, which now dominate social media feeds",
-    "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
-    "score": 609,
-    "source": "Hacker News",
-    "timestamp": "2026-06-09T06:08:07.452021"
-  },
-  {
-    "key": "2026-06-09:Hacker News:Stop the Apple Music app from launching",
-    "title": "Stop the Apple Music app from launching",
-    "score": 605,
-    "source": "Hacker News",
-    "timestamp": "2026-06-09T06:08:07.452026"
-  },
-  {
-    "key": "2026-06-09:Hacker News:Apple reveals new AI architecture built around Google Gemini models",
-    "title": "Apple reveals new AI architecture built around Google Gemini models",
-    "score": 590,
-    "source": "Hacker News",
-    "timestamp": "2026-06-09T09:49:13.669706"
-  },
-  {
-    "key": "2026-06-09:Hacker News:xAI is looking more like a datacentre REIT than a frontier lab",
-    "title": "xAI is looking more like a datacentre REIT than a frontier lab",
-    "score": 561,
-    "source": "Hacker News",
-    "timestamp": "2026-06-09T09:49:13.669724"
-  },
-  {
-    "key": "2026-06-09:Hacker News:Surveillance is not safety: A statement on the UK's latest threat to privacy [pd",
-    "title": "Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]",
-    "score": 566,
-    "source": "Hacker News",
-    "timestamp": "2026-06-09T09:49:13.669739"
-  },
-  {
     "key": "2026-06-09:Hacker News:AI is slowing down",
     "title": "AI is slowing down",
     "score": 551,
@@ -698,5 +642,61 @@
     "score": 518,
     "source": "Hacker News",
     "timestamp": "2026-06-17T23:27:26.364155"
+  },
+  {
+    "key": "2026-06-18:Hacker News:Midjourney Medical",
+    "title": "Midjourney Medical",
+    "score": 505,
+    "source": "Hacker News",
+    "timestamp": "2026-06-18T06:50:55.755597"
+  },
+  {
+    "key": "2026-06-18:Hacker News:Lore – Open source version control system designed for scalability",
+    "title": "Lore – Open source version control system designed for scalability",
+    "score": 1086,
+    "source": "Hacker News",
+    "timestamp": "2026-06-18T06:50:55.755617"
+  },
+  {
+    "key": "2026-06-18:Hacker News:Volkswagen started blocking GrapheneOS users",
+    "title": "Volkswagen started blocking GrapheneOS users",
+    "score": 620,
+    "source": "Hacker News",
+    "timestamp": "2026-06-18T06:50:55.755624"
+  },
+  {
+    "key": "2026-06-18:Hacker News:GLM-5.2 is the new leading open weights model on Artificial Analysis",
+    "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+    "score": 838,
+    "source": "Hacker News",
+    "timestamp": "2026-06-18T06:50:55.755629"
+  },
+  {
+    "key": "2026-06-18:Hacker News:U.S. science is in chaos",
+    "title": "U.S. science is in chaos",
+    "score": 797,
+    "source": "Hacker News",
+    "timestamp": "2026-06-18T06:50:55.755634"
+  },
+  {
+    "key": "2026-06-18:Hacker News:Want your images back? That'll be $5",
+    "title": "Want your images back? That'll be $5",
+    "score": 625,
+    "source": "Hacker News",
+    "timestamp": "2026-06-18T06:50:55.755639"
+  },
+  {
+    "key": "2026-06-18:Hacker News:Running local models is good now",
+    "title": "Running local models is good now",
+    "score": 1525,
+    "source": "Hacker News",
+    "timestamp": "2026-06-18T06:50:55.755644"
+  },
+  {
+    "key": "2026-06-18:Hacker News:GrapheneOS has been ported to Android 17",
+    "title": "GrapheneOS has been ported to Android 17",
+    "score": 982,
+    "source": "Hacker News",
+    "timestamp": "2026-06-18T06:50:55.755649"
   }
 ]

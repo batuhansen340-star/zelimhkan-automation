@@ -1,40 +1,5 @@
 [
   {
-    "key": "2026-06-09:Hacker News:Making Graphics Like it's 1993",
-    "title": "Making Graphics Like it's 1993",
-    "score": 609,
-    "source": "Hacker News",
-    "timestamp": "2026-06-09T19:55:01.207862"
-  },
-  {
-    "key": "2026-06-09:Hacker News:Microsoft's open source tools were hacked to steal passwords of AI developers",
-    "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-    "score": 521,
-    "source": "Hacker News",
-    "timestamp": "2026-06-09T23:17:45.884360"
-  },
-  {
-    "key": "2026-06-10:Hacker News:macOS Container Machines",
-    "title": "macOS Container Machines",
-    "score": 531,
-    "source": "Hacker News",
-    "timestamp": "2026-06-10T06:23:02.224466"
-  },
-  {
-    "key": "2026-06-10:Hacker News:Claude Fable 5",
-    "title": "Claude Fable 5",
-    "score": 2035,
-    "source": "Hacker News",
-    "timestamp": "2026-06-10T06:23:02.224483"
-  },
-  {
-    "key": "2026-06-10:Hacker News:If Claude Fable stops helping you, you'll never know",
-    "title": "If Claude Fable stops helping you, you'll never know",
-    "score": 700,
-    "source": "Hacker News",
-    "timestamp": "2026-06-10T06:23:02.224490"
-  },
-  {
     "key": "2026-06-10:Hacker News:OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
     "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
     "score": 737,
@@ -698,5 +663,40 @@
     "score": 581,
     "source": "Hacker News",
     "timestamp": "2026-06-18T23:47:15.753555"
+  },
+  {
+    "key": "2026-06-19:Hacker News:I found 10k GitHub repositories distributing Trojan malware",
+    "title": "I found 10k GitHub repositories distributing Trojan malware",
+    "score": 757,
+    "source": "Hacker News",
+    "timestamp": "2026-06-19T07:04:48.201676"
+  },
+  {
+    "key": "2026-06-19:Hacker News:Swiss parliament lifts ban on new nuclear power plants",
+    "title": "Swiss parliament lifts ban on new nuclear power plants",
+    "score": 745,
+    "source": "Hacker News",
+    "timestamp": "2026-06-19T07:04:48.201691"
+  },
+  {
+    "key": "2026-06-19:Hacker News:Midjourney Medical",
+    "title": "Midjourney Medical",
+    "score": 1297,
+    "source": "Hacker News",
+    "timestamp": "2026-06-19T07:04:48.201697"
+  },
+  {
+    "key": "2026-06-19:Hacker News:Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly",
+    "title": "Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly",
+    "score": 651,
+    "source": "Hacker News",
+    "timestamp": "2026-06-19T07:04:48.201703"
+  },
+  {
+    "key": "2026-06-19:Hacker News:Lore – Open source version control system designed for scalability",
+    "title": "Lore – Open source version control system designed for scalability",
+    "score": 1232,
+    "source": "Hacker News",
+    "timestamp": "2026-06-19T07:04:48.201708"
   }
 ]

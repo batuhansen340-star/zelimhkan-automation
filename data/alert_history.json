@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-10:Hacker News:OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
-    "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
-    "score": 737,
-    "source": "Hacker News",
-    "timestamp": "2026-06-10T06:23:02.224495"
-  },
-  {
     "key": "2026-06-10:Hacker News:CEOs who think AI replaces their employees are just bad CEOs",
     "title": "CEOs who think AI replaces their employees are just bad CEOs",
     "score": 581,
@@ -698,5 +691,12 @@
     "score": 1232,
     "source": "Hacker News",
     "timestamp": "2026-06-19T07:04:48.201708"
+  },
+  {
+    "key": "2026-06-19:Hacker News:.gitignore Isn't the only way to ignore files in Git",
+    "title": ".gitignore Isn't the only way to ignore files in Git",
+    "score": 538,
+    "source": "Hacker News",
+    "timestamp": "2026-06-19T19:24:10.131452"
   }
 ]

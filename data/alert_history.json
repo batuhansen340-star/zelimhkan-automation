@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-11:Hacker News:πFS",
-    "title": "πFS",
-    "score": 675,
-    "source": "Hacker News",
-    "timestamp": "2026-06-11T06:47:37.842499"
-  },
-  {
     "key": "2026-06-11:Hacker News:I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
     "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
     "score": 615,
@@ -698,5 +691,12 @@
     "score": 944,
     "source": "Hacker News",
     "timestamp": "2026-06-20T06:19:50.082952"
+  },
+  {
+    "key": "2026-06-20:Hacker News:There are no instances in ATProto",
+    "title": "There are no instances in ATProto",
+    "score": 507,
+    "source": "Hacker News",
+    "timestamp": "2026-06-20T19:07:49.600910"
   }
 ]

@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-11:Hacker News:Claude Fable 5",
-    "title": "Claude Fable 5",
-    "score": 2562,
-    "source": "Hacker News",
-    "timestamp": "2026-06-11T06:47:37.842530"
-  },
-  {
     "key": "2026-06-11:Hacker News:macOS Container Machines",
     "title": "macOS Container Machines",
     "score": 1210,
@@ -698,5 +691,12 @@
     "score": 505,
     "source": "Hacker News",
     "timestamp": "2026-06-21T09:52:48.467541"
+  },
+  {
+    "key": "2026-06-21:Hacker News:Loupe – A iOS app that raises awareness about what native apps can see",
+    "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+    "score": 509,
+    "source": "Hacker News",
+    "timestamp": "2026-06-21T23:16:35.288432"
   }
 ]

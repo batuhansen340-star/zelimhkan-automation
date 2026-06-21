@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-11:Hacker News:I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
-    "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
-    "score": 615,
-    "source": "Hacker News",
-    "timestamp": "2026-06-11T06:47:37.842517"
-  },
-  {
     "key": "2026-06-11:Hacker News:Building an HTML-first site doubled our users overnight",
     "title": "Building an HTML-first site doubled our users overnight",
     "score": 1072,
@@ -698,5 +691,12 @@
     "score": 507,
     "source": "Hacker News",
     "timestamp": "2026-06-20T19:07:49.600910"
+  },
+  {
+    "key": "2026-06-21:Hacker News:GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+    "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+    "score": 523,
+    "source": "Hacker News",
+    "timestamp": "2026-06-21T06:50:10.732192"
   }
 ]

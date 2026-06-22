@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-11:Hacker News:Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
-    "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
-    "score": 512,
-    "source": "Hacker News",
-    "timestamp": "2026-06-11T13:45:59.077375"
-  },
-  {
     "key": "2026-06-11:Hacker News:Anthropic requires 30 day data retention for Fable and Mythos",
     "title": "Anthropic requires 30 day data retention for Fable and Mythos",
     "score": 520,
@@ -698,5 +691,12 @@
     "score": 623,
     "source": "Hacker News",
     "timestamp": "2026-06-22T12:07:44.177918"
+  },
+  {
+    "key": "2026-06-22:Hacker News:Prefer duplication over the wrong abstraction (2016)",
+    "title": "Prefer duplication over the wrong abstraction (2016)",
+    "score": 515,
+    "source": "Hacker News",
+    "timestamp": "2026-06-22T15:10:26.377638"
   }
 ]

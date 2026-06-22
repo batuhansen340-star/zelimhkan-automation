@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-06-11:Hacker News:Anthropic requires 30 day data retention for Fable and Mythos",
-    "title": "Anthropic requires 30 day data retention for Fable and Mythos",
-    "score": 520,
-    "source": "Hacker News",
-    "timestamp": "2026-06-11T13:45:59.077397"
-  },
-  {
-    "key": "2026-06-11:Hacker News:Pokémon Go Scans Trained the Navigation Tech for Military Drones",
-    "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
-    "score": 596,
-    "source": "Hacker News",
-    "timestamp": "2026-06-11T17:30:24.114342"
-  },
-  {
     "key": "2026-06-11:Hacker News:Show HN: Homebrew 6.0.0",
     "title": "Show HN: Homebrew 6.0.0",
     "score": 561,
@@ -698,5 +684,19 @@
     "score": 515,
     "source": "Hacker News",
     "timestamp": "2026-06-22T15:10:26.377638"
+  },
+  {
+    "key": "2026-06-22:Hacker News:Pledging another $400k to the Zig software foundation",
+    "title": "Pledging another $400k to the Zig software foundation",
+    "score": 545,
+    "source": "Hacker News",
+    "timestamp": "2026-06-22T18:07:54.098959"
+  },
+  {
+    "key": "2026-06-22:Hacker News:Apertus – Open Foundation Model for Sovereign AI",
+    "title": "Apertus – Open Foundation Model for Sovereign AI",
+    "score": 501,
+    "source": "Hacker News",
+    "timestamp": "2026-06-22T18:07:54.098978"
   }
 ]

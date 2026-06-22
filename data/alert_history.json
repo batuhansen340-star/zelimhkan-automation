@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-11:Hacker News:Show HN: Homebrew 6.0.0",
-    "title": "Show HN: Homebrew 6.0.0",
-    "score": 561,
-    "source": "Hacker News",
-    "timestamp": "2026-06-11T20:08:53.046094"
-  },
-  {
     "key": "2026-06-12:Hacker News:If you are asking for human attention, demonstrate human effort",
     "title": "If you are asking for human attention, demonstrate human effort",
     "score": 528,
@@ -698,5 +691,12 @@
     "score": 501,
     "source": "Hacker News",
     "timestamp": "2026-06-22T18:07:54.098978"
+  },
+  {
+    "key": "2026-06-22:Hacker News:Steam Machine",
+    "title": "Steam Machine",
+    "score": 690,
+    "source": "Hacker News",
+    "timestamp": "2026-06-22T20:32:27.847432"
   }
 ]

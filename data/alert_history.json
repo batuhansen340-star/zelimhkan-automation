@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-06-11:Hacker News:Mercedes‑Benz starts large‑scale production of electric axial flux motor",
-    "title": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
-    "score": 525,
-    "source": "Hacker News",
-    "timestamp": "2026-06-11T06:47:37.842541"
-  },
-  {
-    "key": "2026-06-11:Hacker News:OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
-    "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
-    "score": 825,
-    "source": "Hacker News",
-    "timestamp": "2026-06-11T06:47:37.842545"
-  },
-  {
     "key": "2026-06-11:Hacker News:Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
     "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
     "score": 512,
@@ -698,5 +684,19 @@
     "score": 704,
     "source": "Hacker News",
     "timestamp": "2026-06-22T07:22:57.092667"
+  },
+  {
+    "key": "2026-06-22:Hacker News:Deno Desktop",
+    "title": "Deno Desktop",
+    "score": 538,
+    "source": "Hacker News",
+    "timestamp": "2026-06-22T12:07:44.177905"
+  },
+  {
+    "key": "2026-06-22:Hacker News:Did my old job only exist because of fraud?",
+    "title": "Did my old job only exist because of fraud?",
+    "score": 623,
+    "source": "Hacker News",
+    "timestamp": "2026-06-22T12:07:44.177918"
   }
 ]

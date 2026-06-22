@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-11:Hacker News:macOS Container Machines",
-    "title": "macOS Container Machines",
-    "score": 1210,
-    "source": "Hacker News",
-    "timestamp": "2026-06-11T06:47:37.842535"
-  },
-  {
     "key": "2026-06-11:Hacker News:Mercedes‑Benz starts large‑scale production of electric axial flux motor",
     "title": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
     "score": 525,
@@ -698,5 +691,12 @@
     "score": 509,
     "source": "Hacker News",
     "timestamp": "2026-06-21T23:16:35.288432"
+  },
+  {
+    "key": "2026-06-22:Hacker News:Identity verification on Claude",
+    "title": "Identity verification on Claude",
+    "score": 704,
+    "source": "Hacker News",
+    "timestamp": "2026-06-22T07:22:57.092667"
   }
 ]

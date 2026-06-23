@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-06-12:Hacker News:Show HN: Homebrew 6.0.0",
-    "title": "Show HN: Homebrew 6.0.0",
-    "score": 1134,
-    "source": "Hacker News",
-    "timestamp": "2026-06-12T06:40:20.075219"
-  },
-  {
-    "key": "2026-06-12:Hacker News:Pokémon Go Scans Trained the Navigation Tech for Military Drones",
-    "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
-    "score": 692,
-    "source": "Hacker News",
-    "timestamp": "2026-06-12T06:40:20.075226"
-  },
-  {
-    "key": "2026-06-12:Hacker News:AI agent bankrupted their operator while trying to scan DN42",
-    "title": "AI agent bankrupted their operator while trying to scan DN42",
-    "score": 585,
-    "source": "Hacker News",
-    "timestamp": "2026-06-12T10:16:36.148704"
-  },
-  {
-    "key": "2026-06-12:Hacker News:Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
-    "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
-    "score": 537,
-    "source": "Hacker News",
-    "timestamp": "2026-06-12T12:45:32.086329"
-  },
-  {
     "key": "2026-06-12:Hacker News:Claude Fable is relentlessly proactive",
     "title": "Claude Fable is relentlessly proactive",
     "score": 537,
@@ -698,5 +670,33 @@
     "score": 1044,
     "source": "Hacker News",
     "timestamp": "2026-06-22T23:22:09.335650"
+  },
+  {
+    "key": "2026-06-23:Hacker News:Steam Machine launches today",
+    "title": "Steam Machine launches today",
+    "score": 1406,
+    "source": "Hacker News",
+    "timestamp": "2026-06-23T06:05:47.087777"
+  },
+  {
+    "key": "2026-06-23:Hacker News:Help I accidentally a wigglegram",
+    "title": "Help I accidentally a wigglegram",
+    "score": 516,
+    "source": "Hacker News",
+    "timestamp": "2026-06-23T06:05:47.087791"
+  },
+  {
+    "key": "2026-06-23:Hacker News:Deno Desktop",
+    "title": "Deno Desktop",
+    "score": 1050,
+    "source": "Hacker News",
+    "timestamp": "2026-06-23T06:05:47.087796"
+  },
+  {
+    "key": "2026-06-23:Hacker News:Pledging another $400k to the Zig software foundation",
+    "title": "Pledging another $400k to the Zig software foundation",
+    "score": 764,
+    "source": "Hacker News",
+    "timestamp": "2026-06-23T06:05:47.087801"
   }
 ]

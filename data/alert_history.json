@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-12:Hacker News:MiMo Code is now released and open-source",
-    "title": "MiMo Code is now released and open-source",
-    "score": 515,
-    "source": "Hacker News",
-    "timestamp": "2026-06-12T12:45:32.086349"
-  },
-  {
     "key": "2026-06-12:Hacker News:CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
     "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
     "score": 635,
@@ -698,5 +691,12 @@
     "score": 516,
     "source": "Hacker News",
     "timestamp": "2026-06-23T09:42:54.811722"
+  },
+  {
+    "key": "2026-06-23:Hacker News:Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
+    "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
+    "score": 509,
+    "source": "Hacker News",
+    "timestamp": "2026-06-23T12:26:09.653788"
   }
 ]

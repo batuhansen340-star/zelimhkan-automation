@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-13:Hacker News:Statement on US government directive to suspend access to Fable 5 and Mythos 5",
-    "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
-    "score": 1763,
-    "source": "Hacker News",
-    "timestamp": "2026-06-13T06:15:40.729200"
-  },
-  {
     "key": "2026-06-13:Hacker News:Open source AI must win",
     "title": "Open source AI must win",
     "score": 647,
@@ -698,5 +691,12 @@
     "score": 521,
     "source": "Hacker News",
     "timestamp": "2026-06-23T16:18:17.386001"
+  },
+  {
+    "key": "2026-06-23:Hacker News:What we call \"age verification\" is actually mass surveillance",
+    "title": "What we call \"age verification\" is actually mass surveillance",
+    "score": 605,
+    "source": "Hacker News",
+    "timestamp": "2026-06-23T19:48:22.855106"
   }
 ]

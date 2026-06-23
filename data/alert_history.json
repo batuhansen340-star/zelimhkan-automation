@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-12:Hacker News:Claude Fable is relentlessly proactive",
-    "title": "Claude Fable is relentlessly proactive",
-    "score": 537,
-    "source": "Hacker News",
-    "timestamp": "2026-06-12T12:45:32.086344"
-  },
-  {
     "key": "2026-06-12:Hacker News:MiMo Code is now released and open-source",
     "title": "MiMo Code is now released and open-source",
     "score": 515,
@@ -698,5 +691,12 @@
     "score": 764,
     "source": "Hacker News",
     "timestamp": "2026-06-23T06:05:47.087801"
+  },
+  {
+    "key": "2026-06-23:Hacker News:Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
+    "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
+    "score": 516,
+    "source": "Hacker News",
+    "timestamp": "2026-06-23T09:42:54.811722"
   }
 ]

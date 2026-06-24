@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-06-13:Hacker News:If you are asking for human attention, demonstrate human effort",
-    "title": "If you are asking for human attention, demonstrate human effort",
-    "score": 1550,
-    "source": "Hacker News",
-    "timestamp": "2026-06-13T06:15:40.729236"
-  },
-  {
-    "key": "2026-06-13:Hacker News:Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
-    "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
-    "score": 733,
-    "source": "Hacker News",
-    "timestamp": "2026-06-13T06:15:40.729241"
-  },
-  {
     "key": "2026-06-13:Hacker News:AI agent bankrupted their operator while trying to scan DN42",
     "title": "AI agent bankrupted their operator while trying to scan DN42",
     "score": 1406,
@@ -698,5 +684,19 @@
     "score": 1882,
     "source": "Hacker News",
     "timestamp": "2026-06-24T06:05:41.275946"
+  },
+  {
+    "key": "2026-06-24:Hacker News:FUTO Swipe – A new swipe typing model",
+    "title": "FUTO Swipe – A new swipe typing model",
+    "score": 535,
+    "source": "Hacker News",
+    "timestamp": "2026-06-24T09:33:21.927071"
+  },
+  {
+    "key": "2026-06-24:Hacker News:Fired by Google for creating the Google workspace CLI",
+    "title": "Fired by Google for creating the Google workspace CLI",
+    "score": 525,
+    "source": "Hacker News",
+    "timestamp": "2026-06-24T09:33:21.927083"
   }
 ]

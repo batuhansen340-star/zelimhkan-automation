@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-13:Hacker News:CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
-    "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
-    "score": 773,
-    "source": "Hacker News",
-    "timestamp": "2026-06-13T06:15:40.729230"
-  },
-  {
     "key": "2026-06-13:Hacker News:If you are asking for human attention, demonstrate human effort",
     "title": "If you are asking for human attention, demonstrate human effort",
     "score": 1550,
@@ -698,5 +691,12 @@
     "score": 587,
     "source": "Hacker News",
     "timestamp": "2026-06-23T23:09:46.977731"
+  },
+  {
+    "key": "2026-06-24:Hacker News:Steam Machine launches today",
+    "title": "Steam Machine launches today",
+    "score": 1882,
+    "source": "Hacker News",
+    "timestamp": "2026-06-24T06:05:41.275946"
   }
 ]

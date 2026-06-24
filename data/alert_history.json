@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-06-13:Hacker News:Show HN: Homebrew 6.0.0",
-    "title": "Show HN: Homebrew 6.0.0",
-    "score": 1410,
-    "source": "Hacker News",
-    "timestamp": "2026-06-13T06:15:40.729250"
-  },
-  {
-    "key": "2026-06-13:Hacker News:Electric motors with no rare earths",
-    "title": "Electric motors with no rare earths",
-    "score": 507,
-    "source": "Hacker News",
-    "timestamp": "2026-06-13T11:44:25.269044"
-  },
-  {
     "key": "2026-06-13:Hacker News:Noise infusion banned from statistical products published by Census Bureau",
     "title": "Noise infusion banned from statistical products published by Census Bureau",
     "score": 659,
@@ -698,5 +684,19 @@
     "score": 501,
     "source": "Hacker News",
     "timestamp": "2026-06-24T12:11:22.695131"
+  },
+  {
+    "key": "2026-06-24:Hacker News:We’re making Bunny DNS free",
+    "title": "We’re making Bunny DNS free",
+    "score": 599,
+    "source": "Hacker News",
+    "timestamp": "2026-06-24T16:06:12.497085"
+  },
+  {
+    "key": "2026-06-24:Hacker News:In memory of the man who put red and green squiggles under words",
+    "title": "In memory of the man who put red and green squiggles under words",
+    "score": 546,
+    "source": "Hacker News",
+    "timestamp": "2026-06-24T16:06:12.497109"
   }
 ]

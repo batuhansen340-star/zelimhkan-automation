@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-13:Hacker News:AI agent bankrupted their operator while trying to scan DN42",
-    "title": "AI agent bankrupted their operator while trying to scan DN42",
-    "score": 1406,
-    "source": "Hacker News",
-    "timestamp": "2026-06-13T06:15:40.729246"
-  },
-  {
     "key": "2026-06-13:Hacker News:Show HN: Homebrew 6.0.0",
     "title": "Show HN: Homebrew 6.0.0",
     "score": 1410,
@@ -698,5 +691,12 @@
     "score": 525,
     "source": "Hacker News",
     "timestamp": "2026-06-24T09:33:21.927083"
+  },
+  {
+    "key": "2026-06-24:Hacker News:Jerry's Map",
+    "title": "Jerry's Map",
+    "score": 501,
+    "source": "Hacker News",
+    "timestamp": "2026-06-24T12:11:22.695131"
   }
 ]

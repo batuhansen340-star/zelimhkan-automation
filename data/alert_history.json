@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-06-14:Hacker News:Israeli firm BlackCore suspected of meddling in New York and Scotland votes",
-    "title": "Israeli firm BlackCore suspected of meddling in New York and Scotland votes",
-    "score": 619,
-    "source": "Hacker News",
-    "timestamp": "2026-06-14T06:39:28.388147"
-  },
-  {
-    "key": "2026-06-14:Hacker News:GLM 5.2 Is Out",
-    "title": "GLM 5.2 Is Out",
-    "score": 572,
-    "source": "Hacker News",
-    "timestamp": "2026-06-14T09:37:31.247184"
-  },
-  {
     "key": "2026-06-14:Hacker News:Firewood Splitting Simulator",
     "title": "Firewood Splitting Simulator",
     "score": 573,
@@ -698,5 +684,19 @@
     "score": 873,
     "source": "Hacker News",
     "timestamp": "2026-06-25T06:05:39.916083"
+  },
+  {
+    "key": "2026-06-25:Hacker News:Half-Life 2 in a Browser",
+    "title": "Half-Life 2 in a Browser",
+    "score": 512,
+    "source": "Hacker News",
+    "timestamp": "2026-06-25T16:12:34.266250"
+  },
+  {
+    "key": "2026-06-25:Hacker News:Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+    "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+    "score": 658,
+    "source": "Hacker News",
+    "timestamp": "2026-06-25T16:12:34.266263"
   }
 ]

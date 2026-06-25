@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-06-15:Hacker News:Firewood Splitting Simulator",
-    "title": "Firewood Splitting Simulator",
-    "score": 762,
-    "source": "Hacker News",
-    "timestamp": "2026-06-15T07:19:09.562589"
-  },
-  {
-    "key": "2026-06-15:Hacker News:How to earn a billion dollars",
-    "title": "How to earn a billion dollars",
-    "score": 588,
-    "source": "Hacker News",
-    "timestamp": "2026-06-15T07:19:09.562595"
-  },
-  {
     "key": "2026-06-15:Hacker News:GLM 5.2 Is Out",
     "title": "GLM 5.2 Is Out",
     "score": 739,
@@ -698,5 +684,19 @@
     "score": 536,
     "source": "Hacker News",
     "timestamp": "2026-06-25T19:44:05.949209"
+  },
+  {
+    "key": "2026-06-25:Hacker News:An entire Herculaneum scroll has been read for the first time",
+    "title": "An entire Herculaneum scroll has been read for the first time",
+    "score": 835,
+    "source": "Hacker News",
+    "timestamp": "2026-06-25T23:20:30.619892"
+  },
+  {
+    "key": "2026-06-25:Hacker News:Apple raises prices of MacBooks, iPads",
+    "title": "Apple raises prices of MacBooks, iPads",
+    "score": 581,
+    "source": "Hacker News",
+    "timestamp": "2026-06-25T23:20:30.619909"
   }
 ]

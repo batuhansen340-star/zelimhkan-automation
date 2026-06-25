@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-06-14:Hacker News:Firewood Splitting Simulator",
-    "title": "Firewood Splitting Simulator",
-    "score": 573,
-    "source": "Hacker News",
-    "timestamp": "2026-06-14T23:11:02.196171"
-  },
-  {
-    "key": "2026-06-15:Hacker News:Show HN: Kage – Shadow any website to a single binary for offline viewing",
-    "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
-    "score": 516,
-    "source": "Hacker News",
-    "timestamp": "2026-06-15T07:19:09.562576"
-  },
-  {
     "key": "2026-06-15:Hacker News:Firewood Splitting Simulator",
     "title": "Firewood Splitting Simulator",
     "score": 762,
@@ -698,5 +684,19 @@
     "score": 658,
     "source": "Hacker News",
     "timestamp": "2026-06-25T16:12:34.266263"
+  },
+  {
+    "key": "2026-06-25:Hacker News:Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
+    "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
+    "score": 507,
+    "source": "Hacker News",
+    "timestamp": "2026-06-25T19:44:05.949195"
+  },
+  {
+    "key": "2026-06-25:Hacker News:Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
+    "title": "Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
+    "score": 536,
+    "source": "Hacker News",
+    "timestamp": "2026-06-25T19:44:05.949209"
   }
 ]

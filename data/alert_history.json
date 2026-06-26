@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-15:Hacker News:A backdoor in a LinkedIn job offer",
-    "title": "A backdoor in a LinkedIn job offer",
-    "score": 528,
-    "source": "Hacker News",
-    "timestamp": "2026-06-15T23:47:48.569313"
-  },
-  {
     "key": "2026-06-15:Hacker News:TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
     "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
     "score": 547,
@@ -698,5 +691,12 @@
     "score": 761,
     "source": "Hacker News",
     "timestamp": "2026-06-26T09:30:46.227317"
+  },
+  {
+    "key": "2026-06-26:Hacker News:Hey Nico, you didn't vibe code your data room but stole it from Papermark",
+    "title": "Hey Nico, you didn't vibe code your data room but stole it from Papermark",
+    "score": 522,
+    "source": "Hacker News",
+    "timestamp": "2026-06-26T16:05:16.092033"
   }
 ]

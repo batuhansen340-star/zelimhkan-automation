@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-06-15:Hacker News:TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-    "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-    "score": 547,
-    "source": "Hacker News",
-    "timestamp": "2026-06-15T23:47:48.569334"
-  },
-  {
-    "key": "2026-06-15:Hacker News:Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-    "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-    "score": 595,
-    "source": "Hacker News",
-    "timestamp": "2026-06-15T23:47:48.569340"
-  },
-  {
-    "key": "2026-06-16:Hacker News:A backdoor in a LinkedIn job offer",
-    "title": "A backdoor in a LinkedIn job offer",
-    "score": 1029,
-    "source": "Hacker News",
-    "timestamp": "2026-06-16T07:25:40.842485"
-  },
-  {
     "key": "2026-06-16:Hacker News:Iroh 1.0",
     "title": "Iroh 1.0",
     "score": 1117,
@@ -698,5 +677,26 @@
     "score": 522,
     "source": "Hacker News",
     "timestamp": "2026-06-26T16:05:16.092033"
+  },
+  {
+    "key": "2026-06-26:Hacker News:Previewing GPT‑5.6 Sol: a next-generation model",
+    "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+    "score": 729,
+    "source": "Hacker News",
+    "timestamp": "2026-06-26T23:08:46.942066"
+  },
+  {
+    "key": "2026-06-26:Hacker News:U.S. government will decide who gets to use GPT-5.6",
+    "title": "U.S. government will decide who gets to use GPT-5.6",
+    "score": 682,
+    "source": "Hacker News",
+    "timestamp": "2026-06-26T23:08:46.942079"
+  },
+  {
+    "key": "2026-06-26:Hacker News:Incident CVE-2026-LGTM",
+    "title": "Incident CVE-2026-LGTM",
+    "score": 500,
+    "source": "Hacker News",
+    "timestamp": "2026-06-26T23:08:46.942093"
   }
 ]

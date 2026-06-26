@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-15:Hacker News:CrankGPT",
-    "title": "CrankGPT",
-    "score": 507,
-    "source": "Hacker News",
-    "timestamp": "2026-06-15T20:43:56.726287"
-  },
-  {
     "key": "2026-06-15:Hacker News:A backdoor in a LinkedIn job offer",
     "title": "A backdoor in a LinkedIn job offer",
     "score": 528,
@@ -698,5 +691,12 @@
     "score": 648,
     "source": "Hacker News",
     "timestamp": "2026-06-26T06:09:25.245520"
+  },
+  {
+    "key": "2026-06-26:Hacker News:Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+    "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+    "score": 761,
+    "source": "Hacker News",
+    "timestamp": "2026-06-26T09:30:46.227317"
   }
 ]

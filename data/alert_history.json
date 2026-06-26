@@ -1,47 +1,5 @@
 [
   {
-    "key": "2026-06-15:Hacker News:GLM 5.2 Is Out",
-    "title": "GLM 5.2 Is Out",
-    "score": 739,
-    "source": "Hacker News",
-    "timestamp": "2026-06-15T07:19:09.562601"
-  },
-  {
-    "key": "2026-06-15:Hacker News:Every Frame Perfect",
-    "title": "Every Frame Perfect",
-    "score": 831,
-    "source": "Hacker News",
-    "timestamp": "2026-06-15T07:19:09.562606"
-  },
-  {
-    "key": "2026-06-15:Hacker News:Your ePub Is fine",
-    "title": "Your ePub Is fine",
-    "score": 684,
-    "source": "Hacker News",
-    "timestamp": "2026-06-15T12:18:54.726150"
-  },
-  {
-    "key": "2026-06-15:Hacker News:Curl will not accept vulnerability reports during July 2026",
-    "title": "Curl will not accept vulnerability reports during July 2026",
-    "score": 621,
-    "source": "Hacker News",
-    "timestamp": "2026-06-15T15:32:40.777748"
-  },
-  {
-    "key": "2026-06-15:Hacker News:What happened to nerds?",
-    "title": "What happened to nerds?",
-    "score": 651,
-    "source": "Hacker News",
-    "timestamp": "2026-06-15T18:19:23.250751"
-  },
-  {
-    "key": "2026-06-15:Hacker News:Iroh 1.0",
-    "title": "Iroh 1.0",
-    "score": 750,
-    "source": "Hacker News",
-    "timestamp": "2026-06-15T20:43:56.726268"
-  },
-  {
     "key": "2026-06-15:Hacker News:CrankGPT",
     "title": "CrankGPT",
     "score": 507,
@@ -698,5 +656,47 @@
     "score": 581,
     "source": "Hacker News",
     "timestamp": "2026-06-25T23:20:30.619909"
+  },
+  {
+    "key": "2026-06-26:Hacker News:Om Malik has died",
+    "title": "Om Malik has died",
+    "score": 740,
+    "source": "Hacker News",
+    "timestamp": "2026-06-26T06:09:25.245479"
+  },
+  {
+    "key": "2026-06-26:Hacker News:An entire Herculaneum scroll has been read for the first time",
+    "title": "An entire Herculaneum scroll has been read for the first time",
+    "score": 1160,
+    "source": "Hacker News",
+    "timestamp": "2026-06-26T06:09:25.245496"
+  },
+  {
+    "key": "2026-06-26:Hacker News:The 'papers, please' era of the internet will decimate your privacy",
+    "title": "The 'papers, please' era of the internet will decimate your privacy",
+    "score": 580,
+    "source": "Hacker News",
+    "timestamp": "2026-06-26T06:09:25.245503"
+  },
+  {
+    "key": "2026-06-26:Hacker News:Apple raises prices of MacBooks, iPads",
+    "title": "Apple raises prices of MacBooks, iPads",
+    "score": 684,
+    "source": "Hacker News",
+    "timestamp": "2026-06-26T06:09:25.245509"
+  },
+  {
+    "key": "2026-06-26:Hacker News:Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
+    "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
+    "score": 693,
+    "source": "Hacker News",
+    "timestamp": "2026-06-26T06:09:25.245514"
+  },
+  {
+    "key": "2026-06-26:Hacker News:Half-Life 2 in a Browser",
+    "title": "Half-Life 2 in a Browser",
+    "score": 648,
+    "source": "Hacker News",
+    "timestamp": "2026-06-26T06:09:25.245520"
   }
 ]

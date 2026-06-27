@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-06-16:Hacker News:Mechanical Watch (2022)",
-    "title": "Mechanical Watch (2022)",
-    "score": 515,
-    "source": "Hacker News",
-    "timestamp": "2026-06-16T18:23:20.791140"
-  },
-  {
-    "key": "2026-06-16:Hacker News:Banned book library in a wi-fi smart light bulb",
-    "title": "Banned book library in a wi-fi smart light bulb",
-    "score": 548,
-    "source": "Hacker News",
-    "timestamp": "2026-06-16T18:23:20.791150"
-  },
-  {
-    "key": "2026-06-16:Hacker News:Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers",
-    "title": "Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers",
-    "score": 513,
-    "source": "Hacker News",
-    "timestamp": "2026-06-16T20:35:58.356747"
-  },
-  {
     "key": "2026-06-17:Hacker News:GrapheneOS has been ported to Android 17",
     "title": "GrapheneOS has been ported to Android 17",
     "score": 651,
@@ -698,5 +677,26 @@
     "score": 506,
     "source": "Hacker News",
     "timestamp": "2026-06-27T15:06:20.053810"
+  },
+  {
+    "key": "2026-06-27:Hacker News:Anonymous GitHub account mass-dropping undisclosed 0-days",
+    "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+    "score": 593,
+    "source": "Hacker News",
+    "timestamp": "2026-06-27T23:04:18.333588"
+  },
+  {
+    "key": "2026-06-27:Hacker News:OpenRA",
+    "title": "OpenRA",
+    "score": 526,
+    "source": "Hacker News",
+    "timestamp": "2026-06-27T23:04:18.333604"
+  },
+  {
+    "key": "2026-06-27:Hacker News:Zuckerberg's war on whistleblowers",
+    "title": "Zuckerberg's war on whistleblowers",
+    "score": 578,
+    "source": "Hacker News",
+    "timestamp": "2026-06-27T23:04:18.333616"
   }
 ]

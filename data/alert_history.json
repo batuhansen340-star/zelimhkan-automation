@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-06-16:Hacker News:Running local models is good now",
-    "title": "Running local models is good now",
-    "score": 540,
-    "source": "Hacker News",
-    "timestamp": "2026-06-16T18:23:20.791117"
-  },
-  {
-    "key": "2026-06-16:Hacker News:SpaceX to buy Cursor for $60B",
-    "title": "SpaceX to buy Cursor for $60B",
-    "score": 501,
-    "source": "Hacker News",
-    "timestamp": "2026-06-16T18:23:20.791133"
-  },
-  {
     "key": "2026-06-16:Hacker News:Mechanical Watch (2022)",
     "title": "Mechanical Watch (2022)",
     "score": 515,
@@ -698,5 +684,19 @@
     "score": 529,
     "source": "Hacker News",
     "timestamp": "2026-06-27T05:52:26.235737"
+  },
+  {
+    "key": "2026-06-27:Hacker News:DSpark: Speculative decoding accelerates LLM inference [pdf]",
+    "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+    "score": 563,
+    "source": "Hacker News",
+    "timestamp": "2026-06-27T15:06:20.053791"
+  },
+  {
+    "key": "2026-06-27:Hacker News:U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+    "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+    "score": 506,
+    "source": "Hacker News",
+    "timestamp": "2026-06-27T15:06:20.053810"
   }
 ]

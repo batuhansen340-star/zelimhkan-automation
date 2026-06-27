@@ -1,40 +1,5 @@
 [
   {
-    "key": "2026-06-16:Hacker News:Iroh 1.0",
-    "title": "Iroh 1.0",
-    "score": 1117,
-    "source": "Hacker News",
-    "timestamp": "2026-06-16T07:25:40.842502"
-  },
-  {
-    "key": "2026-06-16:Hacker News:Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-    "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-    "score": 903,
-    "source": "Hacker News",
-    "timestamp": "2026-06-16T07:25:40.842508"
-  },
-  {
-    "key": "2026-06-16:Hacker News:TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-    "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-    "score": 763,
-    "source": "Hacker News",
-    "timestamp": "2026-06-16T07:25:40.842514"
-  },
-  {
-    "key": "2026-06-16:Hacker News:I admire Fabrice Bellard. He is almost certainly a better overall programmer",
-    "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
-    "score": 550,
-    "source": "Hacker News",
-    "timestamp": "2026-06-16T14:48:48.652275"
-  },
-  {
-    "key": "2026-06-16:Hacker News:Hetzner Price Adjustment",
-    "title": "Hetzner Price Adjustment",
-    "score": 511,
-    "source": "Hacker News",
-    "timestamp": "2026-06-16T14:48:48.652304"
-  },
-  {
     "key": "2026-06-16:Hacker News:Running local models is good now",
     "title": "Running local models is good now",
     "score": 540,
@@ -698,5 +663,40 @@
     "score": 500,
     "source": "Hacker News",
     "timestamp": "2026-06-26T23:08:46.942093"
+  },
+  {
+    "key": "2026-06-27:Hacker News:Previewing GPT‑5.6 Sol: a next-generation model",
+    "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+    "score": 925,
+    "source": "Hacker News",
+    "timestamp": "2026-06-27T05:52:26.235704"
+  },
+  {
+    "key": "2026-06-27:Hacker News:U.S. government will decide who gets to use GPT-5.6",
+    "title": "U.S. government will decide who gets to use GPT-5.6",
+    "score": 937,
+    "source": "Hacker News",
+    "timestamp": "2026-06-27T05:52:26.235720"
+  },
+  {
+    "key": "2026-06-27:Hacker News:An entire Herculaneum scroll has been read for the first time",
+    "title": "An entire Herculaneum scroll has been read for the first time",
+    "score": 1644,
+    "source": "Hacker News",
+    "timestamp": "2026-06-27T05:52:26.235726"
+  },
+  {
+    "key": "2026-06-27:Hacker News:Om Malik has died",
+    "title": "Om Malik has died",
+    "score": 1300,
+    "source": "Hacker News",
+    "timestamp": "2026-06-27T05:52:26.235731"
+  },
+  {
+    "key": "2026-06-27:Hacker News:Incident CVE-2026-LGTM",
+    "title": "Incident CVE-2026-LGTM",
+    "score": 529,
+    "source": "Hacker News",
+    "timestamp": "2026-06-27T05:52:26.235737"
   }
 ]

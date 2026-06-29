@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-06-17:Hacker News:I admire Fabrice Bellard. He is almost certainly a better overall programmer",
-    "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
-    "score": 879,
-    "source": "Hacker News",
-    "timestamp": "2026-06-17T07:08:13.151308"
-  },
-  {
-    "key": "2026-06-17:Hacker News:Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers",
-    "title": "Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers",
-    "score": 565,
-    "source": "Hacker News",
-    "timestamp": "2026-06-17T07:08:13.151313"
-  },
-  {
     "key": "2026-06-17:Hacker News:Iroh 1.0",
     "title": "Iroh 1.0",
     "score": 1359,
@@ -698,5 +684,19 @@
     "score": 584,
     "source": "Hacker News",
     "timestamp": "2026-06-28T23:05:20.548784"
+  },
+  {
+    "key": "2026-06-29:Hacker News:GLM 5.2 beats Claude in our benchmarks",
+    "title": "GLM 5.2 beats Claude in our benchmarks",
+    "score": 699,
+    "source": "Hacker News",
+    "timestamp": "2026-06-29T06:45:45.755899"
+  },
+  {
+    "key": "2026-06-29:Hacker News:EU to legislate about Chat Control behind closed doors",
+    "title": "EU to legislate about Chat Control behind closed doors",
+    "score": 640,
+    "source": "Hacker News",
+    "timestamp": "2026-06-29T06:45:45.755914"
   }
 ]

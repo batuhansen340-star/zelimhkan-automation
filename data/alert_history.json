@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-06-17:Hacker News:Iroh 1.0",
-    "title": "Iroh 1.0",
-    "score": 1359,
-    "source": "Hacker News",
-    "timestamp": "2026-06-17T07:08:13.151318"
-  },
-  {
-    "key": "2026-06-17:Hacker News:GLM-5.2 is the new leading open weights model on Artificial Analysis",
-    "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
-    "score": 552,
-    "source": "Hacker News",
-    "timestamp": "2026-06-17T16:49:25.985196"
-  },
-  {
-    "key": "2026-06-17:Hacker News:Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
-    "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
-    "score": 684,
-    "source": "Hacker News",
-    "timestamp": "2026-06-17T16:49:25.985214"
-  },
-  {
     "key": "2026-06-17:Hacker News:TIL: You can make HTTP requests without curl using Bash /dev/TCP",
     "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
     "score": 511,
@@ -698,5 +677,26 @@
     "score": 640,
     "source": "Hacker News",
     "timestamp": "2026-06-29T06:45:45.755914"
+  },
+  {
+    "key": "2026-06-29:Hacker News:HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+    "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+    "score": 506,
+    "source": "Hacker News",
+    "timestamp": "2026-06-29T11:03:08.534068"
+  },
+  {
+    "key": "2026-06-29:Hacker News:Age verification is just a precursor to automated attribution of speech",
+    "title": "Age verification is just a precursor to automated attribution of speech",
+    "score": 539,
+    "source": "Hacker News",
+    "timestamp": "2026-06-29T11:03:08.534087"
+  },
+  {
+    "key": "2026-06-29:Hacker News:The KIDS Act would require age checks to get online",
+    "title": "The KIDS Act would require age checks to get online",
+    "score": 500,
+    "source": "Hacker News",
+    "timestamp": "2026-06-29T11:03:08.534093"
   }
 ]

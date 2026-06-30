@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-06-17:Hacker News:U.S. science is in chaos",
-    "title": "U.S. science is in chaos",
-    "score": 591,
-    "source": "Hacker News",
-    "timestamp": "2026-06-17T23:27:26.364148"
-  },
-  {
-    "key": "2026-06-17:Hacker News:Hacker News but for independent blogs",
-    "title": "Hacker News but for independent blogs",
-    "score": 518,
-    "source": "Hacker News",
-    "timestamp": "2026-06-17T23:27:26.364155"
-  },
-  {
     "key": "2026-06-18:Hacker News:Midjourney Medical",
     "title": "Midjourney Medical",
     "score": 505,
@@ -698,5 +684,19 @@
     "score": 506,
     "source": "Hacker News",
     "timestamp": "2026-06-29T23:00:52.669843"
+  },
+  {
+    "key": "2026-06-30:Hacker News:Qwen 3.6 27B is the sweet spot for local development",
+    "title": "Qwen 3.6 27B is the sweet spot for local development",
+    "score": 780,
+    "source": "Hacker News",
+    "timestamp": "2026-06-30T06:10:32.485069"
+  },
+  {
+    "key": "2026-06-30:Hacker News:US Supreme Court rules geofence warrants require constitutional protections",
+    "title": "US Supreme Court rules geofence warrants require constitutional protections",
+    "score": 504,
+    "source": "Hacker News",
+    "timestamp": "2026-06-30T06:10:32.485084"
   }
 ]

@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-06-18:Hacker News:Want your images back? That'll be $5",
-    "title": "Want your images back? That'll be $5",
-    "score": 625,
-    "source": "Hacker News",
-    "timestamp": "2026-06-18T06:50:55.755639"
-  },
-  {
-    "key": "2026-06-18:Hacker News:Running local models is good now",
-    "title": "Running local models is good now",
-    "score": 1525,
-    "source": "Hacker News",
-    "timestamp": "2026-06-18T06:50:55.755644"
-  },
-  {
     "key": "2026-06-18:Hacker News:GrapheneOS has been ported to Android 17",
     "title": "GrapheneOS has been ported to Android 17",
     "score": 982,
@@ -698,5 +684,19 @@
     "score": 601,
     "source": "Hacker News",
     "timestamp": "2026-06-30T16:13:49.516558"
+  },
+  {
+    "key": "2026-06-30:Hacker News:Claude Code is steganographically marking requests",
+    "title": "Claude Code is steganographically marking requests",
+    "score": 813,
+    "source": "Hacker News",
+    "timestamp": "2026-06-30T19:29:45.367621"
+  },
+  {
+    "key": "2026-06-30:Hacker News:Open Source Low Tech",
+    "title": "Open Source Low Tech",
+    "score": 572,
+    "source": "Hacker News",
+    "timestamp": "2026-06-30T19:29:45.367637"
   }
 ]

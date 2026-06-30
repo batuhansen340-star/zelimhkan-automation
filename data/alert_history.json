@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-18:Hacker News:GrapheneOS has been ported to Android 17",
-    "title": "GrapheneOS has been ported to Android 17",
-    "score": 982,
-    "source": "Hacker News",
-    "timestamp": "2026-06-18T06:50:55.755649"
-  },
-  {
     "key": "2026-06-18:Hacker News:Swiss parliament lifts ban on new nuclear power plants",
     "title": "Swiss parliament lifts ban on new nuclear power plants",
     "score": 508,
@@ -698,5 +691,12 @@
     "score": 572,
     "source": "Hacker News",
     "timestamp": "2026-06-30T19:29:45.367637"
+  },
+  {
+    "key": "2026-06-30:Hacker News:Claude Sonnet 5",
+    "title": "Claude Sonnet 5",
+    "score": 784,
+    "source": "Hacker News",
+    "timestamp": "2026-06-30T23:15:29.412273"
   }
 ]

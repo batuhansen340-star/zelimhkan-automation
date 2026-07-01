@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-06-19:Hacker News:Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly",
-    "title": "Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly",
-    "score": 651,
-    "source": "Hacker News",
-    "timestamp": "2026-06-19T07:04:48.201703"
-  },
-  {
-    "key": "2026-06-19:Hacker News:Lore – Open source version control system designed for scalability",
-    "title": "Lore – Open source version control system designed for scalability",
-    "score": 1232,
-    "source": "Hacker News",
-    "timestamp": "2026-06-19T07:04:48.201708"
-  },
-  {
     "key": "2026-06-19:Hacker News:.gitignore Isn't the only way to ignore files in Git",
     "title": ".gitignore Isn't the only way to ignore files in Git",
     "score": 538,
@@ -698,5 +684,19 @@
     "score": 599,
     "source": "Hacker News",
     "timestamp": "2026-07-01T19:38:38.849833"
+  },
+  {
+    "key": "2026-07-01:Hacker News:Physical disc production ending in Jan 2028 for new games on PlayStation",
+    "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
+    "score": 543,
+    "source": "Hacker News",
+    "timestamp": "2026-07-01T23:17:52.840016"
+  },
+  {
+    "key": "2026-07-01:Hacker News:Asahi Linux 7.1 Progress Report",
+    "title": "Asahi Linux 7.1 Progress Report",
+    "score": 519,
+    "source": "Hacker News",
+    "timestamp": "2026-07-01T23:17:52.840030"
   }
 ]

@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-06-19:Hacker News:Swiss parliament lifts ban on new nuclear power plants",
-    "title": "Swiss parliament lifts ban on new nuclear power plants",
-    "score": 745,
-    "source": "Hacker News",
-    "timestamp": "2026-06-19T07:04:48.201691"
-  },
-  {
-    "key": "2026-06-19:Hacker News:Midjourney Medical",
-    "title": "Midjourney Medical",
-    "score": 1297,
-    "source": "Hacker News",
-    "timestamp": "2026-06-19T07:04:48.201697"
-  },
-  {
     "key": "2026-06-19:Hacker News:Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly",
     "title": "Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly",
     "score": 651,
@@ -698,5 +684,19 @@
     "score": 511,
     "source": "Hacker News",
     "timestamp": "2026-07-01T12:25:35.354289"
+  },
+  {
+    "key": "2026-07-01:Hacker News:For first time, a cell built from scratch grows and divides",
+    "title": "For first time, a cell built from scratch grows and divides",
+    "score": 521,
+    "source": "Hacker News",
+    "timestamp": "2026-07-01T19:38:38.849815"
+  },
+  {
+    "key": "2026-07-01:Hacker News:Most arguments are about ego, not ideas",
+    "title": "Most arguments are about ego, not ideas",
+    "score": 599,
+    "source": "Hacker News",
+    "timestamp": "2026-07-01T19:38:38.849833"
   }
 ]

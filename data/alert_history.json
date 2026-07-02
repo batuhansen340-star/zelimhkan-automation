@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-21:Hacker News:CSSQuake",
-    "title": "CSSQuake",
-    "score": 505,
-    "source": "Hacker News",
-    "timestamp": "2026-06-21T09:52:48.467541"
-  },
-  {
     "key": "2026-06-21:Hacker News:Loupe – A iOS app that raises awareness about what native apps can see",
     "title": "Loupe – A iOS app that raises awareness about what native apps can see",
     "score": 509,
@@ -698,5 +691,12 @@
     "score": 505,
     "source": "Hacker News",
     "timestamp": "2026-07-02T19:07:42.832817"
+  },
+  {
+    "key": "2026-07-02:Hacker News:Spain Orders Blacklist of Palantir from Public and Private Companies",
+    "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
+    "score": 537,
+    "source": "Hacker News",
+    "timestamp": "2026-07-02T23:10:03.194083"
   }
 ]

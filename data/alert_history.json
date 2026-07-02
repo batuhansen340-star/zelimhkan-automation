@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-21:Hacker News:GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-    "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-    "score": 523,
-    "source": "Hacker News",
-    "timestamp": "2026-06-21T06:50:10.732192"
-  },
-  {
     "key": "2026-06-21:Hacker News:CSSQuake",
     "title": "CSSQuake",
     "score": 505,
@@ -698,5 +691,12 @@
     "score": 1234,
     "source": "Hacker News",
     "timestamp": "2026-07-02T15:58:15.497333"
+  },
+  {
+    "key": "2026-07-02:Hacker News:Bring back crappy forums",
+    "title": "Bring back crappy forums",
+    "score": 505,
+    "source": "Hacker News",
+    "timestamp": "2026-07-02T19:07:42.832817"
   }
 ]

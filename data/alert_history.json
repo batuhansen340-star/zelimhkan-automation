@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-20:Hacker News:I found 10k GitHub repositories distributing Trojan malware",
-    "title": "I found 10k GitHub repositories distributing Trojan malware",
-    "score": 944,
-    "source": "Hacker News",
-    "timestamp": "2026-06-20T06:19:50.082952"
-  },
-  {
     "key": "2026-06-20:Hacker News:There are no instances in ATProto",
     "title": "There are no instances in ATProto",
     "score": 507,
@@ -698,5 +691,12 @@
     "score": 2374,
     "source": "Hacker News",
     "timestamp": "2026-07-02T05:58:01.164321"
+  },
+  {
+    "key": "2026-07-02:Hacker News:Android Developer Verification: Threat masquerading as Protection",
+    "title": "Android Developer Verification: Threat masquerading as Protection",
+    "score": 798,
+    "source": "Hacker News",
+    "timestamp": "2026-07-02T11:59:05.317792"
   }
 ]

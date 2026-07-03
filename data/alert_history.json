@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-06-22:Hacker News:Pledging another $400k to the Zig software foundation",
-    "title": "Pledging another $400k to the Zig software foundation",
-    "score": 545,
-    "source": "Hacker News",
-    "timestamp": "2026-06-22T18:07:54.098959"
-  },
-  {
-    "key": "2026-06-22:Hacker News:Apertus – Open Foundation Model for Sovereign AI",
-    "title": "Apertus – Open Foundation Model for Sovereign AI",
-    "score": 501,
-    "source": "Hacker News",
-    "timestamp": "2026-06-22T18:07:54.098978"
-  },
-  {
-    "key": "2026-06-22:Hacker News:Steam Machine",
-    "title": "Steam Machine",
-    "score": 690,
-    "source": "Hacker News",
-    "timestamp": "2026-06-22T20:32:27.847432"
-  },
-  {
-    "key": "2026-06-22:Hacker News:Steam Machine launches today",
-    "title": "Steam Machine launches today",
-    "score": 1044,
-    "source": "Hacker News",
-    "timestamp": "2026-06-22T23:22:09.335650"
-  },
-  {
     "key": "2026-06-23:Hacker News:Steam Machine launches today",
     "title": "Steam Machine launches today",
     "score": 1406,
@@ -698,5 +670,33 @@
     "score": 523,
     "source": "Hacker News",
     "timestamp": "2026-07-03T09:20:28.854423"
+  },
+  {
+    "key": "2026-07-03:Hacker News:Half-Baked Product",
+    "title": "Half-Baked Product",
+    "score": 810,
+    "source": "Hacker News",
+    "timestamp": "2026-07-03T15:47:10.757723"
+  },
+  {
+    "key": "2026-07-03:Hacker News:Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+    "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+    "score": 513,
+    "source": "Hacker News",
+    "timestamp": "2026-07-03T15:47:10.757737"
+  },
+  {
+    "key": "2026-07-03:Hacker News:Immich 3.0",
+    "title": "Immich 3.0",
+    "score": 548,
+    "source": "Hacker News",
+    "timestamp": "2026-07-03T15:47:10.757748"
+  },
+  {
+    "key": "2026-07-03:Hacker News:Virginia bans sale of precise geolocation data",
+    "title": "Virginia bans sale of precise geolocation data",
+    "score": 918,
+    "source": "Hacker News",
+    "timestamp": "2026-07-03T15:47:10.757753"
   }
 ]

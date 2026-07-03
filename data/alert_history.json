@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-06-21:Hacker News:Loupe – A iOS app that raises awareness about what native apps can see",
-    "title": "Loupe – A iOS app that raises awareness about what native apps can see",
-    "score": 509,
-    "source": "Hacker News",
-    "timestamp": "2026-06-21T23:16:35.288432"
-  },
-  {
-    "key": "2026-06-22:Hacker News:Identity verification on Claude",
-    "title": "Identity verification on Claude",
-    "score": 704,
-    "source": "Hacker News",
-    "timestamp": "2026-06-22T07:22:57.092667"
-  },
-  {
-    "key": "2026-06-22:Hacker News:Deno Desktop",
-    "title": "Deno Desktop",
-    "score": 538,
-    "source": "Hacker News",
-    "timestamp": "2026-06-22T12:07:44.177905"
-  },
-  {
-    "key": "2026-06-22:Hacker News:Did my old job only exist because of fraud?",
-    "title": "Did my old job only exist because of fraud?",
-    "score": 623,
-    "source": "Hacker News",
-    "timestamp": "2026-06-22T12:07:44.177918"
-  },
-  {
     "key": "2026-06-22:Hacker News:Prefer duplication over the wrong abstraction (2016)",
     "title": "Prefer duplication over the wrong abstraction (2016)",
     "score": 515,
@@ -698,5 +670,33 @@
     "score": 537,
     "source": "Hacker News",
     "timestamp": "2026-07-02T23:10:03.194083"
+  },
+  {
+    "key": "2026-07-03:Hacker News:Virginia bans sale of geolocation data",
+    "title": "Virginia bans sale of geolocation data",
+    "score": 658,
+    "source": "Hacker News",
+    "timestamp": "2026-07-03T05:52:13.590404"
+  },
+  {
+    "key": "2026-07-03:Hacker News:PeerTube is a free, decentralized and federated video platform",
+    "title": "PeerTube is a free, decentralized and federated video platform",
+    "score": 573,
+    "source": "Hacker News",
+    "timestamp": "2026-07-03T05:52:13.590419"
+  },
+  {
+    "key": "2026-07-03:Hacker News:Android Developer Verification: Threat masquerading as protection",
+    "title": "Android Developer Verification: Threat masquerading as protection",
+    "score": 1596,
+    "source": "Hacker News",
+    "timestamp": "2026-07-03T05:52:13.590425"
+  },
+  {
+    "key": "2026-07-03:Hacker News:Spain Orders Blacklist of Palantir from Public and Private Companies",
+    "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
+    "score": 629,
+    "source": "Hacker News",
+    "timestamp": "2026-07-03T05:52:13.590430"
   }
 ]

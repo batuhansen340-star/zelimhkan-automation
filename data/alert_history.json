@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-22:Hacker News:Prefer duplication over the wrong abstraction (2016)",
-    "title": "Prefer duplication over the wrong abstraction (2016)",
-    "score": 515,
-    "source": "Hacker News",
-    "timestamp": "2026-06-22T15:10:26.377638"
-  },
-  {
     "key": "2026-06-22:Hacker News:Pledging another $400k to the Zig software foundation",
     "title": "Pledging another $400k to the Zig software foundation",
     "score": 545,
@@ -698,5 +691,12 @@
     "score": 629,
     "source": "Hacker News",
     "timestamp": "2026-07-03T05:52:13.590430"
+  },
+  {
+    "key": "2026-07-03:Hacker News:Podman v6.0.0",
+    "title": "Podman v6.0.0",
+    "score": 523,
+    "source": "Hacker News",
+    "timestamp": "2026-07-03T09:20:28.854423"
   }
 ]

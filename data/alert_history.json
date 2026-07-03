@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-23:Hacker News:Steam Machine launches today",
-    "title": "Steam Machine launches today",
-    "score": 1406,
-    "source": "Hacker News",
-    "timestamp": "2026-06-23T06:05:47.087777"
-  },
-  {
     "key": "2026-06-23:Hacker News:Help I accidentally a wigglegram",
     "title": "Help I accidentally a wigglegram",
     "score": 516,
@@ -698,5 +691,12 @@
     "score": 918,
     "source": "Hacker News",
     "timestamp": "2026-07-03T15:47:10.757753"
+  },
+  {
+    "key": "2026-07-03:Hacker News:CarPlay Is Additive",
+    "title": "CarPlay Is Additive",
+    "score": 522,
+    "source": "Hacker News",
+    "timestamp": "2026-07-03T19:00:07.683962"
   }
 ]

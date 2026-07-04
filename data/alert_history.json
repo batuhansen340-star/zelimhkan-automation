@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-23:Hacker News:Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
-    "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
-    "score": 509,
-    "source": "Hacker News",
-    "timestamp": "2026-06-23T12:26:09.653788"
-  },
-  {
     "key": "2026-06-23:Hacker News:GLM-5.2 – How to Run Locally",
     "title": "GLM-5.2 – How to Run Locally",
     "score": 521,
@@ -698,5 +691,12 @@
     "score": 526,
     "source": "Hacker News",
     "timestamp": "2026-07-04T14:56:36.330741"
+  },
+  {
+    "key": "2026-07-04:Hacker News:Costco is the anti-Amazon",
+    "title": "Costco is the anti-Amazon",
+    "score": 527,
+    "source": "Hacker News",
+    "timestamp": "2026-07-04T18:55:00.505980"
   }
 ]

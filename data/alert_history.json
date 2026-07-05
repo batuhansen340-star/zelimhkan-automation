@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-23:Hacker News:F3",
-    "title": "F3",
-    "score": 587,
-    "source": "Hacker News",
-    "timestamp": "2026-06-23T23:09:46.977731"
-  },
-  {
     "key": "2026-06-24:Hacker News:Steam Machine launches today",
     "title": "Steam Machine launches today",
     "score": 1882,
@@ -698,5 +691,12 @@
     "score": 553,
     "source": "Hacker News",
     "timestamp": "2026-07-05T08:54:54.247362"
+  },
+  {
+    "key": "2026-07-05:Hacker News:Google Books (or similar) all book scans – $200k bounty (2025)",
+    "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+    "score": 503,
+    "source": "Hacker News",
+    "timestamp": "2026-07-05T15:03:55.413094"
   }
 ]

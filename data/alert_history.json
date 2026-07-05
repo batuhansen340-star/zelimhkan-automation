@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-24:Hacker News:Steam Machine launches today",
-    "title": "Steam Machine launches today",
-    "score": 1882,
-    "source": "Hacker News",
-    "timestamp": "2026-06-24T06:05:41.275946"
-  },
-  {
     "key": "2026-06-24:Hacker News:FUTO Swipe – A new swipe typing model",
     "title": "FUTO Swipe – A new swipe typing model",
     "score": 535,
@@ -698,5 +691,12 @@
     "score": 503,
     "source": "Hacker News",
     "timestamp": "2026-07-05T15:03:55.413094"
+  },
+  {
+    "key": "2026-07-05:Hacker News:Organic Maps",
+    "title": "Organic Maps",
+    "score": 503,
+    "source": "Hacker News",
+    "timestamp": "2026-07-05T19:00:05.319405"
   }
 ]

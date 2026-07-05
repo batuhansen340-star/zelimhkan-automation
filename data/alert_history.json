@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-23:Hacker News:What we call \"age verification\" is actually mass surveillance",
-    "title": "What we call \"age verification\" is actually mass surveillance",
-    "score": 605,
-    "source": "Hacker News",
-    "timestamp": "2026-06-23T19:48:22.855106"
-  },
-  {
     "key": "2026-06-23:Hacker News:F3",
     "title": "F3",
     "score": 587,
@@ -698,5 +691,12 @@
     "score": 554,
     "source": "Hacker News",
     "timestamp": "2026-07-05T06:03:16.943380"
+  },
+  {
+    "key": "2026-07-05:Hacker News:Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+    "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+    "score": 553,
+    "source": "Hacker News",
+    "timestamp": "2026-07-05T08:54:54.247362"
   }
 ]

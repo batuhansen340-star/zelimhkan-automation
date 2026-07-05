@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-23:Hacker News:GLM-5.2 – How to Run Locally",
-    "title": "GLM-5.2 – How to Run Locally",
-    "score": 521,
-    "source": "Hacker News",
-    "timestamp": "2026-06-23T16:18:17.386001"
-  },
-  {
     "key": "2026-06-23:Hacker News:What we call \"age verification\" is actually mass surveillance",
     "title": "What we call \"age verification\" is actually mass surveillance",
     "score": 605,
@@ -698,5 +691,12 @@
     "score": 527,
     "source": "Hacker News",
     "timestamp": "2026-07-04T18:55:00.505980"
+  },
+  {
+    "key": "2026-07-05:Hacker News:Leaking YouTube creators' private videos",
+    "title": "Leaking YouTube creators' private videos",
+    "score": 554,
+    "source": "Hacker News",
+    "timestamp": "2026-07-05T06:03:16.943380"
   }
 ]

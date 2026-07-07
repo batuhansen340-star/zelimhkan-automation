@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-06-24:Hacker News:We’re making Bunny DNS free",
-    "title": "We’re making Bunny DNS free",
-    "score": 599,
-    "source": "Hacker News",
-    "timestamp": "2026-06-24T16:06:12.497085"
-  },
-  {
-    "key": "2026-06-24:Hacker News:In memory of the man who put red and green squiggles under words",
-    "title": "In memory of the man who put red and green squiggles under words",
-    "score": 546,
-    "source": "Hacker News",
-    "timestamp": "2026-06-24T16:06:12.497109"
-  },
-  {
     "key": "2026-06-24:Hacker News:Founding a company in Germany: €9600, 152 days and I still can't send an invoice",
     "title": "Founding a company in Germany: €9600, 152 days and I still can't send an invoice",
     "score": 510,
@@ -698,5 +684,19 @@
     "score": 506,
     "source": "Hacker News",
     "timestamp": "2026-07-06T10:26:14.608469"
+  },
+  {
+    "key": "2026-07-07:Hacker News:OpenWrt One – Open Hardware Router",
+    "title": "OpenWrt One – Open Hardware Router",
+    "score": 520,
+    "source": "Hacker News",
+    "timestamp": "2026-07-07T06:06:33.903477"
+  },
+  {
+    "key": "2026-07-07:Hacker News:Resetting Xbox",
+    "title": "Resetting Xbox",
+    "score": 552,
+    "source": "Hacker News",
+    "timestamp": "2026-07-07T06:06:33.903490"
   }
 ]

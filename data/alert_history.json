@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-06-25:Hacker News:OpenAI unveils its first custom chip, built by Broadcom",
-    "title": "OpenAI unveils its first custom chip, built by Broadcom",
-    "score": 641,
-    "source": "Hacker News",
-    "timestamp": "2026-06-25T06:05:39.916054"
-  },
-  {
-    "key": "2026-06-25:Hacker News:There are a few things that I look back on as my mistakes in the early days",
-    "title": "There are a few things that I look back on as my mistakes in the early days",
-    "score": 514,
-    "source": "Hacker News",
-    "timestamp": "2026-06-25T06:05:39.916076"
-  },
-  {
     "key": "2026-06-25:Hacker News:We’re making Bunny DNS free",
     "title": "We’re making Bunny DNS free",
     "score": 873,
@@ -698,5 +684,19 @@
     "score": 558,
     "source": "Hacker News",
     "timestamp": "2026-07-07T09:45:01.098997"
+  },
+  {
+    "key": "2026-07-07:Hacker News:GLM 5.2 and the coming AI margin collapse",
+    "title": "GLM 5.2 and the coming AI margin collapse",
+    "score": 508,
+    "source": "Hacker News",
+    "timestamp": "2026-07-07T12:18:20.874899"
+  },
+  {
+    "key": "2026-07-07:Hacker News:Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+    "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+    "score": 507,
+    "source": "Hacker News",
+    "timestamp": "2026-07-07T12:18:20.874911"
   }
 ]

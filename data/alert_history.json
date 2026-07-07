@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-25:Hacker News:Half-Life 2 in a Browser",
-    "title": "Half-Life 2 in a Browser",
-    "score": 512,
-    "source": "Hacker News",
-    "timestamp": "2026-06-25T16:12:34.266250"
-  },
-  {
     "key": "2026-06-25:Hacker News:Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
     "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
     "score": 658,
@@ -698,5 +691,12 @@
     "score": 518,
     "source": "Hacker News",
     "timestamp": "2026-07-07T19:39:19.098194"
+  },
+  {
+    "key": "2026-07-07:Hacker News:Chat Control passed first round in EU Parliament",
+    "title": "Chat Control passed first round in EU Parliament",
+    "score": 513,
+    "source": "Hacker News",
+    "timestamp": "2026-07-07T23:03:58.937264"
   }
 ]

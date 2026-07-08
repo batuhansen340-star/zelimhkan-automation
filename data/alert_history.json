@@ -1,40 +1,5 @@
 [
   {
-    "key": "2026-06-25:Hacker News:Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-    "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-    "score": 658,
-    "source": "Hacker News",
-    "timestamp": "2026-06-25T16:12:34.266263"
-  },
-  {
-    "key": "2026-06-25:Hacker News:Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
-    "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
-    "score": 507,
-    "source": "Hacker News",
-    "timestamp": "2026-06-25T19:44:05.949195"
-  },
-  {
-    "key": "2026-06-25:Hacker News:Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
-    "title": "Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
-    "score": 536,
-    "source": "Hacker News",
-    "timestamp": "2026-06-25T19:44:05.949209"
-  },
-  {
-    "key": "2026-06-25:Hacker News:An entire Herculaneum scroll has been read for the first time",
-    "title": "An entire Herculaneum scroll has been read for the first time",
-    "score": 835,
-    "source": "Hacker News",
-    "timestamp": "2026-06-25T23:20:30.619892"
-  },
-  {
-    "key": "2026-06-25:Hacker News:Apple raises prices of MacBooks, iPads",
-    "title": "Apple raises prices of MacBooks, iPads",
-    "score": 581,
-    "source": "Hacker News",
-    "timestamp": "2026-06-25T23:20:30.619909"
-  },
-  {
     "key": "2026-06-26:Hacker News:Om Malik has died",
     "title": "Om Malik has died",
     "score": 740,
@@ -698,5 +663,40 @@
     "score": 513,
     "source": "Hacker News",
     "timestamp": "2026-07-07T23:03:58.937264"
+  },
+  {
+    "key": "2026-07-08:Hacker News:Chat Control 1.0 and 2.0 Explained",
+    "title": "Chat Control 1.0 and 2.0 Explained",
+    "score": 521,
+    "source": "Hacker News",
+    "timestamp": "2026-07-08T05:19:53.974183"
+  },
+  {
+    "key": "2026-07-08:Hacker News:Every new car sold in the European Union must include a driver monitoring camera",
+    "title": "Every new car sold in the European Union must include a driver monitoring camera",
+    "score": 506,
+    "source": "Hacker News",
+    "timestamp": "2026-07-08T05:19:53.974197"
+  },
+  {
+    "key": "2026-07-08:Hacker News:StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
+    "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
+    "score": 727,
+    "source": "Hacker News",
+    "timestamp": "2026-07-08T05:19:53.974204"
+  },
+  {
+    "key": "2026-07-08:Hacker News:Microsoft fire idTech team at Id software",
+    "title": "Microsoft fire idTech team at Id software",
+    "score": 572,
+    "source": "Hacker News",
+    "timestamp": "2026-07-08T05:19:53.974210"
+  },
+  {
+    "key": "2026-07-08:Hacker News:Chat Control passed first round in EU Parliament",
+    "title": "Chat Control passed first round in EU Parliament",
+    "score": 545,
+    "source": "Hacker News",
+    "timestamp": "2026-07-08T05:19:53.974215"
   }
 ]

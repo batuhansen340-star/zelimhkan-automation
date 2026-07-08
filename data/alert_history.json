@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-06-26:Hacker News:Om Malik has died",
-    "title": "Om Malik has died",
-    "score": 740,
-    "source": "Hacker News",
-    "timestamp": "2026-06-26T06:09:25.245479"
-  },
-  {
-    "key": "2026-06-26:Hacker News:An entire Herculaneum scroll has been read for the first time",
-    "title": "An entire Herculaneum scroll has been read for the first time",
-    "score": 1160,
-    "source": "Hacker News",
-    "timestamp": "2026-06-26T06:09:25.245496"
-  },
-  {
     "key": "2026-06-26:Hacker News:The 'papers, please' era of the internet will decimate your privacy",
     "title": "The 'papers, please' era of the internet will decimate your privacy",
     "score": 580,
@@ -698,5 +684,19 @@
     "score": 545,
     "source": "Hacker News",
     "timestamp": "2026-07-08T05:19:53.974215"
+  },
+  {
+    "key": "2026-07-08:Hacker News:30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+    "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+    "score": 501,
+    "source": "Hacker News",
+    "timestamp": "2026-07-08T08:31:25.727903"
+  },
+  {
+    "key": "2026-07-08:Hacker News:A better way to tie gym shorts (or any drawstring) [video]",
+    "title": "A better way to tie gym shorts (or any drawstring) [video]",
+    "score": 502,
+    "source": "Hacker News",
+    "timestamp": "2026-07-08T08:31:25.727926"
   }
 ]

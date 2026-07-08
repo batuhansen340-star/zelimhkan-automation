@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-06-26:Hacker News:Half-Life 2 in a Browser",
-    "title": "Half-Life 2 in a Browser",
-    "score": 648,
-    "source": "Hacker News",
-    "timestamp": "2026-06-26T06:09:25.245520"
-  },
-  {
-    "key": "2026-06-26:Hacker News:Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-    "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-    "score": 761,
-    "source": "Hacker News",
-    "timestamp": "2026-06-26T09:30:46.227317"
-  },
-  {
     "key": "2026-06-26:Hacker News:Hey Nico, you didn't vibe code your data room but stole it from Papermark",
     "title": "Hey Nico, you didn't vibe code your data room but stole it from Papermark",
     "score": 522,
@@ -698,5 +684,19 @@
     "score": 500,
     "source": "Hacker News",
     "timestamp": "2026-07-08T19:05:20.908843"
+  },
+  {
+    "key": "2026-07-08:Hacker News:Chatto is now open source",
+    "title": "Chatto is now open source",
+    "score": 641,
+    "source": "Hacker News",
+    "timestamp": "2026-07-08T23:09:53.274530"
+  },
+  {
+    "key": "2026-07-08:Hacker News:GPT‑Live",
+    "title": "GPT‑Live",
+    "score": 551,
+    "source": "Hacker News",
+    "timestamp": "2026-07-08T23:09:53.274558"
   }
 ]

@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-26:Hacker News:Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
-    "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
-    "score": 693,
-    "source": "Hacker News",
-    "timestamp": "2026-06-26T06:09:25.245514"
-  },
-  {
     "key": "2026-06-26:Hacker News:Half-Life 2 in a Browser",
     "title": "Half-Life 2 in a Browser",
     "score": 648,
@@ -698,5 +691,12 @@
     "score": 904,
     "source": "Hacker News",
     "timestamp": "2026-07-08T15:55:45.158498"
+  },
+  {
+    "key": "2026-07-08:Hacker News:Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+    "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+    "score": 500,
+    "source": "Hacker News",
+    "timestamp": "2026-07-08T19:05:20.908843"
   }
 ]

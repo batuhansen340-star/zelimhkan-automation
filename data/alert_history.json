@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-26:Hacker News:The 'papers, please' era of the internet will decimate your privacy",
-    "title": "The 'papers, please' era of the internet will decimate your privacy",
-    "score": 580,
-    "source": "Hacker News",
-    "timestamp": "2026-06-26T06:09:25.245503"
-  },
-  {
     "key": "2026-06-26:Hacker News:Apple raises prices of MacBooks, iPads",
     "title": "Apple raises prices of MacBooks, iPads",
     "score": 684,
@@ -698,5 +691,12 @@
     "score": 502,
     "source": "Hacker News",
     "timestamp": "2026-07-08T08:31:25.727926"
+  },
+  {
+    "key": "2026-07-08:Hacker News:98% isn't much",
+    "title": "98% isn't much",
+    "score": 502,
+    "source": "Hacker News",
+    "timestamp": "2026-07-08T11:39:22.847550"
   }
 ]

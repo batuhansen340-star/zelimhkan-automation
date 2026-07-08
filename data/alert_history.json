@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-26:Hacker News:Apple raises prices of MacBooks, iPads",
-    "title": "Apple raises prices of MacBooks, iPads",
-    "score": 684,
-    "source": "Hacker News",
-    "timestamp": "2026-06-26T06:09:25.245509"
-  },
-  {
     "key": "2026-06-26:Hacker News:Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
     "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
     "score": 693,
@@ -698,5 +691,12 @@
     "score": 502,
     "source": "Hacker News",
     "timestamp": "2026-07-08T11:39:22.847550"
+  },
+  {
+    "key": "2026-07-08:Hacker News:Decoding the obfuscated bash script on a Uniqlo t-shirt",
+    "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+    "score": 904,
+    "source": "Hacker News",
+    "timestamp": "2026-07-08T15:55:45.158498"
   }
 ]

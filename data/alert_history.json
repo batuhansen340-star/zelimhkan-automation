@@ -1,47 +1,5 @@
 [
   {
-    "key": "2026-06-26:Hacker News:Hey Nico, you didn't vibe code your data room but stole it from Papermark",
-    "title": "Hey Nico, you didn't vibe code your data room but stole it from Papermark",
-    "score": 522,
-    "source": "Hacker News",
-    "timestamp": "2026-06-26T16:05:16.092033"
-  },
-  {
-    "key": "2026-06-26:Hacker News:Previewing GPT‑5.6 Sol: a next-generation model",
-    "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-    "score": 729,
-    "source": "Hacker News",
-    "timestamp": "2026-06-26T23:08:46.942066"
-  },
-  {
-    "key": "2026-06-26:Hacker News:U.S. government will decide who gets to use GPT-5.6",
-    "title": "U.S. government will decide who gets to use GPT-5.6",
-    "score": 682,
-    "source": "Hacker News",
-    "timestamp": "2026-06-26T23:08:46.942079"
-  },
-  {
-    "key": "2026-06-26:Hacker News:Incident CVE-2026-LGTM",
-    "title": "Incident CVE-2026-LGTM",
-    "score": 500,
-    "source": "Hacker News",
-    "timestamp": "2026-06-26T23:08:46.942093"
-  },
-  {
-    "key": "2026-06-27:Hacker News:Previewing GPT‑5.6 Sol: a next-generation model",
-    "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-    "score": 925,
-    "source": "Hacker News",
-    "timestamp": "2026-06-27T05:52:26.235704"
-  },
-  {
-    "key": "2026-06-27:Hacker News:U.S. government will decide who gets to use GPT-5.6",
-    "title": "U.S. government will decide who gets to use GPT-5.6",
-    "score": 937,
-    "source": "Hacker News",
-    "timestamp": "2026-06-27T05:52:26.235720"
-  },
-  {
     "key": "2026-06-27:Hacker News:An entire Herculaneum scroll has been read for the first time",
     "title": "An entire Herculaneum scroll has been read for the first time",
     "score": 1644,
@@ -698,5 +656,47 @@
     "score": 551,
     "source": "Hacker News",
     "timestamp": "2026-07-08T23:09:53.274558"
+  },
+  {
+    "key": "2026-07-09:Hacker News:John Deere owners will get the right to repair equipment under FTC settlement",
+    "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+    "score": 606,
+    "source": "Hacker News",
+    "timestamp": "2026-07-09T06:08:17.403278"
+  },
+  {
+    "key": "2026-07-09:Hacker News:Chatto is now open source",
+    "title": "Chatto is now open source",
+    "score": 877,
+    "source": "Hacker News",
+    "timestamp": "2026-07-09T06:08:17.403305"
+  },
+  {
+    "key": "2026-07-09:Hacker News:Grok 4.5",
+    "title": "Grok 4.5",
+    "score": 549,
+    "source": "Hacker News",
+    "timestamp": "2026-07-09T06:08:17.403313"
+  },
+  {
+    "key": "2026-07-09:Hacker News:GPT‑Live",
+    "title": "GPT‑Live",
+    "score": 663,
+    "source": "Hacker News",
+    "timestamp": "2026-07-09T06:08:17.403319"
+  },
+  {
+    "key": "2026-07-09:Hacker News:Decoding the obfuscated bash script on a Uniqlo t-shirt",
+    "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+    "score": 1345,
+    "source": "Hacker News",
+    "timestamp": "2026-07-09T06:08:17.403324"
+  },
+  {
+    "key": "2026-07-09:Hacker News:TypeScript 7",
+    "title": "TypeScript 7",
+    "score": 540,
+    "source": "Hacker News",
+    "timestamp": "2026-07-09T06:08:17.403330"
   }
 ]

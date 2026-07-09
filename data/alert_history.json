@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-27:Hacker News:An entire Herculaneum scroll has been read for the first time",
-    "title": "An entire Herculaneum scroll has been read for the first time",
-    "score": 1644,
-    "source": "Hacker News",
-    "timestamp": "2026-06-27T05:52:26.235726"
-  },
-  {
     "key": "2026-06-27:Hacker News:Om Malik has died",
     "title": "Om Malik has died",
     "score": 1300,
@@ -698,5 +691,12 @@
     "score": 540,
     "source": "Hacker News",
     "timestamp": "2026-07-09T06:08:17.403330"
+  },
+  {
+    "key": "2026-07-09:Hacker News:Rewriting Bun in Rust",
+    "title": "Rewriting Bun in Rust",
+    "score": 584,
+    "source": "Hacker News",
+    "timestamp": "2026-07-09T09:42:04.858168"
   }
 ]

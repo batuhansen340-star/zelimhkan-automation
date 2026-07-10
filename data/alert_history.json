@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-28:Hacker News:DSpark: Speculative decoding accelerates LLM inference [pdf]",
-    "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-    "score": 750,
-    "source": "Hacker News",
-    "timestamp": "2026-06-28T06:16:47.203432"
-  },
-  {
     "key": "2026-06-28:Hacker News:Zuckerberg's war on whistleblowers",
     "title": "Zuckerberg's war on whistleblowers",
     "score": 675,
@@ -698,5 +691,12 @@
     "score": 1300,
     "source": "Hacker News",
     "timestamp": "2026-07-10T06:02:18.053358"
+  },
+  {
+    "key": "2026-07-10:Hacker News:Train sim created by just one person is being called the best ever made",
+    "title": "Train sim created by just one person is being called the best ever made",
+    "score": 586,
+    "source": "Hacker News",
+    "timestamp": "2026-07-10T09:38:01.903681"
   }
 ]

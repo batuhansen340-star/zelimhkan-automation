@@ -1,47 +1,5 @@
 [
   {
-    "key": "2026-06-27:Hacker News:Anonymous GitHub account mass-dropping undisclosed 0-days",
-    "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-    "score": 593,
-    "source": "Hacker News",
-    "timestamp": "2026-06-27T23:04:18.333588"
-  },
-  {
-    "key": "2026-06-27:Hacker News:OpenRA",
-    "title": "OpenRA",
-    "score": 526,
-    "source": "Hacker News",
-    "timestamp": "2026-06-27T23:04:18.333604"
-  },
-  {
-    "key": "2026-06-27:Hacker News:Zuckerberg's war on whistleblowers",
-    "title": "Zuckerberg's war on whistleblowers",
-    "score": 578,
-    "source": "Hacker News",
-    "timestamp": "2026-06-27T23:04:18.333616"
-  },
-  {
-    "key": "2026-06-28:Hacker News:Anonymous GitHub account mass-dropping undisclosed 0-days",
-    "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-    "score": 750,
-    "source": "Hacker News",
-    "timestamp": "2026-06-28T06:16:47.203408"
-  },
-  {
-    "key": "2026-06-28:Hacker News:OpenRA",
-    "title": "OpenRA",
-    "score": 643,
-    "source": "Hacker News",
-    "timestamp": "2026-06-28T06:16:47.203421"
-  },
-  {
-    "key": "2026-06-28:Hacker News:Fintech Engineering Handbook",
-    "title": "Fintech Engineering Handbook",
-    "score": 519,
-    "source": "Hacker News",
-    "timestamp": "2026-06-28T06:16:47.203427"
-  },
-  {
     "key": "2026-06-28:Hacker News:DSpark: Speculative decoding accelerates LLM inference [pdf]",
     "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
     "score": 750,
@@ -698,5 +656,47 @@
     "score": 561,
     "source": "Hacker News",
     "timestamp": "2026-07-09T19:20:49.390126"
+  },
+  {
+    "key": "2026-07-10:Hacker News:Show HN: Getting GLM 5.2 running on my slow computer",
+    "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+    "score": 514,
+    "source": "Hacker News",
+    "timestamp": "2026-07-10T06:02:18.053327"
+  },
+  {
+    "key": "2026-07-10:Hacker News:EU Parliament greenlights Chat Control 1.0",
+    "title": "EU Parliament greenlights Chat Control 1.0",
+    "score": 1170,
+    "source": "Hacker News",
+    "timestamp": "2026-07-10T06:02:18.053341"
+  },
+  {
+    "key": "2026-07-10:Hacker News:Show HN: 18 Words",
+    "title": "Show HN: 18 Words",
+    "score": 910,
+    "source": "Hacker News",
+    "timestamp": "2026-07-10T06:02:18.053346"
+  },
+  {
+    "key": "2026-07-10:Hacker News:GPT-5.6",
+    "title": "GPT-5.6",
+    "score": 1171,
+    "source": "Hacker News",
+    "timestamp": "2026-07-10T06:02:18.053351"
+  },
+  {
+    "key": "2026-07-10:Hacker News:Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+    "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+    "score": 526,
+    "source": "Hacker News",
+    "timestamp": "2026-07-10T06:02:18.053355"
+  },
+  {
+    "key": "2026-07-10:Hacker News:John Deere owners will get the right to repair equipment under FTC settlement",
+    "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+    "score": 1300,
+    "source": "Hacker News",
+    "timestamp": "2026-07-10T06:02:18.053358"
   }
 ]

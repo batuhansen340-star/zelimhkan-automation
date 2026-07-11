@@ -1,47 +1,5 @@
 [
   {
-    "key": "2026-06-28:Hacker News:Previewing GPT‑5.6 Sol: a next-generation model",
-    "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-    "score": 1109,
-    "source": "Hacker News",
-    "timestamp": "2026-06-28T06:16:47.203442"
-  },
-  {
-    "key": "2026-06-28:Hacker News:EU to legislate about Chat Control behind closed doors",
-    "title": "EU to legislate about Chat Control behind closed doors",
-    "score": 584,
-    "source": "Hacker News",
-    "timestamp": "2026-06-28T23:05:20.548784"
-  },
-  {
-    "key": "2026-06-29:Hacker News:GLM 5.2 beats Claude in our benchmarks",
-    "title": "GLM 5.2 beats Claude in our benchmarks",
-    "score": 699,
-    "source": "Hacker News",
-    "timestamp": "2026-06-29T06:45:45.755899"
-  },
-  {
-    "key": "2026-06-29:Hacker News:EU to legislate about Chat Control behind closed doors",
-    "title": "EU to legislate about Chat Control behind closed doors",
-    "score": 640,
-    "source": "Hacker News",
-    "timestamp": "2026-06-29T06:45:45.755914"
-  },
-  {
-    "key": "2026-06-29:Hacker News:HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
-    "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
-    "score": 506,
-    "source": "Hacker News",
-    "timestamp": "2026-06-29T11:03:08.534068"
-  },
-  {
-    "key": "2026-06-29:Hacker News:Age verification is just a precursor to automated attribution of speech",
-    "title": "Age verification is just a precursor to automated attribution of speech",
-    "score": 539,
-    "source": "Hacker News",
-    "timestamp": "2026-06-29T11:03:08.534087"
-  },
-  {
     "key": "2026-06-29:Hacker News:The KIDS Act would require age checks to get online",
     "title": "The KIDS Act would require age checks to get online",
     "score": 500,
@@ -698,5 +656,47 @@
     "score": 502,
     "source": "Hacker News",
     "timestamp": "2026-07-10T12:16:04.887186"
+  },
+  {
+    "key": "2026-07-11:Hacker News:QuadRF can spot drones and see WiFi through my wall",
+    "title": "QuadRF can spot drones and see WiFi through my wall",
+    "score": 508,
+    "source": "Hacker News",
+    "timestamp": "2026-07-11T05:12:21.849639"
+  },
+  {
+    "key": "2026-07-11:Hacker News:Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+    "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+    "score": 784,
+    "source": "Hacker News",
+    "timestamp": "2026-07-11T05:12:21.849657"
+  },
+  {
+    "key": "2026-07-11:Hacker News:Show HN: Getting GLM 5.2 running on my slow computer",
+    "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+    "score": 839,
+    "source": "Hacker News",
+    "timestamp": "2026-07-11T05:12:21.849663"
+  },
+  {
+    "key": "2026-07-11:Hacker News:Show HN: 18 Words",
+    "title": "Show HN: 18 Words",
+    "score": 1091,
+    "source": "Hacker News",
+    "timestamp": "2026-07-11T05:12:21.849667"
+  },
+  {
+    "key": "2026-07-11:Hacker News:GPT-5.6",
+    "title": "GPT-5.6",
+    "score": 1521,
+    "source": "Hacker News",
+    "timestamp": "2026-07-11T05:12:21.849671"
+  },
+  {
+    "key": "2026-07-11:Hacker News:EU Parliament greenlights Chat Control 1.0",
+    "title": "EU Parliament greenlights Chat Control 1.0",
+    "score": 1589,
+    "source": "Hacker News",
+    "timestamp": "2026-07-11T05:12:21.849675"
   }
 ]

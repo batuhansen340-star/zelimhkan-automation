@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-29:Hacker News:The KIDS Act would require age checks to get online",
-    "title": "The KIDS Act would require age checks to get online",
-    "score": 500,
-    "source": "Hacker News",
-    "timestamp": "2026-06-29T11:03:08.534093"
-  },
-  {
     "key": "2026-06-29:Hacker News:Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
     "title": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
     "score": 511,
@@ -698,5 +691,12 @@
     "score": 1589,
     "source": "Hacker News",
     "timestamp": "2026-07-11T05:12:21.849675"
+  },
+  {
+    "key": "2026-07-11:Hacker News:New York City to ban deceptive subscription practices",
+    "title": "New York City to ban deceptive subscription practices",
+    "score": 502,
+    "source": "Hacker News",
+    "timestamp": "2026-07-11T07:58:40.092794"
   }
 ]

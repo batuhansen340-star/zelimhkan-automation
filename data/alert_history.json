@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-29:Hacker News:Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
-    "title": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
-    "score": 511,
-    "source": "Hacker News",
-    "timestamp": "2026-06-29T13:56:00.679804"
-  },
-  {
     "key": "2026-06-29:Hacker News:Pollen tried to remove my article and Google is assisting with it",
     "title": "Pollen tried to remove my article and Google is assisting with it",
     "score": 686,
@@ -698,5 +691,12 @@
     "score": 502,
     "source": "Hacker News",
     "timestamp": "2026-07-11T07:58:40.092794"
+  },
+  {
+    "key": "2026-07-11:Hacker News:Good Tools Are Invisible",
+    "title": "Good Tools Are Invisible",
+    "score": 523,
+    "source": "Hacker News",
+    "timestamp": "2026-07-11T18:43:33.601241"
   }
 ]

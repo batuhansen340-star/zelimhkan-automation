@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-29:Hacker News:Pollen tried to remove my article and Google is assisting with it",
-    "title": "Pollen tried to remove my article and Google is assisting with it",
-    "score": 686,
-    "source": "Hacker News",
-    "timestamp": "2026-06-29T16:48:02.871906"
-  },
-  {
     "key": "2026-06-29:Hacker News:Professor denounces mass AI fraud on an exam at Brown",
     "title": "Professor denounces mass AI fraud on an exam at Brown",
     "score": 506,
@@ -698,5 +691,12 @@
     "score": 523,
     "source": "Hacker News",
     "timestamp": "2026-07-11T18:43:33.601241"
+  },
+  {
+    "key": "2026-07-12:Hacker News:Show HN: Getting GLM 5.2 running on my slow computer",
+    "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+    "score": 896,
+    "source": "Hacker News",
+    "timestamp": "2026-07-12T05:26:55.255911"
   }
 ]

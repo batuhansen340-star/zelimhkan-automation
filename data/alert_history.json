@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-30:Hacker News:Qwen 3.6 27B is the sweet spot for local development",
-    "title": "Qwen 3.6 27B is the sweet spot for local development",
-    "score": 780,
-    "source": "Hacker News",
-    "timestamp": "2026-06-30T06:10:32.485069"
-  },
-  {
     "key": "2026-06-30:Hacker News:US Supreme Court rules geofence warrants require constitutional protections",
     "title": "US Supreme Court rules geofence warrants require constitutional protections",
     "score": 504,
@@ -698,5 +691,12 @@
     "score": 651,
     "source": "Hacker News",
     "timestamp": "2026-07-13T09:30:22.080383"
+  },
+  {
+    "key": "2026-07-13:Hacker News:Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+    "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+    "score": 529,
+    "source": "Hacker News",
+    "timestamp": "2026-07-13T12:23:24.298553"
   }
 ]

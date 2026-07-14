@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-30:Hacker News:US Supreme Court rules geofence warrants require constitutional protections",
-    "title": "US Supreme Court rules geofence warrants require constitutional protections",
-    "score": 504,
-    "source": "Hacker News",
-    "timestamp": "2026-06-30T06:10:32.485084"
-  },
-  {
     "key": "2026-06-30:Hacker News:.self: A new top-level domain designed to support self-hosting",
     "title": ".self: A new top-level domain designed to support self-hosting",
     "score": 506,
@@ -698,5 +691,12 @@
     "score": 529,
     "source": "Hacker News",
     "timestamp": "2026-07-13T12:23:24.298553"
+  },
+  {
+    "key": "2026-07-14:Hacker News:Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+    "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+    "score": 528,
+    "source": "Hacker News",
+    "timestamp": "2026-07-14T08:08:17.014466"
   }
 ]

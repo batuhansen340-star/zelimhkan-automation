@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-30:Hacker News:30-year sentence for transporting zines is a five-alarm fire for free speech",
-    "title": "30-year sentence for transporting zines is a five-alarm fire for free speech",
-    "score": 569,
-    "source": "Hacker News",
-    "timestamp": "2026-06-30T09:39:55.404731"
-  },
-  {
     "key": "2026-06-30:Hacker News:Free the Icons",
     "title": "Free the Icons",
     "score": 511,
@@ -698,5 +691,12 @@
     "score": 531,
     "source": "Hacker News",
     "timestamp": "2026-07-14T11:13:51.548520"
+  },
+  {
+    "key": "2026-07-14:Hacker News:Your 'app' could have been a webpage (so I fixed it for you)",
+    "title": "Your 'app' could have been a webpage (so I fixed it for you)",
+    "score": 503,
+    "source": "Hacker News",
+    "timestamp": "2026-07-14T19:00:31.228799"
   }
 ]

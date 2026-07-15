@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-30:Hacker News:Free the Icons",
-    "title": "Free the Icons",
-    "score": 511,
-    "source": "Hacker News",
-    "timestamp": "2026-06-30T12:03:10.564592"
-  },
-  {
     "key": "2026-06-30:Hacker News:European digital ID wallets rely on safety services of Google and Apple",
     "title": "European digital ID wallets rely on safety services of Google and Apple",
     "score": 565,
@@ -698,5 +691,12 @@
     "score": 503,
     "source": "Hacker News",
     "timestamp": "2026-07-14T19:00:31.228799"
+  },
+  {
+    "key": "2026-07-15:Hacker News:Your 'app' could have been a webpage (so I fixed it for you)",
+    "title": "Your 'app' could have been a webpage (so I fixed it for you)",
+    "score": 759,
+    "source": "Hacker News",
+    "timestamp": "2026-07-15T04:50:28.944168"
   }
 ]

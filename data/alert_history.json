@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-30:Hacker News:Claude Sonnet 5",
-    "title": "Claude Sonnet 5",
-    "score": 784,
-    "source": "Hacker News",
-    "timestamp": "2026-06-30T23:15:29.412273"
-  },
-  {
     "key": "2026-07-01:Hacker News:Claude Code is steganographically marking requests",
     "title": "Claude Code is steganographically marking requests",
     "score": 1704,
@@ -698,5 +691,12 @@
     "score": 513,
     "source": "Hacker News",
     "timestamp": "2026-07-15T11:17:19.426286"
+  },
+  {
+    "key": "2026-07-15:Hacker News:I tricked Claude into leaking your deepest, darkest secrets",
+    "title": "I tricked Claude into leaking your deepest, darkest secrets",
+    "score": 507,
+    "source": "Hacker News",
+    "timestamp": "2026-07-15T15:16:00.900773"
   }
 ]

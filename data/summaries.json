@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-06-15T20:21:34.299235",
-    "commits": 0,
-    "runs": 5,
-    "summary": "Özet oluşturulamadı: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cc5fg4hEZ5hCnqAsYSXMo'}"
-  },
-  {
     "date": "2026-06-16T20:10:13.067391",
     "commits": 0,
     "runs": 5,
@@ -178,5 +172,11 @@
     "commits": 0,
     "runs": 5,
     "summary": "Özet oluşturulamadı: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cd2P7H2KnQKrqQvM3KknN'}"
+  },
+  {
+    "date": "2026-07-15T18:00:56.586986",
+    "commits": 0,
+    "runs": 5,
+    "summary": "Özet oluşturulamadı: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}"
   }
 ]

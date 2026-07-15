@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-06-30:Hacker News:Open Source Low Tech",
-    "title": "Open Source Low Tech",
-    "score": 572,
-    "source": "Hacker News",
-    "timestamp": "2026-06-30T19:29:45.367637"
-  },
-  {
     "key": "2026-06-30:Hacker News:Claude Sonnet 5",
     "title": "Claude Sonnet 5",
     "score": 784,
@@ -698,5 +691,12 @@
     "score": 521,
     "source": "Hacker News",
     "timestamp": "2026-07-15T08:13:53.109691"
+  },
+  {
+    "key": "2026-07-15:Hacker News:Jurassic Park computers in excruciating detail",
+    "title": "Jurassic Park computers in excruciating detail",
+    "score": 513,
+    "source": "Hacker News",
+    "timestamp": "2026-07-15T11:17:19.426286"
   }
 ]

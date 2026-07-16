@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-07-01:Hacker News:Most arguments are about ego, not ideas",
-    "title": "Most arguments are about ego, not ideas",
-    "score": 599,
-    "source": "Hacker News",
-    "timestamp": "2026-07-01T19:38:38.849833"
-  },
-  {
-    "key": "2026-07-01:Hacker News:Physical disc production ending in Jan 2028 for new games on PlayStation",
-    "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
-    "score": 543,
-    "source": "Hacker News",
-    "timestamp": "2026-07-01T23:17:52.840016"
-  },
-  {
     "key": "2026-07-01:Hacker News:Asahi Linux 7.1 Progress Report",
     "title": "Asahi Linux 7.1 Progress Report",
     "score": 519,
@@ -698,5 +684,19 @@
     "score": 888,
     "source": "Hacker News",
     "timestamp": "2026-07-16T08:16:24.499834"
+  },
+  {
+    "key": "2026-07-16:Hacker News:The lost joy of music piracy",
+    "title": "The lost joy of music piracy",
+    "score": 576,
+    "source": "Hacker News",
+    "timestamp": "2026-07-16T15:23:50.112450"
+  },
+  {
+    "key": "2026-07-16:Hacker News:Grok Build is open source",
+    "title": "Grok Build is open source",
+    "score": 539,
+    "source": "Hacker News",
+    "timestamp": "2026-07-16T15:23:50.112469"
   }
 ]

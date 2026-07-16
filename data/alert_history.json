@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-07-01:Hacker News:For first time, a cell built from scratch grows and divides",
-    "title": "For first time, a cell built from scratch grows and divides",
-    "score": 521,
-    "source": "Hacker News",
-    "timestamp": "2026-07-01T19:38:38.849815"
-  },
-  {
     "key": "2026-07-01:Hacker News:Most arguments are about ego, not ideas",
     "title": "Most arguments are about ego, not ideas",
     "score": 599,
@@ -698,5 +691,12 @@
     "score": 676,
     "source": "Hacker News",
     "timestamp": "2026-07-16T05:09:15.508658"
+  },
+  {
+    "key": "2026-07-16:Hacker News:Jurassic Park computers in excruciating detail",
+    "title": "Jurassic Park computers in excruciating detail",
+    "score": 888,
+    "source": "Hacker News",
+    "timestamp": "2026-07-16T08:16:24.499834"
   }
 ]

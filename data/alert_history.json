@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-07-01:Hacker News:Asahi Linux 7.1 Progress Report",
-    "title": "Asahi Linux 7.1 Progress Report",
-    "score": 519,
-    "source": "Hacker News",
-    "timestamp": "2026-07-01T23:17:52.840030"
-  },
-  {
     "key": "2026-07-02:Hacker News:For first time, a cell built from scratch grows and divides",
     "title": "For first time, a cell built from scratch grows and divides",
     "score": 805,
@@ -698,5 +691,12 @@
     "score": 539,
     "source": "Hacker News",
     "timestamp": "2026-07-16T15:23:50.112469"
+  },
+  {
+    "key": "2026-07-16:Hacker News:Kimi K3 is now live",
+    "title": "Kimi K3 is now live",
+    "score": 546,
+    "source": "Hacker News",
+    "timestamp": "2026-07-16T18:54:24.995018"
   }
 ]

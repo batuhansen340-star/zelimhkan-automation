@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-07-01:Hacker News:Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-    "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-    "score": 548,
-    "source": "Hacker News",
-    "timestamp": "2026-07-01T06:25:11.096865"
-  },
-  {
-    "key": "2026-07-01:Hacker News:Claude Science",
-    "title": "Claude Science",
-    "score": 511,
-    "source": "Hacker News",
-    "timestamp": "2026-07-01T12:25:35.354289"
-  },
-  {
     "key": "2026-07-01:Hacker News:For first time, a cell built from scratch grows and divides",
     "title": "For first time, a cell built from scratch grows and divides",
     "score": 521,
@@ -698,5 +684,19 @@
     "score": 520,
     "source": "Hacker News",
     "timestamp": "2026-07-15T22:59:12.845349"
+  },
+  {
+    "key": "2026-07-16:Hacker News:Inkling: Our Open-Weights Model",
+    "title": "Inkling: Our Open-Weights Model",
+    "score": 827,
+    "source": "Hacker News",
+    "timestamp": "2026-07-16T05:09:15.508644"
+  },
+  {
+    "key": "2026-07-16:Hacker News:Sleep regularity is a stronger predictor of mortality risk than sleep duration (",
+    "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
+    "score": 676,
+    "source": "Hacker News",
+    "timestamp": "2026-07-16T05:09:15.508658"
   }
 ]

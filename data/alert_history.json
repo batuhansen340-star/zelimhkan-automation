@@ -1,40 +1,5 @@
 [
   {
-    "key": "2026-07-02:Hacker News:Asahi Linux 7.1 Progress Report",
-    "title": "Asahi Linux 7.1 Progress Report",
-    "score": 541,
-    "source": "Hacker News",
-    "timestamp": "2026-07-02T05:58:01.164310"
-  },
-  {
-    "key": "2026-07-02:Hacker News:Sony Deletes 551 Movies PlayStation Owners Paid For",
-    "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
-    "score": 539,
-    "source": "Hacker News",
-    "timestamp": "2026-07-02T05:58:01.164316"
-  },
-  {
-    "key": "2026-07-02:Hacker News:Claude Code is steganographically marking requests",
-    "title": "Claude Code is steganographically marking requests",
-    "score": 2374,
-    "source": "Hacker News",
-    "timestamp": "2026-07-02T05:58:01.164321"
-  },
-  {
-    "key": "2026-07-02:Hacker News:Android Developer Verification: Threat masquerading as Protection",
-    "title": "Android Developer Verification: Threat masquerading as Protection",
-    "score": 798,
-    "source": "Hacker News",
-    "timestamp": "2026-07-02T11:59:05.317792"
-  },
-  {
-    "key": "2026-07-02:Hacker News:Android Developer Verification: Threat masquerading as protection",
-    "title": "Android Developer Verification: Threat masquerading as protection",
-    "score": 1234,
-    "source": "Hacker News",
-    "timestamp": "2026-07-02T15:58:15.497333"
-  },
-  {
     "key": "2026-07-02:Hacker News:Bring back crappy forums",
     "title": "Bring back crappy forums",
     "score": 505,
@@ -698,5 +663,40 @@
     "score": 567,
     "source": "Hacker News",
     "timestamp": "2026-07-16T22:58:32.644343"
+  },
+  {
+    "key": "2026-07-17:Hacker News:Kimi K3: Open Frontier Intelligence",
+    "title": "Kimi K3: Open Frontier Intelligence",
+    "score": 1374,
+    "source": "Hacker News",
+    "timestamp": "2026-07-17T05:12:33.935562"
+  },
+  {
+    "key": "2026-07-17:Hacker News:Microsoft Comic Chat is now open source",
+    "title": "Microsoft Comic Chat is now open source",
+    "score": 604,
+    "source": "Hacker News",
+    "timestamp": "2026-07-17T05:12:33.935585"
+  },
+  {
+    "key": "2026-07-17:Hacker News:Sony deletes more movies from the accounts of people who ‘bought’ them",
+    "title": "Sony deletes more movies from the accounts of people who ‘bought’ them",
+    "score": 616,
+    "source": "Hacker News",
+    "timestamp": "2026-07-17T05:12:33.935592"
+  },
+  {
+    "key": "2026-07-17:Hacker News:The lost joy of music piracy",
+    "title": "The lost joy of music piracy",
+    "score": 780,
+    "source": "Hacker News",
+    "timestamp": "2026-07-17T05:12:33.935598"
+  },
+  {
+    "key": "2026-07-17:Hacker News:OnePlus halts operations in USA and Europe",
+    "title": "OnePlus halts operations in USA and Europe",
+    "score": 550,
+    "source": "Hacker News",
+    "timestamp": "2026-07-17T05:12:33.935604"
   }
 ]

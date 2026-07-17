@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-07-02:Hacker News:Spain Orders Blacklist of Palantir from Public and Private Companies",
-    "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
-    "score": 537,
-    "source": "Hacker News",
-    "timestamp": "2026-07-02T23:10:03.194083"
-  },
-  {
     "key": "2026-07-03:Hacker News:Virginia bans sale of geolocation data",
     "title": "Virginia bans sale of geolocation data",
     "score": 658,
@@ -698,5 +691,12 @@
     "score": 528,
     "source": "Hacker News",
     "timestamp": "2026-07-17T08:11:58.309511"
+  },
+  {
+    "key": "2026-07-17:Hacker News:AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+    "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+    "score": 742,
+    "source": "Hacker News",
+    "timestamp": "2026-07-17T18:51:21.754611"
   }
 ]

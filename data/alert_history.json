@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-07-02:Hacker News:Bring back crappy forums",
-    "title": "Bring back crappy forums",
-    "score": 505,
-    "source": "Hacker News",
-    "timestamp": "2026-07-02T19:07:42.832817"
-  },
-  {
     "key": "2026-07-02:Hacker News:Spain Orders Blacklist of Palantir from Public and Private Companies",
     "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
     "score": 537,
@@ -698,5 +691,12 @@
     "score": 550,
     "source": "Hacker News",
     "timestamp": "2026-07-17T05:12:33.935604"
+  },
+  {
+    "key": "2026-07-17:Hacker News:Decoy Font",
+    "title": "Decoy Font",
+    "score": 528,
+    "source": "Hacker News",
+    "timestamp": "2026-07-17T08:11:58.309511"
   }
 ]

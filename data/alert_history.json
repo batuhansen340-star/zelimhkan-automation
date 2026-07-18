@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-07-03:Hacker News:Half-Baked Product",
-    "title": "Half-Baked Product",
-    "score": 810,
-    "source": "Hacker News",
-    "timestamp": "2026-07-03T15:47:10.757723"
-  },
-  {
-    "key": "2026-07-03:Hacker News:Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
-    "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
-    "score": 513,
-    "source": "Hacker News",
-    "timestamp": "2026-07-03T15:47:10.757737"
-  },
-  {
     "key": "2026-07-03:Hacker News:Immich 3.0",
     "title": "Immich 3.0",
     "score": 548,
@@ -698,5 +684,19 @@
     "score": 508,
     "source": "Hacker News",
     "timestamp": "2026-07-18T14:42:40.652993"
+  },
+  {
+    "key": "2026-07-18:Hacker News:LG monitors silently install software through Windows Update without consent",
+    "title": "LG monitors silently install software through Windows Update without consent",
+    "score": 771,
+    "source": "Hacker News",
+    "timestamp": "2026-07-18T18:44:24.929229"
+  },
+  {
+    "key": "2026-07-18:Hacker News:First atmosphere found on Earth-like planet in habitable zone of distant star",
+    "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+    "score": 505,
+    "source": "Hacker News",
+    "timestamp": "2026-07-18T18:44:24.929245"
   }
 ]

@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-07-03:Hacker News:Android Developer Verification: Threat masquerading as protection",
-    "title": "Android Developer Verification: Threat masquerading as protection",
-    "score": 1596,
-    "source": "Hacker News",
-    "timestamp": "2026-07-03T05:52:13.590425"
-  },
-  {
     "key": "2026-07-03:Hacker News:Spain Orders Blacklist of Palantir from Public and Private Companies",
     "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
     "score": 629,
@@ -698,5 +691,12 @@
     "score": 2006,
     "source": "Hacker News",
     "timestamp": "2026-07-18T04:47:35.671951"
+  },
+  {
+    "key": "2026-07-18:Hacker News:Thanks HN for 15 years of support and helping me find my life's work",
+    "title": "Thanks HN for 15 years of support and helping me find my life's work",
+    "score": 535,
+    "source": "Hacker News",
+    "timestamp": "2026-07-18T07:53:20.001505"
   }
 ]

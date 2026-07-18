@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-07-03:Hacker News:Spain Orders Blacklist of Palantir from Public and Private Companies",
-    "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
-    "score": 629,
-    "source": "Hacker News",
-    "timestamp": "2026-07-03T05:52:13.590430"
-  },
-  {
     "key": "2026-07-03:Hacker News:Podman v6.0.0",
     "title": "Podman v6.0.0",
     "score": 523,
@@ -698,5 +691,12 @@
     "score": 535,
     "source": "Hacker News",
     "timestamp": "2026-07-18T07:53:20.001505"
+  },
+  {
+    "key": "2026-07-18:Hacker News:Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+    "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+    "score": 514,
+    "source": "Hacker News",
+    "timestamp": "2026-07-18T10:52:59.266863"
   }
 ]

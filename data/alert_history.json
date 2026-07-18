@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-07-03:Hacker News:Podman v6.0.0",
-    "title": "Podman v6.0.0",
-    "score": 523,
-    "source": "Hacker News",
-    "timestamp": "2026-07-03T09:20:28.854423"
-  },
-  {
     "key": "2026-07-03:Hacker News:Half-Baked Product",
     "title": "Half-Baked Product",
     "score": 810,
@@ -698,5 +691,12 @@
     "score": 514,
     "source": "Hacker News",
     "timestamp": "2026-07-18T10:52:59.266863"
+  },
+  {
+    "key": "2026-07-18:Hacker News:Regressive JPEGs",
+    "title": "Regressive JPEGs",
+    "score": 508,
+    "source": "Hacker News",
+    "timestamp": "2026-07-18T14:42:40.652993"
   }
 ]

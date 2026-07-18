@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-07-03:Hacker News:Virginia bans sale of geolocation data",
-    "title": "Virginia bans sale of geolocation data",
-    "score": 658,
-    "source": "Hacker News",
-    "timestamp": "2026-07-03T05:52:13.590404"
-  },
-  {
-    "key": "2026-07-03:Hacker News:PeerTube is a free, decentralized and federated video platform",
-    "title": "PeerTube is a free, decentralized and federated video platform",
-    "score": 573,
-    "source": "Hacker News",
-    "timestamp": "2026-07-03T05:52:13.590419"
-  },
-  {
     "key": "2026-07-03:Hacker News:Android Developer Verification: Threat masquerading as protection",
     "title": "Android Developer Verification: Threat masquerading as protection",
     "score": 1596,
@@ -698,5 +684,19 @@
     "score": 742,
     "source": "Hacker News",
     "timestamp": "2026-07-17T18:51:21.754611"
+  },
+  {
+    "key": "2026-07-18:Hacker News:AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+    "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+    "score": 1100,
+    "source": "Hacker News",
+    "timestamp": "2026-07-18T04:47:35.671936"
+  },
+  {
+    "key": "2026-07-18:Hacker News:Kimi K3: Open Frontier Intelligence",
+    "title": "Kimi K3: Open Frontier Intelligence",
+    "score": 2006,
+    "source": "Hacker News",
+    "timestamp": "2026-07-18T04:47:35.671951"
   }
 ]

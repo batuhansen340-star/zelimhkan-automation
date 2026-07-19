@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-07-03:Hacker News:Immich 3.0",
-    "title": "Immich 3.0",
-    "score": 548,
-    "source": "Hacker News",
-    "timestamp": "2026-07-03T15:47:10.757748"
-  },
-  {
-    "key": "2026-07-03:Hacker News:Virginia bans sale of precise geolocation data",
-    "title": "Virginia bans sale of precise geolocation data",
-    "score": 918,
-    "source": "Hacker News",
-    "timestamp": "2026-07-03T15:47:10.757753"
-  },
-  {
-    "key": "2026-07-03:Hacker News:CarPlay Is Additive",
-    "title": "CarPlay Is Additive",
-    "score": 522,
-    "source": "Hacker News",
-    "timestamp": "2026-07-03T19:00:07.683962"
-  },
-  {
-    "key": "2026-07-03:Hacker News:Valve open-source the Steam Machine e-ink screen so you can make your own",
-    "title": "Valve open-source the Steam Machine e-ink screen so you can make your own",
-    "score": 515,
-    "source": "Hacker News",
-    "timestamp": "2026-07-03T23:06:37.007329"
-  },
-  {
     "key": "2026-07-04:Hacker News:Half-Baked Product",
     "title": "Half-Baked Product",
     "score": 1229,
@@ -698,5 +670,33 @@
     "score": 505,
     "source": "Hacker News",
     "timestamp": "2026-07-18T18:44:24.929245"
+  },
+  {
+    "key": "2026-07-19:Hacker News:GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+    "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+    "score": 531,
+    "source": "Hacker News",
+    "timestamp": "2026-07-19T05:21:54.383553"
+  },
+  {
+    "key": "2026-07-19:Hacker News:LG monitors silently install software through Windows Update without consent",
+    "title": "LG monitors silently install software through Windows Update without consent",
+    "score": 1065,
+    "source": "Hacker News",
+    "timestamp": "2026-07-19T05:21:54.383570"
+  },
+  {
+    "key": "2026-07-19:Hacker News:Regressive JPEGs",
+    "title": "Regressive JPEGs",
+    "score": 666,
+    "source": "Hacker News",
+    "timestamp": "2026-07-19T05:21:54.383576"
+  },
+  {
+    "key": "2026-07-19:Hacker News:AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+    "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+    "score": 1276,
+    "source": "Hacker News",
+    "timestamp": "2026-07-19T05:21:54.383581"
   }
 ]

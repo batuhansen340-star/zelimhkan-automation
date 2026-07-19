@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-07-05:Hacker News:Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
-    "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
-    "score": 553,
-    "source": "Hacker News",
-    "timestamp": "2026-07-05T08:54:54.247362"
-  },
-  {
     "key": "2026-07-05:Hacker News:Google Books (or similar) all book scans – $200k bounty (2025)",
     "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
     "score": 503,
@@ -698,5 +691,12 @@
     "score": 533,
     "source": "Hacker News",
     "timestamp": "2026-07-19T18:48:43.641518"
+  },
+  {
+    "key": "2026-07-19:Hacker News:Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+    "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+    "score": 1112,
+    "source": "Hacker News",
+    "timestamp": "2026-07-19T22:55:05.134406"
   }
 ]

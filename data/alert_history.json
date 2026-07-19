@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-07-04:Hacker News:Valve open-source the Steam Machine e-ink screen so you can make your own",
-    "title": "Valve open-source the Steam Machine e-ink screen so you can make your own",
-    "score": 544,
-    "source": "Hacker News",
-    "timestamp": "2026-07-04T05:44:23.056864"
-  },
-  {
-    "key": "2026-07-04:Hacker News:The bottleneck might be the air in the room",
-    "title": "The bottleneck might be the air in the room",
-    "score": 526,
-    "source": "Hacker News",
-    "timestamp": "2026-07-04T14:56:36.330741"
-  },
-  {
     "key": "2026-07-04:Hacker News:Costco is the anti-Amazon",
     "title": "Costco is the anti-Amazon",
     "score": 527,
@@ -698,5 +684,19 @@
     "score": 550,
     "source": "Hacker News",
     "timestamp": "2026-07-19T11:02:11.330139"
+  },
+  {
+    "key": "2026-07-19:Hacker News:The Kimi K3 Moment",
+    "title": "The Kimi K3 Moment",
+    "score": 527,
+    "source": "Hacker News",
+    "timestamp": "2026-07-19T14:44:57.077879"
+  },
+  {
+    "key": "2026-07-19:Hacker News:NYC may require landlords and realtors to disclose the use of AI in listings",
+    "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
+    "score": 527,
+    "source": "Hacker News",
+    "timestamp": "2026-07-19T14:44:57.077892"
   }
 ]

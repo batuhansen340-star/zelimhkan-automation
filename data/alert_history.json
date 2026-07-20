@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-07-07:Hacker News:OpenWrt One – Open Hardware Router",
-    "title": "OpenWrt One – Open Hardware Router",
-    "score": 520,
-    "source": "Hacker News",
-    "timestamp": "2026-07-07T06:06:33.903477"
-  },
-  {
-    "key": "2026-07-07:Hacker News:Resetting Xbox",
-    "title": "Resetting Xbox",
-    "score": 552,
-    "source": "Hacker News",
-    "timestamp": "2026-07-07T06:06:33.903490"
-  },
-  {
     "key": "2026-07-07:Hacker News:CoMaps – FOSS Offline Maps",
     "title": "CoMaps – FOSS Offline Maps",
     "score": 558,
@@ -698,5 +684,19 @@
     "score": 513,
     "source": "Hacker News",
     "timestamp": "2026-07-20T12:06:15.154550"
+  },
+  {
+    "key": "2026-07-20:Hacker News:China's open-weights AI strategy is winning",
+    "title": "China's open-weights AI strategy is winning",
+    "score": 531,
+    "source": "Hacker News",
+    "timestamp": "2026-07-20T19:23:29.064104"
+  },
+  {
+    "key": "2026-07-20:Hacker News:Airport Simulator",
+    "title": "Airport Simulator",
+    "score": 507,
+    "source": "Hacker News",
+    "timestamp": "2026-07-20T19:23:29.064118"
   }
 ]

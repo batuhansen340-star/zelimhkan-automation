@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-07-06:Hacker News:Organic Maps",
-    "title": "Organic Maps",
-    "score": 891,
-    "source": "Hacker News",
-    "timestamp": "2026-07-06T06:26:59.020599"
-  },
-  {
     "key": "2026-07-06:Hacker News:It's not about physical vs. digital games, it's about ownership",
     "title": "It's not about physical vs. digital games, it's about ownership",
     "score": 506,
@@ -698,5 +691,12 @@
     "score": 731,
     "source": "Hacker News",
     "timestamp": "2026-07-20T05:38:14.857983"
+  },
+  {
+    "key": "2026-07-20:Hacker News:Claude Code uses Bun written in Rust now",
+    "title": "Claude Code uses Bun written in Rust now",
+    "score": 510,
+    "source": "Hacker News",
+    "timestamp": "2026-07-20T09:16:39.831300"
   }
 ]

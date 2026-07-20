@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-07-07:Hacker News:CoMaps – FOSS Offline Maps",
-    "title": "CoMaps – FOSS Offline Maps",
-    "score": 558,
-    "source": "Hacker News",
-    "timestamp": "2026-07-07T09:45:01.098997"
-  },
-  {
-    "key": "2026-07-07:Hacker News:GLM 5.2 and the coming AI margin collapse",
-    "title": "GLM 5.2 and the coming AI margin collapse",
-    "score": 508,
-    "source": "Hacker News",
-    "timestamp": "2026-07-07T12:18:20.874899"
-  },
-  {
     "key": "2026-07-07:Hacker News:Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
     "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
     "score": 507,
@@ -698,5 +684,19 @@
     "score": 507,
     "source": "Hacker News",
     "timestamp": "2026-07-20T19:23:29.064118"
+  },
+  {
+    "key": "2026-07-20:Hacker News:China’s open-weights AI strategy is winning",
+    "title": "China’s open-weights AI strategy is winning",
+    "score": 867,
+    "source": "Hacker News",
+    "timestamp": "2026-07-20T23:02:06.330706"
+  },
+  {
+    "key": "2026-07-20:Hacker News:Hacker wipes Romania's land registry database",
+    "title": "Hacker wipes Romania's land registry database",
+    "score": 538,
+    "source": "Hacker News",
+    "timestamp": "2026-07-20T23:02:06.330728"
   }
 ]

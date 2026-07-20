@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-07-06:Hacker News:It's not about physical vs. digital games, it's about ownership",
-    "title": "It's not about physical vs. digital games, it's about ownership",
-    "score": 506,
-    "source": "Hacker News",
-    "timestamp": "2026-07-06T10:26:14.608469"
-  },
-  {
     "key": "2026-07-07:Hacker News:OpenWrt One – Open Hardware Router",
     "title": "OpenWrt One – Open Hardware Router",
     "score": 520,
@@ -698,5 +691,12 @@
     "score": 510,
     "source": "Hacker News",
     "timestamp": "2026-07-20T09:16:39.831300"
+  },
+  {
+    "key": "2026-07-20:Hacker News:What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+    "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+    "score": 513,
+    "source": "Hacker News",
+    "timestamp": "2026-07-20T12:06:15.154550"
   }
 ]

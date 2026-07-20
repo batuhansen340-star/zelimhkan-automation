@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-07-05:Hacker News:Google Books (or similar) all book scans – $200k bounty (2025)",
-    "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
-    "score": 503,
-    "source": "Hacker News",
-    "timestamp": "2026-07-05T15:03:55.413094"
-  },
-  {
-    "key": "2026-07-05:Hacker News:Organic Maps",
-    "title": "Organic Maps",
-    "score": 503,
-    "source": "Hacker News",
-    "timestamp": "2026-07-05T19:00:05.319405"
-  },
-  {
-    "key": "2026-07-06:Hacker News:OpenPrinter",
-    "title": "OpenPrinter",
-    "score": 656,
-    "source": "Hacker News",
-    "timestamp": "2026-07-06T06:26:59.020585"
-  },
-  {
     "key": "2026-07-06:Hacker News:Organic Maps",
     "title": "Organic Maps",
     "score": 891,
@@ -698,5 +677,26 @@
     "score": 1112,
     "source": "Hacker News",
     "timestamp": "2026-07-19T22:55:05.134406"
+  },
+  {
+    "key": "2026-07-20:Hacker News:Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+    "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+    "score": 1913,
+    "source": "Hacker News",
+    "timestamp": "2026-07-20T05:38:14.857962"
+  },
+  {
+    "key": "2026-07-20:Hacker News:Qwen 3.8",
+    "title": "Qwen 3.8",
+    "score": 831,
+    "source": "Hacker News",
+    "timestamp": "2026-07-20T05:38:14.857977"
+  },
+  {
+    "key": "2026-07-20:Hacker News:Transcribe.cpp",
+    "title": "Transcribe.cpp",
+    "score": 731,
+    "source": "Hacker News",
+    "timestamp": "2026-07-20T05:38:14.857983"
   }
 ]

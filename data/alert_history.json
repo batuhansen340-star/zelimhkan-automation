@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-07-08:Hacker News:30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
-    "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
-    "score": 501,
-    "source": "Hacker News",
-    "timestamp": "2026-07-08T08:31:25.727903"
-  },
-  {
-    "key": "2026-07-08:Hacker News:A better way to tie gym shorts (or any drawstring) [video]",
-    "title": "A better way to tie gym shorts (or any drawstring) [video]",
-    "score": 502,
-    "source": "Hacker News",
-    "timestamp": "2026-07-08T08:31:25.727926"
-  },
-  {
     "key": "2026-07-08:Hacker News:98% isn't much",
     "title": "98% isn't much",
     "score": 502,
@@ -698,5 +684,19 @@
     "score": 529,
     "source": "Hacker News",
     "timestamp": "2026-07-21T11:39:25.879432"
+  },
+  {
+    "key": "2026-07-21:Hacker News:Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+    "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+    "score": 564,
+    "source": "Hacker News",
+    "timestamp": "2026-07-21T22:59:19.896387"
+  },
+  {
+    "key": "2026-07-21:Hacker News:Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+    "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+    "score": 527,
+    "source": "Hacker News",
+    "timestamp": "2026-07-21T22:59:19.896400"
   }
 ]

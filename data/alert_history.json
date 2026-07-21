@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-07-08:Hacker News:Chat Control passed first round in EU Parliament",
-    "title": "Chat Control passed first round in EU Parliament",
-    "score": 545,
-    "source": "Hacker News",
-    "timestamp": "2026-07-08T05:19:53.974215"
-  },
-  {
     "key": "2026-07-08:Hacker News:30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
     "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
     "score": 501,
@@ -698,5 +691,12 @@
     "score": 500,
     "source": "Hacker News",
     "timestamp": "2026-07-21T08:31:24.296055"
+  },
+  {
+    "key": "2026-07-21:Hacker News:Jelly UI: Soft-body physics for native HTML form controls",
+    "title": "Jelly UI: Soft-body physics for native HTML form controls",
+    "score": 529,
+    "source": "Hacker News",
+    "timestamp": "2026-07-21T11:39:25.879432"
   }
 ]

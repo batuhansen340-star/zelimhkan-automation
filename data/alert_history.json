@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-07-09:Hacker News:Decoding the obfuscated bash script on a Uniqlo t-shirt",
-    "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-    "score": 1345,
-    "source": "Hacker News",
-    "timestamp": "2026-07-09T06:08:17.403324"
-  },
-  {
     "key": "2026-07-09:Hacker News:TypeScript 7",
     "title": "TypeScript 7",
     "score": 540,
@@ -698,5 +691,12 @@
     "score": 552,
     "source": "Hacker News",
     "timestamp": "2026-07-22T15:24:25.701512"
+  },
+  {
+    "key": "2026-07-22:Hacker News:Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+    "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+    "score": 580,
+    "source": "Hacker News",
+    "timestamp": "2026-07-22T23:06:09.944429"
   }
 ]

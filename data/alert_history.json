@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-07-08:Hacker News:GPT‑Live",
-    "title": "GPT‑Live",
-    "score": 551,
-    "source": "Hacker News",
-    "timestamp": "2026-07-08T23:09:53.274558"
-  },
-  {
-    "key": "2026-07-09:Hacker News:John Deere owners will get the right to repair equipment under FTC settlement",
-    "title": "John Deere owners will get the right to repair equipment under FTC settlement",
-    "score": 606,
-    "source": "Hacker News",
-    "timestamp": "2026-07-09T06:08:17.403278"
-  },
-  {
-    "key": "2026-07-09:Hacker News:Chatto is now open source",
-    "title": "Chatto is now open source",
-    "score": 877,
-    "source": "Hacker News",
-    "timestamp": "2026-07-09T06:08:17.403305"
-  },
-  {
     "key": "2026-07-09:Hacker News:Grok 4.5",
     "title": "Grok 4.5",
     "score": 549,
@@ -698,5 +677,26 @@
     "score": 553,
     "source": "Hacker News",
     "timestamp": "2026-07-22T05:18:12.980370"
+  },
+  {
+    "key": "2026-07-22:Hacker News:Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+    "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+    "score": 582,
+    "source": "Hacker News",
+    "timestamp": "2026-07-22T08:31:14.172076"
+  },
+  {
+    "key": "2026-07-22:Hacker News:FreeInk: Open ecosystem for e-readers",
+    "title": "FreeInk: Open ecosystem for e-readers",
+    "score": 540,
+    "source": "Hacker News",
+    "timestamp": "2026-07-22T08:31:14.172091"
+  },
+  {
+    "key": "2026-07-22:Hacker News:'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
+    "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
+    "score": 534,
+    "source": "Hacker News",
+    "timestamp": "2026-07-22T08:31:14.172100"
   }
 ]

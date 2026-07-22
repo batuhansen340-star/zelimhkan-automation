@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-07-08:Hacker News:98% isn't much",
-    "title": "98% isn't much",
-    "score": 502,
-    "source": "Hacker News",
-    "timestamp": "2026-07-08T11:39:22.847550"
-  },
-  {
-    "key": "2026-07-08:Hacker News:Decoding the obfuscated bash script on a Uniqlo t-shirt",
-    "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-    "score": 904,
-    "source": "Hacker News",
-    "timestamp": "2026-07-08T15:55:45.158498"
-  },
-  {
-    "key": "2026-07-08:Hacker News:Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
-    "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
-    "score": 500,
-    "source": "Hacker News",
-    "timestamp": "2026-07-08T19:05:20.908843"
-  },
-  {
-    "key": "2026-07-08:Hacker News:Chatto is now open source",
-    "title": "Chatto is now open source",
-    "score": 641,
-    "source": "Hacker News",
-    "timestamp": "2026-07-08T23:09:53.274530"
-  },
-  {
     "key": "2026-07-08:Hacker News:GPT‑Live",
     "title": "GPT‑Live",
     "score": 551,
@@ -698,5 +670,33 @@
     "score": 527,
     "source": "Hacker News",
     "timestamp": "2026-07-21T22:59:19.896400"
+  },
+  {
+    "key": "2026-07-22:Hacker News:OpenAI and Hugging Face address security incident during model evaluation",
+    "title": "OpenAI and Hugging Face address security incident during model evaluation",
+    "score": 894,
+    "source": "Hacker News",
+    "timestamp": "2026-07-22T05:18:12.980342"
+  },
+  {
+    "key": "2026-07-22:Hacker News:Advertise in ChatGPT",
+    "title": "Advertise in ChatGPT",
+    "score": 542,
+    "source": "Hacker News",
+    "timestamp": "2026-07-22T05:18:12.980357"
+  },
+  {
+    "key": "2026-07-22:Hacker News:Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+    "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+    "score": 644,
+    "source": "Hacker News",
+    "timestamp": "2026-07-22T05:18:12.980364"
+  },
+  {
+    "key": "2026-07-22:Hacker News:Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+    "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+    "score": 553,
+    "source": "Hacker News",
+    "timestamp": "2026-07-22T05:18:12.980370"
   }
 ]

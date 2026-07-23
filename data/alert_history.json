@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-07-10:Hacker News:GPT-5.6",
-    "title": "GPT-5.6",
-    "score": 1171,
-    "source": "Hacker News",
-    "timestamp": "2026-07-10T06:02:18.053351"
-  },
-  {
-    "key": "2026-07-10:Hacker News:Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
-    "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
-    "score": 526,
-    "source": "Hacker News",
-    "timestamp": "2026-07-10T06:02:18.053355"
-  },
-  {
     "key": "2026-07-10:Hacker News:John Deere owners will get the right to repair equipment under FTC settlement",
     "title": "John Deere owners will get the right to repair equipment under FTC settlement",
     "score": 1300,
@@ -698,5 +684,19 @@
     "score": 544,
     "source": "Hacker News",
     "timestamp": "2026-07-23T18:57:27.744406"
+  },
+  {
+    "key": "2026-07-23:Hacker News:Startup founders urge U.S. government not to shut off Chinese open weight AI",
+    "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+    "score": 644,
+    "source": "Hacker News",
+    "timestamp": "2026-07-23T22:57:52.891780"
+  },
+  {
+    "key": "2026-07-23:Hacker News:AI Companies Are Trying to Hide a Staggering Amount of Debt",
+    "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
+    "score": 560,
+    "source": "Hacker News",
+    "timestamp": "2026-07-23T22:57:52.891790"
   }
 ]

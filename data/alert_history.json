@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-07-09:Hacker News:Show HN: 18 Words",
-    "title": "Show HN: 18 Words",
-    "score": 645,
-    "source": "Hacker News",
-    "timestamp": "2026-07-09T19:20:49.390109"
-  },
-  {
-    "key": "2026-07-09:Hacker News:EU Parliament greenlights Chat Control 1.0",
-    "title": "EU Parliament greenlights Chat Control 1.0",
-    "score": 671,
-    "source": "Hacker News",
-    "timestamp": "2026-07-09T19:20:49.390115"
-  },
-  {
     "key": "2026-07-09:Hacker News:My thoughts on the Bun Rust rewrite",
     "title": "My thoughts on the Bun Rust rewrite",
     "score": 561,
@@ -698,5 +684,19 @@
     "score": 669,
     "source": "Hacker News",
     "timestamp": "2026-07-23T05:23:19.175625"
+  },
+  {
+    "key": "2026-07-23:Hacker News:Are AI labs pelicanmaxxing?",
+    "title": "Are AI labs pelicanmaxxing?",
+    "score": 509,
+    "source": "Hacker News",
+    "timestamp": "2026-07-23T08:32:36.767858"
+  },
+  {
+    "key": "2026-07-23:Hacker News:OpenAI and Hugging Face address security incident during model evaluation",
+    "title": "OpenAI and Hugging Face address security incident during model evaluation",
+    "score": 1577,
+    "source": "Hacker News",
+    "timestamp": "2026-07-23T08:32:36.767873"
   }
 ]

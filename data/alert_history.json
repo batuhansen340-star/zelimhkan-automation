@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-07-10:Hacker News:Show HN: 18 Words",
-    "title": "Show HN: 18 Words",
-    "score": 910,
-    "source": "Hacker News",
-    "timestamp": "2026-07-10T06:02:18.053346"
-  },
-  {
     "key": "2026-07-10:Hacker News:GPT-5.6",
     "title": "GPT-5.6",
     "score": 1171,
@@ -698,5 +691,12 @@
     "score": 570,
     "source": "Hacker News",
     "timestamp": "2026-07-23T15:45:57.605189"
+  },
+  {
+    "key": "2026-07-23:Hacker News:Writing by hand is good for your brain",
+    "title": "Writing by hand is good for your brain",
+    "score": 544,
+    "source": "Hacker News",
+    "timestamp": "2026-07-23T18:57:27.744406"
   }
 ]

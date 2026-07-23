@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-07-10:Hacker News:EU Parliament greenlights Chat Control 1.0",
-    "title": "EU Parliament greenlights Chat Control 1.0",
-    "score": 1170,
-    "source": "Hacker News",
-    "timestamp": "2026-07-10T06:02:18.053341"
-  },
-  {
     "key": "2026-07-10:Hacker News:Show HN: 18 Words",
     "title": "Show HN: 18 Words",
     "score": 910,
@@ -698,5 +691,12 @@
     "score": 504,
     "source": "Hacker News",
     "timestamp": "2026-07-23T11:43:04.774819"
+  },
+  {
+    "key": "2026-07-23:Hacker News:Everyone should know SIMD",
+    "title": "Everyone should know SIMD",
+    "score": 570,
+    "source": "Hacker News",
+    "timestamp": "2026-07-23T15:45:57.605189"
   }
 ]

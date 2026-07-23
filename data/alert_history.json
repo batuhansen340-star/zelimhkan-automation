@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-07-09:Hacker News:TypeScript 7",
-    "title": "TypeScript 7",
-    "score": 540,
-    "source": "Hacker News",
-    "timestamp": "2026-07-09T06:08:17.403330"
-  },
-  {
-    "key": "2026-07-09:Hacker News:Rewriting Bun in Rust",
-    "title": "Rewriting Bun in Rust",
-    "score": 584,
-    "source": "Hacker News",
-    "timestamp": "2026-07-09T09:42:04.858168"
-  },
-  {
-    "key": "2026-07-09:Hacker News:GPT-5.6",
-    "title": "GPT-5.6",
-    "score": 605,
-    "source": "Hacker News",
-    "timestamp": "2026-07-09T19:20:49.390093"
-  },
-  {
     "key": "2026-07-09:Hacker News:Show HN: 18 Words",
     "title": "Show HN: 18 Words",
     "score": 645,
@@ -698,5 +677,26 @@
     "score": 580,
     "source": "Hacker News",
     "timestamp": "2026-07-22T23:06:09.944429"
+  },
+  {
+    "key": "2026-07-23:Hacker News:Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+    "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+    "score": 729,
+    "source": "Hacker News",
+    "timestamp": "2026-07-23T05:23:19.175600"
+  },
+  {
+    "key": "2026-07-23:Hacker News:Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+    "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+    "score": 730,
+    "source": "Hacker News",
+    "timestamp": "2026-07-23T05:23:19.175619"
+  },
+  {
+    "key": "2026-07-23:Hacker News:John C. Dvorak has died",
+    "title": "John C. Dvorak has died",
+    "score": 669,
+    "source": "Hacker News",
+    "timestamp": "2026-07-23T05:23:19.175625"
   }
 ]

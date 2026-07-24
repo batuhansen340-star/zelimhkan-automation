@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-07-11:Hacker News:QuadRF can spot drones and see WiFi through my wall",
-    "title": "QuadRF can spot drones and see WiFi through my wall",
-    "score": 508,
-    "source": "Hacker News",
-    "timestamp": "2026-07-11T05:12:21.849639"
-  },
-  {
-    "key": "2026-07-11:Hacker News:Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-    "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-    "score": 784,
-    "source": "Hacker News",
-    "timestamp": "2026-07-11T05:12:21.849657"
-  },
-  {
     "key": "2026-07-11:Hacker News:Show HN: Getting GLM 5.2 running on my slow computer",
     "title": "Show HN: Getting GLM 5.2 running on my slow computer",
     "score": 839,
@@ -698,5 +684,19 @@
     "score": 630,
     "source": "Hacker News",
     "timestamp": "2026-07-24T05:18:41.532544"
+  },
+  {
+    "key": "2026-07-24:Hacker News:OpenAI’s accidental attack against Hugging Face is science fiction that happened",
+    "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
+    "score": 504,
+    "source": "Hacker News",
+    "timestamp": "2026-07-24T08:29:20.478792"
+  },
+  {
+    "key": "2026-07-24:Hacker News:Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+    "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+    "score": 1099,
+    "source": "Hacker News",
+    "timestamp": "2026-07-24T08:29:20.478807"
   }
 ]

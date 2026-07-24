@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-07-11:Hacker News:Show HN: Getting GLM 5.2 running on my slow computer",
-    "title": "Show HN: Getting GLM 5.2 running on my slow computer",
-    "score": 839,
-    "source": "Hacker News",
-    "timestamp": "2026-07-11T05:12:21.849663"
-  },
-  {
-    "key": "2026-07-11:Hacker News:Show HN: 18 Words",
-    "title": "Show HN: 18 Words",
-    "score": 1091,
-    "source": "Hacker News",
-    "timestamp": "2026-07-11T05:12:21.849667"
-  },
-  {
-    "key": "2026-07-11:Hacker News:GPT-5.6",
-    "title": "GPT-5.6",
-    "score": 1521,
-    "source": "Hacker News",
-    "timestamp": "2026-07-11T05:12:21.849671"
-  },
-  {
     "key": "2026-07-11:Hacker News:EU Parliament greenlights Chat Control 1.0",
     "title": "EU Parliament greenlights Chat Control 1.0",
     "score": 1589,
@@ -698,5 +677,26 @@
     "score": 1099,
     "source": "Hacker News",
     "timestamp": "2026-07-24T08:29:20.478807"
+  },
+  {
+    "key": "2026-07-24:Hacker News:Claude Opus 5",
+    "title": "Claude Opus 5",
+    "score": 704,
+    "source": "Hacker News",
+    "timestamp": "2026-07-24T19:10:16.258475"
+  },
+  {
+    "key": "2026-07-24:Hacker News:It's getting harder to focus every day",
+    "title": "It's getting harder to focus every day",
+    "score": 608,
+    "source": "Hacker News",
+    "timestamp": "2026-07-24T19:10:16.258490"
+  },
+  {
+    "key": "2026-07-24:Hacker News:Flux 3",
+    "title": "Flux 3",
+    "score": 521,
+    "source": "Hacker News",
+    "timestamp": "2026-07-24T19:10:16.258496"
   }
 ]

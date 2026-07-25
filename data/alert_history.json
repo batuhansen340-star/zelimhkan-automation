@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-07-13:Hacker News:Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-    "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-    "score": 529,
-    "source": "Hacker News",
-    "timestamp": "2026-07-13T12:23:24.298553"
-  },
-  {
-    "key": "2026-07-14:Hacker News:Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-    "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-    "score": 528,
-    "source": "Hacker News",
-    "timestamp": "2026-07-14T08:08:17.014466"
-  },
-  {
     "key": "2026-07-14:Hacker News:Japan develops a method to recover up to 90% of lithium from used EV batteries",
     "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
     "score": 531,
@@ -698,5 +684,19 @@
     "score": 519,
     "source": "Hacker News",
     "timestamp": "2026-07-25T10:58:26.522446"
+  },
+  {
+    "key": "2026-07-25:Hacker News:Android May Soon Restrict On-Device ADB",
+    "title": "Android May Soon Restrict On-Device ADB",
+    "score": 542,
+    "source": "Hacker News",
+    "timestamp": "2026-07-25T14:53:34.711470"
+  },
+  {
+    "key": "2026-07-25:Hacker News:Be skeptical of OpenAI's rogue hacker agent story",
+    "title": "Be skeptical of OpenAI's rogue hacker agent story",
+    "score": 511,
+    "source": "Hacker News",
+    "timestamp": "2026-07-25T14:53:34.711503"
   }
 ]

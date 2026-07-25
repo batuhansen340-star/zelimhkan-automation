@@ -1,40 +1,5 @@
 [
   {
-    "key": "2026-07-11:Hacker News:EU Parliament greenlights Chat Control 1.0",
-    "title": "EU Parliament greenlights Chat Control 1.0",
-    "score": 1589,
-    "source": "Hacker News",
-    "timestamp": "2026-07-11T05:12:21.849675"
-  },
-  {
-    "key": "2026-07-11:Hacker News:New York City to ban deceptive subscription practices",
-    "title": "New York City to ban deceptive subscription practices",
-    "score": 502,
-    "source": "Hacker News",
-    "timestamp": "2026-07-11T07:58:40.092794"
-  },
-  {
-    "key": "2026-07-11:Hacker News:Good Tools Are Invisible",
-    "title": "Good Tools Are Invisible",
-    "score": 523,
-    "source": "Hacker News",
-    "timestamp": "2026-07-11T18:43:33.601241"
-  },
-  {
-    "key": "2026-07-12:Hacker News:Show HN: Getting GLM 5.2 running on my slow computer",
-    "title": "Show HN: Getting GLM 5.2 running on my slow computer",
-    "score": 896,
-    "source": "Hacker News",
-    "timestamp": "2026-07-12T05:26:55.255911"
-  },
-  {
-    "key": "2026-07-12:Hacker News:QuadRF can spot drones and see WiFi through my wall",
-    "title": "QuadRF can spot drones and see WiFi through my wall",
-    "score": 734,
-    "source": "Hacker News",
-    "timestamp": "2026-07-12T08:20:16.884951"
-  },
-  {
     "key": "2026-07-13:Hacker News:Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
     "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
     "score": 528,
@@ -698,5 +663,40 @@
     "score": 521,
     "source": "Hacker News",
     "timestamp": "2026-07-24T19:10:16.258496"
+  },
+  {
+    "key": "2026-07-25:Hacker News:Claude Opus 5",
+    "title": "Claude Opus 5",
+    "score": 1409,
+    "source": "Hacker News",
+    "timestamp": "2026-07-25T05:13:31.795564"
+  },
+  {
+    "key": "2026-07-25:Hacker News:India's first privately-developed rocket reaches orbit on debut launch",
+    "title": "India's first privately-developed rocket reaches orbit on debut launch",
+    "score": 552,
+    "source": "Hacker News",
+    "timestamp": "2026-07-25T05:13:31.795579"
+  },
+  {
+    "key": "2026-07-25:Hacker News:My security camera shipped a GitHub admin token in its login page",
+    "title": "My security camera shipped a GitHub admin token in its login page",
+    "score": 544,
+    "source": "Hacker News",
+    "timestamp": "2026-07-25T05:13:31.795585"
+  },
+  {
+    "key": "2026-07-25:Hacker News:If coding has been solved, why does software keep getting worse?",
+    "title": "If coding has been solved, why does software keep getting worse?",
+    "score": 646,
+    "source": "Hacker News",
+    "timestamp": "2026-07-25T05:13:31.795591"
+  },
+  {
+    "key": "2026-07-25:Hacker News:Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+    "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+    "score": 565,
+    "source": "Hacker News",
+    "timestamp": "2026-07-25T05:13:31.795597"
   }
 ]

@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-07-14:Hacker News:Japan develops a method to recover up to 90% of lithium from used EV batteries",
-    "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
-    "score": 531,
-    "source": "Hacker News",
-    "timestamp": "2026-07-14T11:13:51.548520"
-  },
-  {
     "key": "2026-07-14:Hacker News:Your 'app' could have been a webpage (so I fixed it for you)",
     "title": "Your 'app' could have been a webpage (so I fixed it for you)",
     "score": 503,
@@ -698,5 +691,12 @@
     "score": 511,
     "source": "Hacker News",
     "timestamp": "2026-07-25T14:53:34.711503"
+  },
+  {
+    "key": "2026-07-25:Hacker News:Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
+    "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
+    "score": 531,
+    "source": "Hacker News",
+    "timestamp": "2026-07-25T18:51:18.195689"
   }
 ]

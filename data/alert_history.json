@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-07-13:Hacker News:Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-    "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-    "score": 528,
-    "source": "Hacker News",
-    "timestamp": "2026-07-13T05:36:02.927161"
-  },
-  {
     "key": "2026-07-13:Hacker News:Ask HN: Add flag for AI-generated articles",
     "title": "Ask HN: Add flag for AI-generated articles",
     "score": 651,
@@ -698,5 +691,12 @@
     "score": 565,
     "source": "Hacker News",
     "timestamp": "2026-07-25T05:13:31.795597"
+  },
+  {
+    "key": "2026-07-25:Hacker News:Writing by hand is good for your brain",
+    "title": "Writing by hand is good for your brain",
+    "score": 1442,
+    "source": "Hacker News",
+    "timestamp": "2026-07-25T08:07:55.045461"
   }
 ]

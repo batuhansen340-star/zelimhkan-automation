@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-07-15:Hacker News:Bonsai 27B: A 27B-Class model that runs on a phone",
-    "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
-    "score": 564,
-    "source": "Hacker News",
-    "timestamp": "2026-07-15T08:13:53.109655"
-  },
-  {
     "key": "2026-07-15:Hacker News:How to stop Claude from saying load-bearing",
     "title": "How to stop Claude from saying load-bearing",
     "score": 517,
@@ -698,5 +691,12 @@
     "score": 916,
     "source": "Hacker News",
     "timestamp": "2026-07-26T08:27:39.386664"
+  },
+  {
+    "key": "2026-07-26:Hacker News:Kill The Cookie Banner",
+    "title": "Kill The Cookie Banner",
+    "score": 746,
+    "source": "Hacker News",
+    "timestamp": "2026-07-26T22:59:58.110125"
   }
 ]

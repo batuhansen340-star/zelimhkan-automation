@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-07-14:Hacker News:Your 'app' could have been a webpage (so I fixed it for you)",
-    "title": "Your 'app' could have been a webpage (so I fixed it for you)",
-    "score": 503,
-    "source": "Hacker News",
-    "timestamp": "2026-07-14T19:00:31.228799"
-  },
-  {
     "key": "2026-07-15:Hacker News:Your 'app' could have been a webpage (so I fixed it for you)",
     "title": "Your 'app' could have been a webpage (so I fixed it for you)",
     "score": 759,
@@ -698,5 +691,12 @@
     "score": 531,
     "source": "Hacker News",
     "timestamp": "2026-07-25T18:51:18.195689"
+  },
+  {
+    "key": "2026-07-26:Hacker News:Android May Soon Restrict On-Device ADB",
+    "title": "Android May Soon Restrict On-Device ADB",
+    "score": 898,
+    "source": "Hacker News",
+    "timestamp": "2026-07-26T05:30:49.063190"
   }
 ]

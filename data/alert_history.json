@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-07-15:Hacker News:How to stop Claude from saying load-bearing",
-    "title": "How to stop Claude from saying load-bearing",
-    "score": 517,
-    "source": "Hacker News",
-    "timestamp": "2026-07-15T08:13:53.109680"
-  },
-  {
     "key": "2026-07-15:Hacker News:European \"age verification\" \"app\" forcing everyone to use Android or iOS",
     "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
     "score": 521,
@@ -698,5 +691,12 @@
     "score": 746,
     "source": "Hacker News",
     "timestamp": "2026-07-26T22:59:58.110125"
+  },
+  {
+    "key": "2026-07-27:Hacker News:Kill The Cookie Banner",
+    "title": "Kill The Cookie Banner",
+    "score": 902,
+    "source": "Hacker News",
+    "timestamp": "2026-07-27T05:48:54.732779"
   }
 ]

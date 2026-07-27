@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-07-15:Hacker News:Sleep regularity is a stronger predictor of mortality risk than sleep duration (",
-    "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
-    "score": 571,
-    "source": "Hacker News",
-    "timestamp": "2026-07-15T18:53:45.040657"
-  },
-  {
     "key": "2026-07-15:Hacker News:Inkling: Our Open-Weights Model",
     "title": "Inkling: Our Open-Weights Model",
     "score": 520,
@@ -698,5 +691,12 @@
     "score": 516,
     "source": "Hacker News",
     "timestamp": "2026-07-27T12:46:03.129572"
+  },
+  {
+    "key": "2026-07-27:Hacker News:AI companies are shredding rare books",
+    "title": "AI companies are shredding rare books",
+    "score": 568,
+    "source": "Hacker News",
+    "timestamp": "2026-07-27T16:05:26.905986"
   }
 ]

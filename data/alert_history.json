@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-07-15:Hacker News:European \"age verification\" \"app\" forcing everyone to use Android or iOS",
-    "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
-    "score": 521,
-    "source": "Hacker News",
-    "timestamp": "2026-07-15T08:13:53.109691"
-  },
-  {
-    "key": "2026-07-15:Hacker News:Jurassic Park computers in excruciating detail",
-    "title": "Jurassic Park computers in excruciating detail",
-    "score": 513,
-    "source": "Hacker News",
-    "timestamp": "2026-07-15T11:17:19.426286"
-  },
-  {
     "key": "2026-07-15:Hacker News:I tricked Claude into leaking your deepest, darkest secrets",
     "title": "I tricked Claude into leaking your deepest, darkest secrets",
     "score": 507,
@@ -698,5 +684,19 @@
     "score": 902,
     "source": "Hacker News",
     "timestamp": "2026-07-27T05:48:54.732779"
+  },
+  {
+    "key": "2026-07-27:Hacker News:PGSimCity - How PostgreSQL Works",
+    "title": "PGSimCity - How PostgreSQL Works",
+    "score": 589,
+    "source": "Hacker News",
+    "timestamp": "2026-07-27T09:54:33.714377"
+  },
+  {
+    "key": "2026-07-27:Hacker News:US citizen charged after GrapheneOS phone wipes during airport search",
+    "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+    "score": 760,
+    "source": "Hacker News",
+    "timestamp": "2026-07-27T09:54:33.714390"
   }
 ]

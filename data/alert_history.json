@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-07-15:Hacker News:Inkling: Our Open-Weights Model",
-    "title": "Inkling: Our Open-Weights Model",
-    "score": 520,
-    "source": "Hacker News",
-    "timestamp": "2026-07-15T22:59:12.845349"
-  },
-  {
     "key": "2026-07-16:Hacker News:Inkling: Our Open-Weights Model",
     "title": "Inkling: Our Open-Weights Model",
     "score": 827,
@@ -698,5 +691,12 @@
     "score": 568,
     "source": "Hacker News",
     "timestamp": "2026-07-27T16:05:26.905986"
+  },
+  {
+    "key": "2026-07-27:Hacker News:Kimi-K3 on HuggingFace",
+    "title": "Kimi-K3 on HuggingFace",
+    "score": 1125,
+    "source": "Hacker News",
+    "timestamp": "2026-07-27T19:10:05.945774"
   }
 ]

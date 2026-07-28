@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-07-16:Hacker News:Grok Build is open source",
-    "title": "Grok Build is open source",
-    "score": 539,
-    "source": "Hacker News",
-    "timestamp": "2026-07-16T15:23:50.112469"
-  },
-  {
     "key": "2026-07-16:Hacker News:Kimi K3 is now live",
     "title": "Kimi K3 is now live",
     "score": 546,
@@ -698,5 +691,12 @@
     "score": 626,
     "source": "Hacker News",
     "timestamp": "2026-07-28T15:56:38.309842"
+  },
+  {
+    "key": "2026-07-28:Hacker News:New HIV vaccine shows unprecedented success in preclinical study",
+    "title": "New HIV vaccine shows unprecedented success in preclinical study",
+    "score": 518,
+    "source": "Hacker News",
+    "timestamp": "2026-07-28T23:01:32.114770"
   }
 ]

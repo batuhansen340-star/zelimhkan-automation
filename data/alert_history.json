@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-07-16:Hacker News:Inkling: Our Open-Weights Model",
-    "title": "Inkling: Our Open-Weights Model",
-    "score": 827,
-    "source": "Hacker News",
-    "timestamp": "2026-07-16T05:09:15.508644"
-  },
-  {
     "key": "2026-07-16:Hacker News:Sleep regularity is a stronger predictor of mortality risk than sleep duration (",
     "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
     "score": 676,
@@ -698,5 +691,12 @@
     "score": 1125,
     "source": "Hacker News",
     "timestamp": "2026-07-27T19:10:05.945774"
+  },
+  {
+    "key": "2026-07-28:Hacker News:Our position on open-weights models",
+    "title": "Our position on open-weights models",
+    "score": 652,
+    "source": "Hacker News",
+    "timestamp": "2026-07-28T05:13:23.685676"
   }
 ]

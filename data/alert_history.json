@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-07-17:Hacker News:Kimi K3: Open Frontier Intelligence",
-    "title": "Kimi K3: Open Frontier Intelligence",
-    "score": 1374,
-    "source": "Hacker News",
-    "timestamp": "2026-07-17T05:12:33.935562"
-  },
-  {
     "key": "2026-07-17:Hacker News:Microsoft Comic Chat is now open source",
     "title": "Microsoft Comic Chat is now open source",
     "score": 604,
@@ -698,5 +691,12 @@
     "score": 520,
     "source": "Hacker News",
     "timestamp": "2026-07-29T08:42:49.956297"
+  },
+  {
+    "key": "2026-07-29:Hacker News:Codex Security",
+    "title": "Codex Security",
+    "score": 520,
+    "source": "Hacker News",
+    "timestamp": "2026-07-29T11:51:17.603800"
   }
 ]

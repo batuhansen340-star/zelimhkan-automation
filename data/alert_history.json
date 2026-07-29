@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-07-17:Hacker News:Microsoft Comic Chat is now open source",
-    "title": "Microsoft Comic Chat is now open source",
-    "score": 604,
-    "source": "Hacker News",
-    "timestamp": "2026-07-17T05:12:33.935585"
-  },
-  {
     "key": "2026-07-17:Hacker News:Sony deletes more movies from the accounts of people who ‘bought’ them",
     "title": "Sony deletes more movies from the accounts of people who ‘bought’ them",
     "score": 616,
@@ -698,5 +691,12 @@
     "score": 520,
     "source": "Hacker News",
     "timestamp": "2026-07-29T11:51:17.603800"
+  },
+  {
+    "key": "2026-07-29:Hacker News:KOReader",
+    "title": "KOReader",
+    "score": 558,
+    "source": "Hacker News",
+    "timestamp": "2026-07-29T18:54:58.798763"
   }
 ]

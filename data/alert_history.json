@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-07-16:Hacker News:Sony deletes more movies from the accounts of people who ‘bought’ them",
-    "title": "Sony deletes more movies from the accounts of people who ‘bought’ them",
-    "score": 567,
-    "source": "Hacker News",
-    "timestamp": "2026-07-16T22:58:32.644343"
-  },
-  {
     "key": "2026-07-17:Hacker News:Kimi K3: Open Frontier Intelligence",
     "title": "Kimi K3: Open Frontier Intelligence",
     "score": 1374,
@@ -698,5 +691,12 @@
     "score": 547,
     "source": "Hacker News",
     "timestamp": "2026-07-29T05:20:17.723211"
+  },
+  {
+    "key": "2026-07-29:Hacker News:Substack writers, you need a website",
+    "title": "Substack writers, you need a website",
+    "score": 520,
+    "source": "Hacker News",
+    "timestamp": "2026-07-29T08:42:49.956297"
   }
 ]

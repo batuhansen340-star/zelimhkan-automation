@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-07-17:Hacker News:The lost joy of music piracy",
-    "title": "The lost joy of music piracy",
-    "score": 780,
-    "source": "Hacker News",
-    "timestamp": "2026-07-17T05:12:33.935598"
-  },
-  {
-    "key": "2026-07-17:Hacker News:OnePlus halts operations in USA and Europe",
-    "title": "OnePlus halts operations in USA and Europe",
-    "score": 550,
-    "source": "Hacker News",
-    "timestamp": "2026-07-17T05:12:33.935604"
-  },
-  {
-    "key": "2026-07-17:Hacker News:Decoy Font",
-    "title": "Decoy Font",
-    "score": 528,
-    "source": "Hacker News",
-    "timestamp": "2026-07-17T08:11:58.309511"
-  },
-  {
     "key": "2026-07-17:Hacker News:AWS: Inaccurate Estimated Billing Data – $1.7 billion",
     "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
     "score": 742,
@@ -698,5 +677,26 @@
     "score": 594,
     "source": "Hacker News",
     "timestamp": "2026-07-29T23:00:07.822262"
+  },
+  {
+    "key": "2026-07-30:Hacker News:Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+    "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+    "score": 706,
+    "source": "Hacker News",
+    "timestamp": "2026-07-30T04:57:00.426376"
+  },
+  {
+    "key": "2026-07-30:Hacker News:Superlogical",
+    "title": "Superlogical",
+    "score": 587,
+    "source": "Hacker News",
+    "timestamp": "2026-07-30T04:57:00.426390"
+  },
+  {
+    "key": "2026-07-30:Hacker News:KOReader",
+    "title": "KOReader",
+    "score": 687,
+    "source": "Hacker News",
+    "timestamp": "2026-07-30T04:57:00.426397"
   }
 ]

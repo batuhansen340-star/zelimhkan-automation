@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-07-19:Hacker News:GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-    "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-    "score": 531,
-    "source": "Hacker News",
-    "timestamp": "2026-07-19T05:21:54.383553"
-  },
-  {
     "key": "2026-07-19:Hacker News:LG monitors silently install software through Windows Update without consent",
     "title": "LG monitors silently install software through Windows Update without consent",
     "score": 1065,
@@ -698,5 +691,12 @@
     "score": 537,
     "source": "Hacker News",
     "timestamp": "2026-07-31T05:34:02.322449"
+  },
+  {
+    "key": "2026-07-31:Hacker News:The session you cannot take with you",
+    "title": "The session you cannot take with you",
+    "score": 646,
+    "source": "Hacker News",
+    "timestamp": "2026-07-31T15:51:46.726666"
   }
 ]

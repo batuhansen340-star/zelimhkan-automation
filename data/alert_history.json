@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-07-19:Hacker News:LG monitors silently install software through Windows Update without consent",
-    "title": "LG monitors silently install software through Windows Update without consent",
-    "score": 1065,
-    "source": "Hacker News",
-    "timestamp": "2026-07-19T05:21:54.383570"
-  },
-  {
     "key": "2026-07-19:Hacker News:Regressive JPEGs",
     "title": "Regressive JPEGs",
     "score": 666,
@@ -698,5 +691,12 @@
     "score": 646,
     "source": "Hacker News",
     "timestamp": "2026-07-31T15:51:46.726666"
+  },
+  {
+    "key": "2026-07-31:Hacker News:DeepSeek-V4-Flash Update",
+    "title": "DeepSeek-V4-Flash Update",
+    "score": 600,
+    "source": "Hacker News",
+    "timestamp": "2026-07-31T19:06:07.397379"
   }
 ]

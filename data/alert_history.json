@@ -1,40 +1,5 @@
 [
   {
-    "key": "2026-07-19:Hacker News:Transcribe.cpp",
-    "title": "Transcribe.cpp",
-    "score": 550,
-    "source": "Hacker News",
-    "timestamp": "2026-07-19T11:02:11.330139"
-  },
-  {
-    "key": "2026-07-19:Hacker News:The Kimi K3 Moment",
-    "title": "The Kimi K3 Moment",
-    "score": 527,
-    "source": "Hacker News",
-    "timestamp": "2026-07-19T14:44:57.077879"
-  },
-  {
-    "key": "2026-07-19:Hacker News:NYC may require landlords and realtors to disclose the use of AI in listings",
-    "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
-    "score": 527,
-    "source": "Hacker News",
-    "timestamp": "2026-07-19T14:44:57.077892"
-  },
-  {
-    "key": "2026-07-19:Hacker News:Qwen 3.8",
-    "title": "Qwen 3.8",
-    "score": 601,
-    "source": "Hacker News",
-    "timestamp": "2026-07-19T18:48:43.641502"
-  },
-  {
-    "key": "2026-07-19:Hacker News:Speech Recognition and TTS in less than 500kb",
-    "title": "Speech Recognition and TTS in less than 500kb",
-    "score": 533,
-    "source": "Hacker News",
-    "timestamp": "2026-07-19T18:48:43.641518"
-  },
-  {
     "key": "2026-07-19:Hacker News:Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
     "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
     "score": 1112,
@@ -698,5 +663,40 @@
     "score": 506,
     "source": "Hacker News",
     "timestamp": "2026-07-31T23:03:10.804342"
+  },
+  {
+    "key": "2026-08-01:Hacker News:Elevators",
+    "title": "Elevators",
+    "score": 1085,
+    "source": "Hacker News",
+    "timestamp": "2026-08-01T05:25:36.264802"
+  },
+  {
+    "key": "2026-08-01:Hacker News:qm – Multiplayer agent harness for work",
+    "title": "qm – Multiplayer agent harness for work",
+    "score": 521,
+    "source": "Hacker News",
+    "timestamp": "2026-08-01T05:25:36.264814"
+  },
+  {
+    "key": "2026-08-01:Hacker News:Tailscale didn't stop the Hugging Face intrusion",
+    "title": "Tailscale didn't stop the Hugging Face intrusion",
+    "score": 504,
+    "source": "Hacker News",
+    "timestamp": "2026-08-01T05:25:36.264820"
+  },
+  {
+    "key": "2026-08-01:Hacker News:DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+    "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+    "score": 542,
+    "source": "Hacker News",
+    "timestamp": "2026-08-01T05:25:36.264825"
+  },
+  {
+    "key": "2026-08-01:Hacker News:DeepSeek-V4-Flash Update",
+    "title": "DeepSeek-V4-Flash Update",
+    "score": 684,
+    "source": "Hacker News",
+    "timestamp": "2026-08-01T05:25:36.264830"
   }
 ]

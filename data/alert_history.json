@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-07-20:Hacker News:Transcribe.cpp",
-    "title": "Transcribe.cpp",
-    "score": 731,
-    "source": "Hacker News",
-    "timestamp": "2026-07-20T05:38:14.857983"
-  },
-  {
     "key": "2026-07-20:Hacker News:Claude Code uses Bun written in Rust now",
     "title": "Claude Code uses Bun written in Rust now",
     "score": 510,
@@ -698,5 +691,12 @@
     "score": 513,
     "source": "Hacker News",
     "timestamp": "2026-08-02T08:25:42.022626"
+  },
+  {
+    "key": "2026-08-03:Hacker News:Karpathy’s Pelican",
+    "title": "Karpathy’s Pelican",
+    "score": 515,
+    "source": "Hacker News",
+    "timestamp": "2026-08-03T05:40:21.457514"
   }
 ]

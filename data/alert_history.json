@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-07-20:Hacker News:China's open-weights AI strategy is winning",
-    "title": "China's open-weights AI strategy is winning",
-    "score": 531,
-    "source": "Hacker News",
-    "timestamp": "2026-07-20T19:23:29.064104"
-  },
-  {
     "key": "2026-07-20:Hacker News:Airport Simulator",
     "title": "Airport Simulator",
     "score": 507,
@@ -698,5 +691,12 @@
     "score": 554,
     "source": "Hacker News",
     "timestamp": "2026-08-03T09:48:26.004228"
+  },
+  {
+    "key": "2026-08-03:Hacker News:Critical CVE issued for hallucinated SQLite vulnerability",
+    "title": "Critical CVE issued for hallucinated SQLite vulnerability",
+    "score": 526,
+    "source": "Hacker News",
+    "timestamp": "2026-08-03T16:12:27.300071"
   }
 ]

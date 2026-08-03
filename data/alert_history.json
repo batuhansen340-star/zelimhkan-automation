@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-07-20:Hacker News:Airport Simulator",
-    "title": "Airport Simulator",
-    "score": 507,
-    "source": "Hacker News",
-    "timestamp": "2026-07-20T19:23:29.064118"
-  },
-  {
     "key": "2026-07-20:Hacker News:China’s open-weights AI strategy is winning",
     "title": "China’s open-weights AI strategy is winning",
     "score": 867,
@@ -698,5 +691,12 @@
     "score": 526,
     "source": "Hacker News",
     "timestamp": "2026-08-03T16:12:27.300071"
+  },
+  {
+    "key": "2026-08-03:Hacker News:SQLite Critical CVEs or LLM Slop?",
+    "title": "SQLite Critical CVEs or LLM Slop?",
+    "score": 663,
+    "source": "Hacker News",
+    "timestamp": "2026-08-03T19:17:15.285533"
   }
 ]

@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-07-21:Hacker News:The EU is about to sell our most sensitive data to the US for visa-free travel",
-    "title": "The EU is about to sell our most sensitive data to the US for visa-free travel",
-    "score": 500,
-    "source": "Hacker News",
-    "timestamp": "2026-07-21T08:31:24.296055"
-  },
-  {
-    "key": "2026-07-21:Hacker News:Jelly UI: Soft-body physics for native HTML form controls",
-    "title": "Jelly UI: Soft-body physics for native HTML form controls",
-    "score": 529,
-    "source": "Hacker News",
-    "timestamp": "2026-07-21T11:39:25.879432"
-  },
-  {
     "key": "2026-07-21:Hacker News:Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
     "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
     "score": 564,
@@ -698,5 +684,19 @@
     "score": 577,
     "source": "Hacker News",
     "timestamp": "2026-08-04T16:03:47.843931"
+  },
+  {
+    "key": "2026-08-04:Hacker News:In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+    "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+    "score": 688,
+    "source": "Hacker News",
+    "timestamp": "2026-08-04T23:04:46.216420"
+  },
+  {
+    "key": "2026-08-04:Hacker News:Xbox goes down. You can't play games you own on disc",
+    "title": "Xbox goes down. You can't play games you own on disc",
+    "score": 554,
+    "source": "Hacker News",
+    "timestamp": "2026-08-04T23:04:46.216447"
   }
 ]

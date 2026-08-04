@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-07-21:Hacker News:Kimi Work",
-    "title": "Kimi Work",
-    "score": 526,
-    "source": "Hacker News",
-    "timestamp": "2026-07-21T08:31:24.296030"
-  },
-  {
     "key": "2026-07-21:Hacker News:The EU is about to sell our most sensitive data to the US for visa-free travel",
     "title": "The EU is about to sell our most sensitive data to the US for visa-free travel",
     "score": 500,
@@ -698,5 +691,12 @@
     "score": 501,
     "source": "Hacker News",
     "timestamp": "2026-08-04T11:52:10.204968"
+  },
+  {
+    "key": "2026-08-04:Hacker News:AI-Generated Images Discourage Me from Reading Your Blog",
+    "title": "AI-Generated Images Discourage Me from Reading Your Blog",
+    "score": 577,
+    "source": "Hacker News",
+    "timestamp": "2026-08-04T16:03:47.843931"
   }
 ]

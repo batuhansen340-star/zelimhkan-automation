@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-07-21:Hacker News:Who's afraid of Chinese models?",
-    "title": "Who's afraid of Chinese models?",
-    "score": 596,
-    "source": "Hacker News",
-    "timestamp": "2026-07-21T08:31:24.296014"
-  },
-  {
     "key": "2026-07-21:Hacker News:Kimi Work",
     "title": "Kimi Work",
     "score": 526,
@@ -698,5 +691,12 @@
     "score": 517,
     "source": "Hacker News",
     "timestamp": "2026-08-04T08:38:24.967267"
+  },
+  {
+    "key": "2026-08-04:Hacker News:Prevent cognitive debt by manually retyping LLM-generated code",
+    "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+    "score": 501,
+    "source": "Hacker News",
+    "timestamp": "2026-08-04T11:52:10.204968"
   }
 ]

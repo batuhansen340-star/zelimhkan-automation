@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-07-21:Hacker News:Claude Fable produced a counterexample to the Jacobian Conjecture",
-    "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
-    "score": 720,
-    "source": "Hacker News",
-    "timestamp": "2026-07-21T05:19:17.654795"
-  },
-  {
-    "key": "2026-07-21:Hacker News:Airport Simulator",
-    "title": "Airport Simulator",
-    "score": 765,
-    "source": "Hacker News",
-    "timestamp": "2026-07-21T05:19:17.654801"
-  },
-  {
     "key": "2026-07-21:Hacker News:Who's afraid of Chinese models?",
     "title": "Who's afraid of Chinese models?",
     "score": 596,
@@ -698,5 +684,19 @@
     "score": 706,
     "source": "Hacker News",
     "timestamp": "2026-08-04T05:13:37.488174"
+  },
+  {
+    "key": "2026-08-04:Hacker News:Ten advances in mathematics and theoretical computer science",
+    "title": "Ten advances in mathematics and theoretical computer science",
+    "score": 531,
+    "source": "Hacker News",
+    "timestamp": "2026-08-04T08:38:24.967248"
+  },
+  {
+    "key": "2026-08-04:Hacker News:More German than many Germans",
+    "title": "More German than many Germans",
+    "score": 517,
+    "source": "Hacker News",
+    "timestamp": "2026-08-04T08:38:24.967267"
   }
 ]

@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-07-21:Hacker News:Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-    "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-    "score": 564,
-    "source": "Hacker News",
-    "timestamp": "2026-07-21T22:59:19.896387"
-  },
-  {
-    "key": "2026-07-21:Hacker News:Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
-    "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
-    "score": 527,
-    "source": "Hacker News",
-    "timestamp": "2026-07-21T22:59:19.896400"
-  },
-  {
-    "key": "2026-07-22:Hacker News:OpenAI and Hugging Face address security incident during model evaluation",
-    "title": "OpenAI and Hugging Face address security incident during model evaluation",
-    "score": 894,
-    "source": "Hacker News",
-    "timestamp": "2026-07-22T05:18:12.980342"
-  },
-  {
     "key": "2026-07-22:Hacker News:Advertise in ChatGPT",
     "title": "Advertise in ChatGPT",
     "score": 542,
@@ -698,5 +677,26 @@
     "score": 554,
     "source": "Hacker News",
     "timestamp": "2026-08-04T23:04:46.216447"
+  },
+  {
+    "key": "2026-08-05:Hacker News:In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+    "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+    "score": 1156,
+    "source": "Hacker News",
+    "timestamp": "2026-08-05T05:13:23.247829"
+  },
+  {
+    "key": "2026-08-05:Hacker News:Xbox goes down. You can't play games you own on disc",
+    "title": "Xbox goes down. You can't play games you own on disc",
+    "score": 608,
+    "source": "Hacker News",
+    "timestamp": "2026-08-05T05:13:23.247849"
+  },
+  {
+    "key": "2026-08-05:Hacker News:LLMs reward expertise",
+    "title": "LLMs reward expertise",
+    "score": 1338,
+    "source": "Hacker News",
+    "timestamp": "2026-08-05T05:13:23.247860"
   }
 ]

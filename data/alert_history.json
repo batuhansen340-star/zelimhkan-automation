@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-07-22:Hacker News:Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
-    "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
-    "score": 553,
-    "source": "Hacker News",
-    "timestamp": "2026-07-22T05:18:12.980370"
-  },
-  {
-    "key": "2026-07-22:Hacker News:Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
-    "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
-    "score": 582,
-    "source": "Hacker News",
-    "timestamp": "2026-07-22T08:31:14.172076"
-  },
-  {
-    "key": "2026-07-22:Hacker News:FreeInk: Open ecosystem for e-readers",
-    "title": "FreeInk: Open ecosystem for e-readers",
-    "score": 540,
-    "source": "Hacker News",
-    "timestamp": "2026-07-22T08:31:14.172091"
-  },
-  {
     "key": "2026-07-22:Hacker News:'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
     "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
     "score": 534,
@@ -698,5 +677,26 @@
     "score": 506,
     "source": "Hacker News",
     "timestamp": "2026-08-05T23:01:56.517498"
+  },
+  {
+    "key": "2026-08-06:Hacker News:Discovery Loop",
+    "title": "Discovery Loop",
+    "score": 664,
+    "source": "Hacker News",
+    "timestamp": "2026-08-06T05:15:10.412934"
+  },
+  {
+    "key": "2026-08-06:Hacker News:Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+    "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+    "score": 562,
+    "source": "Hacker News",
+    "timestamp": "2026-08-06T05:15:10.412956"
+  },
+  {
+    "key": "2026-08-06:Hacker News:Cloudflare OS: an open platform for agents, apps, and work",
+    "title": "Cloudflare OS: an open platform for agents, apps, and work",
+    "score": 513,
+    "source": "Hacker News",
+    "timestamp": "2026-08-06T05:15:10.412963"
   }
 ]

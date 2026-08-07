@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-07-23:Hacker News:GigaToken: ~1000x faster Language model tokenization",
-    "title": "GigaToken: ~1000x faster Language model tokenization",
-    "score": 528,
-    "source": "Hacker News",
-    "timestamp": "2026-07-23T11:43:04.774807"
-  },
-  {
-    "key": "2026-07-23:Hacker News:So Reddit has decided that plain HTML is unsafe",
-    "title": "So Reddit has decided that plain HTML is unsafe",
-    "score": 504,
-    "source": "Hacker News",
-    "timestamp": "2026-07-23T11:43:04.774819"
-  },
-  {
     "key": "2026-07-23:Hacker News:Everyone should know SIMD",
     "title": "Everyone should know SIMD",
     "score": 570,
@@ -698,5 +684,19 @@
     "score": 502,
     "source": "Hacker News",
     "timestamp": "2026-08-07T10:38:50.854119"
+  },
+  {
+    "key": "2026-08-07:Hacker News:US strikes $1.2B deal to pay German firm to halt offshore wind projects",
+    "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
+    "score": 625,
+    "source": "Hacker News",
+    "timestamp": "2026-08-07T14:42:59.254247"
+  },
+  {
+    "key": "2026-08-07:Hacker News:Taste Is All That's Left",
+    "title": "Taste Is All That's Left",
+    "score": 549,
+    "source": "Hacker News",
+    "timestamp": "2026-08-07T14:42:59.254275"
   }
 ]

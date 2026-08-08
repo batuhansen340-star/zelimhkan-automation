@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-07-23:Hacker News:Writing by hand is good for your brain",
-    "title": "Writing by hand is good for your brain",
-    "score": 544,
-    "source": "Hacker News",
-    "timestamp": "2026-07-23T18:57:27.744406"
-  },
-  {
-    "key": "2026-07-23:Hacker News:Startup founders urge U.S. government not to shut off Chinese open weight AI",
-    "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-    "score": 644,
-    "source": "Hacker News",
-    "timestamp": "2026-07-23T22:57:52.891780"
-  },
-  {
-    "key": "2026-07-23:Hacker News:AI Companies Are Trying to Hide a Staggering Amount of Debt",
-    "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
-    "score": 560,
-    "source": "Hacker News",
-    "timestamp": "2026-07-23T22:57:52.891790"
-  },
-  {
-    "key": "2026-07-24:Hacker News:Writing by hand is good for your brain",
-    "title": "Writing by hand is good for your brain",
-    "score": 1121,
-    "source": "Hacker News",
-    "timestamp": "2026-07-24T05:18:41.532526"
-  },
-  {
     "key": "2026-07-24:Hacker News:Startup founders urge U.S. government not to shut off Chinese open weight AI",
     "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
     "score": 816,
@@ -698,5 +670,33 @@
     "score": 633,
     "source": "Hacker News",
     "timestamp": "2026-08-07T18:38:04.251648"
+  },
+  {
+    "key": "2026-08-08:Hacker News:New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+    "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+    "score": 738,
+    "source": "Hacker News",
+    "timestamp": "2026-08-08T03:23:19.461721"
+  },
+  {
+    "key": "2026-08-08:Hacker News:AMD acquires Taalas to boost inference performance by etching models in silicon",
+    "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+    "score": 894,
+    "source": "Hacker News",
+    "timestamp": "2026-08-08T03:23:19.461735"
+  },
+  {
+    "key": "2026-08-08:Hacker News:Mario Meets Pareto",
+    "title": "Mario Meets Pareto",
+    "score": 1143,
+    "source": "Hacker News",
+    "timestamp": "2026-08-08T03:23:19.461749"
+  },
+  {
+    "key": "2026-08-08:Hacker News:Taste Is All That's Left",
+    "title": "Taste Is All That's Left",
+    "score": 655,
+    "source": "Hacker News",
+    "timestamp": "2026-08-08T03:23:19.461754"
   }
 ]

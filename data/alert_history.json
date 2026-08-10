@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-07-25:Hacker News:Android May Soon Restrict On-Device ADB",
-    "title": "Android May Soon Restrict On-Device ADB",
-    "score": 542,
-    "source": "Hacker News",
-    "timestamp": "2026-07-25T14:53:34.711470"
-  },
-  {
     "key": "2026-07-25:Hacker News:Be skeptical of OpenAI's rogue hacker agent story",
     "title": "Be skeptical of OpenAI's rogue hacker agent story",
     "score": 511,
@@ -698,5 +691,12 @@
     "score": 531,
     "source": "Hacker News",
     "timestamp": "2026-08-10T18:41:03.515745"
+  },
+  {
+    "key": "2026-08-10:Hacker News:Tl;dv: Over 180k meetings left wide open",
+    "title": "Tl;dv: Over 180k meetings left wide open",
+    "score": 501,
+    "source": "Hacker News",
+    "timestamp": "2026-08-10T22:39:13.025671"
   }
 ]

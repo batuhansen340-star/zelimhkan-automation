@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-07-25:Hacker News:Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-    "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-    "score": 565,
-    "source": "Hacker News",
-    "timestamp": "2026-07-25T05:13:31.795597"
-  },
-  {
     "key": "2026-07-25:Hacker News:Writing by hand is good for your brain",
     "title": "Writing by hand is good for your brain",
     "score": 1442,
@@ -698,5 +691,12 @@
     "score": 504,
     "source": "Hacker News",
     "timestamp": "2026-08-10T07:43:52.931808"
+  },
+  {
+    "key": "2026-08-10:Hacker News:Windows 11's built-in Weather app wastes more than 1 GB of RAM",
+    "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
+    "score": 559,
+    "source": "Hacker News",
+    "timestamp": "2026-08-10T10:53:17.549546"
   }
 ]

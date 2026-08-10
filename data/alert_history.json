@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-07-25:Hacker News:My security camera shipped a GitHub admin token in its login page",
-    "title": "My security camera shipped a GitHub admin token in its login page",
-    "score": 544,
-    "source": "Hacker News",
-    "timestamp": "2026-07-25T05:13:31.795585"
-  },
-  {
-    "key": "2026-07-25:Hacker News:If coding has been solved, why does software keep getting worse?",
-    "title": "If coding has been solved, why does software keep getting worse?",
-    "score": 646,
-    "source": "Hacker News",
-    "timestamp": "2026-07-25T05:13:31.795591"
-  },
-  {
     "key": "2026-07-25:Hacker News:Nvidia, Microsoft, Meta warn against overregulating open-weight models",
     "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
     "score": 565,
@@ -698,5 +684,19 @@
     "score": 573,
     "source": "Hacker News",
     "timestamp": "2026-08-10T03:52:14.200888"
+  },
+  {
+    "key": "2026-08-10:Hacker News:How I use LLMs to learn complex topics",
+    "title": "How I use LLMs to learn complex topics",
+    "score": 598,
+    "source": "Hacker News",
+    "timestamp": "2026-08-10T07:43:52.931788"
+  },
+  {
+    "key": "2026-08-10:Hacker News:My server is a phone now",
+    "title": "My server is a phone now",
+    "score": 504,
+    "source": "Hacker News",
+    "timestamp": "2026-08-10T07:43:52.931808"
   }
 ]

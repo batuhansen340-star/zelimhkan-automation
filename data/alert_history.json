@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-07-25:Hacker News:Writing by hand is good for your brain",
-    "title": "Writing by hand is good for your brain",
-    "score": 1442,
-    "source": "Hacker News",
-    "timestamp": "2026-07-25T08:07:55.045461"
-  },
-  {
-    "key": "2026-07-25:Hacker News:I regret migrating to Codeberg",
-    "title": "I regret migrating to Codeberg",
-    "score": 519,
-    "source": "Hacker News",
-    "timestamp": "2026-07-25T10:58:26.522446"
-  },
-  {
     "key": "2026-07-25:Hacker News:Android May Soon Restrict On-Device ADB",
     "title": "Android May Soon Restrict On-Device ADB",
     "score": 542,
@@ -698,5 +684,19 @@
     "score": 559,
     "source": "Hacker News",
     "timestamp": "2026-08-10T10:53:17.549546"
+  },
+  {
+    "key": "2026-08-10:Hacker News:Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+    "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+    "score": 800,
+    "source": "Hacker News",
+    "timestamp": "2026-08-10T18:41:03.515731"
+  },
+  {
+    "key": "2026-08-10:Hacker News:Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+    "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+    "score": 531,
+    "source": "Hacker News",
+    "timestamp": "2026-08-10T18:41:03.515745"
   }
 ]

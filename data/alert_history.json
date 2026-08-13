@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-07-29:Hacker News:Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-    "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-    "score": 594,
-    "source": "Hacker News",
-    "timestamp": "2026-07-29T23:00:07.822262"
-  },
-  {
-    "key": "2026-07-30:Hacker News:Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-    "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-    "score": 706,
-    "source": "Hacker News",
-    "timestamp": "2026-07-30T04:57:00.426376"
-  },
-  {
     "key": "2026-07-30:Hacker News:Superlogical",
     "title": "Superlogical",
     "score": 587,
@@ -698,5 +684,19 @@
     "score": 513,
     "source": "Hacker News",
     "timestamp": "2026-08-13T07:35:51.128761"
+  },
+  {
+    "key": "2026-08-13:Hacker News:Tracking down the 16-year-old WAL-reset SQLite bug",
+    "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
+    "score": 1056,
+    "source": "Hacker News",
+    "timestamp": "2026-08-13T10:48:02.766766"
+  },
+  {
+    "key": "2026-08-13:Hacker News:uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
+    "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
+    "score": 528,
+    "source": "Hacker News",
+    "timestamp": "2026-08-13T10:48:02.766784"
   }
 ]

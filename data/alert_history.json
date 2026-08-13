@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-07-29:Hacker News:Substack writers, you need a website",
-    "title": "Substack writers, you need a website",
-    "score": 520,
-    "source": "Hacker News",
-    "timestamp": "2026-07-29T08:42:49.956297"
-  },
-  {
-    "key": "2026-07-29:Hacker News:Codex Security",
-    "title": "Codex Security",
-    "score": 520,
-    "source": "Hacker News",
-    "timestamp": "2026-07-29T11:51:17.603800"
-  },
-  {
-    "key": "2026-07-29:Hacker News:KOReader",
-    "title": "KOReader",
-    "score": 558,
-    "source": "Hacker News",
-    "timestamp": "2026-07-29T18:54:58.798763"
-  },
-  {
     "key": "2026-07-29:Hacker News:Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
     "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
     "score": 594,
@@ -698,5 +677,26 @@
     "score": 560,
     "source": "Hacker News",
     "timestamp": "2026-08-13T04:10:18.086951"
+  },
+  {
+    "key": "2026-08-13:Hacker News:We tracked down the 16-year-old WAL-reset SQLite bug",
+    "title": "We tracked down the 16-year-old WAL-reset SQLite bug",
+    "score": 986,
+    "source": "Hacker News",
+    "timestamp": "2026-08-13T07:35:51.128742"
+  },
+  {
+    "key": "2026-08-13:Hacker News:Delta",
+    "title": "Delta",
+    "score": 514,
+    "source": "Hacker News",
+    "timestamp": "2026-08-13T07:35:51.128751"
+  },
+  {
+    "key": "2026-08-13:Hacker News:Grok 4.6",
+    "title": "Grok 4.6",
+    "score": 513,
+    "source": "Hacker News",
+    "timestamp": "2026-08-13T07:35:51.128761"
   }
 ]

@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-07-30:Hacker News:Superlogical",
-    "title": "Superlogical",
-    "score": 587,
-    "source": "Hacker News",
-    "timestamp": "2026-07-30T04:57:00.426390"
-  },
-  {
     "key": "2026-07-30:Hacker News:KOReader",
     "title": "KOReader",
     "score": 687,
@@ -698,5 +691,12 @@
     "score": 528,
     "source": "Hacker News",
     "timestamp": "2026-08-13T10:48:02.766784"
+  },
+  {
+    "key": "2026-08-13:Hacker News:2026 Eclipse Webcams",
+    "title": "2026 Eclipse Webcams",
+    "score": 502,
+    "source": "Hacker News",
+    "timestamp": "2026-08-13T14:48:33.763631"
   }
 ]

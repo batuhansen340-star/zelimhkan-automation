@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-07-31:Hacker News:Gemini Robotics 2 brings whole body intelligence to robots",
-    "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-    "score": 516,
-    "source": "Hacker News",
-    "timestamp": "2026-07-31T05:34:02.322439"
-  },
-  {
     "key": "2026-07-31:Hacker News:UEFA and its national associations will not participate in FIFA competitions",
     "title": "UEFA and its national associations will not participate in FIFA competitions",
     "score": 890,
@@ -698,5 +691,12 @@
     "score": 547,
     "source": "Hacker News",
     "timestamp": "2026-08-14T07:26:02.582485"
+  },
+  {
+    "key": "2026-08-14:Hacker News:GLM-5.3: Frontier coding with emergent cyber capabilities",
+    "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+    "score": 523,
+    "source": "Hacker News",
+    "timestamp": "2026-08-14T10:44:16.250121"
   }
 ]

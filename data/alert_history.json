@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-07-31:Hacker News:UEFA and its national associations will not participate in FIFA competitions",
-    "title": "UEFA and its national associations will not participate in FIFA competitions",
-    "score": 890,
-    "source": "Hacker News",
-    "timestamp": "2026-07-31T05:34:02.322444"
-  },
-  {
     "key": "2026-07-31:Hacker News:Advancing the price-performance frontier with GPT‑5.6",
     "title": "Advancing the price-performance frontier with GPT‑5.6",
     "score": 537,
@@ -698,5 +691,12 @@
     "score": 523,
     "source": "Hacker News",
     "timestamp": "2026-08-14T10:44:16.250121"
+  },
+  {
+    "key": "2026-08-14:Hacker News:Every Fucking Website (2020)",
+    "title": "Every Fucking Website (2020)",
+    "score": 576,
+    "source": "Hacker News",
+    "timestamp": "2026-08-14T18:39:07.575342"
   }
 ]

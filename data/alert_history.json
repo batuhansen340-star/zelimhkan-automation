@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-07-30:Hacker News:AI's top startups are barely publishing their research",
-    "title": "AI's top startups are barely publishing their research",
-    "score": 506,
-    "source": "Hacker News",
-    "timestamp": "2026-07-30T11:42:41.676817"
-  },
-  {
-    "key": "2026-07-30:Hacker News:UEFA and its national associations will not participate in FIFA competitions",
-    "title": "UEFA and its national associations will not participate in FIFA competitions",
-    "score": 640,
-    "source": "Hacker News",
-    "timestamp": "2026-07-30T23:09:37.055390"
-  },
-  {
-    "key": "2026-07-31:Hacker News:Read this before you buy that TV streaming stick",
-    "title": "Read this before you buy that TV streaming stick",
-    "score": 647,
-    "source": "Hacker News",
-    "timestamp": "2026-07-31T05:34:02.322418"
-  },
-  {
     "key": "2026-07-31:Hacker News:Stacked PRs are now live on GitHub",
     "title": "Stacked PRs are now live on GitHub",
     "score": 554,
@@ -698,5 +677,26 @@
     "score": 519,
     "source": "Hacker News",
     "timestamp": "2026-08-13T22:44:00.851959"
+  },
+  {
+    "key": "2026-08-14:Hacker News:Gemini 3.7 Flash",
+    "title": "Gemini 3.7 Flash",
+    "score": 674,
+    "source": "Hacker News",
+    "timestamp": "2026-08-14T04:06:38.610950"
+  },
+  {
+    "key": "2026-08-14:Hacker News:DeepSeek Harness developer preview",
+    "title": "DeepSeek Harness developer preview",
+    "score": 587,
+    "source": "Hacker News",
+    "timestamp": "2026-08-14T04:06:38.610965"
+  },
+  {
+    "key": "2026-08-14:Hacker News:Spaghettifying DRAM",
+    "title": "Spaghettifying DRAM",
+    "score": 529,
+    "source": "Hacker News",
+    "timestamp": "2026-08-14T04:06:38.610971"
   }
 ]

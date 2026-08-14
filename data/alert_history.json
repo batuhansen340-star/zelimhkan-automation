@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-07-31:Hacker News:Advancing the price-performance frontier with GPT‑5.6",
-    "title": "Advancing the price-performance frontier with GPT‑5.6",
-    "score": 537,
-    "source": "Hacker News",
-    "timestamp": "2026-07-31T05:34:02.322449"
-  },
-  {
-    "key": "2026-07-31:Hacker News:The session you cannot take with you",
-    "title": "The session you cannot take with you",
-    "score": 646,
-    "source": "Hacker News",
-    "timestamp": "2026-07-31T15:51:46.726666"
-  },
-  {
     "key": "2026-07-31:Hacker News:DeepSeek-V4-Flash Update",
     "title": "DeepSeek-V4-Flash Update",
     "score": 600,
@@ -698,5 +684,19 @@
     "score": 576,
     "source": "Hacker News",
     "timestamp": "2026-08-14T18:39:07.575342"
+  },
+  {
+    "key": "2026-08-14:Hacker News:Qwen 3.8 27B",
+    "title": "Qwen 3.8 27B",
+    "score": 751,
+    "source": "Hacker News",
+    "timestamp": "2026-08-14T22:24:57.892996"
+  },
+  {
+    "key": "2026-08-14:Hacker News:Why does Opus 5 feel worse to work with?",
+    "title": "Why does Opus 5 feel worse to work with?",
+    "score": 686,
+    "source": "Hacker News",
+    "timestamp": "2026-08-14T22:24:57.893008"
   }
 ]

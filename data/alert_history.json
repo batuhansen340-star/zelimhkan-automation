@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-08-01:Hacker News:qm – Multiplayer agent harness for work",
-    "title": "qm – Multiplayer agent harness for work",
-    "score": 521,
-    "source": "Hacker News",
-    "timestamp": "2026-08-01T05:25:36.264814"
-  },
-  {
     "key": "2026-08-01:Hacker News:Tailscale didn't stop the Hugging Face intrusion",
     "title": "Tailscale didn't stop the Hugging Face intrusion",
     "score": 504,
@@ -698,5 +691,12 @@
     "score": 755,
     "source": "Hacker News",
     "timestamp": "2026-08-15T02:49:30.231190"
+  },
+  {
+    "key": "2026-08-15:Hacker News:Firefox is now the last major browser that still supports uBlock Origin",
+    "title": "Firefox is now the last major browser that still supports uBlock Origin",
+    "score": 759,
+    "source": "Hacker News",
+    "timestamp": "2026-08-15T06:39:42.911032"
   }
 ]

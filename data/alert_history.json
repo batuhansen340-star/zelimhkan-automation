@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-08-01:Hacker News:Tailscale didn't stop the Hugging Face intrusion",
-    "title": "Tailscale didn't stop the Hugging Face intrusion",
-    "score": 504,
-    "source": "Hacker News",
-    "timestamp": "2026-08-01T05:25:36.264820"
-  },
-  {
     "key": "2026-08-01:Hacker News:DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
     "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
     "score": 542,
@@ -698,5 +691,12 @@
     "score": 759,
     "source": "Hacker News",
     "timestamp": "2026-08-15T06:39:42.911032"
+  },
+  {
+    "key": "2026-08-15:Hacker News:Gemini 3.7 Flash",
+    "title": "Gemini 3.7 Flash",
+    "score": 952,
+    "source": "Hacker News",
+    "timestamp": "2026-08-15T10:09:16.481154"
   }
 ]

@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-08-01:Hacker News:DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
-    "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
-    "score": 542,
-    "source": "Hacker News",
-    "timestamp": "2026-08-01T05:25:36.264825"
-  },
-  {
     "key": "2026-08-01:Hacker News:DeepSeek-V4-Flash Update",
     "title": "DeepSeek-V4-Flash Update",
     "score": 684,
@@ -698,5 +691,12 @@
     "score": 952,
     "source": "Hacker News",
     "timestamp": "2026-08-15T10:09:16.481154"
+  },
+  {
+    "key": "2026-08-16:Hacker News:Qwen 3.8 27B",
+    "title": "Qwen 3.8 27B",
+    "score": 1361,
+    "source": "Hacker News",
+    "timestamp": "2026-08-16T02:57:15.144424"
   }
 ]

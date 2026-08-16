@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-08-02:Hacker News:Show HN: Elevators",
-    "title": "Show HN: Elevators",
-    "score": 1586,
-    "source": "Hacker News",
-    "timestamp": "2026-08-02T05:25:28.897744"
-  },
-  {
     "key": "2026-08-02:Hacker News:How Google helped destroy adoption of RSS feeds (2023)",
     "title": "How Google helped destroy adoption of RSS feeds (2023)",
     "score": 513,
@@ -698,5 +691,12 @@
     "score": 1145,
     "source": "Hacker News",
     "timestamp": "2026-08-16T10:09:13.590778"
+  },
+  {
+    "key": "2026-08-16:Hacker News:Asus Bike Booster",
+    "title": "Asus Bike Booster",
+    "score": 507,
+    "source": "Hacker News",
+    "timestamp": "2026-08-16T14:11:18.041283"
   }
 ]

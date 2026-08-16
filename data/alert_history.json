@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-08-01:Hacker News:DeepSeek-V4-Flash Update",
-    "title": "DeepSeek-V4-Flash Update",
-    "score": 684,
-    "source": "Hacker News",
-    "timestamp": "2026-08-01T05:25:36.264830"
-  },
-  {
-    "key": "2026-08-01:Hacker News:Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-    "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-    "score": 501,
-    "source": "Hacker News",
-    "timestamp": "2026-08-01T08:22:54.390156"
-  },
-  {
     "key": "2026-08-02:Hacker News:Show HN: Elevators",
     "title": "Show HN: Elevators",
     "score": 1586,
@@ -698,5 +684,19 @@
     "score": 1361,
     "source": "Hacker News",
     "timestamp": "2026-08-16T02:57:15.144424"
+  },
+  {
+    "key": "2026-08-16:Hacker News:AI has access to a vastly larger working memory than the human brain",
+    "title": "AI has access to a vastly larger working memory than the human brain",
+    "score": 500,
+    "source": "Hacker News",
+    "timestamp": "2026-08-16T10:09:13.590753"
+  },
+  {
+    "key": "2026-08-16:Hacker News:GLM-5.3: Frontier coding with emergent cyber capabilities",
+    "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+    "score": 1145,
+    "source": "Hacker News",
+    "timestamp": "2026-08-16T10:09:13.590778"
   }
 ]

@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-08-03:Hacker News:SQLite Critical CVEs or LLM Slop?",
-    "title": "SQLite Critical CVEs or LLM Slop?",
-    "score": 663,
-    "source": "Hacker News",
-    "timestamp": "2026-08-03T19:17:15.285533"
-  },
-  {
-    "key": "2026-08-04:Hacker News:LLMs reward expertise",
-    "title": "LLMs reward expertise",
-    "score": 659,
-    "source": "Hacker News",
-    "timestamp": "2026-08-04T05:13:37.488143"
-  },
-  {
     "key": "2026-08-04:Hacker News:Devtools must be open source",
     "title": "Devtools must be open source",
     "score": 548,
@@ -698,5 +684,19 @@
     "score": 517,
     "source": "Hacker News",
     "timestamp": "2026-08-17T10:17:52.510176"
+  },
+  {
+    "key": "2026-08-17:Hacker News:Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+    "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+    "score": 646,
+    "source": "Hacker News",
+    "timestamp": "2026-08-17T14:15:41.124808"
+  },
+  {
+    "key": "2026-08-17:Hacker News:Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
+    "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
+    "score": 502,
+    "source": "Hacker News",
+    "timestamp": "2026-08-17T14:15:41.124820"
   }
 ]

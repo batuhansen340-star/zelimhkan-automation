@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-08-03:Hacker News:Qwen3.8-Max: A New Bar for Coding and Cowork",
-    "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-    "score": 554,
-    "source": "Hacker News",
-    "timestamp": "2026-08-03T09:48:26.004228"
-  },
-  {
-    "key": "2026-08-03:Hacker News:Critical CVE issued for hallucinated SQLite vulnerability",
-    "title": "Critical CVE issued for hallucinated SQLite vulnerability",
-    "score": 526,
-    "source": "Hacker News",
-    "timestamp": "2026-08-03T16:12:27.300071"
-  },
-  {
     "key": "2026-08-03:Hacker News:SQLite Critical CVEs or LLM Slop?",
     "title": "SQLite Critical CVEs or LLM Slop?",
     "score": 663,
@@ -698,5 +684,19 @@
     "score": 553,
     "source": "Hacker News",
     "timestamp": "2026-08-17T02:57:15.780544"
+  },
+  {
+    "key": "2026-08-17:Hacker News:A third world engineer responds to “RISC-V: They should have known better”",
+    "title": "A third world engineer responds to “RISC-V: They should have known better”",
+    "score": 514,
+    "source": "Hacker News",
+    "timestamp": "2026-08-17T10:17:52.510160"
+  },
+  {
+    "key": "2026-08-17:Hacker News:Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+    "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+    "score": 517,
+    "source": "Hacker News",
+    "timestamp": "2026-08-17T10:17:52.510176"
   }
 ]

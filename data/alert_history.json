@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-08-03:Hacker News:Karpathy’s Pelican",
-    "title": "Karpathy’s Pelican",
-    "score": 515,
-    "source": "Hacker News",
-    "timestamp": "2026-08-03T05:40:21.457514"
-  },
-  {
-    "key": "2026-08-03:Hacker News:Don't be a meat proxy",
-    "title": "Don't be a meat proxy",
-    "score": 514,
-    "source": "Hacker News",
-    "timestamp": "2026-08-03T09:48:26.004210"
-  },
-  {
     "key": "2026-08-03:Hacker News:Qwen3.8-Max: A New Bar for Coding and Cowork",
     "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
     "score": 554,
@@ -698,5 +684,19 @@
     "score": 559,
     "source": "Hacker News",
     "timestamp": "2026-08-16T18:12:37.028562"
+  },
+  {
+    "key": "2026-08-17:Hacker News:Claude: System Prompts",
+    "title": "Claude: System Prompts",
+    "score": 561,
+    "source": "Hacker News",
+    "timestamp": "2026-08-17T02:57:15.780529"
+  },
+  {
+    "key": "2026-08-17:Hacker News:Firefox for iOS now has a native adblocker",
+    "title": "Firefox for iOS now has a native adblocker",
+    "score": 553,
+    "source": "Hacker News",
+    "timestamp": "2026-08-17T02:57:15.780544"
   }
 ]

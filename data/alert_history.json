@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-08-04:Hacker News:Devtools must be open source",
-    "title": "Devtools must be open source",
-    "score": 548,
-    "source": "Hacker News",
-    "timestamp": "2026-08-04T05:13:37.488162"
-  },
-  {
     "key": "2026-08-04:Hacker News:Qwen3.8-Max: A New Bar for Coding and Cowork",
     "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
     "score": 1064,
@@ -698,5 +691,12 @@
     "score": 502,
     "source": "Hacker News",
     "timestamp": "2026-08-17T14:15:41.124820"
+  },
+  {
+    "key": "2026-08-17:Hacker News:Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
+    "title": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
+    "score": 682,
+    "source": "Hacker News",
+    "timestamp": "2026-08-17T18:21:37.974589"
   }
 ]

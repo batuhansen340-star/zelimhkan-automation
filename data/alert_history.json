@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-08-05:Hacker News:Xbox goes down. You can't play games you own on disc",
-    "title": "Xbox goes down. You can't play games you own on disc",
-    "score": 608,
-    "source": "Hacker News",
-    "timestamp": "2026-08-05T05:13:23.247849"
-  },
-  {
     "key": "2026-08-05:Hacker News:LLMs reward expertise",
     "title": "LLMs reward expertise",
     "score": 1338,
@@ -698,5 +691,12 @@
     "score": 501,
     "source": "Hacker News",
     "timestamp": "2026-08-18T14:20:30.662382"
+  },
+  {
+    "key": "2026-08-18:Hacker News:The Amazon tax",
+    "title": "The Amazon tax",
+    "score": 528,
+    "source": "Hacker News",
+    "timestamp": "2026-08-18T18:20:36.792422"
   }
 ]

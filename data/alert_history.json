@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-08-06:Hacker News:Crime Pays but Botany Doesn't",
-    "title": "Crime Pays but Botany Doesn't",
-    "score": 642,
-    "source": "Hacker News",
-    "timestamp": "2026-08-06T23:48:38.656073"
-  },
-  {
-    "key": "2026-08-06:Hacker News:Zed DeltaDB",
-    "title": "Zed DeltaDB",
-    "score": 518,
-    "source": "Hacker News",
-    "timestamp": "2026-08-06T23:48:38.656079"
-  },
-  {
     "key": "2026-08-07:Hacker News:Mario Meets Pareto",
     "title": "Mario Meets Pareto",
     "score": 861,
@@ -698,5 +684,19 @@
     "score": 513,
     "source": "Hacker News",
     "timestamp": "2026-08-19T06:45:41.522081"
+  },
+  {
+    "key": "2026-08-19:Hacker News:OpenLogi",
+    "title": "OpenLogi",
+    "score": 685,
+    "source": "Hacker News",
+    "timestamp": "2026-08-19T10:14:23.048147"
+  },
+  {
+    "key": "2026-08-19:Hacker News:Being ambitious and being a dad",
+    "title": "Being ambitious and being a dad",
+    "score": 501,
+    "source": "Hacker News",
+    "timestamp": "2026-08-19T10:14:23.048161"
   }
 ]

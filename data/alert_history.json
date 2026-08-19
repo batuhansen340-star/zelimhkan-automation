@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-08-06:Hacker News:Cloudflare OS: an open platform for agents, apps, and work",
-    "title": "Cloudflare OS: an open platform for agents, apps, and work",
-    "score": 513,
-    "source": "Hacker News",
-    "timestamp": "2026-08-06T05:15:10.412963"
-  },
-  {
-    "key": "2026-08-06:Hacker News:Mario Meets Pareto",
-    "title": "Mario Meets Pareto",
-    "score": 840,
-    "source": "Hacker News",
-    "timestamp": "2026-08-06T23:48:38.656060"
-  },
-  {
     "key": "2026-08-06:Hacker News:Crime Pays but Botany Doesn't",
     "title": "Crime Pays but Botany Doesn't",
     "score": 642,
@@ -698,5 +684,19 @@
     "score": 743,
     "source": "Hacker News",
     "timestamp": "2026-08-19T02:54:52.721533"
+  },
+  {
+    "key": "2026-08-19:Hacker News:Cursor launches Origin, GitHub alternative",
+    "title": "Cursor launches Origin, GitHub alternative",
+    "score": 547,
+    "source": "Hacker News",
+    "timestamp": "2026-08-19T06:45:41.522040"
+  },
+  {
+    "key": "2026-08-19:Hacker News:Beware Management Consultants",
+    "title": "Beware Management Consultants",
+    "score": 513,
+    "source": "Hacker News",
+    "timestamp": "2026-08-19T06:45:41.522081"
   }
 ]

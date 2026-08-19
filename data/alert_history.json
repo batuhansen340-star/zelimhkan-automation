@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-08-07:Hacker News:Mario Meets Pareto",
-    "title": "Mario Meets Pareto",
-    "score": 861,
-    "source": "Hacker News",
-    "timestamp": "2026-08-07T01:29:57.389004"
-  },
-  {
-    "key": "2026-08-07:Hacker News:Crime Pays but Botany Doesn't",
-    "title": "Crime Pays but Botany Doesn't",
-    "score": 652,
-    "source": "Hacker News",
-    "timestamp": "2026-08-07T01:29:57.389017"
-  },
-  {
     "key": "2026-08-07:Hacker News:Discovery Loop",
     "title": "Discovery Loop",
     "score": 913,
@@ -698,5 +684,19 @@
     "score": 501,
     "source": "Hacker News",
     "timestamp": "2026-08-19T10:14:23.048161"
+  },
+  {
+    "key": "2026-08-19:Hacker News:A joke domain purchase turned in geopolitical warfare",
+    "title": "A joke domain purchase turned in geopolitical warfare",
+    "score": 681,
+    "source": "Hacker News",
+    "timestamp": "2026-08-19T22:26:31.613858"
+  },
+  {
+    "key": "2026-08-19:Hacker News:Devices with GrapheneOS support should be available in 2027",
+    "title": "Devices with GrapheneOS support should be available in 2027",
+    "score": 564,
+    "source": "Hacker News",
+    "timestamp": "2026-08-19T22:26:31.613874"
   }
 ]

@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-08-07:Hacker News:New Mexico court orders Meta to pay $567m over harms to children’s mental health",
-    "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
-    "score": 633,
-    "source": "Hacker News",
-    "timestamp": "2026-08-07T18:38:04.251648"
-  },
-  {
     "key": "2026-08-08:Hacker News:New Mexico court orders Meta to pay $567m over harms to children’s mental health",
     "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
     "score": 738,
@@ -698,5 +691,12 @@
     "score": 576,
     "source": "Hacker News",
     "timestamp": "2026-08-20T02:54:30.803759"
+  },
+  {
+    "key": "2026-08-20:Hacker News:Go 1.27",
+    "title": "Go 1.27",
+    "score": 578,
+    "source": "Hacker News",
+    "timestamp": "2026-08-20T06:48:37.326178"
   }
 ]

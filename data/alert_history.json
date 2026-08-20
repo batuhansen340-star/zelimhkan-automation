@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-08-08:Hacker News:New Mexico court orders Meta to pay $567m over harms to children’s mental health",
-    "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
-    "score": 738,
-    "source": "Hacker News",
-    "timestamp": "2026-08-08T03:23:19.461721"
-  },
-  {
     "key": "2026-08-08:Hacker News:AMD acquires Taalas to boost inference performance by etching models in silicon",
     "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
     "score": 894,
@@ -698,5 +691,12 @@
     "score": 578,
     "source": "Hacker News",
     "timestamp": "2026-08-20T06:48:37.326178"
+  },
+  {
+    "key": "2026-08-20:Hacker News:Google has stopped pushing Git tags for some Android source code",
+    "title": "Google has stopped pushing Git tags for some Android source code",
+    "score": 570,
+    "source": "Hacker News",
+    "timestamp": "2026-08-20T10:15:58.292304"
   }
 ]

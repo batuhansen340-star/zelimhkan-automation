@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-08-08:Hacker News:Taste Is All That's Left",
-    "title": "Taste Is All That's Left",
-    "score": 655,
-    "source": "Hacker News",
-    "timestamp": "2026-08-08T03:23:19.461754"
-  },
-  {
     "key": "2026-08-08:Hacker News:DeepSeek V4 Flash 0731",
     "title": "DeepSeek V4 Flash 0731",
     "score": 562,
@@ -698,5 +691,12 @@
     "score": 510,
     "source": "Hacker News",
     "timestamp": "2026-08-20T14:23:23.938504"
+  },
+  {
+    "key": "2026-08-20:Hacker News:AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+    "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+    "score": 683,
+    "source": "Hacker News",
+    "timestamp": "2026-08-20T18:22:00.318375"
   }
 ]

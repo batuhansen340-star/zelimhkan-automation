@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-08-08:Hacker News:AMD acquires Taalas to boost inference performance by etching models in silicon",
-    "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-    "score": 894,
-    "source": "Hacker News",
-    "timestamp": "2026-08-08T03:23:19.461735"
-  },
-  {
-    "key": "2026-08-08:Hacker News:Mario Meets Pareto",
-    "title": "Mario Meets Pareto",
-    "score": 1143,
-    "source": "Hacker News",
-    "timestamp": "2026-08-08T03:23:19.461749"
-  },
-  {
     "key": "2026-08-08:Hacker News:Taste Is All That's Left",
     "title": "Taste Is All That's Left",
     "score": 655,
@@ -698,5 +684,19 @@
     "score": 570,
     "source": "Hacker News",
     "timestamp": "2026-08-20T10:15:58.292304"
+  },
+  {
+    "key": "2026-08-20:Hacker News:Don't Paste the AI, please",
+    "title": "Don't Paste the AI, please",
+    "score": 847,
+    "source": "Hacker News",
+    "timestamp": "2026-08-20T14:23:23.938469"
+  },
+  {
+    "key": "2026-08-20:Hacker News:Geolocating a random island using geometry and CUDA programming",
+    "title": "Geolocating a random island using geometry and CUDA programming",
+    "score": 510,
+    "source": "Hacker News",
+    "timestamp": "2026-08-20T14:23:23.938504"
   }
 ]

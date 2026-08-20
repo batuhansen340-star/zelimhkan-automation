@@ -1,47 +1,5 @@
 [
   {
-    "key": "2026-08-07:Hacker News:Discovery Loop",
-    "title": "Discovery Loop",
-    "score": 913,
-    "source": "Hacker News",
-    "timestamp": "2026-08-07T01:29:57.389023"
-  },
-  {
-    "key": "2026-08-07:Hacker News:Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-    "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-    "score": 827,
-    "source": "Hacker News",
-    "timestamp": "2026-08-07T01:29:57.389029"
-  },
-  {
-    "key": "2026-08-07:Hacker News:AMD acquires Taalas to boost inference performance by etching models in silicon",
-    "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-    "score": 580,
-    "source": "Hacker News",
-    "timestamp": "2026-08-07T07:17:40.353241"
-  },
-  {
-    "key": "2026-08-07:Hacker News:Qwen3.8 Max now ranked as the best overall model by agentic index",
-    "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
-    "score": 502,
-    "source": "Hacker News",
-    "timestamp": "2026-08-07T10:38:50.854119"
-  },
-  {
-    "key": "2026-08-07:Hacker News:US strikes $1.2B deal to pay German firm to halt offshore wind projects",
-    "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
-    "score": 625,
-    "source": "Hacker News",
-    "timestamp": "2026-08-07T14:42:59.254247"
-  },
-  {
-    "key": "2026-08-07:Hacker News:Taste Is All That's Left",
-    "title": "Taste Is All That's Left",
-    "score": 549,
-    "source": "Hacker News",
-    "timestamp": "2026-08-07T14:42:59.254275"
-  },
-  {
     "key": "2026-08-07:Hacker News:New Mexico court orders Meta to pay $567m over harms to children’s mental health",
     "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
     "score": 633,
@@ -698,5 +656,47 @@
     "score": 564,
     "source": "Hacker News",
     "timestamp": "2026-08-19T22:26:31.613874"
+  },
+  {
+    "key": "2026-08-20:Hacker News:OpenRouter is joining Stripe",
+    "title": "OpenRouter is joining Stripe",
+    "score": 673,
+    "source": "Hacker News",
+    "timestamp": "2026-08-20T02:54:30.803727"
+  },
+  {
+    "key": "2026-08-20:Hacker News:A joke domain purchase turned in geopolitical warfare",
+    "title": "A joke domain purchase turned in geopolitical warfare",
+    "score": 780,
+    "source": "Hacker News",
+    "timestamp": "2026-08-20T02:54:30.803744"
+  },
+  {
+    "key": "2026-08-20:Hacker News:Remote workers report the highest well-being in study of 7,700 employees",
+    "title": "Remote workers report the highest well-being in study of 7,700 employees",
+    "score": 517,
+    "source": "Hacker News",
+    "timestamp": "2026-08-20T02:54:30.803749"
+  },
+  {
+    "key": "2026-08-20:Hacker News:OpenLogi",
+    "title": "OpenLogi",
+    "score": 1517,
+    "source": "Hacker News",
+    "timestamp": "2026-08-20T02:54:30.803752"
+  },
+  {
+    "key": "2026-08-20:Hacker News:Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma",
+    "title": "Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma",
+    "score": 525,
+    "source": "Hacker News",
+    "timestamp": "2026-08-20T02:54:30.803756"
+  },
+  {
+    "key": "2026-08-20:Hacker News:Devices with GrapheneOS support should be available in 2027",
+    "title": "Devices with GrapheneOS support should be available in 2027",
+    "score": 576,
+    "source": "Hacker News",
+    "timestamp": "2026-08-20T02:54:30.803759"
   }
 ]

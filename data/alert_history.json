@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-08-10:Hacker News:How I use LLMs to learn complex topics",
-    "title": "How I use LLMs to learn complex topics",
-    "score": 598,
-    "source": "Hacker News",
-    "timestamp": "2026-08-10T07:43:52.931788"
-  },
-  {
-    "key": "2026-08-10:Hacker News:My server is a phone now",
-    "title": "My server is a phone now",
-    "score": 504,
-    "source": "Hacker News",
-    "timestamp": "2026-08-10T07:43:52.931808"
-  },
-  {
-    "key": "2026-08-10:Hacker News:Windows 11's built-in Weather app wastes more than 1 GB of RAM",
-    "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
-    "score": 559,
-    "source": "Hacker News",
-    "timestamp": "2026-08-10T10:53:17.549546"
-  },
-  {
-    "key": "2026-08-10:Hacker News:Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
-    "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
-    "score": 800,
-    "source": "Hacker News",
-    "timestamp": "2026-08-10T18:41:03.515731"
-  },
-  {
     "key": "2026-08-10:Hacker News:Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
     "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
     "score": 531,
@@ -698,5 +670,33 @@
     "score": 549,
     "source": "Hacker News",
     "timestamp": "2026-08-21T18:20:41.732822"
+  },
+  {
+    "key": "2026-08-22:Hacker News:Felony Bench",
+    "title": "Felony Bench",
+    "score": 555,
+    "source": "Hacker News",
+    "timestamp": "2026-08-22T02:51:54.777041"
+  },
+  {
+    "key": "2026-08-22:Hacker News:Kagi added a setting for removing paywalled links from search results",
+    "title": "Kagi added a setting for removing paywalled links from search results",
+    "score": 1028,
+    "source": "Hacker News",
+    "timestamp": "2026-08-22T02:51:54.777062"
+  },
+  {
+    "key": "2026-08-22:Hacker News:Felony charges for citizen deleting phone data at US Border",
+    "title": "Felony charges for citizen deleting phone data at US Border",
+    "score": 601,
+    "source": "Hacker News",
+    "timestamp": "2026-08-22T02:51:54.777069"
+  },
+  {
+    "key": "2026-08-22:Hacker News:AI companies destroy physical books – let's scan rare books before it's too late",
+    "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+    "score": 537,
+    "source": "Hacker News",
+    "timestamp": "2026-08-22T02:51:54.777075"
   }
 ]

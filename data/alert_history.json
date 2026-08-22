@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-08-11:Hacker News:Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
-    "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
-    "score": 1060,
-    "source": "Hacker News",
-    "timestamp": "2026-08-11T03:41:54.453839"
-  },
-  {
     "key": "2026-08-11:Hacker News:Tl;dv: Over 180k meetings left wide open",
     "title": "Tl;dv: Over 180k meetings left wide open",
     "score": 551,
@@ -698,5 +691,12 @@
     "score": 551,
     "source": "Hacker News",
     "timestamp": "2026-08-22T10:09:16.137898"
+  },
+  {
+    "key": "2026-08-22:Hacker News:There's no reason for software to be slow anymore",
+    "title": "There's no reason for software to be slow anymore",
+    "score": 522,
+    "source": "Hacker News",
+    "timestamp": "2026-08-22T14:09:36.673026"
   }
 ]

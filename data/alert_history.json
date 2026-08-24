@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-08-12:Hacker News:Stealing Reasoning Traces from Proprietary LLM APIs",
-    "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-    "score": 541,
-    "source": "Hacker News",
-    "timestamp": "2026-08-12T04:05:26.613072"
-  },
-  {
     "key": "2026-08-12:Hacker News:England set to be one of the first countries to eliminate hepatitis C",
     "title": "England set to be one of the first countries to eliminate hepatitis C",
     "score": 500,
@@ -698,5 +691,12 @@
     "score": 532,
     "source": "Hacker News",
     "timestamp": "2026-08-24T10:24:12.645694"
+  },
+  {
+    "key": "2026-08-24:Hacker News:What Is a Harness?",
+    "title": "What Is a Harness?",
+    "score": 503,
+    "source": "Hacker News",
+    "timestamp": "2026-08-24T14:29:45.660604"
   }
 ]

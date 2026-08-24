@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-08-12:Hacker News:England set to be one of the first countries to eliminate hepatitis C",
-    "title": "England set to be one of the first countries to eliminate hepatitis C",
-    "score": 500,
-    "source": "Hacker News",
-    "timestamp": "2026-08-12T04:05:26.613097"
-  },
-  {
-    "key": "2026-08-12:Hacker News:As AI eats the web, the internet’s collective memory is disappearing",
-    "title": "As AI eats the web, the internet’s collective memory is disappearing",
-    "score": 876,
-    "source": "Hacker News",
-    "timestamp": "2026-08-12T04:05:26.613106"
-  },
-  {
     "key": "2026-08-12:Hacker News:Compression is prediction",
     "title": "Compression is prediction",
     "score": 545,
@@ -698,5 +684,19 @@
     "score": 503,
     "source": "Hacker News",
     "timestamp": "2026-08-24T14:29:45.660604"
+  },
+  {
+    "key": "2026-08-24:Hacker News:How Europe is killing makers and micro-entrepreneurs",
+    "title": "How Europe is killing makers and micro-entrepreneurs",
+    "score": 717,
+    "source": "Hacker News",
+    "timestamp": "2026-08-24T18:23:11.146879"
+  },
+  {
+    "key": "2026-08-24:Hacker News:Andreessen Horowitz is investing billions into a bleak future",
+    "title": "Andreessen Horowitz is investing billions into a bleak future",
+    "score": 592,
+    "source": "Hacker News",
+    "timestamp": "2026-08-24T18:23:11.146901"
   }
 ]

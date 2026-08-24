@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-08-12:Hacker News:Compression is prediction",
-    "title": "Compression is prediction",
-    "score": 545,
-    "source": "Hacker News",
-    "timestamp": "2026-08-12T10:46:44.177891"
-  },
-  {
     "key": "2026-08-12:Hacker News:DeepSeek V4 Pro 0813",
     "title": "DeepSeek V4 Pro 0813",
     "score": 646,
@@ -698,5 +691,12 @@
     "score": 592,
     "source": "Hacker News",
     "timestamp": "2026-08-24T18:23:11.146901"
+  },
+  {
+    "key": "2026-08-24:Hacker News:Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+    "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+    "score": 653,
+    "source": "Hacker News",
+    "timestamp": "2026-08-24T22:27:57.929066"
   }
 ]

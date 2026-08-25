@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-08-13:Hacker News:Delta",
-    "title": "Delta",
-    "score": 514,
-    "source": "Hacker News",
-    "timestamp": "2026-08-13T07:35:51.128751"
-  },
-  {
-    "key": "2026-08-13:Hacker News:Grok 4.6",
-    "title": "Grok 4.6",
-    "score": 513,
-    "source": "Hacker News",
-    "timestamp": "2026-08-13T07:35:51.128761"
-  },
-  {
     "key": "2026-08-13:Hacker News:Tracking down the 16-year-old WAL-reset SQLite bug",
     "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
     "score": 1056,
@@ -698,5 +684,19 @@
     "score": 540,
     "source": "Hacker News",
     "timestamp": "2026-08-25T14:32:41.233157"
+  },
+  {
+    "key": "2026-08-25:Hacker News:Apple introduces M6 and M5 Ultra",
+    "title": "Apple introduces M6 and M5 Ultra",
+    "score": 664,
+    "source": "Hacker News",
+    "timestamp": "2026-08-25T18:22:24.458919"
+  },
+  {
+    "key": "2026-08-25:Hacker News:New Mac Studio with M5 Max and M5 Ultra",
+    "title": "New Mac Studio with M5 Max and M5 Ultra",
+    "score": 544,
+    "source": "Hacker News",
+    "timestamp": "2026-08-25T18:22:24.458937"
   }
 ]

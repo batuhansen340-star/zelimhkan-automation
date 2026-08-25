@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-08-13:Hacker News:Tracking down the 16-year-old WAL-reset SQLite bug",
-    "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
-    "score": 1056,
-    "source": "Hacker News",
-    "timestamp": "2026-08-13T10:48:02.766766"
-  },
-  {
     "key": "2026-08-13:Hacker News:uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
     "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
     "score": 528,
@@ -698,5 +691,12 @@
     "score": 544,
     "source": "Hacker News",
     "timestamp": "2026-08-25T18:22:24.458937"
+  },
+  {
+    "key": "2026-08-25:Hacker News:Dolly Parton has died",
+    "title": "Dolly Parton has died",
+    "score": 996,
+    "source": "Hacker News",
+    "timestamp": "2026-08-25T22:29:10.925763"
   }
 ]

@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-08-13:Hacker News:AI is removing the middle class of software engineering?",
-    "title": "AI is removing the middle class of software engineering?",
-    "score": 775,
-    "source": "Hacker News",
-    "timestamp": "2026-08-13T04:10:18.086946"
-  },
-  {
     "key": "2026-08-13:Hacker News:License plate reader searches should require a warrant",
     "title": "License plate reader searches should require a warrant",
     "score": 560,
@@ -698,5 +691,12 @@
     "score": 766,
     "source": "Hacker News",
     "timestamp": "2026-08-25T02:56:10.404722"
+  },
+  {
+    "key": "2026-08-25:Hacker News:Oceans hit highest temperature on record",
+    "title": "Oceans hit highest temperature on record",
+    "score": 568,
+    "source": "Hacker News",
+    "timestamp": "2026-08-25T10:17:44.968547"
   }
 ]

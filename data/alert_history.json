@@ -1,47 +1,5 @@
 [
   {
-    "key": "2026-08-12:Hacker News:DeepSeek V4 Pro 0813",
-    "title": "DeepSeek V4 Pro 0813",
-    "score": 646,
-    "source": "Hacker News",
-    "timestamp": "2026-08-12T22:42:24.302270"
-  },
-  {
-    "key": "2026-08-12:Hacker News:Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-    "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-    "score": 700,
-    "source": "Hacker News",
-    "timestamp": "2026-08-12T22:42:24.302288"
-  },
-  {
-    "key": "2026-08-12:Hacker News:AI is removing the middle class of software engineering?",
-    "title": "AI is removing the middle class of software engineering?",
-    "score": 649,
-    "source": "Hacker News",
-    "timestamp": "2026-08-12T22:42:24.302294"
-  },
-  {
-    "key": "2026-08-13:Hacker News:DeepSeek V4 Pro 0813",
-    "title": "DeepSeek V4 Pro 0813",
-    "score": 805,
-    "source": "Hacker News",
-    "timestamp": "2026-08-13T04:10:18.086919"
-  },
-  {
-    "key": "2026-08-13:Hacker News:Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-    "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-    "score": 871,
-    "source": "Hacker News",
-    "timestamp": "2026-08-13T04:10:18.086935"
-  },
-  {
-    "key": "2026-08-13:Hacker News:Qwen3.8-2.4T",
-    "title": "Qwen3.8-2.4T",
-    "score": 527,
-    "source": "Hacker News",
-    "timestamp": "2026-08-13T04:10:18.086941"
-  },
-  {
     "key": "2026-08-13:Hacker News:AI is removing the middle class of software engineering?",
     "title": "AI is removing the middle class of software engineering?",
     "score": 775,
@@ -698,5 +656,47 @@
     "score": 653,
     "source": "Hacker News",
     "timestamp": "2026-08-24T22:27:57.929066"
+  },
+  {
+    "key": "2026-08-25:Hacker News:Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+    "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+    "score": 746,
+    "source": "Hacker News",
+    "timestamp": "2026-08-25T02:56:10.404671"
+  },
+  {
+    "key": "2026-08-25:Hacker News:MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+    "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+    "score": 580,
+    "source": "Hacker News",
+    "timestamp": "2026-08-25T02:56:10.404699"
+  },
+  {
+    "key": "2026-08-25:Hacker News:How Europe is killing makers and micro-entrepreneurs",
+    "title": "How Europe is killing makers and micro-entrepreneurs",
+    "score": 1089,
+    "source": "Hacker News",
+    "timestamp": "2026-08-25T02:56:10.404706"
+  },
+  {
+    "key": "2026-08-25:Hacker News:I were 17, I'd learn how to build LLMs from scratch",
+    "title": "I were 17, I'd learn how to build LLMs from scratch",
+    "score": 517,
+    "source": "Hacker News",
+    "timestamp": "2026-08-25T02:56:10.404712"
+  },
+  {
+    "key": "2026-08-25:Hacker News:Everything I own, owned",
+    "title": "Everything I own, owned",
+    "score": 1364,
+    "source": "Hacker News",
+    "timestamp": "2026-08-25T02:56:10.404716"
+  },
+  {
+    "key": "2026-08-25:Hacker News:Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+    "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+    "score": 766,
+    "source": "Hacker News",
+    "timestamp": "2026-08-25T02:56:10.404722"
   }
 ]

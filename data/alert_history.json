@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-08-14:Hacker News:Gemini 3.7 Flash",
-    "title": "Gemini 3.7 Flash",
-    "score": 674,
-    "source": "Hacker News",
-    "timestamp": "2026-08-14T04:06:38.610950"
-  },
-  {
     "key": "2026-08-14:Hacker News:DeepSeek Harness developer preview",
     "title": "DeepSeek Harness developer preview",
     "score": 587,
@@ -698,5 +691,12 @@
     "score": 1278,
     "source": "Hacker News",
     "timestamp": "2026-08-26T03:02:20.251637"
+  },
+  {
+    "key": "2026-08-26:Hacker News:My Friend Aaron",
+    "title": "My Friend Aaron",
+    "score": 521,
+    "source": "Hacker News",
+    "timestamp": "2026-08-26T06:51:39.528716"
   }
 ]

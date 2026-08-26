@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-08-13:Hacker News:uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
-    "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
-    "score": 528,
-    "source": "Hacker News",
-    "timestamp": "2026-08-13T10:48:02.766784"
-  },
-  {
-    "key": "2026-08-13:Hacker News:2026 Eclipse Webcams",
-    "title": "2026 Eclipse Webcams",
-    "score": 502,
-    "source": "Hacker News",
-    "timestamp": "2026-08-13T14:48:33.763631"
-  },
-  {
-    "key": "2026-08-13:Hacker News:Gemini 3.7 Flash",
-    "title": "Gemini 3.7 Flash",
-    "score": 516,
-    "source": "Hacker News",
-    "timestamp": "2026-08-13T22:44:00.851946"
-  },
-  {
-    "key": "2026-08-13:Hacker News:DeepSeek Harness developer preview",
-    "title": "DeepSeek Harness developer preview",
-    "score": 519,
-    "source": "Hacker News",
-    "timestamp": "2026-08-13T22:44:00.851959"
-  },
-  {
     "key": "2026-08-14:Hacker News:Gemini 3.7 Flash",
     "title": "Gemini 3.7 Flash",
     "score": 674,
@@ -698,5 +670,33 @@
     "score": 996,
     "source": "Hacker News",
     "timestamp": "2026-08-25T22:29:10.925763"
+  },
+  {
+    "key": "2026-08-26:Hacker News:Apple introduces M6 and M5 Ultra",
+    "title": "Apple introduces M6 and M5 Ultra",
+    "score": 988,
+    "source": "Hacker News",
+    "timestamp": "2026-08-26T03:02:20.251613"
+  },
+  {
+    "key": "2026-08-26:Hacker News:New Mac Studio with M5 Max and M5 Ultra",
+    "title": "New Mac Studio with M5 Max and M5 Ultra",
+    "score": 713,
+    "source": "Hacker News",
+    "timestamp": "2026-08-26T03:02:20.251627"
+  },
+  {
+    "key": "2026-08-26:Hacker News:Nitter and XCancel receive cease and desist notices",
+    "title": "Nitter and XCancel receive cease and desist notices",
+    "score": 688,
+    "source": "Hacker News",
+    "timestamp": "2026-08-26T03:02:20.251633"
+  },
+  {
+    "key": "2026-08-26:Hacker News:Dolly Parton has died",
+    "title": "Dolly Parton has died",
+    "score": 1278,
+    "source": "Hacker News",
+    "timestamp": "2026-08-26T03:02:20.251637"
   }
 ]

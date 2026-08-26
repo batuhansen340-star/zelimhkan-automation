@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-08-14:Hacker News:Accelerating GPT-5.6 Sol Ultrafast",
-    "title": "Accelerating GPT-5.6 Sol Ultrafast",
-    "score": 547,
-    "source": "Hacker News",
-    "timestamp": "2026-08-14T07:26:02.582485"
-  },
-  {
-    "key": "2026-08-14:Hacker News:GLM-5.3: Frontier coding with emergent cyber capabilities",
-    "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
-    "score": 523,
-    "source": "Hacker News",
-    "timestamp": "2026-08-14T10:44:16.250121"
-  },
-  {
     "key": "2026-08-14:Hacker News:Every Fucking Website (2020)",
     "title": "Every Fucking Website (2020)",
     "score": 576,
@@ -698,5 +684,19 @@
     "score": 522,
     "source": "Hacker News",
     "timestamp": "2026-08-26T14:32:35.766305"
+  },
+  {
+    "key": "2026-08-26:Hacker News:GLM-5.3-Flash",
+    "title": "GLM-5.3-Flash",
+    "score": 642,
+    "source": "Hacker News",
+    "timestamp": "2026-08-26T19:29:31.204099"
+  },
+  {
+    "key": "2026-08-26:Hacker News:AWS Acquires DuckLabs",
+    "title": "AWS Acquires DuckLabs",
+    "score": 825,
+    "source": "Hacker News",
+    "timestamp": "2026-08-26T19:29:31.204113"
   }
 ]

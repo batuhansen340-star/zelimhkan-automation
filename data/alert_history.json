@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-08-14:Hacker News:Every Fucking Website (2020)",
-    "title": "Every Fucking Website (2020)",
-    "score": 576,
-    "source": "Hacker News",
-    "timestamp": "2026-08-14T18:39:07.575342"
-  },
-  {
-    "key": "2026-08-14:Hacker News:Qwen 3.8 27B",
-    "title": "Qwen 3.8 27B",
-    "score": 751,
-    "source": "Hacker News",
-    "timestamp": "2026-08-14T22:24:57.892996"
-  },
-  {
-    "key": "2026-08-14:Hacker News:Why does Opus 5 feel worse to work with?",
-    "title": "Why does Opus 5 feel worse to work with?",
-    "score": 686,
-    "source": "Hacker News",
-    "timestamp": "2026-08-14T22:24:57.893008"
-  },
-  {
-    "key": "2026-08-15:Hacker News:Qwen 3.8 27B",
-    "title": "Qwen 3.8 27B",
-    "score": 936,
-    "source": "Hacker News",
-    "timestamp": "2026-08-15T02:49:30.231157"
-  },
-  {
     "key": "2026-08-15:Hacker News:Why does Opus 5 feel worse to work with?",
     "title": "Why does Opus 5 feel worse to work with?",
     "score": 801,
@@ -698,5 +670,33 @@
     "score": 825,
     "source": "Hacker News",
     "timestamp": "2026-08-26T19:29:31.204113"
+  },
+  {
+    "key": "2026-08-27:Hacker News:GLM-5.3-Flash",
+    "title": "GLM-5.3-Flash",
+    "score": 907,
+    "source": "Hacker News",
+    "timestamp": "2026-08-27T02:59:47.524875"
+  },
+  {
+    "key": "2026-08-27:Hacker News:AWS Acquires DuckLabs",
+    "title": "AWS Acquires DuckLabs",
+    "score": 986,
+    "source": "Hacker News",
+    "timestamp": "2026-08-27T02:59:47.524890"
+  },
+  {
+    "key": "2026-08-27:Hacker News:Qwen3.8-Flash-Next",
+    "title": "Qwen3.8-Flash-Next",
+    "score": 635,
+    "source": "Hacker News",
+    "timestamp": "2026-08-27T02:59:47.524897"
+  },
+  {
+    "key": "2026-08-27:Hacker News:Tim Curry has died",
+    "title": "Tim Curry has died",
+    "score": 601,
+    "source": "Hacker News",
+    "timestamp": "2026-08-27T02:59:47.524902"
   }
 ]

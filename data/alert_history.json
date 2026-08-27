@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-08-15:Hacker News:Why does Opus 5 feel worse to work with?",
-    "title": "Why does Opus 5 feel worse to work with?",
-    "score": 801,
-    "source": "Hacker News",
-    "timestamp": "2026-08-15T02:49:30.231180"
-  },
-  {
-    "key": "2026-08-15:Hacker News:GLM-5.3: Frontier coding with emergent cyber capabilities",
-    "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
-    "score": 1038,
-    "source": "Hacker News",
-    "timestamp": "2026-08-15T02:49:30.231185"
-  },
-  {
-    "key": "2026-08-15:Hacker News:Every Fucking Website (2020)",
-    "title": "Every Fucking Website (2020)",
-    "score": 755,
-    "source": "Hacker News",
-    "timestamp": "2026-08-15T02:49:30.231190"
-  },
-  {
-    "key": "2026-08-15:Hacker News:Firefox is now the last major browser that still supports uBlock Origin",
-    "title": "Firefox is now the last major browser that still supports uBlock Origin",
-    "score": 759,
-    "source": "Hacker News",
-    "timestamp": "2026-08-15T06:39:42.911032"
-  },
-  {
     "key": "2026-08-15:Hacker News:Gemini 3.7 Flash",
     "title": "Gemini 3.7 Flash",
     "score": 952,
@@ -698,5 +670,33 @@
     "score": 601,
     "source": "Hacker News",
     "timestamp": "2026-08-27T02:59:47.524902"
+  },
+  {
+    "key": "2026-08-27:Hacker News:Nvidia agrees to acquire Hugging Face for $13B",
+    "title": "Nvidia agrees to acquire Hugging Face for $13B",
+    "score": 1295,
+    "source": "Hacker News",
+    "timestamp": "2026-08-27T12:21:06.984270"
+  },
+  {
+    "key": "2026-08-27:Hacker News:U.S. State Department pauses immigrant visa applications",
+    "title": "U.S. State Department pauses immigrant visa applications",
+    "score": 591,
+    "source": "Hacker News",
+    "timestamp": "2026-08-27T12:21:06.984292"
+  },
+  {
+    "key": "2026-08-27:Hacker News:Tailcat – Like netcat, but over Tailscale’s data plane",
+    "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
+    "score": 598,
+    "source": "Hacker News",
+    "timestamp": "2026-08-27T12:21:06.984299"
+  },
+  {
+    "key": "2026-08-27:Hacker News:CEO fired developers to make room for AI. Developers create open source AI CEO",
+    "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+    "score": 697,
+    "source": "Hacker News",
+    "timestamp": "2026-08-27T12:21:06.984305"
   }
 ]

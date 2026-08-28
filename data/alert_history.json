@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-08-17:Hacker News:Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-    "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-    "score": 502,
-    "source": "Hacker News",
-    "timestamp": "2026-08-17T14:15:41.124820"
-  },
-  {
-    "key": "2026-08-17:Hacker News:Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
-    "title": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
-    "score": 682,
-    "source": "Hacker News",
-    "timestamp": "2026-08-17T18:21:37.974589"
-  },
-  {
     "key": "2026-08-18:Hacker News:A Preview of DuckDB v2.0",
     "title": "A Preview of DuckDB v2.0",
     "score": 557,
@@ -698,5 +684,19 @@
     "score": 585,
     "source": "Hacker News",
     "timestamp": "2026-08-28T21:00:17.838630"
+  },
+  {
+    "key": "2026-08-28:Hacker News:GUIs should be fully keyboard-driven",
+    "title": "GUIs should be fully keyboard-driven",
+    "score": 512,
+    "source": "Hacker News",
+    "timestamp": "2026-08-28T23:15:00.485880"
+  },
+  {
+    "key": "2026-08-28:Hacker News:GLM-5.3 is now open-weight",
+    "title": "GLM-5.3 is now open-weight",
+    "score": 538,
+    "source": "Hacker News",
+    "timestamp": "2026-08-28T23:15:00.485894"
   }
 ]

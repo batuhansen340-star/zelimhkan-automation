@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-08-17:Hacker News:Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
-    "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
-    "score": 517,
-    "source": "Hacker News",
-    "timestamp": "2026-08-17T10:17:52.510176"
-  },
-  {
     "key": "2026-08-17:Hacker News:Qwen 3.8 27B is excellent, but it defaults to overthinking things",
     "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
     "score": 646,
@@ -698,5 +691,12 @@
     "score": 609,
     "source": "Hacker News",
     "timestamp": "2026-08-28T13:47:06.781885"
+  },
+  {
+    "key": "2026-08-28:Hacker News:“It works better in the app”",
+    "title": "“It works better in the app”",
+    "score": 565,
+    "source": "Hacker News",
+    "timestamp": "2026-08-28T18:18:40.909903"
   }
 ]

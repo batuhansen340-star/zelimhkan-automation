@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-08-17:Hacker News:Claude: System Prompts",
-    "title": "Claude: System Prompts",
-    "score": 561,
-    "source": "Hacker News",
-    "timestamp": "2026-08-17T02:57:15.780529"
-  },
-  {
-    "key": "2026-08-17:Hacker News:Firefox for iOS now has a native adblocker",
-    "title": "Firefox for iOS now has a native adblocker",
-    "score": 553,
-    "source": "Hacker News",
-    "timestamp": "2026-08-17T02:57:15.780544"
-  },
-  {
     "key": "2026-08-17:Hacker News:A third world engineer responds to “RISC-V: They should have known better”",
     "title": "A third world engineer responds to “RISC-V: They should have known better”",
     "score": 514,
@@ -698,5 +684,19 @@
     "score": 789,
     "source": "Hacker News",
     "timestamp": "2026-08-28T01:52:58.587770"
+  },
+  {
+    "key": "2026-08-28:Hacker News:Small Models Have Arrived",
+    "title": "Small Models Have Arrived",
+    "score": 573,
+    "source": "Hacker News",
+    "timestamp": "2026-08-28T05:59:54.578032"
+  },
+  {
+    "key": "2026-08-28:Hacker News:507 Mechanical Movements",
+    "title": "507 Mechanical Movements",
+    "score": 540,
+    "source": "Hacker News",
+    "timestamp": "2026-08-28T05:59:54.578041"
   }
 ]

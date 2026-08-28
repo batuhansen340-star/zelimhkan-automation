@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-08-17:Hacker News:Qwen 3.8 27B is excellent, but it defaults to overthinking things",
-    "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
-    "score": 646,
-    "source": "Hacker News",
-    "timestamp": "2026-08-17T14:15:41.124808"
-  },
-  {
     "key": "2026-08-17:Hacker News:Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
     "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
     "score": 502,
@@ -698,5 +691,12 @@
     "score": 565,
     "source": "Hacker News",
     "timestamp": "2026-08-28T18:18:40.909903"
+  },
+  {
+    "key": "2026-08-28:Hacker News:Get your Windows license refund",
+    "title": "Get your Windows license refund",
+    "score": 585,
+    "source": "Hacker News",
+    "timestamp": "2026-08-28T21:00:17.838630"
   }
 ]

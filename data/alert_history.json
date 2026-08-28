@@ -1,47 +1,5 @@
 [
   {
-    "key": "2026-08-15:Hacker News:Gemini 3.7 Flash",
-    "title": "Gemini 3.7 Flash",
-    "score": 952,
-    "source": "Hacker News",
-    "timestamp": "2026-08-15T10:09:16.481154"
-  },
-  {
-    "key": "2026-08-16:Hacker News:Qwen 3.8 27B",
-    "title": "Qwen 3.8 27B",
-    "score": 1361,
-    "source": "Hacker News",
-    "timestamp": "2026-08-16T02:57:15.144424"
-  },
-  {
-    "key": "2026-08-16:Hacker News:AI has access to a vastly larger working memory than the human brain",
-    "title": "AI has access to a vastly larger working memory than the human brain",
-    "score": 500,
-    "source": "Hacker News",
-    "timestamp": "2026-08-16T10:09:13.590753"
-  },
-  {
-    "key": "2026-08-16:Hacker News:GLM-5.3: Frontier coding with emergent cyber capabilities",
-    "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
-    "score": 1145,
-    "source": "Hacker News",
-    "timestamp": "2026-08-16T10:09:13.590778"
-  },
-  {
-    "key": "2026-08-16:Hacker News:Asus Bike Booster",
-    "title": "Asus Bike Booster",
-    "score": 507,
-    "source": "Hacker News",
-    "timestamp": "2026-08-16T14:11:18.041283"
-  },
-  {
-    "key": "2026-08-16:Hacker News:AI isn’t outthinking mathematicians, it’s out-remembering them",
-    "title": "AI isn’t outthinking mathematicians, it’s out-remembering them",
-    "score": 559,
-    "source": "Hacker News",
-    "timestamp": "2026-08-16T18:12:37.028562"
-  },
-  {
     "key": "2026-08-17:Hacker News:Claude: System Prompts",
     "title": "Claude: System Prompts",
     "score": 561,
@@ -698,5 +656,47 @@
     "score": 697,
     "source": "Hacker News",
     "timestamp": "2026-08-27T12:21:06.984305"
+  },
+  {
+    "key": "2026-08-28:Hacker News:Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+    "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+    "score": 520,
+    "source": "Hacker News",
+    "timestamp": "2026-08-28T01:52:58.587743"
+  },
+  {
+    "key": "2026-08-28:Hacker News:Microduck",
+    "title": "Microduck",
+    "score": 510,
+    "source": "Hacker News",
+    "timestamp": "2026-08-28T01:52:58.587756"
+  },
+  {
+    "key": "2026-08-28:Hacker News:Nvidia agrees to acquire Hugging Face for $13B",
+    "title": "Nvidia agrees to acquire Hugging Face for $13B",
+    "score": 1830,
+    "source": "Hacker News",
+    "timestamp": "2026-08-28T01:52:58.587760"
+  },
+  {
+    "key": "2026-08-28:Hacker News:CEO fired developers to make room for AI. Developers create open source AI CEO",
+    "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+    "score": 939,
+    "source": "Hacker News",
+    "timestamp": "2026-08-28T01:52:58.587764"
+  },
+  {
+    "key": "2026-08-28:Hacker News:GLM-5.3-Flash",
+    "title": "GLM-5.3-Flash",
+    "score": 1105,
+    "source": "Hacker News",
+    "timestamp": "2026-08-28T01:52:58.587767"
+  },
+  {
+    "key": "2026-08-28:Hacker News:U.S. State Department pauses immigrant visa applications",
+    "title": "U.S. State Department pauses immigrant visa applications",
+    "score": 789,
+    "source": "Hacker News",
+    "timestamp": "2026-08-28T01:52:58.587770"
   }
 ]

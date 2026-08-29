@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-08-18:Hacker News:Israel creates fake think tank in likely attempt to dupe AI chatbots",
-    "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-    "score": 510,
-    "source": "Hacker News",
-    "timestamp": "2026-08-18T10:14:21.038017"
-  },
-  {
     "key": "2026-08-18:Hacker News:GPT-5.6 Sol Pricing Cut by 50%",
     "title": "GPT-5.6 Sol Pricing Cut by 50%",
     "score": 550,
@@ -698,5 +691,12 @@
     "score": 624,
     "source": "Hacker News",
     "timestamp": "2026-08-29T01:17:16.511202"
+  },
+  {
+    "key": "2026-08-29:Hacker News:U.S. sanctions against the A/I Collective",
+    "title": "U.S. sanctions against the A/I Collective",
+    "score": 508,
+    "source": "Hacker News",
+    "timestamp": "2026-08-29T03:33:17.362982"
   }
 ]

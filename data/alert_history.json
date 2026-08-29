@@ -1,47 +1,5 @@
 [
   {
-    "key": "2026-08-18:Hacker News:A Preview of DuckDB v2.0",
-    "title": "A Preview of DuckDB v2.0",
-    "score": 557,
-    "source": "Hacker News",
-    "timestamp": "2026-08-18T02:53:16.797530"
-  },
-  {
-    "key": "2026-08-18:Hacker News:AI;DR (AI; Didn't Read)",
-    "title": "AI;DR (AI; Didn't Read)",
-    "score": 636,
-    "source": "Hacker News",
-    "timestamp": "2026-08-18T02:53:16.797548"
-  },
-  {
-    "key": "2026-08-18:Hacker News:Ask HN: Alternatives to GitHub",
-    "title": "Ask HN: Alternatives to GitHub",
-    "score": 506,
-    "source": "Hacker News",
-    "timestamp": "2026-08-18T02:53:16.797554"
-  },
-  {
-    "key": "2026-08-18:Hacker News:Qwen 3.8 27B is excellent, but it defaults to overthinking things",
-    "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
-    "score": 752,
-    "source": "Hacker News",
-    "timestamp": "2026-08-18T02:53:16.797559"
-  },
-  {
-    "key": "2026-08-18:Hacker News:Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
-    "title": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
-    "score": 767,
-    "source": "Hacker News",
-    "timestamp": "2026-08-18T02:53:16.797565"
-  },
-  {
-    "key": "2026-08-18:Hacker News:How Bluesky draws its logo on screenshots",
-    "title": "How Bluesky draws its logo on screenshots",
-    "score": 522,
-    "source": "Hacker News",
-    "timestamp": "2026-08-18T10:14:21.037991"
-  },
-  {
     "key": "2026-08-18:Hacker News:Israel creates fake think tank in likely attempt to dupe AI chatbots",
     "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
     "score": 510,
@@ -698,5 +656,47 @@
     "score": 538,
     "source": "Hacker News",
     "timestamp": "2026-08-28T23:15:00.485894"
+  },
+  {
+    "key": "2026-08-29:Hacker News:GUIs should be fully keyboard-driven",
+    "title": "GUIs should be fully keyboard-driven",
+    "score": 603,
+    "source": "Hacker News",
+    "timestamp": "2026-08-29T01:17:16.511164"
+  },
+  {
+    "key": "2026-08-29:Hacker News:Htmx 4.0",
+    "title": "Htmx 4.0",
+    "score": 524,
+    "source": "Hacker News",
+    "timestamp": "2026-08-29T01:17:16.511182"
+  },
+  {
+    "key": "2026-08-29:Hacker News:Judge rules Trump administration’s blacklisting of Anthropic was illegal",
+    "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
+    "score": 526,
+    "source": "Hacker News",
+    "timestamp": "2026-08-29T01:17:16.511188"
+  },
+  {
+    "key": "2026-08-29:Hacker News:GLM-5.3 is now open-weight",
+    "title": "GLM-5.3 is now open-weight",
+    "score": 583,
+    "source": "Hacker News",
+    "timestamp": "2026-08-29T01:17:16.511193"
+  },
+  {
+    "key": "2026-08-29:Hacker News:Get your Windows license refund",
+    "title": "Get your Windows license refund",
+    "score": 654,
+    "source": "Hacker News",
+    "timestamp": "2026-08-29T01:17:16.511197"
+  },
+  {
+    "key": "2026-08-29:Hacker News:“It works better in the app”",
+    "title": "“It works better in the app”",
+    "score": 624,
+    "source": "Hacker News",
+    "timestamp": "2026-08-29T01:17:16.511202"
   }
 ]

@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-08-18:Hacker News:Universal health coverage could save $1T and 114k lives a year: study",
-    "title": "Universal health coverage could save $1T and 114k lives a year: study",
-    "score": 633,
-    "source": "Hacker News",
-    "timestamp": "2026-08-18T22:25:18.160766"
-  },
-  {
-    "key": "2026-08-18:Hacker News:Google has acquired the data of failed US airline Spirit",
-    "title": "Google has acquired the data of failed US airline Spirit",
-    "score": 553,
-    "source": "Hacker News",
-    "timestamp": "2026-08-18T22:25:18.160781"
-  },
-  {
     "key": "2026-08-19:Hacker News:The Amazon tax",
     "title": "The Amazon tax",
     "score": 967,
@@ -698,5 +684,19 @@
     "score": 803,
     "source": "Hacker News",
     "timestamp": "2026-08-30T07:52:49.711615"
+  },
+  {
+    "key": "2026-08-30:Hacker News:California lawmakers unanimously pass Linux exemption from age-verification law",
+    "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
+    "score": 613,
+    "source": "Hacker News",
+    "timestamp": "2026-08-30T17:49:02.063434"
+  },
+  {
+    "key": "2026-08-30:Hacker News:Tether: iMessage, SMS, etc. on Linux",
+    "title": "Tether: iMessage, SMS, etc. on Linux",
+    "score": 516,
+    "source": "Hacker News",
+    "timestamp": "2026-08-30T17:49:02.063457"
   }
 ]

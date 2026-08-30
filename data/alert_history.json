@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-08-18:Hacker News:The Amazon tax",
-    "title": "The Amazon tax",
-    "score": 528,
-    "source": "Hacker News",
-    "timestamp": "2026-08-18T18:20:36.792422"
-  },
-  {
     "key": "2026-08-18:Hacker News:Universal health coverage could save $1T and 114k lives a year: study",
     "title": "Universal health coverage could save $1T and 114k lives a year: study",
     "score": 633,
@@ -698,5 +691,12 @@
     "score": 591,
     "source": "Hacker News",
     "timestamp": "2026-08-29T12:27:03.356942"
+  },
+  {
+    "key": "2026-08-30:Hacker News:Htmx 4.0",
+    "title": "Htmx 4.0",
+    "score": 803,
+    "source": "Hacker News",
+    "timestamp": "2026-08-30T07:52:49.711615"
   }
 ]

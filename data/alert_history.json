@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-08-19:Hacker News:The Amazon tax",
-    "title": "The Amazon tax",
-    "score": 967,
-    "source": "Hacker News",
-    "timestamp": "2026-08-19T02:54:52.721511"
-  },
-  {
     "key": "2026-08-19:Hacker News:Memory prices climb 500% in 12 months",
     "title": "Memory prices climb 500% in 12 months",
     "score": 504,
@@ -698,5 +691,12 @@
     "score": 516,
     "source": "Hacker News",
     "timestamp": "2026-08-30T17:49:02.063457"
+  },
+  {
+    "key": "2026-08-30:Hacker News:Creepy Crawlies",
+    "title": "Creepy Crawlies",
+    "score": 575,
+    "source": "Hacker News",
+    "timestamp": "2026-08-30T20:15:03.797958"
   }
 ]

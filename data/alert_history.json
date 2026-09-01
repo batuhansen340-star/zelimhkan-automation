@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-08-20:Hacker News:Devices with GrapheneOS support should be available in 2027",
-    "title": "Devices with GrapheneOS support should be available in 2027",
-    "score": 576,
-    "source": "Hacker News",
-    "timestamp": "2026-08-20T02:54:30.803759"
-  },
-  {
     "key": "2026-08-20:Hacker News:Go 1.27",
     "title": "Go 1.27",
     "score": 578,
@@ -698,5 +691,12 @@
     "score": 555,
     "source": "Hacker News",
     "timestamp": "2026-09-01T20:16:31.077827"
+  },
+  {
+    "key": "2026-09-01:Hacker News:I trained a small transformer in 1.5hrs and it beats many LLMs",
+    "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+    "score": 550,
+    "source": "Hacker News",
+    "timestamp": "2026-09-01T23:52:05.756003"
   }
 ]

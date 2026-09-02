@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-08-21:Hacker News:HTML Can Do That",
-    "title": "HTML Can Do That",
-    "score": 603,
-    "source": "Hacker News",
-    "timestamp": "2026-08-21T03:00:20.007444"
-  },
-  {
     "key": "2026-08-21:Hacker News:Show HN: I trained a 125M model to autocomplete piano on-device",
     "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
     "score": 528,
@@ -698,5 +691,12 @@
     "score": 608,
     "source": "Hacker News",
     "timestamp": "2026-09-02T06:48:37.630239"
+  },
+  {
+    "key": "2026-09-02:Hacker News:Introducing Ad Blocker for Firefox on iOS",
+    "title": "Introducing Ad Blocker for Firefox on iOS",
+    "score": 547,
+    "source": "Hacker News",
+    "timestamp": "2026-09-02T13:54:24.066046"
   }
 ]

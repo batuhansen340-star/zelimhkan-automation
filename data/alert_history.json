@@ -1,47 +1,5 @@
 [
   {
-    "key": "2026-08-20:Hacker News:Go 1.27",
-    "title": "Go 1.27",
-    "score": 578,
-    "source": "Hacker News",
-    "timestamp": "2026-08-20T06:48:37.326178"
-  },
-  {
-    "key": "2026-08-20:Hacker News:Google has stopped pushing Git tags for some Android source code",
-    "title": "Google has stopped pushing Git tags for some Android source code",
-    "score": 570,
-    "source": "Hacker News",
-    "timestamp": "2026-08-20T10:15:58.292304"
-  },
-  {
-    "key": "2026-08-20:Hacker News:Don't Paste the AI, please",
-    "title": "Don't Paste the AI, please",
-    "score": 847,
-    "source": "Hacker News",
-    "timestamp": "2026-08-20T14:23:23.938469"
-  },
-  {
-    "key": "2026-08-20:Hacker News:Geolocating a random island using geometry and CUDA programming",
-    "title": "Geolocating a random island using geometry and CUDA programming",
-    "score": 510,
-    "source": "Hacker News",
-    "timestamp": "2026-08-20T14:23:23.938504"
-  },
-  {
-    "key": "2026-08-20:Hacker News:AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-    "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-    "score": 683,
-    "source": "Hacker News",
-    "timestamp": "2026-08-20T18:22:00.318375"
-  },
-  {
-    "key": "2026-08-21:Hacker News:I like 'em thick: an apology to my English teachers",
-    "title": "I like 'em thick: an apology to my English teachers",
-    "score": 591,
-    "source": "Hacker News",
-    "timestamp": "2026-08-21T03:00:20.007421"
-  },
-  {
     "key": "2026-08-21:Hacker News:HTML Can Do That",
     "title": "HTML Can Do That",
     "score": 603,
@@ -698,5 +656,47 @@
     "score": 550,
     "source": "Hacker News",
     "timestamp": "2026-09-01T23:52:05.756003"
+  },
+  {
+    "key": "2026-09-02:Hacker News:Claude Fable 5.1 and Claude Mythos 5.1",
+    "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+    "score": 1129,
+    "source": "Hacker News",
+    "timestamp": "2026-09-02T06:48:37.630201"
+  },
+  {
+    "key": "2026-09-02:Hacker News:How accurate have Ed Zitron's AI skeptic predictions been?",
+    "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+    "score": 606,
+    "source": "Hacker News",
+    "timestamp": "2026-09-02T06:48:37.630218"
+  },
+  {
+    "key": "2026-09-02:Hacker News:Play Store blocks AuroraStore, hurting GrapheneOS users",
+    "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
+    "score": 506,
+    "source": "Hacker News",
+    "timestamp": "2026-09-02T06:48:37.630224"
+  },
+  {
+    "key": "2026-09-02:Hacker News:AnkiDroid: Google Play no longer allowing Open Collective donation link",
+    "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+    "score": 867,
+    "source": "Hacker News",
+    "timestamp": "2026-09-02T06:48:37.630229"
+  },
+  {
+    "key": "2026-09-02:Hacker News:Hang on to Your Firefox",
+    "title": "Hang on to Your Firefox",
+    "score": 773,
+    "source": "Hacker News",
+    "timestamp": "2026-09-02T06:48:37.630234"
+  },
+  {
+    "key": "2026-09-02:Hacker News:I trained a small transformer in 1.5hrs and it beats many LLMs",
+    "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+    "score": 608,
+    "source": "Hacker News",
+    "timestamp": "2026-09-02T06:48:37.630239"
   }
 ]

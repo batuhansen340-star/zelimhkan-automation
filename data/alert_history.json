@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-08-21:Hacker News:AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-    "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-    "score": 910,
-    "source": "Hacker News",
-    "timestamp": "2026-08-21T03:00:20.007456"
-  },
-  {
-    "key": "2026-08-21:Hacker News:Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
-    "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
-    "score": 1115,
-    "source": "Hacker News",
-    "timestamp": "2026-08-21T03:00:20.007462"
-  },
-  {
     "key": "2026-08-21:Hacker News:The August 17 outage",
     "title": "The August 17 outage",
     "score": 532,
@@ -698,5 +684,19 @@
     "score": 528,
     "source": "Hacker News",
     "timestamp": "2026-09-02T17:28:16.664418"
+  },
+  {
+    "key": "2026-09-02:Hacker News:Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "score": 646,
+    "source": "Hacker News",
+    "timestamp": "2026-09-02T20:15:09.318527"
+  },
+  {
+    "key": "2026-09-02:Hacker News:A note on subscription prices from LWN",
+    "title": "A note on subscription prices from LWN",
+    "score": 645,
+    "source": "Hacker News",
+    "timestamp": "2026-09-02T20:15:09.318543"
   }
 ]

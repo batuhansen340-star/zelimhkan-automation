@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-08-22:Hacker News:Felony charges for citizen deleting phone data at US Border",
-    "title": "Felony charges for citizen deleting phone data at US Border",
-    "score": 601,
-    "source": "Hacker News",
-    "timestamp": "2026-08-22T02:51:54.777069"
-  },
-  {
     "key": "2026-08-22:Hacker News:AI companies destroy physical books – let's scan rare books before it's too late",
     "title": "AI companies destroy physical books – let's scan rare books before it's too late",
     "score": 537,
@@ -698,5 +691,12 @@
     "score": 970,
     "source": "Hacker News",
     "timestamp": "2026-09-03T20:15:31.795807"
+  },
+  {
+    "key": "2026-09-03:Hacker News:GPT-6 Astra",
+    "title": "GPT-6 Astra",
+    "score": 1158,
+    "source": "Hacker News",
+    "timestamp": "2026-09-03T23:50:15.779725"
   }
 ]

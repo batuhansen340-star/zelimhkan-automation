@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-08-22:Hacker News:Felony Bench",
-    "title": "Felony Bench",
-    "score": 555,
-    "source": "Hacker News",
-    "timestamp": "2026-08-22T02:51:54.777041"
-  },
-  {
     "key": "2026-08-22:Hacker News:Kagi added a setting for removing paywalled links from search results",
     "title": "Kagi added a setting for removing paywalled links from search results",
     "score": 1028,
@@ -698,5 +691,12 @@
     "score": 1386,
     "source": "Hacker News",
     "timestamp": "2026-09-03T06:51:15.203373"
+  },
+  {
+    "key": "2026-09-03:Hacker News:Audacity 4.0",
+    "title": "Audacity 4.0",
+    "score": 825,
+    "source": "Hacker News",
+    "timestamp": "2026-09-03T17:21:16.120875"
   }
 ]

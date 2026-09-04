@@ -1,40 +1,5 @@
 [
   {
-    "key": "2026-08-22:Hacker News:AI companies destroy physical books – let's scan rare books before it's too late",
-    "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-    "score": 537,
-    "source": "Hacker News",
-    "timestamp": "2026-08-22T02:51:54.777075"
-  },
-  {
-    "key": "2026-08-22:Hacker News:Kobo can run apps now",
-    "title": "Kobo can run apps now",
-    "score": 549,
-    "source": "Hacker News",
-    "timestamp": "2026-08-22T10:09:16.137884"
-  },
-  {
-    "key": "2026-08-22:Hacker News:I accidentally logged hundreds of thousands of phone calls to military bases",
-    "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
-    "score": 551,
-    "source": "Hacker News",
-    "timestamp": "2026-08-22T10:09:16.137898"
-  },
-  {
-    "key": "2026-08-22:Hacker News:There's no reason for software to be slow anymore",
-    "title": "There's no reason for software to be slow anymore",
-    "score": 522,
-    "source": "Hacker News",
-    "timestamp": "2026-08-22T14:09:36.673026"
-  },
-  {
-    "key": "2026-08-23:Hacker News:Canada will match US tariffs 'dollar for dollar' as trade talks break down",
-    "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
-    "score": 509,
-    "source": "Hacker News",
-    "timestamp": "2026-08-23T03:00:08.910335"
-  },
-  {
     "key": "2026-08-23:Hacker News:There's no reason for software to be slow anymore",
     "title": "There's no reason for software to be slow anymore",
     "score": 621,
@@ -698,5 +663,40 @@
     "score": 1158,
     "source": "Hacker News",
     "timestamp": "2026-09-03T23:50:15.779725"
+  },
+  {
+    "key": "2026-09-04:Hacker News:GPT-6 Astra",
+    "title": "GPT-6 Astra",
+    "score": 1637,
+    "source": "Hacker News",
+    "timestamp": "2026-09-04T06:56:16.088449"
+  },
+  {
+    "key": "2026-09-04:Hacker News:.name Termination",
+    "title": ".name Termination",
+    "score": 1646,
+    "source": "Hacker News",
+    "timestamp": "2026-09-04T06:56:16.088463"
+  },
+  {
+    "key": "2026-09-04:Hacker News:Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+    "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+    "score": 520,
+    "source": "Hacker News",
+    "timestamp": "2026-09-04T06:56:16.088470"
+  },
+  {
+    "key": "2026-09-04:Hacker News:Any Human Ever – One life, drawn at random from all who have ever lived",
+    "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
+    "score": 548,
+    "source": "Hacker News",
+    "timestamp": "2026-09-04T06:56:16.088476"
+  },
+  {
+    "key": "2026-09-04:Hacker News:Audacity 4.0",
+    "title": "Audacity 4.0",
+    "score": 1092,
+    "source": "Hacker News",
+    "timestamp": "2026-09-04T06:56:16.088481"
   }
 ]

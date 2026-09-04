@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-08-23:Hacker News:There's no reason for software to be slow anymore",
-    "title": "There's no reason for software to be slow anymore",
-    "score": 621,
-    "source": "Hacker News",
-    "timestamp": "2026-08-23T03:00:08.910352"
-  },
-  {
     "key": "2026-08-23:Hacker News:I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
     "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
     "score": 577,
@@ -698,5 +691,12 @@
     "score": 1092,
     "source": "Hacker News",
     "timestamp": "2026-09-04T06:56:16.088481"
+  },
+  {
+    "key": "2026-09-04:Hacker News:Discovery of a new OpenAI agent message board",
+    "title": "Discovery of a new OpenAI agent message board",
+    "score": 864,
+    "source": "Hacker News",
+    "timestamp": "2026-09-04T17:13:09.521408"
   }
 ]

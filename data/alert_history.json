@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-08-24:Hacker News:What Is a Harness?",
-    "title": "What Is a Harness?",
-    "score": 503,
-    "source": "Hacker News",
-    "timestamp": "2026-08-24T14:29:45.660604"
-  },
-  {
     "key": "2026-08-24:Hacker News:How Europe is killing makers and micro-entrepreneurs",
     "title": "How Europe is killing makers and micro-entrepreneurs",
     "score": 717,
@@ -698,5 +691,12 @@
     "score": 2160,
     "source": "Hacker News",
     "timestamp": "2026-09-05T06:40:52.054650"
+  },
+  {
+    "key": "2026-09-05:Hacker News:Actively exploited sandbox RCE in all Chromium versions",
+    "title": "Actively exploited sandbox RCE in all Chromium versions",
+    "score": 503,
+    "source": "Hacker News",
+    "timestamp": "2026-09-05T10:07:38.688485"
   }
 ]

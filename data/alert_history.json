@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-08-23:Hacker News:I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-    "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-    "score": 577,
-    "source": "Hacker News",
-    "timestamp": "2026-08-23T22:23:20.670520"
-  },
-  {
-    "key": "2026-08-24:Hacker News:I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-    "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-    "score": 623,
-    "source": "Hacker News",
-    "timestamp": "2026-08-24T03:00:46.430899"
-  },
-  {
-    "key": "2026-08-24:Hacker News:Everything I own, owned",
-    "title": "Everything I own, owned",
-    "score": 655,
-    "source": "Hacker News",
-    "timestamp": "2026-08-24T07:00:15.727296"
-  },
-  {
-    "key": "2026-08-24:Hacker News:Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-    "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-    "score": 532,
-    "source": "Hacker News",
-    "timestamp": "2026-08-24T10:24:12.645694"
-  },
-  {
     "key": "2026-08-24:Hacker News:What Is a Harness?",
     "title": "What Is a Harness?",
     "score": 503,
@@ -698,5 +670,33 @@
     "score": 864,
     "source": "Hacker News",
     "timestamp": "2026-09-04T17:13:09.521408"
+  },
+  {
+    "key": "2026-09-05:Hacker News:Discovery of a new OpenAI agent message board",
+    "title": "Discovery of a new OpenAI agent message board",
+    "score": 1616,
+    "source": "Hacker News",
+    "timestamp": "2026-09-05T06:40:52.054618"
+  },
+  {
+    "key": "2026-09-05:Hacker News:Formalizing Fermat's Last Theorem",
+    "title": "Formalizing Fermat's Last Theorem",
+    "score": 574,
+    "source": "Hacker News",
+    "timestamp": "2026-09-05T06:40:52.054638"
+  },
+  {
+    "key": "2026-09-05:Hacker News:GPT-6 Astra",
+    "title": "GPT-6 Astra",
+    "score": 2167,
+    "source": "Hacker News",
+    "timestamp": "2026-09-05T06:40:52.054644"
+  },
+  {
+    "key": "2026-09-05:Hacker News:.name Termination",
+    "title": ".name Termination",
+    "score": 2160,
+    "source": "Hacker News",
+    "timestamp": "2026-09-05T06:40:52.054650"
   }
 ]

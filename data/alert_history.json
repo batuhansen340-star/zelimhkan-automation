@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-08-25:Hacker News:Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-    "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-    "score": 766,
-    "source": "Hacker News",
-    "timestamp": "2026-08-25T02:56:10.404722"
-  },
-  {
-    "key": "2026-08-25:Hacker News:Oceans hit highest temperature on record",
-    "title": "Oceans hit highest temperature on record",
-    "score": 568,
-    "source": "Hacker News",
-    "timestamp": "2026-08-25T10:17:44.968547"
-  },
-  {
     "key": "2026-08-25:Hacker News:iCloud+ Hide My Email addresses will remain on icloud.com",
     "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
     "score": 546,
@@ -698,5 +684,19 @@
     "score": 609,
     "source": "Hacker News",
     "timestamp": "2026-09-06T10:28:32.307161"
+  },
+  {
+    "key": "2026-09-06:Hacker News:Cloud in a Bottle: making self-hosting accessible to everyone",
+    "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+    "score": 539,
+    "source": "Hacker News",
+    "timestamp": "2026-09-06T16:31:42.904650"
+  },
+  {
+    "key": "2026-09-06:Hacker News:Chrome again exempts Google from user site data settings",
+    "title": "Chrome again exempts Google from user site data settings",
+    "score": 524,
+    "source": "Hacker News",
+    "timestamp": "2026-09-06T16:31:42.904669"
   }
 ]

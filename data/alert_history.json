@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-08-25:Hacker News:iCloud+ Hide My Email addresses will remain on icloud.com",
-    "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-    "score": 546,
-    "source": "Hacker News",
-    "timestamp": "2026-08-25T14:32:41.233118"
-  },
-  {
-    "key": "2026-08-25:Hacker News:The entire city of San Francisco as a video game",
-    "title": "The entire city of San Francisco as a video game",
-    "score": 540,
-    "source": "Hacker News",
-    "timestamp": "2026-08-25T14:32:41.233157"
-  },
-  {
     "key": "2026-08-25:Hacker News:Apple introduces M6 and M5 Ultra",
     "title": "Apple introduces M6 and M5 Ultra",
     "score": 664,
@@ -698,5 +684,19 @@
     "score": 524,
     "source": "Hacker News",
     "timestamp": "2026-09-06T16:31:42.904669"
+  },
+  {
+    "key": "2026-09-06:Hacker News:The revolt of the reader",
+    "title": "The revolt of the reader",
+    "score": 538,
+    "source": "Hacker News",
+    "timestamp": "2026-09-06T19:43:27.985945"
+  },
+  {
+    "key": "2026-09-06:Hacker News:QBittorrent breaks out of sandbox to commit crimes",
+    "title": "QBittorrent breaks out of sandbox to commit crimes",
+    "score": 1117,
+    "source": "Hacker News",
+    "timestamp": "2026-09-06T19:43:27.985965"
   }
 ]

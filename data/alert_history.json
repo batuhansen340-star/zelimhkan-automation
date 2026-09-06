@@ -1,47 +1,5 @@
 [
   {
-    "key": "2026-08-24:Hacker News:Andreessen Horowitz is investing billions into a bleak future",
-    "title": "Andreessen Horowitz is investing billions into a bleak future",
-    "score": 592,
-    "source": "Hacker News",
-    "timestamp": "2026-08-24T18:23:11.146901"
-  },
-  {
-    "key": "2026-08-24:Hacker News:Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-    "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-    "score": 653,
-    "source": "Hacker News",
-    "timestamp": "2026-08-24T22:27:57.929066"
-  },
-  {
-    "key": "2026-08-25:Hacker News:Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-    "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-    "score": 746,
-    "source": "Hacker News",
-    "timestamp": "2026-08-25T02:56:10.404671"
-  },
-  {
-    "key": "2026-08-25:Hacker News:MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-    "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-    "score": 580,
-    "source": "Hacker News",
-    "timestamp": "2026-08-25T02:56:10.404699"
-  },
-  {
-    "key": "2026-08-25:Hacker News:How Europe is killing makers and micro-entrepreneurs",
-    "title": "How Europe is killing makers and micro-entrepreneurs",
-    "score": 1089,
-    "source": "Hacker News",
-    "timestamp": "2026-08-25T02:56:10.404706"
-  },
-  {
-    "key": "2026-08-25:Hacker News:I were 17, I'd learn how to build LLMs from scratch",
-    "title": "I were 17, I'd learn how to build LLMs from scratch",
-    "score": 517,
-    "source": "Hacker News",
-    "timestamp": "2026-08-25T02:56:10.404712"
-  },
-  {
     "key": "2026-08-25:Hacker News:Everything I own, owned",
     "title": "Everything I own, owned",
     "score": 1364,
@@ -698,5 +656,47 @@
     "score": 540,
     "source": "Hacker News",
     "timestamp": "2026-09-05T19:40:43.937246"
+  },
+  {
+    "key": "2026-09-06:Hacker News:Discovery of a new OpenAI agent message board",
+    "title": "Discovery of a new OpenAI agent message board",
+    "score": 2160,
+    "source": "Hacker News",
+    "timestamp": "2026-09-06T06:51:14.390547"
+  },
+  {
+    "key": "2026-09-06:Hacker News:Actively exploited sandbox RCE in all Chromium versions",
+    "title": "Actively exploited sandbox RCE in all Chromium versions",
+    "score": 769,
+    "source": "Hacker News",
+    "timestamp": "2026-09-06T06:51:14.390569"
+  },
+  {
+    "key": "2026-09-06:Hacker News:Nitter has more working instances than before the takedowns",
+    "title": "Nitter has more working instances than before the takedowns",
+    "score": 662,
+    "source": "Hacker News",
+    "timestamp": "2026-09-06T06:51:14.390574"
+  },
+  {
+    "key": "2026-09-06:Hacker News:Formalizing Fermat's Last Theorem",
+    "title": "Formalizing Fermat's Last Theorem",
+    "score": 753,
+    "source": "Hacker News",
+    "timestamp": "2026-09-06T06:51:14.390579"
+  },
+  {
+    "key": "2026-09-06:Hacker News:GPT-6 Astra",
+    "title": "GPT-6 Astra",
+    "score": 2225,
+    "source": "Hacker News",
+    "timestamp": "2026-09-06T06:51:14.390583"
+  },
+  {
+    "key": "2026-09-06:Hacker News:.name Termination",
+    "title": ".name Termination",
+    "score": 2200,
+    "source": "Hacker News",
+    "timestamp": "2026-09-06T06:51:14.390587"
   }
 ]

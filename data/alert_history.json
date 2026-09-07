@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-08-25:Hacker News:New Mac Studio with M5 Max and M5 Ultra",
-    "title": "New Mac Studio with M5 Max and M5 Ultra",
-    "score": 544,
-    "source": "Hacker News",
-    "timestamp": "2026-08-25T18:22:24.458937"
-  },
-  {
-    "key": "2026-08-25:Hacker News:Dolly Parton has died",
-    "title": "Dolly Parton has died",
-    "score": 996,
-    "source": "Hacker News",
-    "timestamp": "2026-08-25T22:29:10.925763"
-  },
-  {
-    "key": "2026-08-26:Hacker News:Apple introduces M6 and M5 Ultra",
-    "title": "Apple introduces M6 and M5 Ultra",
-    "score": 988,
-    "source": "Hacker News",
-    "timestamp": "2026-08-26T03:02:20.251613"
-  },
-  {
-    "key": "2026-08-26:Hacker News:New Mac Studio with M5 Max and M5 Ultra",
-    "title": "New Mac Studio with M5 Max and M5 Ultra",
-    "score": 713,
-    "source": "Hacker News",
-    "timestamp": "2026-08-26T03:02:20.251627"
-  },
-  {
     "key": "2026-08-26:Hacker News:Nitter and XCancel receive cease and desist notices",
     "title": "Nitter and XCancel receive cease and desist notices",
     "score": 688,
@@ -698,5 +670,33 @@
     "score": 546,
     "source": "Hacker News",
     "timestamp": "2026-09-06T23:35:36.779014"
+  },
+  {
+    "key": "2026-09-07:Hacker News:Nitter and XCancel resume service after legal advice",
+    "title": "Nitter and XCancel resume service after legal advice",
+    "score": 647,
+    "source": "Hacker News",
+    "timestamp": "2026-09-07T07:00:35.104472"
+  },
+  {
+    "key": "2026-09-07:Hacker News:Your intellectual fly is open when you use an LLM to author a post (2025)",
+    "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+    "score": 631,
+    "source": "Hacker News",
+    "timestamp": "2026-09-07T07:00:35.104486"
+  },
+  {
+    "key": "2026-09-07:Hacker News:A/I shuts down",
+    "title": "A/I shuts down",
+    "score": 568,
+    "source": "Hacker News",
+    "timestamp": "2026-09-07T07:00:35.104490"
+  },
+  {
+    "key": "2026-09-07:Hacker News:Isar Aerospace reaches orbit and deploys payloads on second flight",
+    "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+    "score": 574,
+    "source": "Hacker News",
+    "timestamp": "2026-09-07T07:00:35.104494"
   }
 ]

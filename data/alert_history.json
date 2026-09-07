@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-08-26:Hacker News:My Friend Aaron",
-    "title": "My Friend Aaron",
-    "score": 521,
-    "source": "Hacker News",
-    "timestamp": "2026-08-26T06:51:39.528716"
-  },
-  {
     "key": "2026-08-26:Hacker News:OpenAI Jalapeño: Better than Nvidia Blackwell",
     "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
     "score": 549,
@@ -698,5 +691,12 @@
     "score": 503,
     "source": "Hacker News",
     "timestamp": "2026-09-07T11:50:54.318329"
+  },
+  {
+    "key": "2026-09-07:Hacker News:LG smart TVs caught logging audio with screen off and snooping on local devices",
+    "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
+    "score": 667,
+    "source": "Hacker News",
+    "timestamp": "2026-09-07T15:20:11.329472"
   }
 ]

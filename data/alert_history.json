@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-08-26:Hacker News:Nitter and XCancel receive cease and desist notices",
-    "title": "Nitter and XCancel receive cease and desist notices",
-    "score": 688,
-    "source": "Hacker News",
-    "timestamp": "2026-08-26T03:02:20.251633"
-  },
-  {
-    "key": "2026-08-26:Hacker News:Dolly Parton has died",
-    "title": "Dolly Parton has died",
-    "score": 1278,
-    "source": "Hacker News",
-    "timestamp": "2026-08-26T03:02:20.251637"
-  },
-  {
     "key": "2026-08-26:Hacker News:My Friend Aaron",
     "title": "My Friend Aaron",
     "score": 521,
@@ -698,5 +684,19 @@
     "score": 574,
     "source": "Hacker News",
     "timestamp": "2026-09-07T07:00:35.104494"
+  },
+  {
+    "key": "2026-09-07:Hacker News:Keep Our Servers Running",
+    "title": "Keep Our Servers Running",
+    "score": 570,
+    "source": "Hacker News",
+    "timestamp": "2026-09-07T11:50:54.318313"
+  },
+  {
+    "key": "2026-09-07:Hacker News:Asahi Linux on M3",
+    "title": "Asahi Linux on M3",
+    "score": 503,
+    "source": "Hacker News",
+    "timestamp": "2026-09-07T11:50:54.318329"
   }
 ]

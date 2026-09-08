@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-08-26:Hacker News:New Mac mini, featuring M6 and M5 Pro",
-    "title": "New Mac mini, featuring M6 and M5 Pro",
-    "score": 522,
-    "source": "Hacker News",
-    "timestamp": "2026-08-26T14:32:35.766305"
-  },
-  {
     "key": "2026-08-26:Hacker News:GLM-5.3-Flash",
     "title": "GLM-5.3-Flash",
     "score": 642,
@@ -698,5 +691,12 @@
     "score": 939,
     "source": "Hacker News",
     "timestamp": "2026-09-08T00:02:06.635025"
+  },
+  {
+    "key": "2026-09-08:Hacker News:216M Spy TVs – The LG Smart TV Problem [video]",
+    "title": "216M Spy TVs – The LG Smart TV Problem [video]",
+    "score": 698,
+    "source": "Hacker News",
+    "timestamp": "2026-09-08T06:55:15.909950"
   }
 ]

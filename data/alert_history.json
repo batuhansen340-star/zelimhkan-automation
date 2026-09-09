@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-08-28:Hacker News:Nvidia agrees to acquire Hugging Face for $13B",
-    "title": "Nvidia agrees to acquire Hugging Face for $13B",
-    "score": 1830,
-    "source": "Hacker News",
-    "timestamp": "2026-08-28T01:52:58.587760"
-  },
-  {
-    "key": "2026-08-28:Hacker News:CEO fired developers to make room for AI. Developers create open source AI CEO",
-    "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-    "score": 939,
-    "source": "Hacker News",
-    "timestamp": "2026-08-28T01:52:58.587764"
-  },
-  {
     "key": "2026-08-28:Hacker News:GLM-5.3-Flash",
     "title": "GLM-5.3-Flash",
     "score": 1105,
@@ -698,5 +684,19 @@
     "score": 681,
     "source": "Hacker News",
     "timestamp": "2026-09-09T17:23:29.318026"
+  },
+  {
+    "key": "2026-09-09:Hacker News:Shopify acquires Tailwind",
+    "title": "Shopify acquires Tailwind",
+    "score": 697,
+    "source": "Hacker News",
+    "timestamp": "2026-09-09T20:10:14.204575"
+  },
+  {
+    "key": "2026-09-09:Hacker News:Claude, change the “Add to Cart” button to blue",
+    "title": "Claude, change the “Add to Cart” button to blue",
+    "score": 837,
+    "source": "Hacker News",
+    "timestamp": "2026-09-09T20:10:14.204593"
   }
 ]

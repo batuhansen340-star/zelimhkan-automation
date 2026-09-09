@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-08-28:Hacker News:Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
-    "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
-    "score": 520,
-    "source": "Hacker News",
-    "timestamp": "2026-08-28T01:52:58.587743"
-  },
-  {
-    "key": "2026-08-28:Hacker News:Microduck",
-    "title": "Microduck",
-    "score": 510,
-    "source": "Hacker News",
-    "timestamp": "2026-08-28T01:52:58.587756"
-  },
-  {
     "key": "2026-08-28:Hacker News:Nvidia agrees to acquire Hugging Face for $13B",
     "title": "Nvidia agrees to acquire Hugging Face for $13B",
     "score": 1830,
@@ -698,5 +684,19 @@
     "score": 531,
     "source": "Hacker News",
     "timestamp": "2026-09-09T10:54:42.045837"
+  },
+  {
+    "key": "2026-09-09:Hacker News:Tailwind Labs is joining Shopify",
+    "title": "Tailwind Labs is joining Shopify",
+    "score": 541,
+    "source": "Hacker News",
+    "timestamp": "2026-09-09T17:23:29.318011"
+  },
+  {
+    "key": "2026-09-09:Hacker News:Claude, change the \"Add to Cart\" button to blue",
+    "title": "Claude, change the \"Add to Cart\" button to blue",
+    "score": 681,
+    "source": "Hacker News",
+    "timestamp": "2026-09-09T17:23:29.318026"
   }
 ]

@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-08-27:Hacker News:Tailcat – Like netcat, but over Tailscale’s data plane",
-    "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
-    "score": 598,
-    "source": "Hacker News",
-    "timestamp": "2026-08-27T12:21:06.984299"
-  },
-  {
-    "key": "2026-08-27:Hacker News:CEO fired developers to make room for AI. Developers create open source AI CEO",
-    "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-    "score": 697,
-    "source": "Hacker News",
-    "timestamp": "2026-08-27T12:21:06.984305"
-  },
-  {
     "key": "2026-08-28:Hacker News:Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
     "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
     "score": 520,
@@ -698,5 +684,19 @@
     "score": 1229,
     "source": "Hacker News",
     "timestamp": "2026-09-09T07:04:20.719692"
+  },
+  {
+    "key": "2026-09-09:Hacker News:Muse – Meta’s personal AI agent",
+    "title": "Muse – Meta’s personal AI agent",
+    "score": 527,
+    "source": "Hacker News",
+    "timestamp": "2026-09-09T10:54:42.045804"
+  },
+  {
+    "key": "2026-09-09:Hacker News:We built our house for LAN parties (2024)",
+    "title": "We built our house for LAN parties (2024)",
+    "score": 531,
+    "source": "Hacker News",
+    "timestamp": "2026-09-09T10:54:42.045837"
   }
 ]

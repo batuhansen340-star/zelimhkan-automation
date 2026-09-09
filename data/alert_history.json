@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-08-27:Hacker News:Tim Curry has died",
-    "title": "Tim Curry has died",
-    "score": 601,
-    "source": "Hacker News",
-    "timestamp": "2026-08-27T02:59:47.524902"
-  },
-  {
-    "key": "2026-08-27:Hacker News:Nvidia agrees to acquire Hugging Face for $13B",
-    "title": "Nvidia agrees to acquire Hugging Face for $13B",
-    "score": 1295,
-    "source": "Hacker News",
-    "timestamp": "2026-08-27T12:21:06.984270"
-  },
-  {
-    "key": "2026-08-27:Hacker News:U.S. State Department pauses immigrant visa applications",
-    "title": "U.S. State Department pauses immigrant visa applications",
-    "score": 591,
-    "source": "Hacker News",
-    "timestamp": "2026-08-27T12:21:06.984292"
-  },
-  {
     "key": "2026-08-27:Hacker News:Tailcat – Like netcat, but over Tailscale’s data plane",
     "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
     "score": 598,
@@ -698,5 +677,26 @@
     "score": 734,
     "source": "Hacker News",
     "timestamp": "2026-09-08T20:26:53.933774"
+  },
+  {
+    "key": "2026-09-09:Hacker News:Navier-Stokes – Tristan Buckmaster [pdf]",
+    "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+    "score": 1547,
+    "source": "Hacker News",
+    "timestamp": "2026-09-09T07:04:20.719664"
+  },
+  {
+    "key": "2026-09-09:Hacker News:AlphaGenome Atlas: a high-resolution map of human DNA",
+    "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+    "score": 540,
+    "source": "Hacker News",
+    "timestamp": "2026-09-09T07:04:20.719685"
+  },
+  {
+    "key": "2026-09-09:Hacker News:On the Navier–Stokes Millennium Prize Problem",
+    "title": "On the Navier–Stokes Millennium Prize Problem",
+    "score": 1229,
+    "source": "Hacker News",
+    "timestamp": "2026-09-09T07:04:20.719692"
   }
 ]

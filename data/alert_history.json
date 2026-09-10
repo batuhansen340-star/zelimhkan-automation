@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-08-28:Hacker News:“It works better in the app”",
-    "title": "“It works better in the app”",
-    "score": 565,
-    "source": "Hacker News",
-    "timestamp": "2026-08-28T18:18:40.909903"
-  },
-  {
     "key": "2026-08-28:Hacker News:Get your Windows license refund",
     "title": "Get your Windows license refund",
     "score": 585,
@@ -698,5 +691,12 @@
     "score": 613,
     "source": "Hacker News",
     "timestamp": "2026-09-10T13:54:15.917340"
+  },
+  {
+    "key": "2026-09-10:Hacker News:Show HN: What if the speed of light was 5 km/h?",
+    "title": "Show HN: What if the speed of light was 5 km/h?",
+    "score": 540,
+    "source": "Hacker News",
+    "timestamp": "2026-09-10T17:21:49.997713"
   }
 ]

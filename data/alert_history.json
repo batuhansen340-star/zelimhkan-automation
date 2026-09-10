@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-08-28:Hacker News:507 Mechanical Movements",
-    "title": "507 Mechanical Movements",
-    "score": 540,
-    "source": "Hacker News",
-    "timestamp": "2026-08-28T05:59:54.578041"
-  },
-  {
     "key": "2026-08-28:Hacker News:Show HN: The load-bearing vocabulary of Claude",
     "title": "Show HN: The load-bearing vocabulary of Claude",
     "score": 609,
@@ -698,5 +691,12 @@
     "score": 992,
     "source": "Hacker News",
     "timestamp": "2026-09-10T07:00:46.309044"
+  },
+  {
+    "key": "2026-09-10:Hacker News:What do Visa and Mastercard do? An intro to card networks",
+    "title": "What do Visa and Mastercard do? An intro to card networks",
+    "score": 544,
+    "source": "Hacker News",
+    "timestamp": "2026-09-10T10:50:50.456059"
   }
 ]

@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-08-28:Hacker News:Get your Windows license refund",
-    "title": "Get your Windows license refund",
-    "score": 585,
-    "source": "Hacker News",
-    "timestamp": "2026-08-28T21:00:17.838630"
-  },
-  {
     "key": "2026-08-28:Hacker News:GUIs should be fully keyboard-driven",
     "title": "GUIs should be fully keyboard-driven",
     "score": 512,
@@ -698,5 +691,12 @@
     "score": 540,
     "source": "Hacker News",
     "timestamp": "2026-09-10T17:21:49.997713"
+  },
+  {
+    "key": "2026-09-10:Hacker News:Shopify moves back to Native from React Native",
+    "title": "Shopify moves back to Native from React Native",
+    "score": 556,
+    "source": "Hacker News",
+    "timestamp": "2026-09-10T20:11:44.896286"
   }
 ]

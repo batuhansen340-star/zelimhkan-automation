@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-08-28:Hacker News:GUIs should be fully keyboard-driven",
-    "title": "GUIs should be fully keyboard-driven",
-    "score": 512,
-    "source": "Hacker News",
-    "timestamp": "2026-08-28T23:15:00.485880"
-  },
-  {
-    "key": "2026-08-28:Hacker News:GLM-5.3 is now open-weight",
-    "title": "GLM-5.3 is now open-weight",
-    "score": 538,
-    "source": "Hacker News",
-    "timestamp": "2026-08-28T23:15:00.485894"
-  },
-  {
-    "key": "2026-08-29:Hacker News:GUIs should be fully keyboard-driven",
-    "title": "GUIs should be fully keyboard-driven",
-    "score": 603,
-    "source": "Hacker News",
-    "timestamp": "2026-08-29T01:17:16.511164"
-  },
-  {
     "key": "2026-08-29:Hacker News:Htmx 4.0",
     "title": "Htmx 4.0",
     "score": 524,
@@ -698,5 +677,26 @@
     "score": 556,
     "source": "Hacker News",
     "timestamp": "2026-09-10T20:11:44.896286"
+  },
+  {
+    "key": "2026-09-10:Hacker News:Shopify is moving from React Native back to Swift and Kotlin",
+    "title": "Shopify is moving from React Native back to Swift and Kotlin",
+    "score": 697,
+    "source": "Hacker News",
+    "timestamp": "2026-09-10T23:49:45.803984"
+  },
+  {
+    "key": "2026-09-10:Hacker News:More questions about whether researchers can trust OpenAI with unpublished math",
+    "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+    "score": 589,
+    "source": "Hacker News",
+    "timestamp": "2026-09-10T23:49:45.804002"
+  },
+  {
+    "key": "2026-09-10:Hacker News:Rust is tier-1 language at Microsoft",
+    "title": "Rust is tier-1 language at Microsoft",
+    "score": 580,
+    "source": "Hacker News",
+    "timestamp": "2026-09-10T23:49:45.804009"
   }
 ]

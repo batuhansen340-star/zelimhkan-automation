@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-08-28:Hacker News:Show HN: The load-bearing vocabulary of Claude",
-    "title": "Show HN: The load-bearing vocabulary of Claude",
-    "score": 609,
-    "source": "Hacker News",
-    "timestamp": "2026-08-28T13:47:06.781885"
-  },
-  {
     "key": "2026-08-28:Hacker News:“It works better in the app”",
     "title": "“It works better in the app”",
     "score": 565,
@@ -698,5 +691,12 @@
     "score": 544,
     "source": "Hacker News",
     "timestamp": "2026-09-10T10:50:50.456059"
+  },
+  {
+    "key": "2026-09-10:Hacker News:DeepSeek v4.1 Flash",
+    "title": "DeepSeek v4.1 Flash",
+    "score": 613,
+    "source": "Hacker News",
+    "timestamp": "2026-09-10T13:54:15.917340"
   }
 ]

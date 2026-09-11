@@ -1,40 +1,5 @@
 [
   {
-    "key": "2026-08-29:Hacker News:Htmx 4.0",
-    "title": "Htmx 4.0",
-    "score": 524,
-    "source": "Hacker News",
-    "timestamp": "2026-08-29T01:17:16.511182"
-  },
-  {
-    "key": "2026-08-29:Hacker News:Judge rules Trump administration’s blacklisting of Anthropic was illegal",
-    "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
-    "score": 526,
-    "source": "Hacker News",
-    "timestamp": "2026-08-29T01:17:16.511188"
-  },
-  {
-    "key": "2026-08-29:Hacker News:GLM-5.3 is now open-weight",
-    "title": "GLM-5.3 is now open-weight",
-    "score": 583,
-    "source": "Hacker News",
-    "timestamp": "2026-08-29T01:17:16.511193"
-  },
-  {
-    "key": "2026-08-29:Hacker News:Get your Windows license refund",
-    "title": "Get your Windows license refund",
-    "score": 654,
-    "source": "Hacker News",
-    "timestamp": "2026-08-29T01:17:16.511197"
-  },
-  {
-    "key": "2026-08-29:Hacker News:“It works better in the app”",
-    "title": "“It works better in the app”",
-    "score": 624,
-    "source": "Hacker News",
-    "timestamp": "2026-08-29T01:17:16.511202"
-  },
-  {
     "key": "2026-08-29:Hacker News:U.S. sanctions against the A/I Collective",
     "title": "U.S. sanctions against the A/I Collective",
     "score": 508,
@@ -698,5 +663,40 @@
     "score": 580,
     "source": "Hacker News",
     "timestamp": "2026-09-10T23:49:45.804009"
+  },
+  {
+    "key": "2026-09-11:Hacker News:Shopify is moving from React Native back to Swift and Kotlin",
+    "title": "Shopify is moving from React Native back to Swift and Kotlin",
+    "score": 982,
+    "source": "Hacker News",
+    "timestamp": "2026-09-11T07:00:00.648265"
+  },
+  {
+    "key": "2026-09-11:Hacker News:iPhone Duo",
+    "title": "iPhone Duo",
+    "score": 1439,
+    "source": "Hacker News",
+    "timestamp": "2026-09-11T07:00:00.648280"
+  },
+  {
+    "key": "2026-09-11:Hacker News:More questions about whether researchers can trust OpenAI with unpublished math",
+    "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+    "score": 776,
+    "source": "Hacker News",
+    "timestamp": "2026-09-11T07:00:00.648287"
+  },
+  {
+    "key": "2026-09-11:Hacker News:Rust is tier-1 language at Microsoft",
+    "title": "Rust is tier-1 language at Microsoft",
+    "score": 652,
+    "source": "Hacker News",
+    "timestamp": "2026-09-11T07:00:00.648292"
+  },
+  {
+    "key": "2026-09-11:Hacker News:DeepSeek v4.1 Flash",
+    "title": "DeepSeek v4.1 Flash",
+    "score": 961,
+    "source": "Hacker News",
+    "timestamp": "2026-09-11T07:00:00.648298"
   }
 ]

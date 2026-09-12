@@ -1,40 +1,5 @@
 [
   {
-    "key": "2026-08-30:Hacker News:California lawmakers unanimously pass Linux exemption from age-verification law",
-    "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
-    "score": 613,
-    "source": "Hacker News",
-    "timestamp": "2026-08-30T17:49:02.063434"
-  },
-  {
-    "key": "2026-08-30:Hacker News:Tether: iMessage, SMS, etc. on Linux",
-    "title": "Tether: iMessage, SMS, etc. on Linux",
-    "score": 516,
-    "source": "Hacker News",
-    "timestamp": "2026-08-30T17:49:02.063457"
-  },
-  {
-    "key": "2026-08-30:Hacker News:Creepy Crawlies",
-    "title": "Creepy Crawlies",
-    "score": 575,
-    "source": "Hacker News",
-    "timestamp": "2026-08-30T20:15:03.797958"
-  },
-  {
-    "key": "2026-08-31:Hacker News:Creepy Crawlies",
-    "title": "Creepy Crawlies",
-    "score": 883,
-    "source": "Hacker News",
-    "timestamp": "2026-08-31T00:15:33.554272"
-  },
-  {
-    "key": "2026-08-31:Hacker News:California lawmakers unanimously pass Linux exemption from age-verification law",
-    "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
-    "score": 689,
-    "source": "Hacker News",
-    "timestamp": "2026-08-31T00:15:33.554288"
-  },
-  {
     "key": "2026-08-31:Hacker News:“I just chose words carefully”",
     "title": "“I just chose words carefully”",
     "score": 681,
@@ -698,5 +663,40 @@
     "score": 556,
     "source": "Hacker News",
     "timestamp": "2026-09-11T23:56:56.248105"
+  },
+  {
+    "key": "2026-09-12:Hacker News:A misalignment of AI in mathematics",
+    "title": "A misalignment of AI in mathematics",
+    "score": 828,
+    "source": "Hacker News",
+    "timestamp": "2026-09-12T06:51:40.713750"
+  },
+  {
+    "key": "2026-09-12:Hacker News:OpenAI agents carried out an undisclosed attack on RubyGems",
+    "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+    "score": 590,
+    "source": "Hacker News",
+    "timestamp": "2026-09-12T06:51:40.713763"
+  },
+  {
+    "key": "2026-09-12:Hacker News:Claude is only available to people over 18 years",
+    "title": "Claude is only available to people over 18 years",
+    "score": 624,
+    "source": "Hacker News",
+    "timestamp": "2026-09-12T06:51:40.713770"
+  },
+  {
+    "key": "2026-09-12:Hacker News:So you want to use OpenRouter?",
+    "title": "So you want to use OpenRouter?",
+    "score": 704,
+    "source": "Hacker News",
+    "timestamp": "2026-09-12T06:51:40.713776"
+  },
+  {
+    "key": "2026-09-12:Hacker News:Shopify is moving from React Native back to Swift and Kotlin",
+    "title": "Shopify is moving from React Native back to Swift and Kotlin",
+    "score": 1233,
+    "source": "Hacker News",
+    "timestamp": "2026-09-12T06:51:40.713782"
   }
 ]

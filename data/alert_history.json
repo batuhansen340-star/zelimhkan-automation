@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-09-01:Hacker News:Claude Fable 5.1 and Claude Mythos 5.1",
-    "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-    "score": 555,
-    "source": "Hacker News",
-    "timestamp": "2026-09-01T20:16:31.077827"
-  },
-  {
-    "key": "2026-09-01:Hacker News:I trained a small transformer in 1.5hrs and it beats many LLMs",
-    "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
-    "score": 550,
-    "source": "Hacker News",
-    "timestamp": "2026-09-01T23:52:05.756003"
-  },
-  {
     "key": "2026-09-02:Hacker News:Claude Fable 5.1 and Claude Mythos 5.1",
     "title": "Claude Fable 5.1 and Claude Mythos 5.1",
     "score": 1129,
@@ -698,5 +684,19 @@
     "score": 736,
     "source": "Hacker News",
     "timestamp": "2026-09-13T07:10:33.273406"
+  },
+  {
+    "key": "2026-09-13:Hacker News:Everyone should slow down AI development except for me",
+    "title": "Everyone should slow down AI development except for me",
+    "score": 517,
+    "source": "Hacker News",
+    "timestamp": "2026-09-13T11:16:11.241562"
+  },
+  {
+    "key": "2026-09-13:Hacker News:LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+    "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+    "score": 543,
+    "source": "Hacker News",
+    "timestamp": "2026-09-13T11:16:11.241577"
   }
 ]

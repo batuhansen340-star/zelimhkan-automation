@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-09-02:Hacker News:AnkiDroid: Google Play no longer allowing Open Collective donation link",
-    "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
-    "score": 867,
-    "source": "Hacker News",
-    "timestamp": "2026-09-02T06:48:37.630229"
-  },
-  {
-    "key": "2026-09-02:Hacker News:Hang on to Your Firefox",
-    "title": "Hang on to Your Firefox",
-    "score": 773,
-    "source": "Hacker News",
-    "timestamp": "2026-09-02T06:48:37.630234"
-  },
-  {
     "key": "2026-09-02:Hacker News:I trained a small transformer in 1.5hrs and it beats many LLMs",
     "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
     "score": 608,
@@ -698,5 +684,19 @@
     "score": 527,
     "source": "Hacker News",
     "timestamp": "2026-09-13T19:58:47.389541"
+  },
+  {
+    "key": "2026-09-13:Hacker News:JetKVM Mini",
+    "title": "JetKVM Mini",
+    "score": 517,
+    "source": "Hacker News",
+    "timestamp": "2026-09-13T23:56:13.615587"
+  },
+  {
+    "key": "2026-09-13:Hacker News:Homebrew 7.0.0",
+    "title": "Homebrew 7.0.0",
+    "score": 547,
+    "source": "Hacker News",
+    "timestamp": "2026-09-13T23:56:13.615606"
   }
 ]

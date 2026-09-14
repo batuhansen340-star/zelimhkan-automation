@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-09-02:Hacker News:I trained a small transformer in 1.5hrs and it beats many LLMs",
-    "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
-    "score": 608,
-    "source": "Hacker News",
-    "timestamp": "2026-09-02T06:48:37.630239"
-  },
-  {
-    "key": "2026-09-02:Hacker News:Introducing Ad Blocker for Firefox on iOS",
-    "title": "Introducing Ad Blocker for Firefox on iOS",
-    "score": 547,
-    "source": "Hacker News",
-    "timestamp": "2026-09-02T13:54:24.066046"
-  },
-  {
-    "key": "2026-09-02:Hacker News:A Note from LWN",
-    "title": "A Note from LWN",
-    "score": 528,
-    "source": "Hacker News",
-    "timestamp": "2026-09-02T17:28:16.664418"
-  },
-  {
-    "key": "2026-09-02:Hacker News:Gemini 3.8 Flash and 3.8 Flash Cyber",
-    "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-    "score": 646,
-    "source": "Hacker News",
-    "timestamp": "2026-09-02T20:15:09.318527"
-  },
-  {
     "key": "2026-09-02:Hacker News:A note on subscription prices from LWN",
     "title": "A note on subscription prices from LWN",
     "score": 645,
@@ -698,5 +670,33 @@
     "score": 547,
     "source": "Hacker News",
     "timestamp": "2026-09-13T23:56:13.615606"
+  },
+  {
+    "key": "2026-09-14:Hacker News:Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+    "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+    "score": 802,
+    "source": "Hacker News",
+    "timestamp": "2026-09-14T07:34:10.813228"
+  },
+  {
+    "key": "2026-09-14:Hacker News:Why is Google still serving dodgy ads?",
+    "title": "Why is Google still serving dodgy ads?",
+    "score": 769,
+    "source": "Hacker News",
+    "timestamp": "2026-09-14T07:34:10.813239"
+  },
+  {
+    "key": "2026-09-14:Hacker News:JetKVM Mini",
+    "title": "JetKVM Mini",
+    "score": 542,
+    "source": "Hacker News",
+    "timestamp": "2026-09-14T07:34:10.813243"
+  },
+  {
+    "key": "2026-09-14:Hacker News:Why are AI agents lying, cheating and coordinating?",
+    "title": "Why are AI agents lying, cheating and coordinating?",
+    "score": 613,
+    "source": "Hacker News",
+    "timestamp": "2026-09-14T07:34:10.813246"
   }
 ]

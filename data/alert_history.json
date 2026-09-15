@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-09-02:Hacker News:A note on subscription prices from LWN",
-    "title": "A note on subscription prices from LWN",
-    "score": 645,
-    "source": "Hacker News",
-    "timestamp": "2026-09-02T20:15:09.318543"
-  },
-  {
     "key": "2026-09-03:Hacker News:Muse Spark 1.3",
     "title": "Muse Spark 1.3",
     "score": 515,
@@ -698,5 +691,12 @@
     "score": 613,
     "source": "Hacker News",
     "timestamp": "2026-09-14T07:34:10.813246"
+  },
+  {
+    "key": "2026-09-15:Hacker News:Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+    "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+    "score": 1170,
+    "source": "Hacker News",
+    "timestamp": "2026-09-15T00:22:42.982880"
   }
 ]

@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-09-03:Hacker News:Audacity 4.0",
-    "title": "Audacity 4.0",
-    "score": 825,
-    "source": "Hacker News",
-    "timestamp": "2026-09-03T17:21:16.120875"
-  },
-  {
     "key": "2026-09-03:Hacker News:.name Termination",
     "title": ".name Termination",
     "score": 970,
@@ -698,5 +691,12 @@
     "score": 551,
     "source": "Hacker News",
     "timestamp": "2026-09-15T11:18:02.377433"
+  },
+  {
+    "key": "2026-09-15:Hacker News:I can't stop thinking about Papua New Guinea",
+    "title": "I can't stop thinking about Papua New Guinea",
+    "score": 569,
+    "source": "Hacker News",
+    "timestamp": "2026-09-15T14:30:14.315072"
   }
 ]

@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-09-03:Hacker News:.name Termination",
-    "title": ".name Termination",
-    "score": 970,
-    "source": "Hacker News",
-    "timestamp": "2026-09-03T20:15:31.795807"
-  },
-  {
-    "key": "2026-09-03:Hacker News:GPT-6 Astra",
-    "title": "GPT-6 Astra",
-    "score": 1158,
-    "source": "Hacker News",
-    "timestamp": "2026-09-03T23:50:15.779725"
-  },
-  {
     "key": "2026-09-04:Hacker News:GPT-6 Astra",
     "title": "GPT-6 Astra",
     "score": 1637,
@@ -698,5 +684,19 @@
     "score": 569,
     "source": "Hacker News",
     "timestamp": "2026-09-15T14:30:14.315072"
+  },
+  {
+    "key": "2026-09-15:Hacker News:Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+    "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+    "score": 760,
+    "source": "Hacker News",
+    "timestamp": "2026-09-15T17:48:08.860468"
+  },
+  {
+    "key": "2026-09-15:Hacker News:25 years of mass surveillance is enough",
+    "title": "25 years of mass surveillance is enough",
+    "score": 558,
+    "source": "Hacker News",
+    "timestamp": "2026-09-15T17:48:08.860485"
   }
 ]

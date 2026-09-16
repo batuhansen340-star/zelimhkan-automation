@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-09-04:Hacker News:Audacity 4.0",
-    "title": "Audacity 4.0",
-    "score": 1092,
-    "source": "Hacker News",
-    "timestamp": "2026-09-04T06:56:16.088481"
-  },
-  {
     "key": "2026-09-04:Hacker News:Discovery of a new OpenAI agent message board",
     "title": "Discovery of a new OpenAI agent message board",
     "score": 864,
@@ -698,5 +691,12 @@
     "score": 1008,
     "source": "Hacker News",
     "timestamp": "2026-09-16T00:01:54.033410"
+  },
+  {
+    "key": "2026-09-16:Hacker News:A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+    "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+    "score": 592,
+    "source": "Hacker News",
+    "timestamp": "2026-09-16T07:14:35.583997"
   }
 ]

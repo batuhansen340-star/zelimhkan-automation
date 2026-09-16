@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-09-04:Hacker News:GPT-6 Astra",
-    "title": "GPT-6 Astra",
-    "score": 1637,
-    "source": "Hacker News",
-    "timestamp": "2026-09-04T06:56:16.088449"
-  },
-  {
-    "key": "2026-09-04:Hacker News:.name Termination",
-    "title": ".name Termination",
-    "score": 1646,
-    "source": "Hacker News",
-    "timestamp": "2026-09-04T06:56:16.088463"
-  },
-  {
-    "key": "2026-09-04:Hacker News:Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-    "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-    "score": 520,
-    "source": "Hacker News",
-    "timestamp": "2026-09-04T06:56:16.088470"
-  },
-  {
-    "key": "2026-09-04:Hacker News:Any Human Ever – One life, drawn at random from all who have ever lived",
-    "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
-    "score": 548,
-    "source": "Hacker News",
-    "timestamp": "2026-09-04T06:56:16.088476"
-  },
-  {
     "key": "2026-09-04:Hacker News:Audacity 4.0",
     "title": "Audacity 4.0",
     "score": 1092,
@@ -698,5 +670,33 @@
     "score": 558,
     "source": "Hacker News",
     "timestamp": "2026-09-15T17:48:08.860485"
+  },
+  {
+    "key": "2026-09-16:Hacker News:Introducing System One Models and Jev",
+    "title": "Introducing System One Models and Jev",
+    "score": 636,
+    "source": "Hacker News",
+    "timestamp": "2026-09-16T00:01:54.033393"
+  },
+  {
+    "key": "2026-09-16:Hacker News:Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+    "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+    "score": 1238,
+    "source": "Hacker News",
+    "timestamp": "2026-09-16T00:01:54.033403"
+  },
+  {
+    "key": "2026-09-16:Hacker News:25 years of mass surveillance is enough",
+    "title": "25 years of mass surveillance is enough",
+    "score": 768,
+    "source": "Hacker News",
+    "timestamp": "2026-09-16T00:01:54.033407"
+  },
+  {
+    "key": "2026-09-16:Hacker News:I can't stop thinking about Papua New Guinea",
+    "title": "I can't stop thinking about Papua New Guinea",
+    "score": 1008,
+    "source": "Hacker News",
+    "timestamp": "2026-09-16T00:01:54.033410"
   }
 ]

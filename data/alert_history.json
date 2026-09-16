@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-09-05:Hacker News:Discovery of a new OpenAI agent message board",
-    "title": "Discovery of a new OpenAI agent message board",
-    "score": 1616,
-    "source": "Hacker News",
-    "timestamp": "2026-09-05T06:40:52.054618"
-  },
-  {
     "key": "2026-09-05:Hacker News:Formalizing Fermat's Last Theorem",
     "title": "Formalizing Fermat's Last Theorem",
     "score": 574,
@@ -698,5 +691,12 @@
     "score": 551,
     "source": "Hacker News",
     "timestamp": "2026-09-16T11:00:27.987587"
+  },
+  {
+    "key": "2026-09-16:Hacker News:Suspected sabotage causes major Netherlands rail disruption",
+    "title": "Suspected sabotage causes major Netherlands rail disruption",
+    "score": 508,
+    "source": "Hacker News",
+    "timestamp": "2026-09-16T14:23:56.718197"
   }
 ]

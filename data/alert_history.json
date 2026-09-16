@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-09-04:Hacker News:Discovery of a new OpenAI agent message board",
-    "title": "Discovery of a new OpenAI agent message board",
-    "score": 864,
-    "source": "Hacker News",
-    "timestamp": "2026-09-04T17:13:09.521408"
-  },
-  {
     "key": "2026-09-05:Hacker News:Discovery of a new OpenAI agent message board",
     "title": "Discovery of a new OpenAI agent message board",
     "score": 1616,
@@ -698,5 +691,12 @@
     "score": 592,
     "source": "Hacker News",
     "timestamp": "2026-09-16T07:14:35.583997"
+  },
+  {
+    "key": "2026-09-16:Hacker News:An update on Wayback Machine access",
+    "title": "An update on Wayback Machine access",
+    "score": 551,
+    "source": "Hacker News",
+    "timestamp": "2026-09-16T11:00:27.987587"
   }
 ]

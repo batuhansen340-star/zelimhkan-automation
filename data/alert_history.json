@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-09-05:Hacker News:Formalizing Fermat's Last Theorem",
-    "title": "Formalizing Fermat's Last Theorem",
-    "score": 574,
-    "source": "Hacker News",
-    "timestamp": "2026-09-05T06:40:52.054638"
-  },
-  {
-    "key": "2026-09-05:Hacker News:GPT-6 Astra",
-    "title": "GPT-6 Astra",
-    "score": 2167,
-    "source": "Hacker News",
-    "timestamp": "2026-09-05T06:40:52.054644"
-  },
-  {
-    "key": "2026-09-05:Hacker News:.name Termination",
-    "title": ".name Termination",
-    "score": 2160,
-    "source": "Hacker News",
-    "timestamp": "2026-09-05T06:40:52.054650"
-  },
-  {
     "key": "2026-09-05:Hacker News:Actively exploited sandbox RCE in all Chromium versions",
     "title": "Actively exploited sandbox RCE in all Chromium versions",
     "score": 503,
@@ -698,5 +677,26 @@
     "score": 508,
     "source": "Hacker News",
     "timestamp": "2026-09-16T14:23:56.718197"
+  },
+  {
+    "key": "2026-09-17:Hacker News:Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+    "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+    "score": 2053,
+    "source": "Hacker News",
+    "timestamp": "2026-09-17T00:11:27.608728"
+  },
+  {
+    "key": "2026-09-17:Hacker News:Mistral X Mozilla: Private, Multilingual AI Browsing",
+    "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+    "score": 520,
+    "source": "Hacker News",
+    "timestamp": "2026-09-17T00:11:27.608743"
+  },
+  {
+    "key": "2026-09-17:Hacker News:Introducing System One Models and Jev",
+    "title": "Introducing System One Models and Jev",
+    "score": 1784,
+    "source": "Hacker News",
+    "timestamp": "2026-09-17T00:11:27.608750"
   }
 ]

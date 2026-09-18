@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-09-06:Hacker News:Nitter has more working instances than before the takedowns",
-    "title": "Nitter has more working instances than before the takedowns",
-    "score": 662,
-    "source": "Hacker News",
-    "timestamp": "2026-09-06T06:51:14.390574"
-  },
-  {
-    "key": "2026-09-06:Hacker News:Formalizing Fermat's Last Theorem",
-    "title": "Formalizing Fermat's Last Theorem",
-    "score": 753,
-    "source": "Hacker News",
-    "timestamp": "2026-09-06T06:51:14.390579"
-  },
-  {
-    "key": "2026-09-06:Hacker News:GPT-6 Astra",
-    "title": "GPT-6 Astra",
-    "score": 2225,
-    "source": "Hacker News",
-    "timestamp": "2026-09-06T06:51:14.390583"
-  },
-  {
     "key": "2026-09-06:Hacker News:.name Termination",
     "title": ".name Termination",
     "score": 2200,
@@ -698,5 +677,26 @@
     "score": 533,
     "source": "Hacker News",
     "timestamp": "2026-09-17T11:11:26.874357"
+  },
+  {
+    "key": "2026-09-18:Hacker News:Hister: A private search engine for the pages you visit and the files you keep",
+    "title": "Hister: A private search engine for the pages you visit and the files you keep",
+    "score": 562,
+    "source": "Hacker News",
+    "timestamp": "2026-09-18T07:03:45.295150"
+  },
+  {
+    "key": "2026-09-18:Hacker News:Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+    "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+    "score": 568,
+    "source": "Hacker News",
+    "timestamp": "2026-09-18T07:03:45.295163"
+  },
+  {
+    "key": "2026-09-18:Hacker News:Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+    "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+    "score": 2282,
+    "source": "Hacker News",
+    "timestamp": "2026-09-18T07:03:45.295168"
   }
 ]

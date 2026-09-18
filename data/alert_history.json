@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-09-06:Hacker News:Private German rocket makes history, reaches orbit from European soil",
-    "title": "Private German rocket makes history, reaches orbit from European soil",
-    "score": 609,
-    "source": "Hacker News",
-    "timestamp": "2026-09-06T10:28:32.307161"
-  },
-  {
-    "key": "2026-09-06:Hacker News:Cloud in a Bottle: making self-hosting accessible to everyone",
-    "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
-    "score": 539,
-    "source": "Hacker News",
-    "timestamp": "2026-09-06T16:31:42.904650"
-  },
-  {
-    "key": "2026-09-06:Hacker News:Chrome again exempts Google from user site data settings",
-    "title": "Chrome again exempts Google from user site data settings",
-    "score": 524,
-    "source": "Hacker News",
-    "timestamp": "2026-09-06T16:31:42.904669"
-  },
-  {
     "key": "2026-09-06:Hacker News:The revolt of the reader",
     "title": "The revolt of the reader",
     "score": 538,
@@ -698,5 +677,26 @@
     "score": 946,
     "source": "Hacker News",
     "timestamp": "2026-09-18T10:44:33.666772"
+  },
+  {
+    "key": "2026-09-18:Hacker News:Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+    "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+    "score": 502,
+    "source": "Hacker News",
+    "timestamp": "2026-09-18T13:55:28.274592"
+  },
+  {
+    "key": "2026-09-18:Hacker News:Astra for Law",
+    "title": "Astra for Law",
+    "score": 525,
+    "source": "Hacker News",
+    "timestamp": "2026-09-18T13:55:28.274608"
+  },
+  {
+    "key": "2026-09-18:Hacker News:Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+    "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+    "score": 530,
+    "source": "Hacker News",
+    "timestamp": "2026-09-18T13:55:28.274616"
   }
 ]

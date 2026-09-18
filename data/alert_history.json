@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-09-06:Hacker News:The revolt of the reader",
-    "title": "The revolt of the reader",
-    "score": 538,
-    "source": "Hacker News",
-    "timestamp": "2026-09-06T19:43:27.985945"
-  },
-  {
-    "key": "2026-09-06:Hacker News:QBittorrent breaks out of sandbox to commit crimes",
-    "title": "QBittorrent breaks out of sandbox to commit crimes",
-    "score": 1117,
-    "source": "Hacker News",
-    "timestamp": "2026-09-06T19:43:27.985965"
-  },
-  {
     "key": "2026-09-06:Hacker News:Isar Aerospace reaches orbit and deploys payloads on second flight",
     "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
     "score": 546,
@@ -698,5 +684,19 @@
     "score": 530,
     "source": "Hacker News",
     "timestamp": "2026-09-18T13:55:28.274616"
+  },
+  {
+    "key": "2026-09-18:Hacker News:I don't like passkeys",
+    "title": "I don't like passkeys",
+    "score": 523,
+    "source": "Hacker News",
+    "timestamp": "2026-09-18T17:19:51.844174"
+  },
+  {
+    "key": "2026-09-18:Hacker News:Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+    "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+    "score": 719,
+    "source": "Hacker News",
+    "timestamp": "2026-09-18T17:19:51.844191"
   }
 ]

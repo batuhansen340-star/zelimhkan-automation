@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-09-08:Hacker News:Keep Our Servers Running",
-    "title": "Keep Our Servers Running",
-    "score": 939,
-    "source": "Hacker News",
-    "timestamp": "2026-09-08T00:02:06.635025"
-  },
-  {
-    "key": "2026-09-08:Hacker News:216M Spy TVs – The LG Smart TV Problem [video]",
-    "title": "216M Spy TVs – The LG Smart TV Problem [video]",
-    "score": 698,
-    "source": "Hacker News",
-    "timestamp": "2026-09-08T06:55:15.909950"
-  },
-  {
     "key": "2026-09-08:Hacker News:Mistral raises €3B",
     "title": "Mistral raises €3B",
     "score": 634,
@@ -698,5 +684,19 @@
     "score": 525,
     "source": "Hacker News",
     "timestamp": "2026-09-19T13:30:31.817876"
+  },
+  {
+    "key": "2026-09-19:Hacker News:Laya the open source version of Jev",
+    "title": "Laya the open source version of Jev",
+    "score": 539,
+    "source": "Hacker News",
+    "timestamp": "2026-09-19T16:51:24.995780"
+  },
+  {
+    "key": "2026-09-19:Hacker News:AI-generated posters don’t have to be horrible",
+    "title": "AI-generated posters don’t have to be horrible",
+    "score": 747,
+    "source": "Hacker News",
+    "timestamp": "2026-09-19T16:51:24.995792"
   }
 ]

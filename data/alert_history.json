@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-09-08:Hacker News:Jellyfin 12.0",
-    "title": "Jellyfin 12.0",
-    "score": 553,
-    "source": "Hacker News",
-    "timestamp": "2026-09-08T17:37:53.223925"
-  },
-  {
     "key": "2026-09-08:Hacker News:On the Navier–Stokes Millennium Prize Problem",
     "title": "On the Navier–Stokes Millennium Prize Problem",
     "score": 773,
@@ -698,5 +691,12 @@
     "score": 571,
     "source": "Hacker News",
     "timestamp": "2026-09-19T19:44:41.206872"
+  },
+  {
+    "key": "2026-09-19:Hacker News:Two parallel neural ectoderm progenitors contribute to the developing brain",
+    "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+    "score": 603,
+    "source": "Hacker News",
+    "timestamp": "2026-09-19T23:57:02.681384"
   }
 ]

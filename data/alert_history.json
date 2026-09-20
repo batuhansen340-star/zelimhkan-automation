@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-09-09:Hacker News:Muse – Meta’s personal AI agent",
-    "title": "Muse – Meta’s personal AI agent",
-    "score": 527,
-    "source": "Hacker News",
-    "timestamp": "2026-09-09T10:54:42.045804"
-  },
-  {
     "key": "2026-09-09:Hacker News:We built our house for LAN parties (2024)",
     "title": "We built our house for LAN parties (2024)",
     "score": 531,
@@ -698,5 +691,12 @@
     "score": 1129,
     "source": "Hacker News",
     "timestamp": "2026-09-20T07:26:56.115830"
+  },
+  {
+    "key": "2026-09-20:Hacker News:Exfiltrate Your Weights",
+    "title": "Exfiltrate Your Weights",
+    "score": 543,
+    "source": "Hacker News",
+    "timestamp": "2026-09-20T17:04:19.873590"
   }
 ]

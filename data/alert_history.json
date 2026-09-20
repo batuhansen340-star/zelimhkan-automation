@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-09-09:Hacker News:We built our house for LAN parties (2024)",
-    "title": "We built our house for LAN parties (2024)",
-    "score": 531,
-    "source": "Hacker News",
-    "timestamp": "2026-09-09T10:54:42.045837"
-  },
-  {
     "key": "2026-09-09:Hacker News:Tailwind Labs is joining Shopify",
     "title": "Tailwind Labs is joining Shopify",
     "score": 541,
@@ -698,5 +691,12 @@
     "score": 543,
     "source": "Hacker News",
     "timestamp": "2026-09-20T17:04:19.873590"
+  },
+  {
+    "key": "2026-09-20:Hacker News:ChatGPT now knows what you do on other websites via ad collector",
+    "title": "ChatGPT now knows what you do on other websites via ad collector",
+    "score": 532,
+    "source": "Hacker News",
+    "timestamp": "2026-09-20T23:56:11.020872"
   }
 ]

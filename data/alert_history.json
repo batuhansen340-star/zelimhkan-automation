@@ -1,40 +1,5 @@
 [
   {
-    "key": "2026-09-08:Hacker News:On the Navier–Stokes Millennium Prize Problem",
-    "title": "On the Navier–Stokes Millennium Prize Problem",
-    "score": 773,
-    "source": "Hacker News",
-    "timestamp": "2026-09-08T20:26:53.933750"
-  },
-  {
-    "key": "2026-09-08:Hacker News:Navier-Stokes – Tristan Buckmaster [pdf]",
-    "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
-    "score": 734,
-    "source": "Hacker News",
-    "timestamp": "2026-09-08T20:26:53.933774"
-  },
-  {
-    "key": "2026-09-09:Hacker News:Navier-Stokes – Tristan Buckmaster [pdf]",
-    "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
-    "score": 1547,
-    "source": "Hacker News",
-    "timestamp": "2026-09-09T07:04:20.719664"
-  },
-  {
-    "key": "2026-09-09:Hacker News:AlphaGenome Atlas: a high-resolution map of human DNA",
-    "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
-    "score": 540,
-    "source": "Hacker News",
-    "timestamp": "2026-09-09T07:04:20.719685"
-  },
-  {
-    "key": "2026-09-09:Hacker News:On the Navier–Stokes Millennium Prize Problem",
-    "title": "On the Navier–Stokes Millennium Prize Problem",
-    "score": 1229,
-    "source": "Hacker News",
-    "timestamp": "2026-09-09T07:04:20.719692"
-  },
-  {
     "key": "2026-09-09:Hacker News:Muse – Meta’s personal AI agent",
     "title": "Muse – Meta’s personal AI agent",
     "score": 527,
@@ -698,5 +663,40 @@
     "score": 603,
     "source": "Hacker News",
     "timestamp": "2026-09-19T23:57:02.681384"
+  },
+  {
+    "key": "2026-09-20:Hacker News:AI-generated posters don’t have to be horrible",
+    "title": "AI-generated posters don’t have to be horrible",
+    "score": 1540,
+    "source": "Hacker News",
+    "timestamp": "2026-09-20T07:26:56.115788"
+  },
+  {
+    "key": "2026-09-20:Hacker News:I built non-autoregressive decision models with RL a year ago",
+    "title": "I built non-autoregressive decision models with RL a year ago",
+    "score": 1187,
+    "source": "Hacker News",
+    "timestamp": "2026-09-20T07:26:56.115813"
+  },
+  {
+    "key": "2026-09-20:Hacker News:How to Write with an LLM",
+    "title": "How to Write with an LLM",
+    "score": 667,
+    "source": "Hacker News",
+    "timestamp": "2026-09-20T07:26:56.115820"
+  },
+  {
+    "key": "2026-09-20:Hacker News:Two parallel neural ectoderm progenitors contribute to the developing brain",
+    "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+    "score": 622,
+    "source": "Hacker News",
+    "timestamp": "2026-09-20T07:26:56.115825"
+  },
+  {
+    "key": "2026-09-20:Hacker News:Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+    "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+    "score": 1129,
+    "source": "Hacker News",
+    "timestamp": "2026-09-20T07:26:56.115830"
   }
 ]

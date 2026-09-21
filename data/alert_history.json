@@ -1,40 +1,5 @@
 [
   {
-    "key": "2026-09-09:Hacker News:Tailwind Labs is joining Shopify",
-    "title": "Tailwind Labs is joining Shopify",
-    "score": 541,
-    "source": "Hacker News",
-    "timestamp": "2026-09-09T17:23:29.318011"
-  },
-  {
-    "key": "2026-09-09:Hacker News:Claude, change the \"Add to Cart\" button to blue",
-    "title": "Claude, change the \"Add to Cart\" button to blue",
-    "score": 681,
-    "source": "Hacker News",
-    "timestamp": "2026-09-09T17:23:29.318026"
-  },
-  {
-    "key": "2026-09-09:Hacker News:Shopify acquires Tailwind",
-    "title": "Shopify acquires Tailwind",
-    "score": 697,
-    "source": "Hacker News",
-    "timestamp": "2026-09-09T20:10:14.204575"
-  },
-  {
-    "key": "2026-09-09:Hacker News:Claude, change the “Add to Cart” button to blue",
-    "title": "Claude, change the “Add to Cart” button to blue",
-    "score": 837,
-    "source": "Hacker News",
-    "timestamp": "2026-09-09T20:10:14.204593"
-  },
-  {
-    "key": "2026-09-09:Hacker News:iPhone Duo",
-    "title": "iPhone Duo",
-    "score": 796,
-    "source": "Hacker News",
-    "timestamp": "2026-09-09T23:53:29.071156"
-  },
-  {
     "key": "2026-09-10:Hacker News:iPhone Duo",
     "title": "iPhone Duo",
     "score": 1129,
@@ -698,5 +663,40 @@
     "score": 532,
     "source": "Hacker News",
     "timestamp": "2026-09-20T23:56:11.020872"
+  },
+  {
+    "key": "2026-09-21:Hacker News:Qwen Image 2.1",
+    "title": "Qwen Image 2.1",
+    "score": 611,
+    "source": "Hacker News",
+    "timestamp": "2026-09-21T07:37:58.595519"
+  },
+  {
+    "key": "2026-09-21:Hacker News:Exfiltrate Your Weights",
+    "title": "Exfiltrate Your Weights",
+    "score": 653,
+    "source": "Hacker News",
+    "timestamp": "2026-09-21T07:37:58.595536"
+  },
+  {
+    "key": "2026-09-21:Hacker News:How to Write with an LLM",
+    "title": "How to Write with an LLM",
+    "score": 726,
+    "source": "Hacker News",
+    "timestamp": "2026-09-21T07:37:58.595540"
+  },
+  {
+    "key": "2026-09-21:Hacker News:AI-generated posters don’t have to be horrible",
+    "title": "AI-generated posters don’t have to be horrible",
+    "score": 1807,
+    "source": "Hacker News",
+    "timestamp": "2026-09-21T07:37:58.595544"
+  },
+  {
+    "key": "2026-09-21:Hacker News:I built non-autoregressive decision models with RL a year ago",
+    "title": "I built non-autoregressive decision models with RL a year ago",
+    "score": 1304,
+    "source": "Hacker News",
+    "timestamp": "2026-09-21T07:37:58.595547"
   }
 ]

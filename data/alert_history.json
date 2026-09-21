@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-09-10:Hacker News:Show HN: What if the speed of light was 5 km/h?",
-    "title": "Show HN: What if the speed of light was 5 km/h?",
-    "score": 540,
-    "source": "Hacker News",
-    "timestamp": "2026-09-10T17:21:49.997713"
-  },
-  {
     "key": "2026-09-10:Hacker News:Shopify moves back to Native from React Native",
     "title": "Shopify moves back to Native from React Native",
     "score": 556,
@@ -698,5 +691,12 @@
     "score": 582,
     "source": "Hacker News",
     "timestamp": "2026-09-21T16:01:57.159399"
+  },
+  {
+    "key": "2026-09-21:Hacker News:Exfiltrate your Weights",
+    "title": "Exfiltrate your Weights",
+    "score": 708,
+    "source": "Hacker News",
+    "timestamp": "2026-09-21T18:57:17.726386"
   }
 ]

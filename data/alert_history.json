@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-09-10:Hacker News:Rust is tier-1 language at Microsoft",
-    "title": "Rust is tier-1 language at Microsoft",
-    "score": 580,
-    "source": "Hacker News",
-    "timestamp": "2026-09-10T23:49:45.804009"
-  },
-  {
-    "key": "2026-09-11:Hacker News:Shopify is moving from React Native back to Swift and Kotlin",
-    "title": "Shopify is moving from React Native back to Swift and Kotlin",
-    "score": 982,
-    "source": "Hacker News",
-    "timestamp": "2026-09-11T07:00:00.648265"
-  },
-  {
-    "key": "2026-09-11:Hacker News:iPhone Duo",
-    "title": "iPhone Duo",
-    "score": 1439,
-    "source": "Hacker News",
-    "timestamp": "2026-09-11T07:00:00.648280"
-  },
-  {
-    "key": "2026-09-11:Hacker News:More questions about whether researchers can trust OpenAI with unpublished math",
-    "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-    "score": 776,
-    "source": "Hacker News",
-    "timestamp": "2026-09-11T07:00:00.648287"
-  },
-  {
     "key": "2026-09-11:Hacker News:Rust is tier-1 language at Microsoft",
     "title": "Rust is tier-1 language at Microsoft",
     "score": 652,
@@ -698,5 +670,33 @@
     "score": 676,
     "source": "Hacker News",
     "timestamp": "2026-09-22T00:38:23.829185"
+  },
+  {
+    "key": "2026-09-22:Hacker News:MiMo v2.6",
+    "title": "MiMo v2.6",
+    "score": 801,
+    "source": "Hacker News",
+    "timestamp": "2026-09-22T07:19:25.533277"
+  },
+  {
+    "key": "2026-09-22:Hacker News:What Sun got wrong",
+    "title": "What Sun got wrong",
+    "score": 564,
+    "source": "Hacker News",
+    "timestamp": "2026-09-22T07:19:25.533303"
+  },
+  {
+    "key": "2026-09-22:Hacker News:I don't want to read what you didn't write",
+    "title": "I don't want to read what you didn't write",
+    "score": 579,
+    "source": "Hacker News",
+    "timestamp": "2026-09-22T07:19:25.533309"
+  },
+  {
+    "key": "2026-09-22:Hacker News:Grok 4.7",
+    "title": "Grok 4.7",
+    "score": 548,
+    "source": "Hacker News",
+    "timestamp": "2026-09-22T07:19:25.533314"
   }
 ]

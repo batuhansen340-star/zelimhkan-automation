@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-09-11:Hacker News:A misalignment of AI in mathematics",
-    "title": "A misalignment of AI in mathematics",
-    "score": 558,
-    "source": "Hacker News",
-    "timestamp": "2026-09-11T23:56:56.248087"
-  },
-  {
-    "key": "2026-09-11:Hacker News:Claude is only available to people over 18 years",
-    "title": "Claude is only available to people over 18 years",
-    "score": 556,
-    "source": "Hacker News",
-    "timestamp": "2026-09-11T23:56:56.248105"
-  },
-  {
     "key": "2026-09-12:Hacker News:A misalignment of AI in mathematics",
     "title": "A misalignment of AI in mathematics",
     "score": 828,
@@ -698,5 +684,19 @@
     "score": 675,
     "source": "Hacker News",
     "timestamp": "2026-09-22T17:47:45.134860"
+  },
+  {
+    "key": "2026-09-22:Hacker News:GPT-6 Sol and Luna",
+    "title": "GPT-6 Sol and Luna",
+    "score": 744,
+    "source": "Hacker News",
+    "timestamp": "2026-09-22T20:37:41.540910"
+  },
+  {
+    "key": "2026-09-22:Hacker News:Claude Opus 5.5",
+    "title": "Claude Opus 5.5",
+    "score": 846,
+    "source": "Hacker News",
+    "timestamp": "2026-09-22T20:37:41.540940"
   }
 ]

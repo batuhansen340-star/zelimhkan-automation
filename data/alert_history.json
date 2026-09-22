@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-09-10:Hacker News:Shopify moves back to Native from React Native",
-    "title": "Shopify moves back to Native from React Native",
-    "score": 556,
-    "source": "Hacker News",
-    "timestamp": "2026-09-10T20:11:44.896286"
-  },
-  {
-    "key": "2026-09-10:Hacker News:Shopify is moving from React Native back to Swift and Kotlin",
-    "title": "Shopify is moving from React Native back to Swift and Kotlin",
-    "score": 697,
-    "source": "Hacker News",
-    "timestamp": "2026-09-10T23:49:45.803984"
-  },
-  {
-    "key": "2026-09-10:Hacker News:More questions about whether researchers can trust OpenAI with unpublished math",
-    "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-    "score": 589,
-    "source": "Hacker News",
-    "timestamp": "2026-09-10T23:49:45.804002"
-  },
-  {
     "key": "2026-09-10:Hacker News:Rust is tier-1 language at Microsoft",
     "title": "Rust is tier-1 language at Microsoft",
     "score": 580,
@@ -698,5 +677,26 @@
     "score": 708,
     "source": "Hacker News",
     "timestamp": "2026-09-21T18:57:17.726386"
+  },
+  {
+    "key": "2026-09-22:Hacker News:Attention is all you have",
+    "title": "Attention is all you have",
+    "score": 559,
+    "source": "Hacker News",
+    "timestamp": "2026-09-22T00:38:23.829163"
+  },
+  {
+    "key": "2026-09-22:Hacker News:Exfiltrate your Weights",
+    "title": "Exfiltrate your Weights",
+    "score": 720,
+    "source": "Hacker News",
+    "timestamp": "2026-09-22T00:38:23.829180"
+  },
+  {
+    "key": "2026-09-22:Hacker News:What happened to the Snowden archive",
+    "title": "What happened to the Snowden archive",
+    "score": 676,
+    "source": "Hacker News",
+    "timestamp": "2026-09-22T00:38:23.829185"
   }
 ]

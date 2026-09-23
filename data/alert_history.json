@@ -1,40 +1,5 @@
 [
   {
-    "key": "2026-09-12:Hacker News:A misalignment of AI in mathematics",
-    "title": "A misalignment of AI in mathematics",
-    "score": 828,
-    "source": "Hacker News",
-    "timestamp": "2026-09-12T06:51:40.713750"
-  },
-  {
-    "key": "2026-09-12:Hacker News:OpenAI agents carried out an undisclosed attack on RubyGems",
-    "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-    "score": 590,
-    "source": "Hacker News",
-    "timestamp": "2026-09-12T06:51:40.713763"
-  },
-  {
-    "key": "2026-09-12:Hacker News:Claude is only available to people over 18 years",
-    "title": "Claude is only available to people over 18 years",
-    "score": 624,
-    "source": "Hacker News",
-    "timestamp": "2026-09-12T06:51:40.713770"
-  },
-  {
-    "key": "2026-09-12:Hacker News:So you want to use OpenRouter?",
-    "title": "So you want to use OpenRouter?",
-    "score": 704,
-    "source": "Hacker News",
-    "timestamp": "2026-09-12T06:51:40.713776"
-  },
-  {
-    "key": "2026-09-12:Hacker News:Shopify is moving from React Native back to Swift and Kotlin",
-    "title": "Shopify is moving from React Native back to Swift and Kotlin",
-    "score": 1233,
-    "source": "Hacker News",
-    "timestamp": "2026-09-12T06:51:40.713782"
-  },
-  {
     "key": "2026-09-12:Hacker News:I spent $220 on Google app ads and 60% of the installs were robots",
     "title": "I spent $220 on Google app ads and 60% of the installs were robots",
     "score": 535,
@@ -698,5 +663,40 @@
     "score": 846,
     "source": "Hacker News",
     "timestamp": "2026-09-22T20:37:41.540940"
+  },
+  {
+    "key": "2026-09-23:Hacker News:GPT-6 Sol and Luna",
+    "title": "GPT-6 Sol and Luna",
+    "score": 1089,
+    "source": "Hacker News",
+    "timestamp": "2026-09-23T00:06:41.510836"
+  },
+  {
+    "key": "2026-09-23:Hacker News:Claude Opus 5.5",
+    "title": "Claude Opus 5.5",
+    "score": 1123,
+    "source": "Hacker News",
+    "timestamp": "2026-09-23T00:06:41.510849"
+  },
+  {
+    "key": "2026-09-23:Hacker News:OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+    "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+    "score": 541,
+    "source": "Hacker News",
+    "timestamp": "2026-09-23T00:06:41.510856"
+  },
+  {
+    "key": "2026-09-23:Hacker News:Apple has added persistent 'ads' to iOS, and it's driving users crazy",
+    "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
+    "score": 581,
+    "source": "Hacker News",
+    "timestamp": "2026-09-23T00:06:41.510861"
+  },
+  {
+    "key": "2026-09-23:Hacker News:MiMo v2.6",
+    "title": "MiMo v2.6",
+    "score": 1091,
+    "source": "Hacker News",
+    "timestamp": "2026-09-23T00:06:41.510867"
   }
 ]

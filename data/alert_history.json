@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-09-12:Hacker News:I spent $220 on Google app ads and 60% of the installs were robots",
-    "title": "I spent $220 on Google app ads and 60% of the installs were robots",
-    "score": 535,
-    "source": "Hacker News",
-    "timestamp": "2026-09-12T10:16:09.048948"
-  },
-  {
-    "key": "2026-09-12:Hacker News:google.com/goto: Google's anti-scraping update",
-    "title": "google.com/goto: Google's anti-scraping update",
-    "score": 534,
-    "source": "Hacker News",
-    "timestamp": "2026-09-12T16:35:06.002121"
-  },
-  {
     "key": "2026-09-12:Hacker News:Fuck it, make it anyway",
     "title": "Fuck it, make it anyway",
     "score": 500,
@@ -698,5 +684,19 @@
     "score": 1091,
     "source": "Hacker News",
     "timestamp": "2026-09-23T00:06:41.510867"
+  },
+  {
+    "key": "2026-09-23:Hacker News:'We hacked the FBI:' Hackers say they have data on all FBI employees",
+    "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+    "score": 565,
+    "source": "Hacker News",
+    "timestamp": "2026-09-23T07:21:07.958270"
+  },
+  {
+    "key": "2026-09-23:Hacker News:Pentagon says overreliance on AI contributed to missile strike on Iran school",
+    "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+    "score": 587,
+    "source": "Hacker News",
+    "timestamp": "2026-09-23T07:21:07.958282"
   }
 ]

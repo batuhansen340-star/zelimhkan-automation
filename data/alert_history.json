@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-09-12:Hacker News:Fuck it, make it anyway",
-    "title": "Fuck it, make it anyway",
-    "score": 500,
-    "source": "Hacker News",
-    "timestamp": "2026-09-12T19:50:18.136922"
-  },
-  {
     "key": "2026-09-12:Hacker News:IKEA made a mod for Skyrim [video]",
     "title": "IKEA made a mod for Skyrim [video]",
     "score": 544,
@@ -698,5 +691,12 @@
     "score": 587,
     "source": "Hacker News",
     "timestamp": "2026-09-23T07:21:07.958282"
+  },
+  {
+    "key": "2026-09-23:Hacker News:Jev in 25 Lines of Python",
+    "title": "Jev in 25 Lines of Python",
+    "score": 513,
+    "source": "Hacker News",
+    "timestamp": "2026-09-23T18:01:51.163593"
   }
 ]

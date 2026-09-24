@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-09-13:Hacker News:Everyone should slow down AI development except for me",
-    "title": "Everyone should slow down AI development except for me",
-    "score": 517,
-    "source": "Hacker News",
-    "timestamp": "2026-09-13T11:16:11.241562"
-  },
-  {
-    "key": "2026-09-13:Hacker News:LG denies TV spying claims, says tracking and snooping concerns 'not true'",
-    "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
-    "score": 543,
-    "source": "Hacker News",
-    "timestamp": "2026-09-13T11:16:11.241577"
-  },
-  {
     "key": "2026-09-13:Hacker News:Make your first edit to OpenStreetMap",
     "title": "Make your first edit to OpenStreetMap",
     "score": 515,
@@ -698,5 +684,19 @@
     "score": 526,
     "source": "Hacker News",
     "timestamp": "2026-09-24T14:28:59.630407"
+  },
+  {
+    "key": "2026-09-24:Hacker News:Linux support is coming to Snapdragon X2 series",
+    "title": "Linux support is coming to Snapdragon X2 series",
+    "score": 575,
+    "source": "Hacker News",
+    "timestamp": "2026-09-24T18:01:32.922464"
+  },
+  {
+    "key": "2026-09-24:Hacker News:Fixing the Portobello Police Station Clock",
+    "title": "Fixing the Portobello Police Station Clock",
+    "score": 510,
+    "source": "Hacker News",
+    "timestamp": "2026-09-24T18:01:32.922479"
   }
 ]

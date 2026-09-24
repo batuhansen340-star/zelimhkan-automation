@@ -1,40 +1,5 @@
 [
   {
-    "key": "2026-09-12:Hacker News:IKEA made a mod for Skyrim [video]",
-    "title": "IKEA made a mod for Skyrim [video]",
-    "score": 544,
-    "source": "Hacker News",
-    "timestamp": "2026-09-12T23:50:28.616938"
-  },
-  {
-    "key": "2026-09-12:Hacker News:We must pace the frontier",
-    "title": "We must pace the frontier",
-    "score": 502,
-    "source": "Hacker News",
-    "timestamp": "2026-09-12T23:50:28.616952"
-  },
-  {
-    "key": "2026-09-13:Hacker News:We must pace the frontier",
-    "title": "We must pace the frontier",
-    "score": 618,
-    "source": "Hacker News",
-    "timestamp": "2026-09-13T07:10:33.273373"
-  },
-  {
-    "key": "2026-09-13:Hacker News:IKEA made a mod for Skyrim [video]",
-    "title": "IKEA made a mod for Skyrim [video]",
-    "score": 572,
-    "source": "Hacker News",
-    "timestamp": "2026-09-13T07:10:33.273388"
-  },
-  {
-    "key": "2026-09-13:Hacker News:A misalignment of AI in mathematics",
-    "title": "A misalignment of AI in mathematics",
-    "score": 1191,
-    "source": "Hacker News",
-    "timestamp": "2026-09-13T07:10:33.273395"
-  },
-  {
     "key": "2026-09-13:Hacker News:google.com/goto: Google's anti-scraping update",
     "title": "google.com/goto: Google's anti-scraping update",
     "score": 638,
@@ -698,5 +663,40 @@
     "score": 513,
     "source": "Hacker News",
     "timestamp": "2026-09-23T18:01:51.163593"
+  },
+  {
+    "key": "2026-09-24:Hacker News:Italian parliament votes for return to nuclear energy",
+    "title": "Italian parliament votes for return to nuclear energy",
+    "score": 546,
+    "source": "Hacker News",
+    "timestamp": "2026-09-24T00:17:53.354635"
+  },
+  {
+    "key": "2026-09-24:Hacker News:GPT-6 Sol and Luna",
+    "title": "GPT-6 Sol and Luna",
+    "score": 1729,
+    "source": "Hacker News",
+    "timestamp": "2026-09-24T00:17:53.354648"
+  },
+  {
+    "key": "2026-09-24:Hacker News:Jev in 25 Lines of Python",
+    "title": "Jev in 25 Lines of Python",
+    "score": 628,
+    "source": "Hacker News",
+    "timestamp": "2026-09-24T00:17:53.354654"
+  },
+  {
+    "key": "2026-09-24:Hacker News:Claude Opus 5.5",
+    "title": "Claude Opus 5.5",
+    "score": 1767,
+    "source": "Hacker News",
+    "timestamp": "2026-09-24T00:17:53.354660"
+  },
+  {
+    "key": "2026-09-24:Hacker News:Pentagon says overreliance on AI contributed to missile strike on Iran school",
+    "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+    "score": 889,
+    "source": "Hacker News",
+    "timestamp": "2026-09-24T00:17:53.354665"
   }
 ]

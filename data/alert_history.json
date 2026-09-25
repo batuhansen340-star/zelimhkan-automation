@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-09-13:Hacker News:Nvidia is the central bank of AI",
-    "title": "Nvidia is the central bank of AI",
-    "score": 518,
-    "source": "Hacker News",
-    "timestamp": "2026-09-13T13:56:26.902192"
-  },
-  {
-    "key": "2026-09-13:Hacker News:Why are AI agents lying, cheating and coordinating?",
-    "title": "Why are AI agents lying, cheating and coordinating?",
-    "score": 527,
-    "source": "Hacker News",
-    "timestamp": "2026-09-13T19:58:47.389541"
-  },
-  {
     "key": "2026-09-13:Hacker News:JetKVM Mini",
     "title": "JetKVM Mini",
     "score": 517,
@@ -698,5 +684,19 @@
     "score": 694,
     "source": "Hacker News",
     "timestamp": "2026-09-24T20:54:54.523989"
+  },
+  {
+    "key": "2026-09-25:Hacker News:F-Droid 2.0",
+    "title": "F-Droid 2.0",
+    "score": 889,
+    "source": "Hacker News",
+    "timestamp": "2026-09-25T00:19:49.495904"
+  },
+  {
+    "key": "2026-09-25:Hacker News:Fixing the Portobello Police Station Clock",
+    "title": "Fixing the Portobello Police Station Clock",
+    "score": 521,
+    "source": "Hacker News",
+    "timestamp": "2026-09-25T00:19:49.495926"
   }
 ]

@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-09-14:Hacker News:Why is Google still serving dodgy ads?",
-    "title": "Why is Google still serving dodgy ads?",
-    "score": 769,
-    "source": "Hacker News",
-    "timestamp": "2026-09-14T07:34:10.813239"
-  },
-  {
     "key": "2026-09-14:Hacker News:JetKVM Mini",
     "title": "JetKVM Mini",
     "score": 542,
@@ -698,5 +691,12 @@
     "score": 763,
     "source": "Hacker News",
     "timestamp": "2026-09-25T07:07:26.910655"
+  },
+  {
+    "key": "2026-09-25:Hacker News:Dutch governments builds alternative for Microsoft based on NixOS",
+    "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+    "score": 661,
+    "source": "Hacker News",
+    "timestamp": "2026-09-25T14:48:02.546244"
   }
 ]

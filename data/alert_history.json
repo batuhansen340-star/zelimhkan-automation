@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-09-13:Hacker News:JetKVM Mini",
-    "title": "JetKVM Mini",
-    "score": 517,
-    "source": "Hacker News",
-    "timestamp": "2026-09-13T23:56:13.615587"
-  },
-  {
-    "key": "2026-09-13:Hacker News:Homebrew 7.0.0",
-    "title": "Homebrew 7.0.0",
-    "score": 547,
-    "source": "Hacker News",
-    "timestamp": "2026-09-13T23:56:13.615606"
-  },
-  {
-    "key": "2026-09-14:Hacker News:Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-    "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-    "score": 802,
-    "source": "Hacker News",
-    "timestamp": "2026-09-14T07:34:10.813228"
-  },
-  {
     "key": "2026-09-14:Hacker News:Why is Google still serving dodgy ads?",
     "title": "Why is Google still serving dodgy ads?",
     "score": 769,
@@ -698,5 +677,26 @@
     "score": 521,
     "source": "Hacker News",
     "timestamp": "2026-09-25T00:19:49.495926"
+  },
+  {
+    "key": "2026-09-25:Hacker News:Show HN: Make cursed fonts like Times New Bastard",
+    "title": "Show HN: Make cursed fonts like Times New Bastard",
+    "score": 619,
+    "source": "Hacker News",
+    "timestamp": "2026-09-25T07:07:26.910635"
+  },
+  {
+    "key": "2026-09-25:Hacker News:Linux support is coming to Snapdragon X2 series",
+    "title": "Linux support is coming to Snapdragon X2 series",
+    "score": 596,
+    "source": "Hacker News",
+    "timestamp": "2026-09-25T07:07:26.910649"
+  },
+  {
+    "key": "2026-09-25:Hacker News:Claude discovers a novel enzyme system with CRISPR-like repeats",
+    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+    "score": 763,
+    "source": "Hacker News",
+    "timestamp": "2026-09-25T07:07:26.910655"
   }
 ]

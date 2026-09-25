@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-09-14:Hacker News:JetKVM Mini",
-    "title": "JetKVM Mini",
-    "score": 542,
-    "source": "Hacker News",
-    "timestamp": "2026-09-14T07:34:10.813243"
-  },
-  {
     "key": "2026-09-14:Hacker News:Why are AI agents lying, cheating and coordinating?",
     "title": "Why are AI agents lying, cheating and coordinating?",
     "score": 613,
@@ -698,5 +691,12 @@
     "score": 661,
     "source": "Hacker News",
     "timestamp": "2026-09-25T14:48:02.546244"
+  },
+  {
+    "key": "2026-09-25:Hacker News:Why is the liver so weirdly regenerative?",
+    "title": "Why is the liver so weirdly regenerative?",
+    "score": 523,
+    "source": "Hacker News",
+    "timestamp": "2026-09-25T18:07:22.707558"
   }
 ]

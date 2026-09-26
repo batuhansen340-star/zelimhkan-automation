@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-09-15:Hacker News:Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-    "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-    "score": 1170,
-    "source": "Hacker News",
-    "timestamp": "2026-09-15T00:22:42.982880"
-  },
-  {
     "key": "2026-09-15:Hacker News:iOS 27, iPadOS 27, and macOS 27",
     "title": "iOS 27, iPadOS 27, and macOS 27",
     "score": 544,
@@ -698,5 +691,12 @@
     "score": 926,
     "source": "Hacker News",
     "timestamp": "2026-09-26T00:25:00.658036"
+  },
+  {
+    "key": "2026-09-26:Hacker News:Revealing the details of how OpenAI agents hacked Hugging Face",
+    "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+    "score": 503,
+    "source": "Hacker News",
+    "timestamp": "2026-09-26T10:58:38.675736"
   }
 ]

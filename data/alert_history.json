@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-09-15:Hacker News:Dario, Please",
-    "title": "Dario, Please",
-    "score": 551,
-    "source": "Hacker News",
-    "timestamp": "2026-09-15T11:18:02.377433"
-  },
-  {
-    "key": "2026-09-15:Hacker News:I can't stop thinking about Papua New Guinea",
-    "title": "I can't stop thinking about Papua New Guinea",
-    "score": 569,
-    "source": "Hacker News",
-    "timestamp": "2026-09-15T14:30:14.315072"
-  },
-  {
     "key": "2026-09-15:Hacker News:Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
     "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
     "score": 760,
@@ -698,5 +684,19 @@
     "score": 516,
     "source": "Hacker News",
     "timestamp": "2026-09-26T20:19:59.628351"
+  },
+  {
+    "key": "2026-09-27:Hacker News:Breaking Up with Google Play: Why Conversations Is Now Free",
+    "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+    "score": 630,
+    "source": "Hacker News",
+    "timestamp": "2026-09-27T00:20:05.279817"
+  },
+  {
+    "key": "2026-09-27:Hacker News:Revealing the details of how OpenAI agents hacked Hugging Face",
+    "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+    "score": 700,
+    "source": "Hacker News",
+    "timestamp": "2026-09-27T00:20:05.279831"
   }
 ]

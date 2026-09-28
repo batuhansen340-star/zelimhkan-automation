@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-09-16:Hacker News:Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-    "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-    "score": 1238,
-    "source": "Hacker News",
-    "timestamp": "2026-09-16T00:01:54.033403"
-  },
-  {
     "key": "2026-09-16:Hacker News:25 years of mass surveillance is enough",
     "title": "25 years of mass surveillance is enough",
     "score": 768,
@@ -698,5 +691,12 @@
     "score": 600,
     "source": "Hacker News",
     "timestamp": "2026-09-28T00:22:46.276900"
+  },
+  {
+    "key": "2026-09-28:Hacker News:Owed a billion dollars in Nvidia stock",
+    "title": "Owed a billion dollars in Nvidia stock",
+    "score": 597,
+    "source": "Hacker News",
+    "timestamp": "2026-09-28T08:13:37.661865"
   }
 ]

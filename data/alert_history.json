@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-09-16:Hacker News:25 years of mass surveillance is enough",
-    "title": "25 years of mass surveillance is enough",
-    "score": 768,
-    "source": "Hacker News",
-    "timestamp": "2026-09-16T00:01:54.033407"
-  },
-  {
     "key": "2026-09-16:Hacker News:I can't stop thinking about Papua New Guinea",
     "title": "I can't stop thinking about Papua New Guinea",
     "score": 1008,
@@ -698,5 +691,12 @@
     "score": 597,
     "source": "Hacker News",
     "timestamp": "2026-09-28T08:13:37.661865"
+  },
+  {
+    "key": "2026-09-28:Hacker News:Ember-1",
+    "title": "Ember-1",
+    "score": 509,
+    "source": "Hacker News",
+    "timestamp": "2026-09-28T13:11:01.301109"
   }
 ]

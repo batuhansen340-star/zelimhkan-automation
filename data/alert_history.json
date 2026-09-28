@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-09-15:Hacker News:25 years of mass surveillance is enough",
-    "title": "25 years of mass surveillance is enough",
-    "score": 558,
-    "source": "Hacker News",
-    "timestamp": "2026-09-15T17:48:08.860485"
-  },
-  {
-    "key": "2026-09-16:Hacker News:Introducing System One Models and Jev",
-    "title": "Introducing System One Models and Jev",
-    "score": 636,
-    "source": "Hacker News",
-    "timestamp": "2026-09-16T00:01:54.033393"
-  },
-  {
     "key": "2026-09-16:Hacker News:Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
     "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
     "score": 1238,
@@ -698,5 +684,19 @@
     "score": 567,
     "source": "Hacker News",
     "timestamp": "2026-09-27T17:57:53.916687"
+  },
+  {
+    "key": "2026-09-28:Hacker News:When did Google get so weird?",
+    "title": "When did Google get so weird?",
+    "score": 649,
+    "source": "Hacker News",
+    "timestamp": "2026-09-28T00:22:46.276885"
+  },
+  {
+    "key": "2026-09-28:Hacker News:Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+    "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+    "score": 600,
+    "source": "Hacker News",
+    "timestamp": "2026-09-28T00:22:46.276900"
   }
 ]

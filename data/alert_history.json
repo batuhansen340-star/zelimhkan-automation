@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-09-17:Hacker News:Nvidia announces native GPU programming in Rust",
-    "title": "Nvidia announces native GPU programming in Rust",
-    "score": 572,
-    "source": "Hacker News",
-    "timestamp": "2026-09-17T07:10:25.858084"
-  },
-  {
     "key": "2026-09-17:Hacker News:Training a 4B model to produce 81% faster query plans than Postgres",
     "title": "Training a 4B model to produce 81% faster query plans than Postgres",
     "score": 508,
@@ -698,5 +691,12 @@
     "score": 506,
     "source": "Hacker News",
     "timestamp": "2026-09-29T12:19:48.062966"
+  },
+  {
+    "key": "2026-09-29:Hacker News:You are no longer invited to dinner",
+    "title": "You are no longer invited to dinner",
+    "score": 598,
+    "source": "Hacker News",
+    "timestamp": "2026-09-29T18:57:35.626702"
   }
 ]

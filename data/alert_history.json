@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-09-16:Hacker News:Suspected sabotage causes major Netherlands rail disruption",
-    "title": "Suspected sabotage causes major Netherlands rail disruption",
-    "score": 508,
-    "source": "Hacker News",
-    "timestamp": "2026-09-16T14:23:56.718197"
-  },
-  {
-    "key": "2026-09-17:Hacker News:Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-    "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-    "score": 2053,
-    "source": "Hacker News",
-    "timestamp": "2026-09-17T00:11:27.608728"
-  },
-  {
-    "key": "2026-09-17:Hacker News:Mistral X Mozilla: Private, Multilingual AI Browsing",
-    "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-    "score": 520,
-    "source": "Hacker News",
-    "timestamp": "2026-09-17T00:11:27.608743"
-  },
-  {
-    "key": "2026-09-17:Hacker News:Introducing System One Models and Jev",
-    "title": "Introducing System One Models and Jev",
-    "score": 1784,
-    "source": "Hacker News",
-    "timestamp": "2026-09-17T00:11:27.608750"
-  },
-  {
     "key": "2026-09-17:Hacker News:Nvidia announces native GPU programming in Rust",
     "title": "Nvidia announces native GPU programming in Rust",
     "score": 572,
@@ -698,5 +670,33 @@
     "score": 541,
     "source": "Hacker News",
     "timestamp": "2026-09-29T07:53:20.163768"
+  },
+  {
+    "key": "2026-09-29:Hacker News:Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+    "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+    "score": 521,
+    "source": "Hacker News",
+    "timestamp": "2026-09-29T12:19:48.062943"
+  },
+  {
+    "key": "2026-09-29:Hacker News:Updated Google Maps shows destruction of the city of Rafah",
+    "title": "Updated Google Maps shows destruction of the city of Rafah",
+    "score": 671,
+    "source": "Hacker News",
+    "timestamp": "2026-09-29T12:19:48.062953"
+  },
+  {
+    "key": "2026-09-29:Hacker News:It's Time to Investigate the AI Labs",
+    "title": "It's Time to Investigate the AI Labs",
+    "score": 535,
+    "source": "Hacker News",
+    "timestamp": "2026-09-29T12:19:48.062960"
+  },
+  {
+    "key": "2026-09-29:Hacker News:Coding is not solved",
+    "title": "Coding is not solved",
+    "score": 506,
+    "source": "Hacker News",
+    "timestamp": "2026-09-29T12:19:48.062966"
   }
 ]

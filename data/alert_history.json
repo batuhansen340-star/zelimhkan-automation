@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-09-16:Hacker News:An update on Wayback Machine access",
-    "title": "An update on Wayback Machine access",
-    "score": 551,
-    "source": "Hacker News",
-    "timestamp": "2026-09-16T11:00:27.987587"
-  },
-  {
     "key": "2026-09-16:Hacker News:Suspected sabotage causes major Netherlands rail disruption",
     "title": "Suspected sabotage causes major Netherlands rail disruption",
     "score": 508,
@@ -698,5 +691,12 @@
     "score": 1843,
     "source": "Hacker News",
     "timestamp": "2026-09-29T01:33:47.420846"
+  },
+  {
+    "key": "2026-09-29:Hacker News:Pirating the Pirates",
+    "title": "Pirating the Pirates",
+    "score": 541,
+    "source": "Hacker News",
+    "timestamp": "2026-09-29T07:53:20.163768"
   }
 ]

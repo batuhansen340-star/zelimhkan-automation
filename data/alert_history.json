@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-09-18:Hacker News:Astra for Law",
-    "title": "Astra for Law",
-    "score": 525,
-    "source": "Hacker News",
-    "timestamp": "2026-09-18T13:55:28.274608"
-  },
-  {
-    "key": "2026-09-18:Hacker News:Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-    "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-    "score": 530,
-    "source": "Hacker News",
-    "timestamp": "2026-09-18T13:55:28.274616"
-  },
-  {
     "key": "2026-09-18:Hacker News:I don't like passkeys",
     "title": "I don't like passkeys",
     "score": 523,
@@ -698,5 +684,19 @@
     "score": 500,
     "source": "Hacker News",
     "timestamp": "2026-09-30T18:38:50.325163"
+  },
+  {
+    "key": "2026-09-30:Hacker News:Gemini 4 Argon",
+    "title": "Gemini 4 Argon",
+    "score": 583,
+    "source": "Hacker News",
+    "timestamp": "2026-09-30T21:38:13.551597"
+  },
+  {
+    "key": "2026-09-30:Hacker News:You said no MCP",
+    "title": "You said no MCP",
+    "score": 559,
+    "source": "Hacker News",
+    "timestamp": "2026-09-30T21:38:13.551607"
   }
 ]

@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-09-17:Hacker News:Hackers Got Inside a Flock Camera",
-    "title": "Hackers Got Inside a Flock Camera",
-    "score": 518,
-    "source": "Hacker News",
-    "timestamp": "2026-09-17T07:10:25.858109"
-  },
-  {
-    "key": "2026-09-17:Hacker News:Small programming tricks",
-    "title": "Small programming tricks",
-    "score": 533,
-    "source": "Hacker News",
-    "timestamp": "2026-09-17T11:11:26.874357"
-  },
-  {
     "key": "2026-09-18:Hacker News:Hister: A private search engine for the pages you visit and the files you keep",
     "title": "Hister: A private search engine for the pages you visit and the files you keep",
     "score": 562,
@@ -698,5 +684,19 @@
     "score": 651,
     "source": "Hacker News",
     "timestamp": "2026-09-29T21:37:38.139441"
+  },
+  {
+    "key": "2026-09-30:Hacker News:GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+    "score": 770,
+    "source": "Hacker News",
+    "timestamp": "2026-09-30T01:08:19.739433"
+  },
+  {
+    "key": "2026-09-30:Hacker News:Everybody’s home. No one’s coming over",
+    "title": "Everybody’s home. No one’s coming over",
+    "score": 716,
+    "source": "Hacker News",
+    "timestamp": "2026-09-30T01:08:19.739446"
   }
 ]

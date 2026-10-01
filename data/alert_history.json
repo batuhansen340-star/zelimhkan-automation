@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-09-18:Hacker News:I don't like passkeys",
-    "title": "I don't like passkeys",
-    "score": 523,
-    "source": "Hacker News",
-    "timestamp": "2026-09-18T17:19:51.844174"
-  },
-  {
-    "key": "2026-09-18:Hacker News:Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-    "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-    "score": 719,
-    "source": "Hacker News",
-    "timestamp": "2026-09-18T17:19:51.844191"
-  },
-  {
     "key": "2026-09-18:Hacker News:Cloudflare Quick Tunnels",
     "title": "Cloudflare Quick Tunnels",
     "score": 530,
@@ -698,5 +684,19 @@
     "score": 559,
     "source": "Hacker News",
     "timestamp": "2026-09-30T21:38:13.551607"
+  },
+  {
+    "key": "2026-10-01:Hacker News:Gemini 4 Argon",
+    "title": "Gemini 4 Argon",
+    "score": 937,
+    "source": "Hacker News",
+    "timestamp": "2026-10-01T01:08:19.844450"
+  },
+  {
+    "key": "2026-10-01:Hacker News:You said no MCP",
+    "title": "You said no MCP",
+    "score": 611,
+    "source": "Hacker News",
+    "timestamp": "2026-10-01T01:08:19.844468"
   }
 ]

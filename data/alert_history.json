@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-09-19:Hacker News:OpenJev",
-    "title": "OpenJev",
-    "score": 605,
-    "source": "Hacker News",
-    "timestamp": "2026-09-19T07:02:04.979067"
-  },
-  {
     "key": "2026-09-19:Hacker News:Claude Code now reads AGENTS.md if there is no Claude.md",
     "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
     "score": 625,
@@ -698,5 +691,12 @@
     "score": 1639,
     "source": "Hacker News",
     "timestamp": "2026-10-02T01:22:38.980443"
+  },
+  {
+    "key": "2026-10-02:Hacker News:Clef: Open-weight decision models, and new RL fine-tuning platform",
+    "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+    "score": 536,
+    "source": "Hacker News",
+    "timestamp": "2026-10-02T12:03:11.936221"
   }
 ]

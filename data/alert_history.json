@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-09-18:Hacker News:OpenJev",
-    "title": "OpenJev",
-    "score": 532,
-    "source": "Hacker News",
-    "timestamp": "2026-09-18T23:57:35.487531"
-  },
-  {
-    "key": "2026-09-19:Hacker News:Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-    "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-    "score": 762,
-    "source": "Hacker News",
-    "timestamp": "2026-09-19T07:02:04.979050"
-  },
-  {
-    "key": "2026-09-19:Hacker News:Cloudflare Quick Tunnels",
-    "title": "Cloudflare Quick Tunnels",
-    "score": 677,
-    "source": "Hacker News",
-    "timestamp": "2026-09-19T07:02:04.979062"
-  },
-  {
     "key": "2026-09-19:Hacker News:OpenJev",
     "title": "OpenJev",
     "score": 605,
@@ -698,5 +677,26 @@
     "score": 894,
     "source": "Hacker News",
     "timestamp": "2026-10-01T08:19:13.724571"
+  },
+  {
+    "key": "2026-10-02:Hacker News:Pi 1.0",
+    "title": "Pi 1.0",
+    "score": 732,
+    "source": "Hacker News",
+    "timestamp": "2026-10-02T01:22:38.980419"
+  },
+  {
+    "key": "2026-10-02:Hacker News:StreetComplete on iOS is now in public beta",
+    "title": "StreetComplete on iOS is now in public beta",
+    "score": 521,
+    "source": "Hacker News",
+    "timestamp": "2026-10-02T01:22:38.980437"
+  },
+  {
+    "key": "2026-10-02:Hacker News:Gemini 4 Argon",
+    "title": "Gemini 4 Argon",
+    "score": 1639,
+    "source": "Hacker News",
+    "timestamp": "2026-10-02T01:22:38.980443"
   }
 ]

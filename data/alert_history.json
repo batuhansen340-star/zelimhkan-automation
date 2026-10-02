@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-09-19:Hacker News:Claude Code now reads AGENTS.md if there is no Claude.md",
-    "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-    "score": 625,
-    "source": "Hacker News",
-    "timestamp": "2026-09-19T07:02:04.979071"
-  },
-  {
-    "key": "2026-09-19:Hacker News:Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-    "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-    "score": 2324,
-    "source": "Hacker News",
-    "timestamp": "2026-09-19T07:02:04.979075"
-  },
-  {
-    "key": "2026-09-19:Hacker News:How to Write with an LLM",
-    "title": "How to Write with an LLM",
-    "score": 525,
-    "source": "Hacker News",
-    "timestamp": "2026-09-19T13:30:31.817876"
-  },
-  {
     "key": "2026-09-19:Hacker News:Laya the open source version of Jev",
     "title": "Laya the open source version of Jev",
     "score": 539,
@@ -698,5 +677,26 @@
     "score": 536,
     "source": "Hacker News",
     "timestamp": "2026-10-02T12:03:11.936221"
+  },
+  {
+    "key": "2026-10-02:Hacker News:Several vulnerabilities have been discovered in the Linux kernel",
+    "title": "Several vulnerabilities have been discovered in the Linux kernel",
+    "score": 529,
+    "source": "Hacker News",
+    "timestamp": "2026-10-02T18:45:42.492652"
+  },
+  {
+    "key": "2026-10-02:Hacker News:Frog and Toad and the Increasingly Capable Machines",
+    "title": "Frog and Toad and the Increasingly Capable Machines",
+    "score": 524,
+    "source": "Hacker News",
+    "timestamp": "2026-10-02T18:45:42.492667"
+  },
+  {
+    "key": "2026-10-02:Hacker News:Git 3.0's upcoming SHA-256 default will be a costly mistake",
+    "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+    "score": 537,
+    "source": "Hacker News",
+    "timestamp": "2026-10-02T18:45:42.492678"
   }
 ]

@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-09-19:Hacker News:I built non-autoregressive decision models with RL a year ago",
-    "title": "I built non-autoregressive decision models with RL a year ago",
-    "score": 815,
-    "source": "Hacker News",
-    "timestamp": "2026-09-19T19:44:41.206855"
-  },
-  {
     "key": "2026-09-19:Hacker News:Human brain is two separate organs, Stanford Medicine-led research finds",
     "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
     "score": 571,
@@ -698,5 +691,12 @@
     "score": 543,
     "source": "Hacker News",
     "timestamp": "2026-10-03T14:26:25.046976"
+  },
+  {
+    "key": "2026-10-03:Hacker News:Apple Pass Designer",
+    "title": "Apple Pass Designer",
+    "score": 521,
+    "source": "Hacker News",
+    "timestamp": "2026-10-03T17:40:05.263819"
   }
 ]

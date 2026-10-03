@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-09-19:Hacker News:AI-generated posters don’t have to be horrible",
-    "title": "AI-generated posters don’t have to be horrible",
-    "score": 747,
-    "source": "Hacker News",
-    "timestamp": "2026-09-19T16:51:24.995792"
-  },
-  {
     "key": "2026-09-19:Hacker News:I built non-autoregressive decision models with RL a year ago",
     "title": "I built non-autoregressive decision models with RL a year ago",
     "score": 815,
@@ -698,5 +691,12 @@
     "score": 605,
     "source": "Hacker News",
     "timestamp": "2026-10-03T07:35:41.160769"
+  },
+  {
+    "key": "2026-10-03:Hacker News:Mike Tomlin spent 12 years building a Minecraft city",
+    "title": "Mike Tomlin spent 12 years building a Minecraft city",
+    "score": 543,
+    "source": "Hacker News",
+    "timestamp": "2026-10-03T14:26:25.046976"
   }
 ]

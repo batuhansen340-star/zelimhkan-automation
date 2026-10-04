@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-09-20:Hacker News:AI-generated posters don’t have to be horrible",
-    "title": "AI-generated posters don’t have to be horrible",
-    "score": 1540,
-    "source": "Hacker News",
-    "timestamp": "2026-09-20T07:26:56.115788"
-  },
-  {
     "key": "2026-09-20:Hacker News:I built non-autoregressive decision models with RL a year ago",
     "title": "I built non-autoregressive decision models with RL a year ago",
     "score": 1187,
@@ -698,5 +691,12 @@
     "score": 596,
     "source": "Hacker News",
     "timestamp": "2026-10-04T07:46:34.095055"
+  },
+  {
+    "key": "2026-10-04:Hacker News:Tell HN: Bob Cringely has died",
+    "title": "Tell HN: Bob Cringely has died",
+    "score": 514,
+    "source": "Hacker News",
+    "timestamp": "2026-10-04T11:55:07.606573"
   }
 ]

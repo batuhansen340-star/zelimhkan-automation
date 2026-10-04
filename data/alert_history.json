@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-09-19:Hacker News:Two parallel neural ectoderm progenitors contribute to the developing brain",
-    "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-    "score": 603,
-    "source": "Hacker News",
-    "timestamp": "2026-09-19T23:57:02.681384"
-  },
-  {
     "key": "2026-09-20:Hacker News:AI-generated posters don’t have to be horrible",
     "title": "AI-generated posters don’t have to be horrible",
     "score": 1540,
@@ -698,5 +691,12 @@
     "score": 777,
     "source": "Hacker News",
     "timestamp": "2026-10-04T00:24:29.036636"
+  },
+  {
+    "key": "2026-10-04:Hacker News:Kolibri: A Sovereign Open-Weight Model",
+    "title": "Kolibri: A Sovereign Open-Weight Model",
+    "score": 596,
+    "source": "Hacker News",
+    "timestamp": "2026-10-04T07:46:34.095055"
   }
 ]

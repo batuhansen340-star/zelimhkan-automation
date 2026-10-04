@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-09-19:Hacker News:Human brain is two separate organs, Stanford Medicine-led research finds",
-    "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
-    "score": 571,
-    "source": "Hacker News",
-    "timestamp": "2026-09-19T19:44:41.206872"
-  },
-  {
     "key": "2026-09-19:Hacker News:Two parallel neural ectoderm progenitors contribute to the developing brain",
     "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
     "score": 603,
@@ -698,5 +691,12 @@
     "score": 521,
     "source": "Hacker News",
     "timestamp": "2026-10-03T17:40:05.263819"
+  },
+  {
+    "key": "2026-10-04:Hacker News:Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+    "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+    "score": 777,
+    "source": "Hacker News",
+    "timestamp": "2026-10-04T00:24:29.036636"
   }
 ]

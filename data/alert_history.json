@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-09-20:Hacker News:How to Write with an LLM",
-    "title": "How to Write with an LLM",
-    "score": 667,
-    "source": "Hacker News",
-    "timestamp": "2026-09-20T07:26:56.115820"
-  },
-  {
-    "key": "2026-09-20:Hacker News:Two parallel neural ectoderm progenitors contribute to the developing brain",
-    "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-    "score": 622,
-    "source": "Hacker News",
-    "timestamp": "2026-09-20T07:26:56.115825"
-  },
-  {
-    "key": "2026-09-20:Hacker News:Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-    "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-    "score": 1129,
-    "source": "Hacker News",
-    "timestamp": "2026-09-20T07:26:56.115830"
-  },
-  {
     "key": "2026-09-20:Hacker News:Exfiltrate Your Weights",
     "title": "Exfiltrate Your Weights",
     "score": 543,
@@ -698,5 +677,26 @@
     "score": 517,
     "source": "Hacker News",
     "timestamp": "2026-10-04T15:00:17.903076"
+  },
+  {
+    "key": "2026-10-05:Hacker News:Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+    "score": 576,
+    "source": "Hacker News",
+    "timestamp": "2026-10-05T00:31:48.452619"
+  },
+  {
+    "key": "2026-10-05:Hacker News:Tell HN: Bob Cringely has died",
+    "title": "Tell HN: Bob Cringely has died",
+    "score": 803,
+    "source": "Hacker News",
+    "timestamp": "2026-10-05T00:31:48.452631"
+  },
+  {
+    "key": "2026-10-05:Hacker News:We're going to need default hard budget caps on pretty much everything",
+    "title": "We're going to need default hard budget caps on pretty much everything",
+    "score": 585,
+    "source": "Hacker News",
+    "timestamp": "2026-10-05T00:31:48.452637"
   }
 ]

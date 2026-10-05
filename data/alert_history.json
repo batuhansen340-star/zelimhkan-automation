@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-09-20:Hacker News:Exfiltrate Your Weights",
-    "title": "Exfiltrate Your Weights",
-    "score": 543,
-    "source": "Hacker News",
-    "timestamp": "2026-09-20T17:04:19.873590"
-  },
-  {
     "key": "2026-09-20:Hacker News:ChatGPT now knows what you do on other websites via ad collector",
     "title": "ChatGPT now knows what you do on other websites via ad collector",
     "score": 532,
@@ -698,5 +691,12 @@
     "score": 585,
     "source": "Hacker News",
     "timestamp": "2026-10-05T00:31:48.452637"
+  },
+  {
+    "key": "2026-10-05:Hacker News:Turn off Apple Intelligence on macOS 27 and get its disk space back",
+    "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+    "score": 545,
+    "source": "Hacker News",
+    "timestamp": "2026-10-05T08:21:40.974850"
   }
 ]

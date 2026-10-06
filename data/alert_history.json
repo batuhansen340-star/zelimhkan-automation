@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-09-21:Hacker News:Exfiltrate Your Weights",
-    "title": "Exfiltrate Your Weights",
-    "score": 653,
-    "source": "Hacker News",
-    "timestamp": "2026-09-21T07:37:58.595536"
-  },
-  {
-    "key": "2026-09-21:Hacker News:How to Write with an LLM",
-    "title": "How to Write with an LLM",
-    "score": 726,
-    "source": "Hacker News",
-    "timestamp": "2026-09-21T07:37:58.595540"
-  },
-  {
-    "key": "2026-09-21:Hacker News:AI-generated posters don’t have to be horrible",
-    "title": "AI-generated posters don’t have to be horrible",
-    "score": 1807,
-    "source": "Hacker News",
-    "timestamp": "2026-09-21T07:37:58.595544"
-  },
-  {
     "key": "2026-09-21:Hacker News:I built non-autoregressive decision models with RL a year ago",
     "title": "I built non-autoregressive decision models with RL a year ago",
     "score": 1304,
@@ -698,5 +677,26 @@
     "score": 540,
     "source": "Hacker News",
     "timestamp": "2026-10-06T08:34:01.425624"
+  },
+  {
+    "key": "2026-10-06:Hacker News:Mistral Large 4",
+    "title": "Mistral Large 4",
+    "score": 793,
+    "source": "Hacker News",
+    "timestamp": "2026-10-06T16:18:36.333788"
+  },
+  {
+    "key": "2026-10-06:Hacker News:Beam: Reflection's 501B open-weight model",
+    "title": "Beam: Reflection's 501B open-weight model",
+    "score": 504,
+    "source": "Hacker News",
+    "timestamp": "2026-10-06T16:18:36.333804"
+  },
+  {
+    "key": "2026-10-06:Hacker News:ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+    "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+    "score": 513,
+    "source": "Hacker News",
+    "timestamp": "2026-10-06T16:18:36.333818"
   }
 ]

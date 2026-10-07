@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-09-21:Hacker News:AX – Google’s Open Agentic Orchestrator",
-    "title": "AX – Google’s Open Agentic Orchestrator",
-    "score": 535,
-    "source": "Hacker News",
-    "timestamp": "2026-09-21T12:14:57.801682"
-  },
-  {
-    "key": "2026-09-21:Hacker News:What happened to the Snowden archive",
-    "title": "What happened to the Snowden archive",
-    "score": 511,
-    "source": "Hacker News",
-    "timestamp": "2026-09-21T12:14:57.801703"
-  },
-  {
     "key": "2026-09-21:Hacker News:Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
     "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
     "score": 529,
@@ -698,5 +684,19 @@
     "score": 563,
     "source": "Hacker News",
     "timestamp": "2026-10-06T21:59:23.258520"
+  },
+  {
+    "key": "2026-10-07:Hacker News:Mistral Large 4",
+    "title": "Mistral Large 4",
+    "score": 1582,
+    "source": "Hacker News",
+    "timestamp": "2026-10-07T01:14:45.089233"
+  },
+  {
+    "key": "2026-10-07:Hacker News:Nobel Prize in Physics 2026: Francis Halzen",
+    "title": "Nobel Prize in Physics 2026: Francis Halzen",
+    "score": 526,
+    "source": "Hacker News",
+    "timestamp": "2026-10-07T01:14:45.089248"
   }
 ]

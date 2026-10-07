@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-09-21:Hacker News:Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
-    "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
-    "score": 529,
-    "source": "Hacker News",
-    "timestamp": "2026-09-21T16:01:57.159377"
-  },
-  {
     "key": "2026-09-21:Hacker News:ZuckOff Know when a camera is in the room",
     "title": "ZuckOff Know when a camera is in the room",
     "score": 582,
@@ -698,5 +691,12 @@
     "score": 526,
     "source": "Hacker News",
     "timestamp": "2026-10-07T01:14:45.089248"
+  },
+  {
+    "key": "2026-10-07:Hacker News:Sharing AI progress in mathematics",
+    "title": "Sharing AI progress in mathematics",
+    "score": 833,
+    "source": "Hacker News",
+    "timestamp": "2026-10-07T08:09:37.014199"
   }
 ]

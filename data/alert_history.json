@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-09-22:Hacker News:Grok 4.7",
-    "title": "Grok 4.7",
-    "score": 548,
-    "source": "Hacker News",
-    "timestamp": "2026-09-22T07:19:25.533314"
-  },
-  {
     "key": "2026-09-22:Hacker News:Spymarks, Not Watermarks",
     "title": "Spymarks, Not Watermarks",
     "score": 561,
@@ -698,5 +691,12 @@
     "score": 542,
     "source": "Hacker News",
     "timestamp": "2026-10-08T08:25:27.100397"
+  },
+  {
+    "key": "2026-10-08:Hacker News:Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+    "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+    "score": 560,
+    "source": "Hacker News",
+    "timestamp": "2026-10-08T12:59:02.420619"
   }
 ]

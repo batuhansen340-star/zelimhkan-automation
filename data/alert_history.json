@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-09-22:Hacker News:Spymarks, Not Watermarks",
-    "title": "Spymarks, Not Watermarks",
-    "score": 561,
-    "source": "Hacker News",
-    "timestamp": "2026-09-22T14:13:14.497457"
-  },
-  {
     "key": "2026-09-22:Hacker News:Transformers Explained Visually",
     "title": "Transformers Explained Visually",
     "score": 510,
@@ -698,5 +691,12 @@
     "score": 560,
     "source": "Hacker News",
     "timestamp": "2026-10-08T12:59:02.420619"
+  },
+  {
+    "key": "2026-10-08:Hacker News:“Math 2.0” will need to value mathematical progress more holistically",
+    "title": "“Math 2.0” will need to value mathematical progress more holistically",
+    "score": 531,
+    "source": "Hacker News",
+    "timestamp": "2026-10-08T17:00:24.903570"
   }
 ]

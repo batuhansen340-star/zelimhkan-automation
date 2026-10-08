@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-09-22:Hacker News:Transformers Explained Visually",
-    "title": "Transformers Explained Visually",
-    "score": 510,
-    "source": "Hacker News",
-    "timestamp": "2026-09-22T14:13:14.497471"
-  },
-  {
-    "key": "2026-09-22:Hacker News:Spymarks, not Watermarks",
-    "title": "Spymarks, not Watermarks",
-    "score": 619,
-    "source": "Hacker News",
-    "timestamp": "2026-09-22T17:47:45.134843"
-  },
-  {
     "key": "2026-09-22:Hacker News:I said no and Apple said yes",
     "title": "I said no and Apple said yes",
     "score": 675,
@@ -698,5 +684,19 @@
     "score": 531,
     "source": "Hacker News",
     "timestamp": "2026-10-08T17:00:24.903570"
+  },
+  {
+    "key": "2026-10-08:Hacker News:Trump administration is suspending Microsoft from a green card program",
+    "title": "Trump administration is suspending Microsoft from a green card program",
+    "score": 631,
+    "source": "Hacker News",
+    "timestamp": "2026-10-08T19:33:10.807327"
+  },
+  {
+    "key": "2026-10-08:Hacker News:Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
+    "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
+    "score": 580,
+    "source": "Hacker News",
+    "timestamp": "2026-10-08T19:33:10.807344"
   }
 ]

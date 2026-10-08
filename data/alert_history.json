@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-09-21:Hacker News:Exfiltrate your Weights",
-    "title": "Exfiltrate your Weights",
-    "score": 708,
-    "source": "Hacker News",
-    "timestamp": "2026-09-21T18:57:17.726386"
-  },
-  {
-    "key": "2026-09-22:Hacker News:Attention is all you have",
-    "title": "Attention is all you have",
-    "score": 559,
-    "source": "Hacker News",
-    "timestamp": "2026-09-22T00:38:23.829163"
-  },
-  {
-    "key": "2026-09-22:Hacker News:Exfiltrate your Weights",
-    "title": "Exfiltrate your Weights",
-    "score": 720,
-    "source": "Hacker News",
-    "timestamp": "2026-09-22T00:38:23.829180"
-  },
-  {
-    "key": "2026-09-22:Hacker News:What happened to the Snowden archive",
-    "title": "What happened to the Snowden archive",
-    "score": 676,
-    "source": "Hacker News",
-    "timestamp": "2026-09-22T00:38:23.829185"
-  },
-  {
     "key": "2026-09-22:Hacker News:MiMo v2.6",
     "title": "MiMo v2.6",
     "score": 801,
@@ -698,5 +670,33 @@
     "score": 550,
     "source": "Hacker News",
     "timestamp": "2026-10-07T22:24:21.721892"
+  },
+  {
+    "key": "2026-10-08:Hacker News:Claude Haiku 5.5",
+    "title": "Claude Haiku 5.5",
+    "score": 672,
+    "source": "Hacker News",
+    "timestamp": "2026-10-08T01:36:27.163840"
+  },
+  {
+    "key": "2026-10-08:Hacker News:Margaret Hamilton has died",
+    "title": "Margaret Hamilton has died",
+    "score": 689,
+    "source": "Hacker News",
+    "timestamp": "2026-10-08T01:36:27.163854"
+  },
+  {
+    "key": "2026-10-08:Hacker News:Sharing AI progress in mathematics",
+    "title": "Sharing AI progress in mathematics",
+    "score": 1229,
+    "source": "Hacker News",
+    "timestamp": "2026-10-08T01:36:27.163859"
+  },
+  {
+    "key": "2026-10-08:Hacker News:Mistral Large 4",
+    "title": "Mistral Large 4",
+    "score": 1994,
+    "source": "Hacker News",
+    "timestamp": "2026-10-08T01:36:27.163864"
   }
 ]

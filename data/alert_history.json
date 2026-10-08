@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-09-22:Hacker News:MiMo v2.6",
-    "title": "MiMo v2.6",
-    "score": 801,
-    "source": "Hacker News",
-    "timestamp": "2026-09-22T07:19:25.533277"
-  },
-  {
-    "key": "2026-09-22:Hacker News:What Sun got wrong",
-    "title": "What Sun got wrong",
-    "score": 564,
-    "source": "Hacker News",
-    "timestamp": "2026-09-22T07:19:25.533303"
-  },
-  {
-    "key": "2026-09-22:Hacker News:I don't want to read what you didn't write",
-    "title": "I don't want to read what you didn't write",
-    "score": 579,
-    "source": "Hacker News",
-    "timestamp": "2026-09-22T07:19:25.533309"
-  },
-  {
     "key": "2026-09-22:Hacker News:Grok 4.7",
     "title": "Grok 4.7",
     "score": 548,
@@ -698,5 +677,26 @@
     "score": 1994,
     "source": "Hacker News",
     "timestamp": "2026-10-08T01:36:27.163864"
+  },
+  {
+    "key": "2026-10-08:Hacker News:GPT‑6 and Intelligent UI for everyone",
+    "title": "GPT‑6 and Intelligent UI for everyone",
+    "score": 609,
+    "source": "Hacker News",
+    "timestamp": "2026-10-08T08:25:27.100378"
+  },
+  {
+    "key": "2026-10-08:Hacker News:Shipping JPEG XL in Chrome",
+    "title": "Shipping JPEG XL in Chrome",
+    "score": 542,
+    "source": "Hacker News",
+    "timestamp": "2026-10-08T08:25:27.100389"
+  },
+  {
+    "key": "2026-10-08:Hacker News:Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
+    "title": "Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
+    "score": 542,
+    "source": "Hacker News",
+    "timestamp": "2026-10-08T08:25:27.100397"
   }
 ]

@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-09-23:Hacker News:Pentagon says overreliance on AI contributed to missile strike on Iran school",
-    "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-    "score": 587,
-    "source": "Hacker News",
-    "timestamp": "2026-09-23T07:21:07.958282"
-  },
-  {
-    "key": "2026-09-23:Hacker News:Jev in 25 Lines of Python",
-    "title": "Jev in 25 Lines of Python",
-    "score": 513,
-    "source": "Hacker News",
-    "timestamp": "2026-09-23T18:01:51.163593"
-  },
-  {
     "key": "2026-09-24:Hacker News:Italian parliament votes for return to nuclear energy",
     "title": "Italian parliament votes for return to nuclear energy",
     "score": 546,
@@ -698,5 +684,19 @@
     "score": 520,
     "source": "Hacker News",
     "timestamp": "2026-10-09T12:45:31.156601"
+  },
+  {
+    "key": "2026-10-09:Hacker News:Deno Is Joining Cloudflare",
+    "title": "Deno Is Joining Cloudflare",
+    "score": 589,
+    "source": "Hacker News",
+    "timestamp": "2026-10-09T16:38:35.542168"
+  },
+  {
+    "key": "2026-10-09:Hacker News:Theranos.world",
+    "title": "Theranos.world",
+    "score": 515,
+    "source": "Hacker News",
+    "timestamp": "2026-10-09T16:38:35.542188"
   }
 ]

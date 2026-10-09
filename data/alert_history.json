@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-09-24:Hacker News:Italian parliament votes for return to nuclear energy",
-    "title": "Italian parliament votes for return to nuclear energy",
-    "score": 546,
-    "source": "Hacker News",
-    "timestamp": "2026-09-24T00:17:53.354635"
-  },
-  {
-    "key": "2026-09-24:Hacker News:GPT-6 Sol and Luna",
-    "title": "GPT-6 Sol and Luna",
-    "score": 1729,
-    "source": "Hacker News",
-    "timestamp": "2026-09-24T00:17:53.354648"
-  },
-  {
     "key": "2026-09-24:Hacker News:Jev in 25 Lines of Python",
     "title": "Jev in 25 Lines of Python",
     "score": 628,
@@ -698,5 +684,19 @@
     "score": 515,
     "source": "Hacker News",
     "timestamp": "2026-10-09T16:38:35.542188"
+  },
+  {
+    "key": "2026-10-09:Hacker News:Cloudflare acquires Deno",
+    "title": "Cloudflare acquires Deno",
+    "score": 795,
+    "source": "Hacker News",
+    "timestamp": "2026-10-09T19:07:26.253548"
+  },
+  {
+    "key": "2026-10-09:Hacker News:Sorry, I'm in a meeting",
+    "title": "Sorry, I'm in a meeting",
+    "score": 559,
+    "source": "Hacker News",
+    "timestamp": "2026-10-09T19:07:26.253565"
   }
 ]

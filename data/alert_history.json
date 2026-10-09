@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-09-24:Hacker News:Jev in 25 Lines of Python",
-    "title": "Jev in 25 Lines of Python",
-    "score": 628,
-    "source": "Hacker News",
-    "timestamp": "2026-09-24T00:17:53.354654"
-  },
-  {
     "key": "2026-09-24:Hacker News:Claude Opus 5.5",
     "title": "Claude Opus 5.5",
     "score": 1767,
@@ -698,5 +691,12 @@
     "score": 559,
     "source": "Hacker News",
     "timestamp": "2026-10-09T19:07:26.253565"
+  },
+  {
+    "key": "2026-10-09:Hacker News:Our $445M Series D",
+    "title": "Our $445M Series D",
+    "score": 530,
+    "source": "Hacker News",
+    "timestamp": "2026-10-09T21:59:00.861412"
   }
 ]

@@ -1,40 +1,5 @@
 [
   {
-    "key": "2026-09-23:Hacker News:GPT-6 Sol and Luna",
-    "title": "GPT-6 Sol and Luna",
-    "score": 1089,
-    "source": "Hacker News",
-    "timestamp": "2026-09-23T00:06:41.510836"
-  },
-  {
-    "key": "2026-09-23:Hacker News:Claude Opus 5.5",
-    "title": "Claude Opus 5.5",
-    "score": 1123,
-    "source": "Hacker News",
-    "timestamp": "2026-09-23T00:06:41.510849"
-  },
-  {
-    "key": "2026-09-23:Hacker News:OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-    "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-    "score": 541,
-    "source": "Hacker News",
-    "timestamp": "2026-09-23T00:06:41.510856"
-  },
-  {
-    "key": "2026-09-23:Hacker News:Apple has added persistent 'ads' to iOS, and it's driving users crazy",
-    "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
-    "score": 581,
-    "source": "Hacker News",
-    "timestamp": "2026-09-23T00:06:41.510861"
-  },
-  {
-    "key": "2026-09-23:Hacker News:MiMo v2.6",
-    "title": "MiMo v2.6",
-    "score": 1091,
-    "source": "Hacker News",
-    "timestamp": "2026-09-23T00:06:41.510867"
-  },
-  {
     "key": "2026-09-23:Hacker News:'We hacked the FBI:' Hackers say they have data on all FBI employees",
     "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
     "score": 565,
@@ -698,5 +663,40 @@
     "score": 662,
     "source": "Hacker News",
     "timestamp": "2026-10-09T01:48:10.417040"
+  },
+  {
+    "key": "2026-10-09:Hacker News:Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+    "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+    "score": 697,
+    "source": "Hacker News",
+    "timestamp": "2026-10-09T08:29:38.024979"
+  },
+  {
+    "key": "2026-10-09:Hacker News:Man discovers his parents' coffee machine used 1TB of data in 10 days",
+    "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+    "score": 660,
+    "source": "Hacker News",
+    "timestamp": "2026-10-09T08:29:38.024995"
+  },
+  {
+    "key": "2026-10-09:Hacker News:I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+    "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+    "score": 594,
+    "source": "Hacker News",
+    "timestamp": "2026-10-09T08:29:38.024999"
+  },
+  {
+    "key": "2026-10-09:Hacker News:Sharing AI progress in mathematics",
+    "title": "Sharing AI progress in mathematics",
+    "score": 1326,
+    "source": "Hacker News",
+    "timestamp": "2026-10-09T08:29:38.025008"
+  },
+  {
+    "key": "2026-10-09:Hacker News:“Math 2.0” will need to value mathematical progress more holistically",
+    "title": "“Math 2.0” will need to value mathematical progress more holistically",
+    "score": 597,
+    "source": "Hacker News",
+    "timestamp": "2026-10-09T08:29:38.025011"
   }
 ]

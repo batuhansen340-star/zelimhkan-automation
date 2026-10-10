@@ -1,54 +1,5 @@
 [
   {
-    "key": "2026-09-24:Hacker News:Claude Opus 5.5",
-    "title": "Claude Opus 5.5",
-    "score": 1767,
-    "source": "Hacker News",
-    "timestamp": "2026-09-24T00:17:53.354660"
-  },
-  {
-    "key": "2026-09-24:Hacker News:Pentagon says overreliance on AI contributed to missile strike on Iran school",
-    "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-    "score": 889,
-    "source": "Hacker News",
-    "timestamp": "2026-09-24T00:17:53.354665"
-  },
-  {
-    "key": "2026-09-24:Hacker News:Claude discovers a novel enzyme system with CRISPR-like repeats",
-    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-    "score": 612,
-    "source": "Hacker News",
-    "timestamp": "2026-09-24T07:12:21.825883"
-  },
-  {
-    "key": "2026-09-24:Hacker News:Linux support is coming to Snapdragon X2 Series",
-    "title": "Linux support is coming to Snapdragon X2 Series",
-    "score": 526,
-    "source": "Hacker News",
-    "timestamp": "2026-09-24T14:28:59.630407"
-  },
-  {
-    "key": "2026-09-24:Hacker News:Linux support is coming to Snapdragon X2 series",
-    "title": "Linux support is coming to Snapdragon X2 series",
-    "score": 575,
-    "source": "Hacker News",
-    "timestamp": "2026-09-24T18:01:32.922464"
-  },
-  {
-    "key": "2026-09-24:Hacker News:Fixing the Portobello Police Station Clock",
-    "title": "Fixing the Portobello Police Station Clock",
-    "score": 510,
-    "source": "Hacker News",
-    "timestamp": "2026-09-24T18:01:32.922479"
-  },
-  {
-    "key": "2026-09-24:Hacker News:F-Droid 2.0",
-    "title": "F-Droid 2.0",
-    "score": 694,
-    "source": "Hacker News",
-    "timestamp": "2026-09-24T20:54:54.523989"
-  },
-  {
     "key": "2026-09-25:Hacker News:F-Droid 2.0",
     "title": "F-Droid 2.0",
     "score": 889,
@@ -698,5 +649,54 @@
     "score": 530,
     "source": "Hacker News",
     "timestamp": "2026-10-09T21:59:00.861412"
+  },
+  {
+    "key": "2026-10-10:Hacker News:Cloudflare acquires Deno",
+    "title": "Cloudflare acquires Deno",
+    "score": 1063,
+    "source": "Hacker News",
+    "timestamp": "2026-10-10T01:33:36.613277"
+  },
+  {
+    "key": "2026-10-10:Hacker News:Triple-A Minesweeper",
+    "title": "Triple-A Minesweeper",
+    "score": 647,
+    "source": "Hacker News",
+    "timestamp": "2026-10-10T01:33:36.613288"
+  },
+  {
+    "key": "2026-10-10:Hacker News:Our $445M Series D",
+    "title": "Our $445M Series D",
+    "score": 590,
+    "source": "Hacker News",
+    "timestamp": "2026-10-10T01:33:36.613291"
+  },
+  {
+    "key": "2026-10-10:Hacker News:Sorry, I'm in a meeting",
+    "title": "Sorry, I'm in a meeting",
+    "score": 762,
+    "source": "Hacker News",
+    "timestamp": "2026-10-10T01:33:36.613294"
+  },
+  {
+    "key": "2026-10-10:Hacker News:Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+    "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+    "score": 1083,
+    "source": "Hacker News",
+    "timestamp": "2026-10-10T01:33:36.613297"
+  },
+  {
+    "key": "2026-10-10:Hacker News:Whistle: Speech to Text in 16.9 MB",
+    "title": "Whistle: Speech to Text in 16.9 MB",
+    "score": 919,
+    "source": "Hacker News",
+    "timestamp": "2026-10-10T01:33:36.613300"
+  },
+  {
+    "key": "2026-10-10:Hacker News:Man discovers his parents' coffee machine used 1TB of data in 10 days",
+    "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+    "score": 921,
+    "source": "Hacker News",
+    "timestamp": "2026-10-10T01:33:36.613303"
   }
 ]

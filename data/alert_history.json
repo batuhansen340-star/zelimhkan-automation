@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-09-26:Hacker News:Dutch governments builds alternative for Microsoft based on NixOS",
-    "title": "Dutch governments builds alternative for Microsoft based on NixOS",
-    "score": 926,
-    "source": "Hacker News",
-    "timestamp": "2026-09-26T00:25:00.658036"
-  },
-  {
     "key": "2026-09-26:Hacker News:Revealing the details of how OpenAI agents hacked Hugging Face",
     "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
     "score": 503,
@@ -698,5 +691,12 @@
     "score": 516,
     "source": "Hacker News",
     "timestamp": "2026-10-11T15:59:05.053747"
+  },
+  {
+    "key": "2026-10-11:Hacker News:Bot traffic from Yandex",
+    "title": "Bot traffic from Yandex",
+    "score": 541,
+    "source": "Hacker News",
+    "timestamp": "2026-10-11T18:30:12.225559"
   }
 ]

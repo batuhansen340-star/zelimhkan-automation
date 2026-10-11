@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-09-25:Hacker News:Show HN: Make cursed fonts like Times New Bastard",
-    "title": "Show HN: Make cursed fonts like Times New Bastard",
-    "score": 619,
-    "source": "Hacker News",
-    "timestamp": "2026-09-25T07:07:26.910635"
-  },
-  {
-    "key": "2026-09-25:Hacker News:Linux support is coming to Snapdragon X2 series",
-    "title": "Linux support is coming to Snapdragon X2 series",
-    "score": 596,
-    "source": "Hacker News",
-    "timestamp": "2026-09-25T07:07:26.910649"
-  },
-  {
-    "key": "2026-09-25:Hacker News:Claude discovers a novel enzyme system with CRISPR-like repeats",
-    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-    "score": 763,
-    "source": "Hacker News",
-    "timestamp": "2026-09-25T07:07:26.910655"
-  },
-  {
     "key": "2026-09-25:Hacker News:Dutch governments builds alternative for Microsoft based on NixOS",
     "title": "Dutch governments builds alternative for Microsoft based on NixOS",
     "score": 661,
@@ -698,5 +677,26 @@
     "score": 551,
     "source": "Hacker News",
     "timestamp": "2026-10-10T15:35:31.739660"
+  },
+  {
+    "key": "2026-10-11:Hacker News:REA Reverse – Engineer Anything",
+    "title": "REA Reverse – Engineer Anything",
+    "score": 692,
+    "source": "Hacker News",
+    "timestamp": "2026-10-11T00:43:06.379299"
+  },
+  {
+    "key": "2026-10-11:Hacker News:Cloudflare acquires Deno",
+    "title": "Cloudflare acquires Deno",
+    "score": 1340,
+    "source": "Hacker News",
+    "timestamp": "2026-10-11T00:43:06.379315"
+  },
+  {
+    "key": "2026-10-11:Hacker News:Triple-A Minesweeper",
+    "title": "Triple-A Minesweeper",
+    "score": 1358,
+    "source": "Hacker News",
+    "timestamp": "2026-10-11T00:43:06.379322"
   }
 ]

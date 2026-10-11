@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-09-26:Hacker News:Revealing the details of how OpenAI agents hacked Hugging Face",
-    "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-    "score": 503,
-    "source": "Hacker News",
-    "timestamp": "2026-09-26T10:58:38.675736"
-  },
-  {
-    "key": "2026-09-26:Hacker News:Ollaya – Ollama for open-source, Jev-style decision models",
-    "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-    "score": 502,
-    "source": "Hacker News",
-    "timestamp": "2026-09-26T13:55:09.429234"
-  },
-  {
     "key": "2026-09-26:Hacker News:Breaking Up with Google Play: Why Conversations Is Now Free",
     "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
     "score": 578,
@@ -698,5 +684,19 @@
     "score": 541,
     "source": "Hacker News",
     "timestamp": "2026-10-11T18:30:12.225559"
+  },
+  {
+    "key": "2026-10-11:Hacker News:A city-building game in which the city would prefer you didn't",
+    "title": "A city-building game in which the city would prefer you didn't",
+    "score": 521,
+    "source": "Hacker News",
+    "timestamp": "2026-10-11T21:11:37.457142"
+  },
+  {
+    "key": "2026-10-11:Hacker News:3rd Yandex Cloud Data Center Was Hit",
+    "title": "3rd Yandex Cloud Data Center Was Hit",
+    "score": 517,
+    "source": "Hacker News",
+    "timestamp": "2026-10-11T21:11:37.457154"
   }
 ]

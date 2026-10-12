@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-09-28:Hacker News:Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-    "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-    "score": 600,
-    "source": "Hacker News",
-    "timestamp": "2026-09-28T00:22:46.276900"
-  },
-  {
-    "key": "2026-09-28:Hacker News:Owed a billion dollars in Nvidia stock",
-    "title": "Owed a billion dollars in Nvidia stock",
-    "score": 597,
-    "source": "Hacker News",
-    "timestamp": "2026-09-28T08:13:37.661865"
-  },
-  {
     "key": "2026-09-28:Hacker News:Ember-1",
     "title": "Ember-1",
     "score": 509,
@@ -698,5 +684,19 @@
     "score": 544,
     "source": "Hacker News",
     "timestamp": "2026-10-12T14:42:20.695877"
+  },
+  {
+    "key": "2026-10-12:Hacker News:Terence Tao: Math 2.0 [pdf]",
+    "title": "Terence Tao: Math 2.0 [pdf]",
+    "score": 500,
+    "source": "Hacker News",
+    "timestamp": "2026-10-12T19:25:39.392439"
+  },
+  {
+    "key": "2026-10-12:Hacker News:Deloitte falsified documents to evade tax on Abramovich's wealth",
+    "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
+    "score": 560,
+    "source": "Hacker News",
+    "timestamp": "2026-10-12T19:25:39.392452"
   }
 ]

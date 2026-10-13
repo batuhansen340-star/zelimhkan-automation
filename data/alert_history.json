@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-09-29:Hacker News:You are no longer invited to dinner",
-    "title": "You are no longer invited to dinner",
-    "score": 598,
-    "source": "Hacker News",
-    "timestamp": "2026-09-29T18:57:35.626702"
-  },
-  {
-    "key": "2026-09-29:Hacker News:GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-    "score": 651,
-    "source": "Hacker News",
-    "timestamp": "2026-09-29T21:37:38.139441"
-  },
-  {
     "key": "2026-09-30:Hacker News:GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
     "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
     "score": 770,
@@ -698,5 +684,19 @@
     "score": 694,
     "source": "Hacker News",
     "timestamp": "2026-10-13T08:57:05.721758"
+  },
+  {
+    "key": "2026-10-13:Hacker News:11 year old unsoundness bugs found in Rust borrow checker",
+    "title": "11 year old unsoundness bugs found in Rust borrow checker",
+    "score": 516,
+    "source": "Hacker News",
+    "timestamp": "2026-10-13T17:10:42.741574"
+  },
+  {
+    "key": "2026-10-13:Hacker News:AI is a tool and using it well takes skill",
+    "title": "AI is a tool and using it well takes skill",
+    "score": 573,
+    "source": "Hacker News",
+    "timestamp": "2026-10-13T17:10:42.741589"
   }
 ]

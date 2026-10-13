@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-09-30:Hacker News:Livenerf: Has Opus 5.5 been nerfed yet?",
-    "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-    "score": 542,
-    "source": "Hacker News",
-    "timestamp": "2026-09-30T07:59:39.155418"
-  },
-  {
     "key": "2026-09-30:Hacker News:Dots: Always-on agents",
     "title": "Dots: Always-on agents",
     "score": 573,
@@ -698,5 +691,12 @@
     "score": 547,
     "source": "Hacker News",
     "timestamp": "2026-10-13T19:58:28.982123"
+  },
+  {
+    "key": "2026-10-13:Hacker News:Firefox Enterprise",
+    "title": "Firefox Enterprise",
+    "score": 563,
+    "source": "Hacker News",
+    "timestamp": "2026-10-13T22:03:52.976782"
   }
 ]

@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-09-28:Hacker News:Ember-1",
-    "title": "Ember-1",
-    "score": 509,
-    "source": "Hacker News",
-    "timestamp": "2026-09-28T13:11:01.301109"
-  },
-  {
-    "key": "2026-09-29:Hacker News:Sonnet 5.5",
-    "title": "Sonnet 5.5",
-    "score": 571,
-    "source": "Hacker News",
-    "timestamp": "2026-09-29T01:33:47.420831"
-  },
-  {
-    "key": "2026-09-29:Hacker News:When did Google get so weird?",
-    "title": "When did Google get so weird?",
-    "score": 1843,
-    "source": "Hacker News",
-    "timestamp": "2026-09-29T01:33:47.420846"
-  },
-  {
     "key": "2026-09-29:Hacker News:Pirating the Pirates",
     "title": "Pirating the Pirates",
     "score": 541,
@@ -698,5 +677,26 @@
     "score": 560,
     "source": "Hacker News",
     "timestamp": "2026-10-12T19:25:39.392452"
+  },
+  {
+    "key": "2026-10-13:Hacker News:Muse Wonder",
+    "title": "Muse Wonder",
+    "score": 543,
+    "source": "Hacker News",
+    "timestamp": "2026-10-13T02:53:56.480310"
+  },
+  {
+    "key": "2026-10-13:Hacker News:Terence Tao: Math 2.0 [pdf]",
+    "title": "Terence Tao: Math 2.0 [pdf]",
+    "score": 525,
+    "source": "Hacker News",
+    "timestamp": "2026-10-13T02:53:56.480328"
+  },
+  {
+    "key": "2026-10-13:Hacker News:Fingerprints are the new cookies",
+    "title": "Fingerprints are the new cookies",
+    "score": 704,
+    "source": "Hacker News",
+    "timestamp": "2026-10-13T02:53:56.480335"
   }
 ]

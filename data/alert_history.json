@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-10-04:Hacker News:Tell HN: Bob Cringely has died",
-    "title": "Tell HN: Bob Cringely has died",
-    "score": 514,
-    "source": "Hacker News",
-    "timestamp": "2026-10-04T11:55:07.606573"
-  },
-  {
     "key": "2026-10-04:Hacker News:We're going to need default hard budget caps on pretty much everything",
     "title": "We're going to need default hard budget caps on pretty much everything",
     "score": 517,
@@ -698,5 +691,12 @@
     "score": 572,
     "source": "Hacker News",
     "timestamp": "2026-10-15T06:57:56.173920"
+  },
+  {
+    "key": "2026-10-15:Hacker News:Tiny Little Office",
+    "title": "Tiny Little Office",
+    "score": 555,
+    "source": "Hacker News",
+    "timestamp": "2026-10-15T14:29:02.840365"
   }
 ]

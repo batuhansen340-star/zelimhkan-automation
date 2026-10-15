@@ -1,40 +1,5 @@
 [
   {
-    "key": "2026-10-02:Hacker News:Clef: Open-weight decision models, and new RL fine-tuning platform",
-    "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
-    "score": 536,
-    "source": "Hacker News",
-    "timestamp": "2026-10-02T12:03:11.936221"
-  },
-  {
-    "key": "2026-10-02:Hacker News:Several vulnerabilities have been discovered in the Linux kernel",
-    "title": "Several vulnerabilities have been discovered in the Linux kernel",
-    "score": 529,
-    "source": "Hacker News",
-    "timestamp": "2026-10-02T18:45:42.492652"
-  },
-  {
-    "key": "2026-10-02:Hacker News:Frog and Toad and the Increasingly Capable Machines",
-    "title": "Frog and Toad and the Increasingly Capable Machines",
-    "score": 524,
-    "source": "Hacker News",
-    "timestamp": "2026-10-02T18:45:42.492667"
-  },
-  {
-    "key": "2026-10-02:Hacker News:Git 3.0's upcoming SHA-256 default will be a costly mistake",
-    "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
-    "score": 537,
-    "source": "Hacker News",
-    "timestamp": "2026-10-02T18:45:42.492678"
-  },
-  {
-    "key": "2026-10-03:Hacker News:Court agrees with EFF: Utah's VPN law demands a technical impossibility",
-    "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
-    "score": 605,
-    "source": "Hacker News",
-    "timestamp": "2026-10-03T07:35:41.160769"
-  },
-  {
     "key": "2026-10-03:Hacker News:Mike Tomlin spent 12 years building a Minecraft city",
     "title": "Mike Tomlin spent 12 years building a Minecraft city",
     "score": 543,
@@ -698,5 +663,40 @@
     "score": 747,
     "source": "Hacker News",
     "timestamp": "2026-10-14T21:04:55.440752"
+  },
+  {
+    "key": "2026-10-15:Hacker News:Things to know when you get cancer – 2026 Edition",
+    "title": "Things to know when you get cancer – 2026 Edition",
+    "score": 667,
+    "source": "Hacker News",
+    "timestamp": "2026-10-15T00:19:29.937197"
+  },
+  {
+    "key": "2026-10-15:Hacker News:Containment and monitoring failures are to blame for AI hacking reports: experts",
+    "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+    "score": 819,
+    "source": "Hacker News",
+    "timestamp": "2026-10-15T00:19:29.937215"
+  },
+  {
+    "key": "2026-10-15:Hacker News:Iosevka is an open-source, sans-serif and slab-serif monospace font",
+    "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
+    "score": 697,
+    "source": "Hacker News",
+    "timestamp": "2026-10-15T00:19:29.937222"
+  },
+  {
+    "key": "2026-10-15:Hacker News:How Amazon pushes up prices all across the Internet",
+    "title": "How Amazon pushes up prices all across the Internet",
+    "score": 698,
+    "source": "Hacker News",
+    "timestamp": "2026-10-15T00:19:29.937228"
+  },
+  {
+    "key": "2026-10-15:Hacker News:Gemini 4 Argon",
+    "title": "Gemini 4 Argon",
+    "score": 1432,
+    "source": "Hacker News",
+    "timestamp": "2026-10-15T00:19:29.937233"
   }
 ]

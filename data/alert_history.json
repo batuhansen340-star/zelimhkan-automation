@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-10-03:Hacker News:Mike Tomlin spent 12 years building a Minecraft city",
-    "title": "Mike Tomlin spent 12 years building a Minecraft city",
-    "score": 543,
-    "source": "Hacker News",
-    "timestamp": "2026-10-03T14:26:25.046976"
-  },
-  {
-    "key": "2026-10-03:Hacker News:Apple Pass Designer",
-    "title": "Apple Pass Designer",
-    "score": 521,
-    "source": "Hacker News",
-    "timestamp": "2026-10-03T17:40:05.263819"
-  },
-  {
-    "key": "2026-10-04:Hacker News:Court agrees with EFF: Utah's VPN law demands a technical impossibility",
-    "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
-    "score": 777,
-    "source": "Hacker News",
-    "timestamp": "2026-10-04T00:24:29.036636"
-  },
-  {
-    "key": "2026-10-04:Hacker News:Kolibri: A Sovereign Open-Weight Model",
-    "title": "Kolibri: A Sovereign Open-Weight Model",
-    "score": 596,
-    "source": "Hacker News",
-    "timestamp": "2026-10-04T07:46:34.095055"
-  },
-  {
     "key": "2026-10-04:Hacker News:Tell HN: Bob Cringely has died",
     "title": "Tell HN: Bob Cringely has died",
     "score": 514,
@@ -698,5 +670,33 @@
     "score": 1432,
     "source": "Hacker News",
     "timestamp": "2026-10-15T00:19:29.937233"
+  },
+  {
+    "key": "2026-10-15:Hacker News:Things to know when you get cancer",
+    "title": "Things to know when you get cancer",
+    "score": 1166,
+    "source": "Hacker News",
+    "timestamp": "2026-10-15T06:57:56.173890"
+  },
+  {
+    "key": "2026-10-15:Hacker News:OpenCode 2.0",
+    "title": "OpenCode 2.0",
+    "score": 516,
+    "source": "Hacker News",
+    "timestamp": "2026-10-15T06:57:56.173902"
+  },
+  {
+    "key": "2026-10-15:Hacker News:Do dentists know what they're doing?",
+    "title": "Do dentists know what they're doing?",
+    "score": 606,
+    "source": "Hacker News",
+    "timestamp": "2026-10-15T06:57:56.173908"
+  },
+  {
+    "key": "2026-10-15:Hacker News:Passkeys are not a trap",
+    "title": "Passkeys are not a trap",
+    "score": 572,
+    "source": "Hacker News",
+    "timestamp": "2026-10-15T06:57:56.173920"
   }
 ]

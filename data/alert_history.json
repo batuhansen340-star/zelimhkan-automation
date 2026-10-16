@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-10-05:Hacker News:Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-    "score": 576,
-    "source": "Hacker News",
-    "timestamp": "2026-10-05T00:31:48.452619"
-  },
-  {
-    "key": "2026-10-05:Hacker News:Tell HN: Bob Cringely has died",
-    "title": "Tell HN: Bob Cringely has died",
-    "score": 803,
-    "source": "Hacker News",
-    "timestamp": "2026-10-05T00:31:48.452631"
-  },
-  {
-    "key": "2026-10-05:Hacker News:We're going to need default hard budget caps on pretty much everything",
-    "title": "We're going to need default hard budget caps on pretty much everything",
-    "score": 585,
-    "source": "Hacker News",
-    "timestamp": "2026-10-05T00:31:48.452637"
-  },
-  {
     "key": "2026-10-05:Hacker News:Turn off Apple Intelligence on macOS 27 and get its disk space back",
     "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
     "score": 545,
@@ -698,5 +677,26 @@
     "score": 548,
     "source": "Hacker News",
     "timestamp": "2026-10-15T17:55:07.626722"
+  },
+  {
+    "key": "2026-10-16:Hacker News:Muse Spark Open",
+    "title": "Muse Spark Open",
+    "score": 581,
+    "source": "Hacker News",
+    "timestamp": "2026-10-16T00:07:41.710314"
+  },
+  {
+    "key": "2026-10-16:Hacker News:Things to know when you get cancer",
+    "title": "Things to know when you get cancer",
+    "score": 1856,
+    "source": "Hacker News",
+    "timestamp": "2026-10-16T00:07:41.710328"
+  },
+  {
+    "key": "2026-10-16:Hacker News:OpenCode 2.0",
+    "title": "OpenCode 2.0",
+    "score": 851,
+    "source": "Hacker News",
+    "timestamp": "2026-10-16T00:07:41.710335"
   }
 ]

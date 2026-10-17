@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-10-07:Hacker News:Claude Haiku 5.5",
-    "title": "Claude Haiku 5.5",
-    "score": 550,
-    "source": "Hacker News",
-    "timestamp": "2026-10-07T22:24:21.721892"
-  },
-  {
     "key": "2026-10-08:Hacker News:Claude Haiku 5.5",
     "title": "Claude Haiku 5.5",
     "score": 672,
@@ -698,5 +691,12 @@
     "score": 507,
     "source": "Hacker News",
     "timestamp": "2026-10-17T10:17:28.524482"
+  },
+  {
+    "key": "2026-10-17:Hacker News:DeepSeek-v4.1-Flash-1017",
+    "title": "DeepSeek-v4.1-Flash-1017",
+    "score": 534,
+    "source": "Hacker News",
+    "timestamp": "2026-10-17T19:48:56.245796"
   }
 ]

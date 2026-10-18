@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-10-08:Hacker News:Trump administration is suspending Microsoft from a green card program",
-    "title": "Trump administration is suspending Microsoft from a green card program",
-    "score": 631,
-    "source": "Hacker News",
-    "timestamp": "2026-10-08T19:33:10.807327"
-  },
-  {
     "key": "2026-10-08:Hacker News:Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
     "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
     "score": 580,
@@ -698,5 +691,12 @@
     "score": 532,
     "source": "Hacker News",
     "timestamp": "2026-10-18T16:59:12.887832"
+  },
+  {
+    "key": "2026-10-18:Hacker News:DeepSeek search and fetch – $0.75 per 1000 successful requests",
+    "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+    "score": 530,
+    "source": "Hacker News",
+    "timestamp": "2026-10-18T23:58:16.085188"
   }
 ]

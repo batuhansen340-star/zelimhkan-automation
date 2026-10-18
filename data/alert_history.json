@@ -1,47 +1,5 @@
 [
   {
-    "key": "2026-10-08:Hacker News:Margaret Hamilton has died",
-    "title": "Margaret Hamilton has died",
-    "score": 689,
-    "source": "Hacker News",
-    "timestamp": "2026-10-08T01:36:27.163854"
-  },
-  {
-    "key": "2026-10-08:Hacker News:Sharing AI progress in mathematics",
-    "title": "Sharing AI progress in mathematics",
-    "score": 1229,
-    "source": "Hacker News",
-    "timestamp": "2026-10-08T01:36:27.163859"
-  },
-  {
-    "key": "2026-10-08:Hacker News:Mistral Large 4",
-    "title": "Mistral Large 4",
-    "score": 1994,
-    "source": "Hacker News",
-    "timestamp": "2026-10-08T01:36:27.163864"
-  },
-  {
-    "key": "2026-10-08:Hacker News:GPT‑6 and Intelligent UI for everyone",
-    "title": "GPT‑6 and Intelligent UI for everyone",
-    "score": 609,
-    "source": "Hacker News",
-    "timestamp": "2026-10-08T08:25:27.100378"
-  },
-  {
-    "key": "2026-10-08:Hacker News:Shipping JPEG XL in Chrome",
-    "title": "Shipping JPEG XL in Chrome",
-    "score": 542,
-    "source": "Hacker News",
-    "timestamp": "2026-10-08T08:25:27.100389"
-  },
-  {
-    "key": "2026-10-08:Hacker News:Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
-    "title": "Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
-    "score": 542,
-    "source": "Hacker News",
-    "timestamp": "2026-10-08T08:25:27.100397"
-  },
-  {
     "key": "2026-10-08:Hacker News:Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
     "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
     "score": 560,
@@ -698,5 +656,47 @@
     "score": 689,
     "source": "Hacker News",
     "timestamp": "2026-10-17T23:50:51.527902"
+  },
+  {
+    "key": "2026-10-18:Hacker News:DeepSeek-v4.1-Flash-1017",
+    "title": "DeepSeek-v4.1-Flash-1017",
+    "score": 807,
+    "source": "Hacker News",
+    "timestamp": "2026-10-18T06:57:36.969098"
+  },
+  {
+    "key": "2026-10-18:Hacker News:You could have invented transformers from memory",
+    "title": "You could have invented transformers from memory",
+    "score": 541,
+    "source": "Hacker News",
+    "timestamp": "2026-10-18T06:57:36.969117"
+  },
+  {
+    "key": "2026-10-18:Hacker News:Solar surpasses nuclear power globally for first time",
+    "title": "Solar surpasses nuclear power globally for first time",
+    "score": 564,
+    "source": "Hacker News",
+    "timestamp": "2026-10-18T06:57:36.969124"
+  },
+  {
+    "key": "2026-10-18:Hacker News:OpenCode Hacked: User credentials leaked",
+    "title": "OpenCode Hacked: User credentials leaked",
+    "score": 836,
+    "source": "Hacker News",
+    "timestamp": "2026-10-18T06:57:36.969130"
+  },
+  {
+    "key": "2026-10-18:Hacker News:Tesla Roadster",
+    "title": "Tesla Roadster",
+    "score": 1615,
+    "source": "Hacker News",
+    "timestamp": "2026-10-18T06:57:36.969136"
+  },
+  {
+    "key": "2026-10-18:Hacker News:Claude reveals ECDSA curve origins",
+    "title": "Claude reveals ECDSA curve origins",
+    "score": 1034,
+    "source": "Hacker News",
+    "timestamp": "2026-10-18T06:57:36.969141"
   }
 ]

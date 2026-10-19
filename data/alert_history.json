@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-10-08:Hacker News:Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
-    "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
-    "score": 580,
-    "source": "Hacker News",
-    "timestamp": "2026-10-08T19:33:10.807344"
-  },
-  {
-    "key": "2026-10-09:Hacker News:Whistle: Speech to Text in 16.9 MB",
-    "title": "Whistle: Speech to Text in 16.9 MB",
-    "score": 536,
-    "source": "Hacker News",
-    "timestamp": "2026-10-09T01:48:10.417019"
-  },
-  {
-    "key": "2026-10-09:Hacker News:Trump administration is suspending Microsoft from a green card program",
-    "title": "Trump administration is suspending Microsoft from a green card program",
-    "score": 826,
-    "source": "Hacker News",
-    "timestamp": "2026-10-09T01:48:10.417034"
-  },
-  {
     "key": "2026-10-09:Hacker News:Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
     "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
     "score": 662,
@@ -698,5 +677,26 @@
     "score": 530,
     "source": "Hacker News",
     "timestamp": "2026-10-18T23:58:16.085188"
+  },
+  {
+    "key": "2026-10-19:Hacker News:Namecheap just seized and disabled all my domains",
+    "title": "Namecheap just seized and disabled all my domains",
+    "score": 546,
+    "source": "Hacker News",
+    "timestamp": "2026-10-19T07:19:17.347610"
+  },
+  {
+    "key": "2026-10-19:Hacker News:DeepSeek search and fetch – $0.75 per 1000 successful requests",
+    "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+    "score": 568,
+    "source": "Hacker News",
+    "timestamp": "2026-10-19T07:19:17.347624"
+  },
+  {
+    "key": "2026-10-19:Hacker News:You could have invented transformers from memory",
+    "title": "You could have invented transformers from memory",
+    "score": 630,
+    "source": "Hacker News",
+    "timestamp": "2026-10-19T07:19:17.347629"
   }
 ]

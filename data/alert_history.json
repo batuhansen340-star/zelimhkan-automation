@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-10-09:Hacker News:Man discovers his parents' coffee machine used 1TB of data in 10 days",
-    "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
-    "score": 660,
-    "source": "Hacker News",
-    "timestamp": "2026-10-09T08:29:38.024995"
-  },
-  {
-    "key": "2026-10-09:Hacker News:I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
-    "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
-    "score": 594,
-    "source": "Hacker News",
-    "timestamp": "2026-10-09T08:29:38.024999"
-  },
-  {
     "key": "2026-10-09:Hacker News:Sharing AI progress in mathematics",
     "title": "Sharing AI progress in mathematics",
     "score": 1326,
@@ -698,5 +684,19 @@
     "score": 525,
     "source": "Hacker News",
     "timestamp": "2026-10-19T16:39:15.176172"
+  },
+  {
+    "key": "2026-10-19:Hacker News:Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+    "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+    "score": 500,
+    "source": "Hacker News",
+    "timestamp": "2026-10-19T19:32:20.733323"
+  },
+  {
+    "key": "2026-10-19:Hacker News:There's never been a better time to go into math (by: 3blue1brown) [video]",
+    "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+    "score": 526,
+    "source": "Hacker News",
+    "timestamp": "2026-10-19T19:32:20.733349"
   }
 ]

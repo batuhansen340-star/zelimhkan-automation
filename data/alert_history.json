@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-10-10:Hacker News:Triple-A Minesweeper",
-    "title": "Triple-A Minesweeper",
-    "score": 647,
-    "source": "Hacker News",
-    "timestamp": "2026-10-10T01:33:36.613288"
-  },
-  {
-    "key": "2026-10-10:Hacker News:Our $445M Series D",
-    "title": "Our $445M Series D",
-    "score": 590,
-    "source": "Hacker News",
-    "timestamp": "2026-10-10T01:33:36.613291"
-  },
-  {
     "key": "2026-10-10:Hacker News:Sorry, I'm in a meeting",
     "title": "Sorry, I'm in a meeting",
     "score": 762,
@@ -698,5 +684,19 @@
     "score": 542,
     "source": "Hacker News",
     "timestamp": "2026-10-20T14:31:48.635939"
+  },
+  {
+    "key": "2026-10-20:Hacker News:DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+    "title": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+    "score": 1886,
+    "source": "Hacker News",
+    "timestamp": "2026-10-20T18:10:03.253206"
+  },
+  {
+    "key": "2026-10-20:Hacker News:DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+    "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+    "score": 521,
+    "source": "Hacker News",
+    "timestamp": "2026-10-20T18:10:03.253224"
   }
 ]

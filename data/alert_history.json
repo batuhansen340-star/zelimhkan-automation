@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-10-09:Hacker News:Theranos.world",
-    "title": "Theranos.world",
-    "score": 515,
-    "source": "Hacker News",
-    "timestamp": "2026-10-09T16:38:35.542188"
-  },
-  {
     "key": "2026-10-09:Hacker News:Cloudflare acquires Deno",
     "title": "Cloudflare acquires Deno",
     "score": 795,
@@ -698,5 +691,12 @@
     "score": 553,
     "source": "Hacker News",
     "timestamp": "2026-10-20T07:10:37.763731"
+  },
+  {
+    "key": "2026-10-20:Hacker News:I built a drone with only one motor [video]",
+    "title": "I built a drone with only one motor [video]",
+    "score": 558,
+    "source": "Hacker News",
+    "timestamp": "2026-10-20T11:04:02.905190"
   }
 ]

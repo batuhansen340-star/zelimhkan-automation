@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-10-09:Hacker News:Yes, and",
-    "title": "Yes, and",
-    "score": 520,
-    "source": "Hacker News",
-    "timestamp": "2026-10-09T12:45:31.156601"
-  },
-  {
-    "key": "2026-10-09:Hacker News:Deno Is Joining Cloudflare",
-    "title": "Deno Is Joining Cloudflare",
-    "score": 589,
-    "source": "Hacker News",
-    "timestamp": "2026-10-09T16:38:35.542168"
-  },
-  {
     "key": "2026-10-09:Hacker News:Theranos.world",
     "title": "Theranos.world",
     "score": 515,
@@ -698,5 +684,19 @@
     "score": 539,
     "source": "Hacker News",
     "timestamp": "2026-10-20T00:56:30.079987"
+  },
+  {
+    "key": "2026-10-20:Hacker News:Wine ported to OpenBSD",
+    "title": "Wine ported to OpenBSD",
+    "score": 545,
+    "source": "Hacker News",
+    "timestamp": "2026-10-20T07:10:37.763716"
+  },
+  {
+    "key": "2026-10-20:Hacker News:It's still ok to enjoy programming",
+    "title": "It's still ok to enjoy programming",
+    "score": 553,
+    "source": "Hacker News",
+    "timestamp": "2026-10-20T07:10:37.763731"
   }
 ]

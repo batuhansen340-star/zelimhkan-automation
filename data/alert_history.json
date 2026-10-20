@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-10-09:Hacker News:“Math 2.0” will need to value mathematical progress more holistically",
-    "title": "“Math 2.0” will need to value mathematical progress more holistically",
-    "score": 597,
-    "source": "Hacker News",
-    "timestamp": "2026-10-09T08:29:38.025011"
-  },
-  {
     "key": "2026-10-09:Hacker News:Yes, and",
     "title": "Yes, and",
     "score": 520,
@@ -698,5 +691,12 @@
     "score": 504,
     "source": "Hacker News",
     "timestamp": "2026-10-19T21:50:14.409014"
+  },
+  {
+    "key": "2026-10-20:Hacker News:Timestral: Mistral's time-series foundation models",
+    "title": "Timestral: Mistral's time-series foundation models",
+    "score": 539,
+    "source": "Hacker News",
+    "timestamp": "2026-10-20T00:56:30.079987"
   }
 ]

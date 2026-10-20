@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-10-09:Hacker News:Cloudflare acquires Deno",
-    "title": "Cloudflare acquires Deno",
-    "score": 795,
-    "source": "Hacker News",
-    "timestamp": "2026-10-09T19:07:26.253548"
-  },
-  {
-    "key": "2026-10-09:Hacker News:Sorry, I'm in a meeting",
-    "title": "Sorry, I'm in a meeting",
-    "score": 559,
-    "source": "Hacker News",
-    "timestamp": "2026-10-09T19:07:26.253565"
-  },
-  {
-    "key": "2026-10-09:Hacker News:Our $445M Series D",
-    "title": "Our $445M Series D",
-    "score": 530,
-    "source": "Hacker News",
-    "timestamp": "2026-10-09T21:59:00.861412"
-  },
-  {
-    "key": "2026-10-10:Hacker News:Cloudflare acquires Deno",
-    "title": "Cloudflare acquires Deno",
-    "score": 1063,
-    "source": "Hacker News",
-    "timestamp": "2026-10-10T01:33:36.613277"
-  },
-  {
     "key": "2026-10-10:Hacker News:Triple-A Minesweeper",
     "title": "Triple-A Minesweeper",
     "score": 647,
@@ -698,5 +670,33 @@
     "score": 558,
     "source": "Hacker News",
     "timestamp": "2026-10-20T11:04:02.905190"
+  },
+  {
+    "key": "2026-10-20:Hacker News:DeepSeek just open-sourced its inference engine",
+    "title": "DeepSeek just open-sourced its inference engine",
+    "score": 1209,
+    "source": "Hacker News",
+    "timestamp": "2026-10-20T14:31:48.635913"
+  },
+  {
+    "key": "2026-10-20:Hacker News:WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+    "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+    "score": 624,
+    "source": "Hacker News",
+    "timestamp": "2026-10-20T14:31:48.635923"
+  },
+  {
+    "key": "2026-10-20:Hacker News:Starcraft: Ashfall",
+    "title": "Starcraft: Ashfall",
+    "score": 529,
+    "source": "Hacker News",
+    "timestamp": "2026-10-20T14:31:48.635936"
+  },
+  {
+    "key": "2026-10-20:Hacker News:Ask HN: How to deal with shipping AI-written code you don't understand?",
+    "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+    "score": 542,
+    "source": "Hacker News",
+    "timestamp": "2026-10-20T14:31:48.635939"
   }
 ]

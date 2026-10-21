@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-10-10:Hacker News:Whistle: Speech to Text in 16.9 MB",
-    "title": "Whistle: Speech to Text in 16.9 MB",
-    "score": 919,
-    "source": "Hacker News",
-    "timestamp": "2026-10-10T01:33:36.613300"
-  },
-  {
-    "key": "2026-10-10:Hacker News:Man discovers his parents' coffee machine used 1TB of data in 10 days",
-    "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
-    "score": 921,
-    "source": "Hacker News",
-    "timestamp": "2026-10-10T01:33:36.613303"
-  },
-  {
-    "key": "2026-10-10:Hacker News:YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
-    "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
-    "score": 549,
-    "source": "Hacker News",
-    "timestamp": "2026-10-10T08:06:47.142603"
-  },
-  {
     "key": "2026-10-10:Hacker News:REA Reverse – Engineer Anything",
     "title": "REA Reverse – Engineer Anything",
     "score": 551,
@@ -698,5 +677,26 @@
     "score": 519,
     "source": "Hacker News",
     "timestamp": "2026-10-20T20:59:02.982014"
+  },
+  {
+    "key": "2026-10-21:Hacker News:DeepInfer: High-performance inference framework for DeepSeek models",
+    "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+    "score": 2107,
+    "source": "Hacker News",
+    "timestamp": "2026-10-21T00:25:03.649941"
+  },
+  {
+    "key": "2026-10-21:Hacker News:EMudhra Intermediate CA Compromise",
+    "title": "EMudhra Intermediate CA Compromise",
+    "score": 595,
+    "source": "Hacker News",
+    "timestamp": "2026-10-21T00:25:03.649961"
+  },
+  {
+    "key": "2026-10-21:Hacker News:Nordwand Mono – A monospace font for coders and adventurers",
+    "title": "Nordwand Mono – A monospace font for coders and adventurers",
+    "score": 540,
+    "source": "Hacker News",
+    "timestamp": "2026-10-21T00:25:03.649968"
   }
 ]

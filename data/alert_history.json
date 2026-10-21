@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-10-11:Hacker News:2D Vehicles",
-    "title": "2D Vehicles",
-    "score": 510,
-    "source": "Hacker News",
-    "timestamp": "2026-10-11T12:17:15.294706"
-  },
-  {
     "key": "2026-10-11:Hacker News:The Lightbulb Computer",
     "title": "The Lightbulb Computer",
     "score": 516,
@@ -698,5 +691,12 @@
     "score": 541,
     "source": "Hacker News",
     "timestamp": "2026-10-21T07:04:15.719277"
+  },
+  {
+    "key": "2026-10-21:Hacker News:Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+    "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+    "score": 992,
+    "source": "Hacker News",
+    "timestamp": "2026-10-21T11:20:51.746995"
   }
 ]

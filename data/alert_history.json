@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-10-11:Hacker News:The Lightbulb Computer",
-    "title": "The Lightbulb Computer",
-    "score": 516,
-    "source": "Hacker News",
-    "timestamp": "2026-10-11T15:59:05.053747"
-  },
-  {
     "key": "2026-10-11:Hacker News:Bot traffic from Yandex",
     "title": "Bot traffic from Yandex",
     "score": 541,
@@ -698,5 +691,12 @@
     "score": 992,
     "source": "Hacker News",
     "timestamp": "2026-10-21T11:20:51.746995"
+  },
+  {
+    "key": "2026-10-21:Hacker News:The Future of CSS",
+    "title": "The Future of CSS",
+    "score": 500,
+    "source": "Hacker News",
+    "timestamp": "2026-10-21T14:42:36.848143"
   }
 ]

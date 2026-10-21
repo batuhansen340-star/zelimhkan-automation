@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-10-10:Hacker News:REA Reverse – Engineer Anything",
-    "title": "REA Reverse – Engineer Anything",
-    "score": 551,
-    "source": "Hacker News",
-    "timestamp": "2026-10-10T15:35:31.739660"
-  },
-  {
-    "key": "2026-10-11:Hacker News:REA Reverse – Engineer Anything",
-    "title": "REA Reverse – Engineer Anything",
-    "score": 692,
-    "source": "Hacker News",
-    "timestamp": "2026-10-11T00:43:06.379299"
-  },
-  {
-    "key": "2026-10-11:Hacker News:Cloudflare acquires Deno",
-    "title": "Cloudflare acquires Deno",
-    "score": 1340,
-    "source": "Hacker News",
-    "timestamp": "2026-10-11T00:43:06.379315"
-  },
-  {
-    "key": "2026-10-11:Hacker News:Triple-A Minesweeper",
-    "title": "Triple-A Minesweeper",
-    "score": 1358,
-    "source": "Hacker News",
-    "timestamp": "2026-10-11T00:43:06.379322"
-  },
-  {
     "key": "2026-10-11:Hacker News:2D Vehicles",
     "title": "2D Vehicles",
     "score": 510,
@@ -698,5 +670,33 @@
     "score": 540,
     "source": "Hacker News",
     "timestamp": "2026-10-21T00:25:03.649968"
+  },
+  {
+    "key": "2026-10-21:Hacker News:Show HN: SimCity, but with Permits",
+    "title": "Show HN: SimCity, but with Permits",
+    "score": 724,
+    "source": "Hacker News",
+    "timestamp": "2026-10-21T07:04:15.719254"
+  },
+  {
+    "key": "2026-10-21:Hacker News:Voxtral 3",
+    "title": "Voxtral 3",
+    "score": 611,
+    "source": "Hacker News",
+    "timestamp": "2026-10-21T07:04:15.719267"
+  },
+  {
+    "key": "2026-10-21:Hacker News:eMudhra intermediate CA compromise",
+    "title": "eMudhra intermediate CA compromise",
+    "score": 843,
+    "source": "Hacker News",
+    "timestamp": "2026-10-21T07:04:15.719273"
+  },
+  {
+    "key": "2026-10-21:Hacker News:Apple broke an essential presentation feature of iPads",
+    "title": "Apple broke an essential presentation feature of iPads",
+    "score": 541,
+    "source": "Hacker News",
+    "timestamp": "2026-10-21T07:04:15.719277"
   }
 ]

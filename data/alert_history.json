@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-10-13:Hacker News:Muse Wonder",
-    "title": "Muse Wonder",
-    "score": 543,
-    "source": "Hacker News",
-    "timestamp": "2026-10-13T02:53:56.480310"
-  },
-  {
     "key": "2026-10-13:Hacker News:Terence Tao: Math 2.0 [pdf]",
     "title": "Terence Tao: Math 2.0 [pdf]",
     "score": 525,
@@ -698,5 +691,12 @@
     "score": 545,
     "source": "Hacker News",
     "timestamp": "2026-10-22T11:19:55.830293"
+  },
+  {
+    "key": "2026-10-22:Hacker News:Security Disclosure",
+    "title": "Security Disclosure",
+    "score": 536,
+    "source": "Hacker News",
+    "timestamp": "2026-10-22T14:42:44.882126"
   }
 ]

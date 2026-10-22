@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-10-12:Hacker News:NYC's \"Click to Cancel\" rule is now in effect",
-    "title": "NYC's \"Click to Cancel\" rule is now in effect",
-    "score": 544,
-    "source": "Hacker News",
-    "timestamp": "2026-10-12T14:42:20.695877"
-  },
-  {
-    "key": "2026-10-12:Hacker News:Terence Tao: Math 2.0 [pdf]",
-    "title": "Terence Tao: Math 2.0 [pdf]",
-    "score": 500,
-    "source": "Hacker News",
-    "timestamp": "2026-10-12T19:25:39.392439"
-  },
-  {
-    "key": "2026-10-12:Hacker News:Deloitte falsified documents to evade tax on Abramovich's wealth",
-    "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
-    "score": 560,
-    "source": "Hacker News",
-    "timestamp": "2026-10-12T19:25:39.392452"
-  },
-  {
     "key": "2026-10-13:Hacker News:Muse Wonder",
     "title": "Muse Wonder",
     "score": 543,
@@ -698,5 +677,26 @@
     "score": 599,
     "source": "Hacker News",
     "timestamp": "2026-10-22T07:06:07.259011"
+  },
+  {
+    "key": "2026-10-22:Hacker News:Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+    "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+    "score": 533,
+    "source": "Hacker News",
+    "timestamp": "2026-10-22T11:19:55.830269"
+  },
+  {
+    "key": "2026-10-22:Hacker News:mitmproxy adds --emudhra option",
+    "title": "mitmproxy adds --emudhra option",
+    "score": 506,
+    "source": "Hacker News",
+    "timestamp": "2026-10-22T11:19:55.830285"
+  },
+  {
+    "key": "2026-10-22:Hacker News:There isn't an easy exploit for this PHP vulnerability",
+    "title": "There isn't an easy exploit for this PHP vulnerability",
+    "score": 545,
+    "source": "Hacker News",
+    "timestamp": "2026-10-22T11:19:55.830293"
   }
 ]

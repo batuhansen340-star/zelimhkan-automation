@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-10-13:Hacker News:Hackers activate automatic defrosting in supermarket fridges across Europe",
-    "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
-    "score": 675,
-    "source": "Hacker News",
-    "timestamp": "2026-10-13T08:57:05.721727"
-  },
-  {
     "key": "2026-10-13:Hacker News:A Modern Web App in C",
     "title": "A Modern Web App in C",
     "score": 549,
@@ -698,5 +691,12 @@
     "score": 524,
     "source": "Hacker News",
     "timestamp": "2026-10-22T18:11:26.425824"
+  },
+  {
+    "key": "2026-10-22:Hacker News:Quad9 (DNS Resolver) to Exit France",
+    "title": "Quad9 (DNS Resolver) to Exit France",
+    "score": 704,
+    "source": "Hacker News",
+    "timestamp": "2026-10-22T20:57:35.280230"
   }
 ]

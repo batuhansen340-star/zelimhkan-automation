@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-10-14:Hacker News:Gemini 4 Argon",
-    "title": "Gemini 4 Argon",
-    "score": 963,
-    "source": "Hacker News",
-    "timestamp": "2026-10-14T00:56:13.388683"
-  },
-  {
-    "key": "2026-10-14:Hacker News:Redesigning source control at Anthropic",
-    "title": "Redesigning source control at Anthropic",
-    "score": 510,
-    "source": "Hacker News",
-    "timestamp": "2026-10-14T00:56:13.388697"
-  },
-  {
     "key": "2026-10-14:Hacker News:Apple HomeView",
     "title": "Apple HomeView",
     "score": 648,
@@ -698,5 +684,19 @@
     "score": 576,
     "source": "Hacker News",
     "timestamp": "2026-10-23T11:10:32.613787"
+  },
+  {
+    "key": "2026-10-23:Hacker News:Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+    "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+    "score": 732,
+    "source": "Hacker News",
+    "timestamp": "2026-10-23T14:29:11.040832"
+  },
+  {
+    "key": "2026-10-23:Hacker News:Every AI model has the same \"controversial\" take on humans",
+    "title": "Every AI model has the same \"controversial\" take on humans",
+    "score": 528,
+    "source": "Hacker News",
+    "timestamp": "2026-10-23T14:29:11.040859"
   }
 ]

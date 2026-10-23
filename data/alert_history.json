@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-10-13:Hacker News:Apple HomeView",
-    "title": "Apple HomeView",
-    "score": 547,
-    "source": "Hacker News",
-    "timestamp": "2026-10-13T19:58:28.982123"
-  },
-  {
-    "key": "2026-10-13:Hacker News:Firefox Enterprise",
-    "title": "Firefox Enterprise",
-    "score": 563,
-    "source": "Hacker News",
-    "timestamp": "2026-10-13T22:03:52.976782"
-  },
-  {
     "key": "2026-10-14:Hacker News:Gemini 4 Argon",
     "title": "Gemini 4 Argon",
     "score": 963,
@@ -698,5 +684,19 @@
     "score": 621,
     "source": "Hacker News",
     "timestamp": "2026-10-23T06:58:07.403210"
+  },
+  {
+    "key": "2026-10-23:Hacker News:Docker is weird",
+    "title": "Docker is weird",
+    "score": 528,
+    "source": "Hacker News",
+    "timestamp": "2026-10-23T11:10:32.613755"
+  },
+  {
+    "key": "2026-10-23:Hacker News:Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+    "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+    "score": 576,
+    "source": "Hacker News",
+    "timestamp": "2026-10-23T11:10:32.613787"
   }
 ]

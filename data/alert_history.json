@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-10-13:Hacker News:A Modern Web App in C",
-    "title": "A Modern Web App in C",
-    "score": 549,
-    "source": "Hacker News",
-    "timestamp": "2026-10-13T08:57:05.721737"
-  },
-  {
-    "key": "2026-10-13:Hacker News:Codex CLI installs a persistent, self-updating background daemon by default",
-    "title": "Codex CLI installs a persistent, self-updating background daemon by default",
-    "score": 552,
-    "source": "Hacker News",
-    "timestamp": "2026-10-13T08:57:05.721742"
-  },
-  {
-    "key": "2026-10-13:Hacker News:The gap in shared understanding of LLM capability is widening",
-    "title": "The gap in shared understanding of LLM capability is widening",
-    "score": 694,
-    "source": "Hacker News",
-    "timestamp": "2026-10-13T08:57:05.721758"
-  },
-  {
-    "key": "2026-10-13:Hacker News:11 year old unsoundness bugs found in Rust borrow checker",
-    "title": "11 year old unsoundness bugs found in Rust borrow checker",
-    "score": 516,
-    "source": "Hacker News",
-    "timestamp": "2026-10-13T17:10:42.741574"
-  },
-  {
     "key": "2026-10-13:Hacker News:AI is a tool and using it well takes skill",
     "title": "AI is a tool and using it well takes skill",
     "score": 573,
@@ -698,5 +670,33 @@
     "score": 704,
     "source": "Hacker News",
     "timestamp": "2026-10-22T20:57:35.280230"
+  },
+  {
+    "key": "2026-10-23:Hacker News:Quad9 (DNS Resolver) to Exit France",
+    "title": "Quad9 (DNS Resolver) to Exit France",
+    "score": 964,
+    "source": "Hacker News",
+    "timestamp": "2026-10-23T00:26:46.375870"
+  },
+  {
+    "key": "2026-10-23:Hacker News:Jailbreaking the Switch 2",
+    "title": "Jailbreaking the Switch 2",
+    "score": 700,
+    "source": "Hacker News",
+    "timestamp": "2026-10-23T00:26:46.375883"
+  },
+  {
+    "key": "2026-10-23:Hacker News:eMudhra to exit global SSL/TLS certificate business",
+    "title": "eMudhra to exit global SSL/TLS certificate business",
+    "score": 910,
+    "source": "Hacker News",
+    "timestamp": "2026-10-23T00:26:46.375889"
+  },
+  {
+    "key": "2026-10-23:Hacker News:WorldTUI: I trained a 360M model to pretend to be a terminal",
+    "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+    "score": 500,
+    "source": "Hacker News",
+    "timestamp": "2026-10-23T00:26:46.375893"
   }
 ]

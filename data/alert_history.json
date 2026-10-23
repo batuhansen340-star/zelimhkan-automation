@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-10-13:Hacker News:AI is a tool and using it well takes skill",
-    "title": "AI is a tool and using it well takes skill",
-    "score": 573,
-    "source": "Hacker News",
-    "timestamp": "2026-10-13T17:10:42.741589"
-  },
-  {
-    "key": "2026-10-13:Hacker News:Gemini 4 Argon",
-    "title": "Gemini 4 Argon",
-    "score": 647,
-    "source": "Hacker News",
-    "timestamp": "2026-10-13T19:58:28.982108"
-  },
-  {
     "key": "2026-10-13:Hacker News:Apple HomeView",
     "title": "Apple HomeView",
     "score": 547,
@@ -698,5 +684,19 @@
     "score": 500,
     "source": "Hacker News",
     "timestamp": "2026-10-23T00:26:46.375893"
+  },
+  {
+    "key": "2026-10-23:Hacker News:Quad9 to exit France",
+    "title": "Quad9 to exit France",
+    "score": 1131,
+    "source": "Hacker News",
+    "timestamp": "2026-10-23T06:58:07.403182"
+  },
+  {
+    "key": "2026-10-23:Hacker News:Woman charged with computer fraud due to scam CashApp account being in her name",
+    "title": "Woman charged with computer fraud due to scam CashApp account being in her name",
+    "score": 621,
+    "source": "Hacker News",
+    "timestamp": "2026-10-23T06:58:07.403210"
   }
 ]

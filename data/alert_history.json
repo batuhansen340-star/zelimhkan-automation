@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-10-14:Hacker News:Amazon pushes up prices across the Internet",
-    "title": "Amazon pushes up prices across the Internet",
-    "score": 549,
-    "source": "Hacker News",
-    "timestamp": "2026-10-14T18:12:09.767236"
-  },
-  {
     "key": "2026-10-14:Hacker News:AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
     "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
     "score": 747,
@@ -698,5 +691,12 @@
     "score": 819,
     "source": "Hacker News",
     "timestamp": "2026-10-24T00:21:43.241848"
+  },
+  {
+    "key": "2026-10-24:Hacker News:Around a dozen banking apps began specifically permitting GrapheneOS",
+    "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+    "score": 591,
+    "source": "Hacker News",
+    "timestamp": "2026-10-24T19:57:04.282778"
   }
 ]

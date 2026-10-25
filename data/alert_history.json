@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-10-15:Hacker News:Things to know when you get cancer",
-    "title": "Things to know when you get cancer",
-    "score": 1166,
-    "source": "Hacker News",
-    "timestamp": "2026-10-15T06:57:56.173890"
-  },
-  {
     "key": "2026-10-15:Hacker News:OpenCode 2.0",
     "title": "OpenCode 2.0",
     "score": 516,
@@ -698,5 +691,12 @@
     "score": 641,
     "source": "Hacker News",
     "timestamp": "2026-10-25T07:16:29.830866"
+  },
+  {
+    "key": "2026-10-25:Hacker News:Apple Music 404 Not Found",
+    "title": "Apple Music 404 Not Found",
+    "score": 919,
+    "source": "Hacker News",
+    "timestamp": "2026-10-25T10:55:44.629697"
   }
 ]

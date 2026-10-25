@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-10-15:Hacker News:OpenCode 2.0",
-    "title": "OpenCode 2.0",
-    "score": 516,
-    "source": "Hacker News",
-    "timestamp": "2026-10-15T06:57:56.173902"
-  },
-  {
-    "key": "2026-10-15:Hacker News:Do dentists know what they're doing?",
-    "title": "Do dentists know what they're doing?",
-    "score": 606,
-    "source": "Hacker News",
-    "timestamp": "2026-10-15T06:57:56.173908"
-  },
-  {
     "key": "2026-10-15:Hacker News:Passkeys are not a trap",
     "title": "Passkeys are not a trap",
     "score": 572,
@@ -698,5 +684,19 @@
     "score": 919,
     "source": "Hacker News",
     "timestamp": "2026-10-25T10:55:44.629697"
+  },
+  {
+    "key": "2026-10-25:Hacker News:We should be more ambitious with the software we build",
+    "title": "We should be more ambitious with the software we build",
+    "score": 529,
+    "source": "Hacker News",
+    "timestamp": "2026-10-25T13:58:50.426433"
+  },
+  {
+    "key": "2026-10-25:Hacker News:Show HN: Steal My Bitcoin",
+    "title": "Show HN: Steal My Bitcoin",
+    "score": 533,
+    "source": "Hacker News",
+    "timestamp": "2026-10-25T13:58:50.426457"
   }
 ]

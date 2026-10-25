@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-10-15:Hacker News:How Amazon pushes up prices all across the Internet",
-    "title": "How Amazon pushes up prices all across the Internet",
-    "score": 698,
-    "source": "Hacker News",
-    "timestamp": "2026-10-15T00:19:29.937228"
-  },
-  {
-    "key": "2026-10-15:Hacker News:Gemini 4 Argon",
-    "title": "Gemini 4 Argon",
-    "score": 1432,
-    "source": "Hacker News",
-    "timestamp": "2026-10-15T00:19:29.937233"
-  },
-  {
     "key": "2026-10-15:Hacker News:Things to know when you get cancer",
     "title": "Things to know when you get cancer",
     "score": 1166,
@@ -698,5 +684,19 @@
     "score": 612,
     "source": "Hacker News",
     "timestamp": "2026-10-25T00:04:03.205101"
+  },
+  {
+    "key": "2026-10-25:Hacker News:No signs of AI payoff outside the tech sector",
+    "title": "No signs of AI payoff outside the tech sector",
+    "score": 538,
+    "source": "Hacker News",
+    "timestamp": "2026-10-25T07:16:29.830851"
+  },
+  {
+    "key": "2026-10-25:Hacker News:WorldTUI: I trained a 360M model to pretend to be a terminal",
+    "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+    "score": 641,
+    "source": "Hacker News",
+    "timestamp": "2026-10-25T07:16:29.830866"
   }
 ]

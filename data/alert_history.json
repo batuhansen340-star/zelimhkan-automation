@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-10-15:Hacker News:Passkeys are not a trap",
-    "title": "Passkeys are not a trap",
-    "score": 572,
-    "source": "Hacker News",
-    "timestamp": "2026-10-15T06:57:56.173920"
-  },
-  {
-    "key": "2026-10-15:Hacker News:Tiny Little Office",
-    "title": "Tiny Little Office",
-    "score": 555,
-    "source": "Hacker News",
-    "timestamp": "2026-10-15T14:29:02.840365"
-  },
-  {
     "key": "2026-10-15:Hacker News:Americans' social activity has steeply declined in the past 30 years",
     "title": "Americans' social activity has steeply declined in the past 30 years",
     "score": 548,
@@ -698,5 +684,19 @@
     "score": 533,
     "source": "Hacker News",
     "timestamp": "2026-10-25T13:58:50.426457"
+  },
+  {
+    "key": "2026-10-25:Hacker News:Samsung TV privacy issues",
+    "title": "Samsung TV privacy issues",
+    "score": 543,
+    "source": "Hacker News",
+    "timestamp": "2026-10-25T17:17:51.990445"
+  },
+  {
+    "key": "2026-10-25:Hacker News:The Goose Programming Language",
+    "title": "The Goose Programming Language",
+    "score": 519,
+    "source": "Hacker News",
+    "timestamp": "2026-10-25T17:17:51.990460"
   }
 ]

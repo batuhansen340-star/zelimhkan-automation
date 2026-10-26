@@ -1,40 +1,5 @@
 [
   {
-    "key": "2026-10-16:Hacker News:Muse Spark Open",
-    "title": "Muse Spark Open",
-    "score": 581,
-    "source": "Hacker News",
-    "timestamp": "2026-10-16T00:07:41.710314"
-  },
-  {
-    "key": "2026-10-16:Hacker News:Things to know when you get cancer",
-    "title": "Things to know when you get cancer",
-    "score": 1856,
-    "source": "Hacker News",
-    "timestamp": "2026-10-16T00:07:41.710328"
-  },
-  {
-    "key": "2026-10-16:Hacker News:OpenCode 2.0",
-    "title": "OpenCode 2.0",
-    "score": 851,
-    "source": "Hacker News",
-    "timestamp": "2026-10-16T00:07:41.710335"
-  },
-  {
-    "key": "2026-10-16:Hacker News:Neural networks are clean",
-    "title": "Neural networks are clean",
-    "score": 625,
-    "source": "Hacker News",
-    "timestamp": "2026-10-16T06:44:08.653258"
-  },
-  {
-    "key": "2026-10-16:Hacker News:Wayland desktop for Linux with skeuomorphic design",
-    "title": "Wayland desktop for Linux with skeuomorphic design",
-    "score": 574,
-    "source": "Hacker News",
-    "timestamp": "2026-10-16T06:44:08.653267"
-  },
-  {
     "key": "2026-10-16:Hacker News:What I self-host",
     "title": "What I self-host",
     "score": 505,
@@ -698,5 +663,40 @@
     "score": 670,
     "source": "Hacker News",
     "timestamp": "2026-10-25T20:07:14.059493"
+  },
+  {
+    "key": "2026-10-26:Hacker News:Dolly Parton's Imagination Library",
+    "title": "Dolly Parton's Imagination Library",
+    "score": 501,
+    "source": "Hacker News",
+    "timestamp": "2026-10-26T07:25:00.175776"
+  },
+  {
+    "key": "2026-10-26:Hacker News:We should be more ambitious with the software we build",
+    "title": "We should be more ambitious with the software we build",
+    "score": 785,
+    "source": "Hacker News",
+    "timestamp": "2026-10-26T07:25:00.175795"
+  },
+  {
+    "key": "2026-10-26:Hacker News:A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+    "score": 526,
+    "source": "Hacker News",
+    "timestamp": "2026-10-26T07:25:00.175800"
+  },
+  {
+    "key": "2026-10-26:Hacker News:Root shell on Samsung TV",
+    "title": "Root shell on Samsung TV",
+    "score": 823,
+    "source": "Hacker News",
+    "timestamp": "2026-10-26T07:25:00.175804"
+  },
+  {
+    "key": "2026-10-26:Hacker News:Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+    "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+    "score": 1688,
+    "source": "Hacker News",
+    "timestamp": "2026-10-26T07:25:00.175808"
   }
 ]

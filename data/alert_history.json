@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-10-16:Hacker News:What I self-host",
-    "title": "What I self-host",
-    "score": 505,
-    "source": "Hacker News",
-    "timestamp": "2026-10-16T10:55:31.605525"
-  },
-  {
     "key": "2026-10-16:Hacker News:Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video",
     "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
     "score": 593,
@@ -698,5 +691,12 @@
     "score": 1688,
     "source": "Hacker News",
     "timestamp": "2026-10-26T07:25:00.175808"
+  },
+  {
+    "key": "2026-10-26:Hacker News:I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+    "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+    "score": 501,
+    "source": "Hacker News",
+    "timestamp": "2026-10-26T12:26:21.256556"
   }
 ]

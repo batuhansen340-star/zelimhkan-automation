@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-10-16:Hacker News:Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video",
-    "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
-    "score": 593,
-    "source": "Hacker News",
-    "timestamp": "2026-10-16T14:21:39.710882"
-  },
-  {
     "key": "2026-10-16:Hacker News:Jev meets the Trolley Problem",
     "title": "Jev meets the Trolley Problem",
     "score": 550,
@@ -698,5 +691,12 @@
     "score": 501,
     "source": "Hacker News",
     "timestamp": "2026-10-26T12:26:21.256556"
+  },
+  {
+    "key": "2026-10-26:Hacker News:Anthropic S-1",
+    "title": "Anthropic S-1",
+    "score": 812,
+    "source": "Hacker News",
+    "timestamp": "2026-10-26T16:19:36.444681"
   }
 ]

@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-10-16:Hacker News:Jev meets the Trolley Problem",
-    "title": "Jev meets the Trolley Problem",
-    "score": 550,
-    "source": "Hacker News",
-    "timestamp": "2026-10-16T14:21:39.710902"
-  },
-  {
     "key": "2026-10-16:Hacker News:Tesla Roadster",
     "title": "Tesla Roadster",
     "score": 755,
@@ -698,5 +691,12 @@
     "score": 812,
     "source": "Hacker News",
     "timestamp": "2026-10-26T16:19:36.444681"
+  },
+  {
+    "key": "2026-10-26:Hacker News:Microsoft offers mass buyouts for roughly a quarter of its workforce",
+    "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+    "score": 603,
+    "source": "Hacker News",
+    "timestamp": "2026-10-26T22:02:59.922455"
   }
 ]

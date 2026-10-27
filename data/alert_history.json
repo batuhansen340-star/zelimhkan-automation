@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-10-18:Hacker News:OpenCode Hacked: User credentials leaked",
-    "title": "OpenCode Hacked: User credentials leaked",
-    "score": 836,
-    "source": "Hacker News",
-    "timestamp": "2026-10-18T06:57:36.969130"
-  },
-  {
-    "key": "2026-10-18:Hacker News:Tesla Roadster",
-    "title": "Tesla Roadster",
-    "score": 1615,
-    "source": "Hacker News",
-    "timestamp": "2026-10-18T06:57:36.969136"
-  },
-  {
     "key": "2026-10-18:Hacker News:Claude reveals ECDSA curve origins",
     "title": "Claude reveals ECDSA curve origins",
     "score": 1034,
@@ -698,5 +684,19 @@
     "score": 506,
     "source": "Hacker News",
     "timestamp": "2026-10-27T19:01:32.883925"
+  },
+  {
+    "key": "2026-10-27:Hacker News:Genie 4",
+    "title": "Genie 4",
+    "score": 564,
+    "source": "Hacker News",
+    "timestamp": "2026-10-27T21:34:48.906519"
+  },
+  {
+    "key": "2026-10-27:Hacker News:Ghostty 1.4.0",
+    "title": "Ghostty 1.4.0",
+    "score": 507,
+    "source": "Hacker News",
+    "timestamp": "2026-10-27T21:34:48.906534"
   }
 ]

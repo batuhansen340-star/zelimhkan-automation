@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-10-19:Hacker News:There's never been a better time to go into math (by: 3blue1brown) [video]",
-    "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
-    "score": 526,
-    "source": "Hacker News",
-    "timestamp": "2026-10-19T19:32:20.733349"
-  },
-  {
-    "key": "2026-10-19:Hacker News:Timestral: Mistral's time-series foundation models",
-    "title": "Timestral: Mistral's time-series foundation models",
-    "score": 504,
-    "source": "Hacker News",
-    "timestamp": "2026-10-19T21:50:14.409014"
-  },
-  {
-    "key": "2026-10-20:Hacker News:Timestral: Mistral's time-series foundation models",
-    "title": "Timestral: Mistral's time-series foundation models",
-    "score": 539,
-    "source": "Hacker News",
-    "timestamp": "2026-10-20T00:56:30.079987"
-  },
-  {
-    "key": "2026-10-20:Hacker News:Wine ported to OpenBSD",
-    "title": "Wine ported to OpenBSD",
-    "score": 545,
-    "source": "Hacker News",
-    "timestamp": "2026-10-20T07:10:37.763716"
-  },
-  {
     "key": "2026-10-20:Hacker News:It's still ok to enjoy programming",
     "title": "It's still ok to enjoy programming",
     "score": 553,
@@ -698,5 +670,33 @@
     "score": 1003,
     "source": "Hacker News",
     "timestamp": "2026-10-28T19:10:13.383183"
+  },
+  {
+    "key": "2026-10-28:Hacker News:Why is this fingerprinting script creating bioweapons?",
+    "title": "Why is this fingerprinting script creating bioweapons?",
+    "score": 509,
+    "source": "Hacker News",
+    "timestamp": "2026-10-28T21:59:05.914808"
+  },
+  {
+    "key": "2026-10-28:Hacker News:Gemini 4 Carbon",
+    "title": "Gemini 4 Carbon",
+    "score": 676,
+    "source": "Hacker News",
+    "timestamp": "2026-10-28T21:59:05.914821"
+  },
+  {
+    "key": "2026-10-28:Hacker News:Start Doing Graph Theory",
+    "title": "Start Doing Graph Theory",
+    "score": 523,
+    "source": "Hacker News",
+    "timestamp": "2026-10-28T21:59:05.914828"
+  },
+  {
+    "key": "2026-10-28:Hacker News:Survival LLM: AI assistant and emergency library that runs on your own computer",
+    "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+    "score": 508,
+    "source": "Hacker News",
+    "timestamp": "2026-10-28T21:59:05.914844"
   }
 ]

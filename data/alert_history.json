@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-10-19:Hacker News:Someone behind the software",
-    "title": "Someone behind the software",
-    "score": 525,
-    "source": "Hacker News",
-    "timestamp": "2026-10-19T16:39:15.176172"
-  },
-  {
-    "key": "2026-10-19:Hacker News:Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-    "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-    "score": 500,
-    "source": "Hacker News",
-    "timestamp": "2026-10-19T19:32:20.733323"
-  },
-  {
     "key": "2026-10-19:Hacker News:There's never been a better time to go into math (by: 3blue1brown) [video]",
     "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
     "score": 526,
@@ -698,5 +684,19 @@
     "score": 808,
     "source": "Hacker News",
     "timestamp": "2026-10-28T16:17:53.530327"
+  },
+  {
+    "key": "2026-10-28:Hacker News:Apple's git still trusts the compromised eMudhra certificates",
+    "title": "Apple's git still trusts the compromised eMudhra certificates",
+    "score": 874,
+    "source": "Hacker News",
+    "timestamp": "2026-10-28T19:10:13.383160"
+  },
+  {
+    "key": "2026-10-28:Hacker News:Evidence of a spying operation by ICE against left-wing social movements",
+    "title": "Evidence of a spying operation by ICE against left-wing social movements",
+    "score": 1003,
+    "source": "Hacker News",
+    "timestamp": "2026-10-28T19:10:13.383183"
   }
 ]

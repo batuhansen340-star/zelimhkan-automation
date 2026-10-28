@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-10-18:Hacker News:Claude reveals ECDSA curve origins",
-    "title": "Claude reveals ECDSA curve origins",
-    "score": 1034,
-    "source": "Hacker News",
-    "timestamp": "2026-10-18T06:57:36.969141"
-  },
-  {
-    "key": "2026-10-18:Hacker News:Bleached corals thrive within days when touching healthy neighbour",
-    "title": "Bleached corals thrive within days when touching healthy neighbour",
-    "score": 524,
-    "source": "Hacker News",
-    "timestamp": "2026-10-18T16:59:12.887813"
-  },
-  {
-    "key": "2026-10-18:Hacker News:Pele – Mermaid diagrams as themeable SVG",
-    "title": "Pele – Mermaid diagrams as themeable SVG",
-    "score": 532,
-    "source": "Hacker News",
-    "timestamp": "2026-10-18T16:59:12.887832"
-  },
-  {
-    "key": "2026-10-18:Hacker News:DeepSeek search and fetch – $0.75 per 1000 successful requests",
-    "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-    "score": 530,
-    "source": "Hacker News",
-    "timestamp": "2026-10-18T23:58:16.085188"
-  },
-  {
     "key": "2026-10-19:Hacker News:Namecheap just seized and disabled all my domains",
     "title": "Namecheap just seized and disabled all my domains",
     "score": 546,
@@ -698,5 +670,33 @@
     "score": 507,
     "source": "Hacker News",
     "timestamp": "2026-10-27T21:34:48.906534"
+  },
+  {
+    "key": "2026-10-28:Hacker News:Genie 4",
+    "title": "Genie 4",
+    "score": 710,
+    "source": "Hacker News",
+    "timestamp": "2026-10-28T01:01:11.269127"
+  },
+  {
+    "key": "2026-10-28:Hacker News:Ghostty 1.4",
+    "title": "Ghostty 1.4",
+    "score": 730,
+    "source": "Hacker News",
+    "timestamp": "2026-10-28T01:01:11.269148"
+  },
+  {
+    "key": "2026-10-28:Hacker News:US Government is hiding a secret court ruling about how it spies on Americans",
+    "title": "US Government is hiding a secret court ruling about how it spies on Americans",
+    "score": 770,
+    "source": "Hacker News",
+    "timestamp": "2026-10-28T01:01:11.269156"
+  },
+  {
+    "key": "2026-10-28:Hacker News:Three new discoveries in mathematics, computer science, and physics",
+    "title": "Three new discoveries in mathematics, computer science, and physics",
+    "score": 1126,
+    "source": "Hacker News",
+    "timestamp": "2026-10-28T01:01:11.269161"
   }
 ]

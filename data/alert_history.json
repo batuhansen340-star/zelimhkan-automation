@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-10-19:Hacker News:You could have invented transformers from memory",
-    "title": "You could have invented transformers from memory",
-    "score": 630,
-    "source": "Hacker News",
-    "timestamp": "2026-10-19T07:19:17.347629"
-  },
-  {
-    "key": "2026-10-19:Hacker News:Linux 7.3",
-    "title": "Linux 7.3",
-    "score": 508,
-    "source": "Hacker News",
-    "timestamp": "2026-10-19T16:39:15.176160"
-  },
-  {
     "key": "2026-10-19:Hacker News:Someone behind the software",
     "title": "Someone behind the software",
     "score": 525,
@@ -698,5 +684,19 @@
     "score": 527,
     "source": "Hacker News",
     "timestamp": "2026-10-28T12:17:55.389209"
+  },
+  {
+    "key": "2026-10-28:Hacker News:Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
+    "title": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
+    "score": 678,
+    "source": "Hacker News",
+    "timestamp": "2026-10-28T16:17:53.530301"
+  },
+  {
+    "key": "2026-10-28:Hacker News:ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History",
+    "title": "ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History",
+    "score": 808,
+    "source": "Hacker News",
+    "timestamp": "2026-10-28T16:17:53.530327"
   }
 ]

@@ -1,54 +1,5 @@
 [
   {
-    "key": "2026-10-20:Hacker News:It's still ok to enjoy programming",
-    "title": "It's still ok to enjoy programming",
-    "score": 553,
-    "source": "Hacker News",
-    "timestamp": "2026-10-20T07:10:37.763731"
-  },
-  {
-    "key": "2026-10-20:Hacker News:I built a drone with only one motor [video]",
-    "title": "I built a drone with only one motor [video]",
-    "score": 558,
-    "source": "Hacker News",
-    "timestamp": "2026-10-20T11:04:02.905190"
-  },
-  {
-    "key": "2026-10-20:Hacker News:DeepSeek just open-sourced its inference engine",
-    "title": "DeepSeek just open-sourced its inference engine",
-    "score": 1209,
-    "source": "Hacker News",
-    "timestamp": "2026-10-20T14:31:48.635913"
-  },
-  {
-    "key": "2026-10-20:Hacker News:WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-    "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-    "score": 624,
-    "source": "Hacker News",
-    "timestamp": "2026-10-20T14:31:48.635923"
-  },
-  {
-    "key": "2026-10-20:Hacker News:Starcraft: Ashfall",
-    "title": "Starcraft: Ashfall",
-    "score": 529,
-    "source": "Hacker News",
-    "timestamp": "2026-10-20T14:31:48.635936"
-  },
-  {
-    "key": "2026-10-20:Hacker News:Ask HN: How to deal with shipping AI-written code you don't understand?",
-    "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-    "score": 542,
-    "source": "Hacker News",
-    "timestamp": "2026-10-20T14:31:48.635939"
-  },
-  {
-    "key": "2026-10-20:Hacker News:DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
-    "title": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
-    "score": 1886,
-    "source": "Hacker News",
-    "timestamp": "2026-10-20T18:10:03.253206"
-  },
-  {
     "key": "2026-10-20:Hacker News:DeepSeek banned from U.S. federal civilian agencies under new DHS order",
     "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
     "score": 521,
@@ -698,5 +649,54 @@
     "score": 508,
     "source": "Hacker News",
     "timestamp": "2026-10-28T21:59:05.914844"
+  },
+  {
+    "key": "2026-10-29:Hacker News:Why is this fingerprinting script creating bioweapons?",
+    "title": "Why is this fingerprinting script creating bioweapons?",
+    "score": 846,
+    "source": "Hacker News",
+    "timestamp": "2026-10-29T01:37:55.519497"
+  },
+  {
+    "key": "2026-10-29:Hacker News:Gemini 4 Carbon",
+    "title": "Gemini 4 Carbon",
+    "score": 804,
+    "source": "Hacker News",
+    "timestamp": "2026-10-29T01:37:55.519511"
+  },
+  {
+    "key": "2026-10-29:Hacker News:Start Doing Graph Theory",
+    "title": "Start Doing Graph Theory",
+    "score": 584,
+    "source": "Hacker News",
+    "timestamp": "2026-10-29T01:37:55.519517"
+  },
+  {
+    "key": "2026-10-29:Hacker News:Apple's git still trusts the compromised eMudhra certificates",
+    "title": "Apple's git still trusts the compromised eMudhra certificates",
+    "score": 1037,
+    "source": "Hacker News",
+    "timestamp": "2026-10-29T01:37:55.519523"
+  },
+  {
+    "key": "2026-10-29:Hacker News:Ghostty 1.4",
+    "title": "Ghostty 1.4",
+    "score": 1300,
+    "source": "Hacker News",
+    "timestamp": "2026-10-29T01:37:55.519527"
+  },
+  {
+    "key": "2026-10-29:Hacker News:Genie 4",
+    "title": "Genie 4",
+    "score": 1021,
+    "source": "Hacker News",
+    "timestamp": "2026-10-29T01:37:55.519532"
+  },
+  {
+    "key": "2026-10-29:Hacker News:Survival LLM: AI assistant and emergency library that runs on your own computer",
+    "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+    "score": 516,
+    "source": "Hacker News",
+    "timestamp": "2026-10-29T01:37:55.519537"
   }
 ]

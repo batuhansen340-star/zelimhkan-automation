@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-10-20:Hacker News:DeepInfer: High-performance inference framework for DeepSeek models",
-    "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-    "score": 2012,
-    "source": "Hacker News",
-    "timestamp": "2026-10-20T20:59:02.982000"
-  },
-  {
-    "key": "2026-10-20:Hacker News:Nordwand Mono – A monospace font for coders and adventurers",
-    "title": "Nordwand Mono – A monospace font for coders and adventurers",
-    "score": 519,
-    "source": "Hacker News",
-    "timestamp": "2026-10-20T20:59:02.982014"
-  },
-  {
-    "key": "2026-10-21:Hacker News:DeepInfer: High-performance inference framework for DeepSeek models",
-    "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-    "score": 2107,
-    "source": "Hacker News",
-    "timestamp": "2026-10-21T00:25:03.649941"
-  },
-  {
     "key": "2026-10-21:Hacker News:EMudhra Intermediate CA Compromise",
     "title": "EMudhra Intermediate CA Compromise",
     "score": 595,
@@ -698,5 +677,26 @@
     "score": 562,
     "source": "Hacker News",
     "timestamp": "2026-10-29T08:01:35.820817"
+  },
+  {
+    "key": "2026-10-29:Hacker News:Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+    "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+    "score": 551,
+    "source": "Hacker News",
+    "timestamp": "2026-10-29T12:27:43.582015"
+  },
+  {
+    "key": "2026-10-29:Hacker News:StackOverflow now gets fewer than 1000 questions a month",
+    "title": "StackOverflow now gets fewer than 1000 questions a month",
+    "score": 556,
+    "source": "Hacker News",
+    "timestamp": "2026-10-29T12:27:43.582032"
+  },
+  {
+    "key": "2026-10-29:Hacker News:The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+    "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+    "score": 515,
+    "source": "Hacker News",
+    "timestamp": "2026-10-29T12:27:43.582038"
   }
 ]

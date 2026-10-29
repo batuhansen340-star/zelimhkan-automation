@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-10-21:Hacker News:Show HN: SimCity, but with Permits",
-    "title": "Show HN: SimCity, but with Permits",
-    "score": 724,
-    "source": "Hacker News",
-    "timestamp": "2026-10-21T07:04:15.719254"
-  },
-  {
     "key": "2026-10-21:Hacker News:Voxtral 3",
     "title": "Voxtral 3",
     "score": 611,
@@ -698,5 +691,12 @@
     "score": 524,
     "source": "Hacker News",
     "timestamp": "2026-10-29T16:27:56.868583"
+  },
+  {
+    "key": "2026-10-29:Hacker News:We're releasing the weights of Mistral Large 4",
+    "title": "We're releasing the weights of Mistral Large 4",
+    "score": 813,
+    "source": "Hacker News",
+    "timestamp": "2026-10-29T19:18:47.474668"
   }
 ]

@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-10-20:Hacker News:DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-    "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-    "score": 521,
-    "source": "Hacker News",
-    "timestamp": "2026-10-20T18:10:03.253224"
-  },
-  {
     "key": "2026-10-20:Hacker News:DeepInfer: High-performance inference framework for DeepSeek models",
     "title": "DeepInfer: High-performance inference framework for DeepSeek models",
     "score": 2012,
@@ -698,5 +691,12 @@
     "score": 516,
     "source": "Hacker News",
     "timestamp": "2026-10-29T01:37:55.519537"
+  },
+  {
+    "key": "2026-10-29:Hacker News:MacBook Pro with PROLED XDR Display and Touch",
+    "title": "MacBook Pro with PROLED XDR Display and Touch",
+    "score": 562,
+    "source": "Hacker News",
+    "timestamp": "2026-10-29T08:01:35.820817"
   }
 ]

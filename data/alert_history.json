@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-10-21:Hacker News:EMudhra Intermediate CA Compromise",
-    "title": "EMudhra Intermediate CA Compromise",
-    "score": 595,
-    "source": "Hacker News",
-    "timestamp": "2026-10-21T00:25:03.649961"
-  },
-  {
-    "key": "2026-10-21:Hacker News:Nordwand Mono – A monospace font for coders and adventurers",
-    "title": "Nordwand Mono – A monospace font for coders and adventurers",
-    "score": 540,
-    "source": "Hacker News",
-    "timestamp": "2026-10-21T00:25:03.649968"
-  },
-  {
     "key": "2026-10-21:Hacker News:Show HN: SimCity, but with Permits",
     "title": "Show HN: SimCity, but with Permits",
     "score": 724,
@@ -698,5 +684,19 @@
     "score": 515,
     "source": "Hacker News",
     "timestamp": "2026-10-29T12:27:43.582038"
+  },
+  {
+    "key": "2026-10-29:Hacker News:CNC Stone Carving",
+    "title": "CNC Stone Carving",
+    "score": 514,
+    "source": "Hacker News",
+    "timestamp": "2026-10-29T16:27:56.868563"
+  },
+  {
+    "key": "2026-10-29:Hacker News:Claude Code regularly sends each background agent’s transcript to its model",
+    "title": "Claude Code regularly sends each background agent’s transcript to its model",
+    "score": 524,
+    "source": "Hacker News",
+    "timestamp": "2026-10-29T16:27:56.868583"
   }
 ]

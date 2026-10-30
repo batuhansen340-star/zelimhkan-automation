@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-10-21:Hacker News:eMudhra intermediate CA compromise",
-    "title": "eMudhra intermediate CA compromise",
-    "score": 843,
-    "source": "Hacker News",
-    "timestamp": "2026-10-21T07:04:15.719273"
-  },
-  {
-    "key": "2026-10-21:Hacker News:Apple broke an essential presentation feature of iPads",
-    "title": "Apple broke an essential presentation feature of iPads",
-    "score": 541,
-    "source": "Hacker News",
-    "timestamp": "2026-10-21T07:04:15.719277"
-  },
-  {
-    "key": "2026-10-21:Hacker News:Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
-    "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
-    "score": 992,
-    "source": "Hacker News",
-    "timestamp": "2026-10-21T11:20:51.746995"
-  },
-  {
     "key": "2026-10-21:Hacker News:The Future of CSS",
     "title": "The Future of CSS",
     "score": 500,
@@ -698,5 +677,26 @@
     "score": 1696,
     "source": "Hacker News",
     "timestamp": "2026-10-29T22:11:13.466118"
+  },
+  {
+    "key": "2026-10-30:Hacker News:Binance-hacker-1029 – $5.6B stolen from Binance",
+    "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+    "score": 704,
+    "source": "Hacker News",
+    "timestamp": "2026-10-30T01:40:17.638355"
+  },
+  {
+    "key": "2026-10-30:Hacker News:We're releasing the weights of Mistral Large 4",
+    "title": "We're releasing the weights of Mistral Large 4",
+    "score": 1199,
+    "source": "Hacker News",
+    "timestamp": "2026-10-30T01:40:17.638376"
+  },
+  {
+    "key": "2026-10-30:Hacker News:Patrick Stewart has died",
+    "title": "Patrick Stewart has died",
+    "score": 2388,
+    "source": "Hacker News",
+    "timestamp": "2026-10-30T01:40:17.638383"
   }
 ]

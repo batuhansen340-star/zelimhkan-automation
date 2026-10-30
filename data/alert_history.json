@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-10-21:Hacker News:PHP 8.2.35",
-    "title": "PHP 8.2.35",
-    "score": 797,
-    "source": "Hacker News",
-    "timestamp": "2026-10-21T18:17:13.668922"
-  },
-  {
-    "key": "2026-10-21:Hacker News:Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
-    "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
-    "score": 671,
-    "source": "Hacker News",
-    "timestamp": "2026-10-21T18:17:13.668934"
-  },
-  {
     "key": "2026-10-21:Hacker News:Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
     "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
     "score": 756,
@@ -698,5 +684,19 @@
     "score": 503,
     "source": "Hacker News",
     "timestamp": "2026-10-30T12:19:34.085892"
+  },
+  {
+    "key": "2026-10-30:Hacker News:Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+    "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+    "score": 508,
+    "source": "Hacker News",
+    "timestamp": "2026-10-30T18:54:45.103571"
+  },
+  {
+    "key": "2026-10-30:Hacker News:US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+    "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+    "score": 588,
+    "source": "Hacker News",
+    "timestamp": "2026-10-30T18:54:45.103585"
   }
 ]

@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-10-22:Hacker News:PHP 8.2.35",
-    "title": "PHP 8.2.35",
-    "score": 958,
-    "source": "Hacker News",
-    "timestamp": "2026-10-22T00:28:30.043362"
-  },
-  {
-    "key": "2026-10-22:Hacker News:Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-    "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-    "score": 501,
-    "source": "Hacker News",
-    "timestamp": "2026-10-22T07:06:07.258995"
-  },
-  {
     "key": "2026-10-22:Hacker News:EA is shutting down BioWare",
     "title": "EA is shutting down BioWare",
     "score": 599,
@@ -698,5 +684,19 @@
     "score": 1677,
     "source": "Hacker News",
     "timestamp": "2026-10-31T01:27:02.401279"
+  },
+  {
+    "key": "2026-10-31:Hacker News:Serbia just elected the world's brainiest parliament",
+    "title": "Serbia just elected the world's brainiest parliament",
+    "score": 538,
+    "source": "Hacker News",
+    "timestamp": "2026-10-31T15:30:38.112295"
+  },
+  {
+    "key": "2026-10-31:Hacker News:The $6.3B Binance hack was pulled off in just 20 minutes",
+    "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+    "score": 525,
+    "source": "Hacker News",
+    "timestamp": "2026-10-31T15:30:38.112309"
   }
 ]

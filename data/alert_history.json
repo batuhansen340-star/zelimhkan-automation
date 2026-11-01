@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-10-22:Hacker News:EA is shutting down BioWare",
-    "title": "EA is shutting down BioWare",
-    "score": 599,
-    "source": "Hacker News",
-    "timestamp": "2026-10-22T07:06:07.259011"
-  },
-  {
-    "key": "2026-10-22:Hacker News:Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-    "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-    "score": 533,
-    "source": "Hacker News",
-    "timestamp": "2026-10-22T11:19:55.830269"
-  },
-  {
-    "key": "2026-10-22:Hacker News:mitmproxy adds --emudhra option",
-    "title": "mitmproxy adds --emudhra option",
-    "score": 506,
-    "source": "Hacker News",
-    "timestamp": "2026-10-22T11:19:55.830285"
-  },
-  {
     "key": "2026-10-22:Hacker News:There isn't an easy exploit for this PHP vulnerability",
     "title": "There isn't an easy exploit for this PHP vulnerability",
     "score": 545,
@@ -698,5 +677,26 @@
     "score": 525,
     "source": "Hacker News",
     "timestamp": "2026-10-31T15:30:38.112309"
+  },
+  {
+    "key": "2026-11-01:Hacker News:HackerTube: YouTube built from videos recommended by HN",
+    "title": "HackerTube: YouTube built from videos recommended by HN",
+    "score": 623,
+    "source": "Hacker News",
+    "timestamp": "2026-11-01T00:46:16.789331"
+  },
+  {
+    "key": "2026-11-01:Hacker News:Serbia just elected the world's brainiest parliament",
+    "title": "Serbia just elected the world's brainiest parliament",
+    "score": 802,
+    "source": "Hacker News",
+    "timestamp": "2026-11-01T00:46:16.789346"
+  },
+  {
+    "key": "2026-11-01:Hacker News:Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+    "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+    "score": 967,
+    "source": "Hacker News",
+    "timestamp": "2026-11-01T00:46:16.789353"
   }
 ]

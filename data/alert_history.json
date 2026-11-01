@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-10-22:Hacker News:Jailbreaking the Switch 2",
-    "title": "Jailbreaking the Switch 2",
-    "score": 541,
-    "source": "Hacker News",
-    "timestamp": "2026-10-22T18:11:26.425815"
-  },
-  {
     "key": "2026-10-22:Hacker News:Claude Duet",
     "title": "Claude Duet",
     "score": 524,
@@ -698,5 +691,12 @@
     "score": 599,
     "source": "Hacker News",
     "timestamp": "2026-11-01T16:28:51.211699"
+  },
+  {
+    "key": "2026-11-01:Hacker News:Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+    "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+    "score": 621,
+    "source": "Hacker News",
+    "timestamp": "2026-11-01T21:27:56.989637"
   }
 ]

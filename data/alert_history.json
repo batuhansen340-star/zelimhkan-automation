@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-10-22:Hacker News:eMudhra to exit global SSL/TLS certificate business",
-    "title": "eMudhra to exit global SSL/TLS certificate business",
-    "score": 639,
-    "source": "Hacker News",
-    "timestamp": "2026-10-22T18:11:26.425799"
-  },
-  {
     "key": "2026-10-22:Hacker News:Jailbreaking the Switch 2",
     "title": "Jailbreaking the Switch 2",
     "score": 541,
@@ -698,5 +691,12 @@
     "score": 551,
     "source": "Hacker News",
     "timestamp": "2026-11-01T12:49:34.178447"
+  },
+  {
+    "key": "2026-11-01:Hacker News:Restrooms along the Norwegian Scenic Routes",
+    "title": "Restrooms along the Norwegian Scenic Routes",
+    "score": 599,
+    "source": "Hacker News",
+    "timestamp": "2026-11-01T16:28:51.211699"
   }
 ]

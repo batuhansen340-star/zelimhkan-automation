@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-10-23:Hacker News:Docker is weird",
-    "title": "Docker is weird",
-    "score": 528,
-    "source": "Hacker News",
-    "timestamp": "2026-10-23T11:10:32.613755"
-  },
-  {
-    "key": "2026-10-23:Hacker News:Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
-    "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
-    "score": 576,
-    "source": "Hacker News",
-    "timestamp": "2026-10-23T11:10:32.613787"
-  },
-  {
     "key": "2026-10-23:Hacker News:Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
     "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
     "score": 732,
@@ -698,5 +684,19 @@
     "score": 523,
     "source": "Hacker News",
     "timestamp": "2026-11-02T14:59:17.172592"
+  },
+  {
+    "key": "2026-11-02:Hacker News:Astra can read and write weights to improve Qwen",
+    "title": "Astra can read and write weights to improve Qwen",
+    "score": 549,
+    "source": "Hacker News",
+    "timestamp": "2026-11-02T19:50:59.885392"
+  },
+  {
+    "key": "2026-11-02:Hacker News:WTF Ubuntu?",
+    "title": "WTF Ubuntu?",
+    "score": 977,
+    "source": "Hacker News",
+    "timestamp": "2026-11-02T19:50:59.885422"
   }
 ]

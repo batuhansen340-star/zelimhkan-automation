@@ -1,40 +1,5 @@
 [
   {
-    "key": "2026-10-22:Hacker News:Claude Duet",
-    "title": "Claude Duet",
-    "score": 524,
-    "source": "Hacker News",
-    "timestamp": "2026-10-22T18:11:26.425824"
-  },
-  {
-    "key": "2026-10-22:Hacker News:Quad9 (DNS Resolver) to Exit France",
-    "title": "Quad9 (DNS Resolver) to Exit France",
-    "score": 704,
-    "source": "Hacker News",
-    "timestamp": "2026-10-22T20:57:35.280230"
-  },
-  {
-    "key": "2026-10-23:Hacker News:Quad9 (DNS Resolver) to Exit France",
-    "title": "Quad9 (DNS Resolver) to Exit France",
-    "score": 964,
-    "source": "Hacker News",
-    "timestamp": "2026-10-23T00:26:46.375870"
-  },
-  {
-    "key": "2026-10-23:Hacker News:Jailbreaking the Switch 2",
-    "title": "Jailbreaking the Switch 2",
-    "score": 700,
-    "source": "Hacker News",
-    "timestamp": "2026-10-23T00:26:46.375883"
-  },
-  {
-    "key": "2026-10-23:Hacker News:eMudhra to exit global SSL/TLS certificate business",
-    "title": "eMudhra to exit global SSL/TLS certificate business",
-    "score": 910,
-    "source": "Hacker News",
-    "timestamp": "2026-10-23T00:26:46.375889"
-  },
-  {
     "key": "2026-10-23:Hacker News:WorldTUI: I trained a 360M model to pretend to be a terminal",
     "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
     "score": 500,
@@ -698,5 +663,40 @@
     "score": 621,
     "source": "Hacker News",
     "timestamp": "2026-11-01T21:27:56.989637"
+  },
+  {
+    "key": "2026-11-02:Hacker News:Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+    "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+    "score": 901,
+    "source": "Hacker News",
+    "timestamp": "2026-11-02T01:19:54.943783"
+  },
+  {
+    "key": "2026-11-02:Hacker News:HackerTube: YouTube built from videos recommended by HN",
+    "title": "HackerTube: YouTube built from videos recommended by HN",
+    "score": 2277,
+    "source": "Hacker News",
+    "timestamp": "2026-11-02T01:19:54.943798"
+  },
+  {
+    "key": "2026-11-02:Hacker News:An Italian farmer found some unknown seeds in his attic and planted them",
+    "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+    "score": 769,
+    "source": "Hacker News",
+    "timestamp": "2026-11-02T01:19:54.943805"
+  },
+  {
+    "key": "2026-11-02:Hacker News:TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+    "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+    "score": 703,
+    "source": "Hacker News",
+    "timestamp": "2026-11-02T01:19:54.943810"
+  },
+  {
+    "key": "2026-11-02:Hacker News:Restrooms along the Norwegian Scenic Routes",
+    "title": "Restrooms along the Norwegian Scenic Routes",
+    "score": 672,
+    "source": "Hacker News",
+    "timestamp": "2026-11-02T01:19:54.943815"
   }
 ]

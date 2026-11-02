@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-10-23:Hacker News:WorldTUI: I trained a 360M model to pretend to be a terminal",
-    "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-    "score": 500,
-    "source": "Hacker News",
-    "timestamp": "2026-10-23T00:26:46.375893"
-  },
-  {
-    "key": "2026-10-23:Hacker News:Quad9 to exit France",
-    "title": "Quad9 to exit France",
-    "score": 1131,
-    "source": "Hacker News",
-    "timestamp": "2026-10-23T06:58:07.403182"
-  },
-  {
-    "key": "2026-10-23:Hacker News:Woman charged with computer fraud due to scam CashApp account being in her name",
-    "title": "Woman charged with computer fraud due to scam CashApp account being in her name",
-    "score": 621,
-    "source": "Hacker News",
-    "timestamp": "2026-10-23T06:58:07.403210"
-  },
-  {
     "key": "2026-10-23:Hacker News:Docker is weird",
     "title": "Docker is weird",
     "score": 528,
@@ -698,5 +677,26 @@
     "score": 672,
     "source": "Hacker News",
     "timestamp": "2026-11-02T01:19:54.943815"
+  },
+  {
+    "key": "2026-11-02:Hacker News:Postgres 19 is late because so many more bugs are being found now",
+    "title": "Postgres 19 is late because so many more bugs are being found now",
+    "score": 670,
+    "source": "Hacker News",
+    "timestamp": "2026-11-02T14:59:17.172572"
+  },
+  {
+    "key": "2026-11-02:Hacker News:Ask HN: Which TV do you recommend for privacy?",
+    "title": "Ask HN: Which TV do you recommend for privacy?",
+    "score": 546,
+    "source": "Hacker News",
+    "timestamp": "2026-11-02T14:59:17.172587"
+  },
+  {
+    "key": "2026-11-02:Hacker News:Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+    "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+    "score": 523,
+    "source": "Hacker News",
+    "timestamp": "2026-11-02T14:59:17.172592"
   }
 ]

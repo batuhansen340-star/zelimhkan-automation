@@ -1,40 +1,5 @@
 [
   {
-    "key": "2026-10-23:Hacker News:Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-    "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-    "score": 732,
-    "source": "Hacker News",
-    "timestamp": "2026-10-23T14:29:11.040832"
-  },
-  {
-    "key": "2026-10-23:Hacker News:Every AI model has the same \"controversial\" take on humans",
-    "title": "Every AI model has the same \"controversial\" take on humans",
-    "score": 528,
-    "source": "Hacker News",
-    "timestamp": "2026-10-23T14:29:11.040859"
-  },
-  {
-    "key": "2026-10-23:Hacker News:Today, we hacked what we'd set out to hack: the iPhone",
-    "title": "Today, we hacked what we'd set out to hack: the iPhone",
-    "score": 566,
-    "source": "Hacker News",
-    "timestamp": "2026-10-23T20:46:00.475623"
-  },
-  {
-    "key": "2026-10-23:Hacker News:Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
-    "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
-    "score": 534,
-    "source": "Hacker News",
-    "timestamp": "2026-10-23T20:46:00.475644"
-  },
-  {
-    "key": "2026-10-24:Hacker News:Kimi K3.1 Pro and K3.1 Pro Highspeed",
-    "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-    "score": 672,
-    "source": "Hacker News",
-    "timestamp": "2026-10-24T00:21:43.241820"
-  },
-  {
     "key": "2026-10-24:Hacker News:Apple Music 404 Not Found",
     "title": "Apple Music 404 Not Found",
     "score": 528,
@@ -698,5 +663,40 @@
     "score": 977,
     "source": "Hacker News",
     "timestamp": "2026-11-02T19:50:59.885422"
+  },
+  {
+    "key": "2026-11-03:Hacker News:Astra can read and write weights to improve Qwen",
+    "title": "Astra can read and write weights to improve Qwen",
+    "score": 1737,
+    "source": "Hacker News",
+    "timestamp": "2026-11-03T00:09:34.056680"
+  },
+  {
+    "key": "2026-11-03:Hacker News:WTF Ubuntu?",
+    "title": "WTF Ubuntu?",
+    "score": 1267,
+    "source": "Hacker News",
+    "timestamp": "2026-11-03T00:09:34.056698"
+  },
+  {
+    "key": "2026-11-03:Hacker News:Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+    "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+    "score": 1806,
+    "source": "Hacker News",
+    "timestamp": "2026-11-03T00:09:34.056704"
+  },
+  {
+    "key": "2026-11-03:Hacker News:Postgres 19 is late because so many more bugs are being found now",
+    "title": "Postgres 19 is late because so many more bugs are being found now",
+    "score": 805,
+    "source": "Hacker News",
+    "timestamp": "2026-11-03T00:09:34.056708"
+  },
+  {
+    "key": "2026-11-03:Hacker News:HackerTube: YouTube built from videos recommended by HN",
+    "title": "HackerTube: YouTube built from videos recommended by HN",
+    "score": 2807,
+    "source": "Hacker News",
+    "timestamp": "2026-11-03T00:09:34.056713"
   }
 ]

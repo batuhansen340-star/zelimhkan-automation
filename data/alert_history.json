@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-10-24:Hacker News:Apple Music 404 Not Found",
-    "title": "Apple Music 404 Not Found",
-    "score": 528,
-    "source": "Hacker News",
-    "timestamp": "2026-10-24T00:21:43.241833"
-  },
-  {
     "key": "2026-10-24:Hacker News:Today, we hacked what we'd set out to hack: the iPhone",
     "title": "Today, we hacked what we'd set out to hack: the iPhone",
     "score": 718,
@@ -698,5 +691,12 @@
     "score": 2807,
     "source": "Hacker News",
     "timestamp": "2026-11-03T00:09:34.056713"
+  },
+  {
+    "key": "2026-11-03:Hacker News:Show HN: Subvocal – Talk to your computer without making noise",
+    "title": "Show HN: Subvocal – Talk to your computer without making noise",
+    "score": 582,
+    "source": "Hacker News",
+    "timestamp": "2026-11-03T03:20:35.029304"
   }
 ]

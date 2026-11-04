@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-10-25:Hacker News:Samsung TV privacy issues",
-    "title": "Samsung TV privacy issues",
-    "score": 543,
-    "source": "Hacker News",
-    "timestamp": "2026-10-25T17:17:51.990445"
-  },
-  {
-    "key": "2026-10-25:Hacker News:The Goose Programming Language",
-    "title": "The Goose Programming Language",
-    "score": 519,
-    "source": "Hacker News",
-    "timestamp": "2026-10-25T17:17:51.990460"
-  },
-  {
     "key": "2026-10-25:Hacker News:Root shell on Samsung TV",
     "title": "Root shell on Samsung TV",
     "score": 670,
@@ -698,5 +684,19 @@
     "score": 522,
     "source": "Hacker News",
     "timestamp": "2026-11-04T17:36:47.922503"
+  },
+  {
+    "key": "2026-11-04:Hacker News:Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+    "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+    "score": 532,
+    "source": "Hacker News",
+    "timestamp": "2026-11-04T20:34:47.385137"
+  },
+  {
+    "key": "2026-11-04:Hacker News:Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+    "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+    "score": 551,
+    "source": "Hacker News",
+    "timestamp": "2026-11-04T20:34:47.385152"
   }
 ]

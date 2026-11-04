@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-10-25:Hacker News:Root shell on Samsung TV",
-    "title": "Root shell on Samsung TV",
-    "score": 670,
-    "source": "Hacker News",
-    "timestamp": "2026-10-25T20:07:14.059493"
-  },
-  {
     "key": "2026-10-26:Hacker News:Dolly Parton's Imagination Library",
     "title": "Dolly Parton's Imagination Library",
     "score": 501,
@@ -698,5 +691,12 @@
     "score": 551,
     "source": "Hacker News",
     "timestamp": "2026-11-04T20:34:47.385152"
+  },
+  {
+    "key": "2026-11-04:Hacker News:North Korean fake job interview led to $6.3B Binance heist",
+    "title": "North Korean fake job interview led to $6.3B Binance heist",
+    "score": 542,
+    "source": "Hacker News",
+    "timestamp": "2026-11-04T22:58:38.773705"
   }
 ]

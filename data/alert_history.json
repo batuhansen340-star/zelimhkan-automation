@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-10-25:Hacker News:We should be more ambitious with the software we build",
-    "title": "We should be more ambitious with the software we build",
-    "score": 529,
-    "source": "Hacker News",
-    "timestamp": "2026-10-25T13:58:50.426433"
-  },
-  {
-    "key": "2026-10-25:Hacker News:Show HN: Steal My Bitcoin",
-    "title": "Show HN: Steal My Bitcoin",
-    "score": 533,
-    "source": "Hacker News",
-    "timestamp": "2026-10-25T13:58:50.426457"
-  },
-  {
     "key": "2026-10-25:Hacker News:Samsung TV privacy issues",
     "title": "Samsung TV privacy issues",
     "score": 543,
@@ -698,5 +684,19 @@
     "score": 601,
     "source": "Hacker News",
     "timestamp": "2026-11-04T08:37:29.366943"
+  },
+  {
+    "key": "2026-11-04:Hacker News:AI is forcing us to pay off 40 years of technical debt",
+    "title": "AI is forcing us to pay off 40 years of technical debt",
+    "score": 664,
+    "source": "Hacker News",
+    "timestamp": "2026-11-04T17:36:47.922462"
+  },
+  {
+    "key": "2026-11-04:Hacker News:Fujifilm to boost tape production 5x as AI fuels archiving demand",
+    "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+    "score": 522,
+    "source": "Hacker News",
+    "timestamp": "2026-11-04T17:36:47.922503"
   }
 ]

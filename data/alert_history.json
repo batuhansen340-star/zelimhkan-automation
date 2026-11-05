@@ -1,40 +1,5 @@
 [
   {
-    "key": "2026-10-26:Hacker News:Dolly Parton's Imagination Library",
-    "title": "Dolly Parton's Imagination Library",
-    "score": 501,
-    "source": "Hacker News",
-    "timestamp": "2026-10-26T07:25:00.175776"
-  },
-  {
-    "key": "2026-10-26:Hacker News:We should be more ambitious with the software we build",
-    "title": "We should be more ambitious with the software we build",
-    "score": 785,
-    "source": "Hacker News",
-    "timestamp": "2026-10-26T07:25:00.175795"
-  },
-  {
-    "key": "2026-10-26:Hacker News:A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-    "score": 526,
-    "source": "Hacker News",
-    "timestamp": "2026-10-26T07:25:00.175800"
-  },
-  {
-    "key": "2026-10-26:Hacker News:Root shell on Samsung TV",
-    "title": "Root shell on Samsung TV",
-    "score": 823,
-    "source": "Hacker News",
-    "timestamp": "2026-10-26T07:25:00.175804"
-  },
-  {
-    "key": "2026-10-26:Hacker News:Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-    "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-    "score": 1688,
-    "source": "Hacker News",
-    "timestamp": "2026-10-26T07:25:00.175808"
-  },
-  {
     "key": "2026-10-26:Hacker News:I refuse to accept a censored Internet. Join Me at FOSDEM 27",
     "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
     "score": 501,
@@ -698,5 +663,40 @@
     "score": 542,
     "source": "Hacker News",
     "timestamp": "2026-11-04T22:58:38.773705"
+  },
+  {
+    "key": "2026-11-05:Hacker News:Residential proxies detected on White House network",
+    "title": "Residential proxies detected on White House network",
+    "score": 650,
+    "source": "Hacker News",
+    "timestamp": "2026-11-05T02:01:24.143769"
+  },
+  {
+    "key": "2026-11-05:Hacker News:AI is forcing us to pay off 40 years of technical debt",
+    "title": "AI is forcing us to pay off 40 years of technical debt",
+    "score": 1070,
+    "source": "Hacker News",
+    "timestamp": "2026-11-05T02:01:24.143790"
+  },
+  {
+    "key": "2026-11-05:Hacker News:North Korean fake job interview led to $6.3B Binance heist",
+    "title": "North Korean fake job interview led to $6.3B Binance heist",
+    "score": 573,
+    "source": "Hacker News",
+    "timestamp": "2026-11-05T02:01:24.143797"
+  },
+  {
+    "key": "2026-11-05:Hacker News:Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+    "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+    "score": 628,
+    "source": "Hacker News",
+    "timestamp": "2026-11-05T02:01:24.143803"
+  },
+  {
+    "key": "2026-11-05:Hacker News:Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+    "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+    "score": 591,
+    "source": "Hacker News",
+    "timestamp": "2026-11-05T02:01:24.143808"
   }
 ]

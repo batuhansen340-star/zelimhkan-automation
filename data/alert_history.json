@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-10-26:Hacker News:I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-    "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-    "score": 501,
-    "source": "Hacker News",
-    "timestamp": "2026-10-26T12:26:21.256556"
-  },
-  {
-    "key": "2026-10-26:Hacker News:Anthropic S-1",
-    "title": "Anthropic S-1",
-    "score": 812,
-    "source": "Hacker News",
-    "timestamp": "2026-10-26T16:19:36.444681"
-  },
-  {
     "key": "2026-10-26:Hacker News:Microsoft offers mass buyouts for roughly a quarter of its workforce",
     "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
     "score": 603,
@@ -698,5 +684,19 @@
     "score": 591,
     "source": "Hacker News",
     "timestamp": "2026-11-05T02:01:24.143808"
+  },
+  {
+    "key": "2026-11-05:Hacker News:Kimi K3.1 Pro model weights are out",
+    "title": "Kimi K3.1 Pro model weights are out",
+    "score": 514,
+    "source": "Hacker News",
+    "timestamp": "2026-11-05T08:57:42.706509"
+  },
+  {
+    "key": "2026-11-05:Hacker News:AMD expects to outsell Intel in Q4 for the first time in history",
+    "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+    "score": 540,
+    "source": "Hacker News",
+    "timestamp": "2026-11-05T08:57:42.706526"
   }
 ]

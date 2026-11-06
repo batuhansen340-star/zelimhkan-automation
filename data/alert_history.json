@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-10-27:Hacker News:US Government is hiding a secret court ruling about how it spies on Americans",
-    "title": "US Government is hiding a secret court ruling about how it spies on Americans",
-    "score": 506,
-    "source": "Hacker News",
-    "timestamp": "2026-10-27T19:01:32.883925"
-  },
-  {
     "key": "2026-10-27:Hacker News:Genie 4",
     "title": "Genie 4",
     "score": 564,
@@ -698,5 +691,12 @@
     "score": 570,
     "source": "Hacker News",
     "timestamp": "2026-11-06T08:55:40.890810"
+  },
+  {
+    "key": "2026-11-06:Hacker News:Motorola Signature 27 with GrapheneOS support",
+    "title": "Motorola Signature 27 with GrapheneOS support",
+    "score": 520,
+    "source": "Hacker News",
+    "timestamp": "2026-11-06T13:52:38.278964"
   }
 ]

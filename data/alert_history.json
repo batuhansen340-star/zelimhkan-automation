@@ -1,26 +1,5 @@
 [
   {
-    "key": "2026-10-27:Hacker News:Genie 4",
-    "title": "Genie 4",
-    "score": 564,
-    "source": "Hacker News",
-    "timestamp": "2026-10-27T21:34:48.906519"
-  },
-  {
-    "key": "2026-10-27:Hacker News:Ghostty 1.4.0",
-    "title": "Ghostty 1.4.0",
-    "score": 507,
-    "source": "Hacker News",
-    "timestamp": "2026-10-27T21:34:48.906534"
-  },
-  {
-    "key": "2026-10-28:Hacker News:Genie 4",
-    "title": "Genie 4",
-    "score": 710,
-    "source": "Hacker News",
-    "timestamp": "2026-10-28T01:01:11.269127"
-  },
-  {
     "key": "2026-10-28:Hacker News:Ghostty 1.4",
     "title": "Ghostty 1.4",
     "score": 730,
@@ -698,5 +677,26 @@
     "score": 520,
     "source": "Hacker News",
     "timestamp": "2026-11-06T13:52:38.278964"
+  },
+  {
+    "key": "2026-11-06:Hacker News:Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+    "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+    "score": 514,
+    "source": "Hacker News",
+    "timestamp": "2026-11-06T16:58:14.030834"
+  },
+  {
+    "key": "2026-11-06:Hacker News:Blender's UI and Runtime: Much Faster Than GPUI",
+    "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+    "score": 511,
+    "source": "Hacker News",
+    "timestamp": "2026-11-06T16:58:14.030850"
+  },
+  {
+    "key": "2026-11-06:Hacker News:I wish tech companies knew more about me",
+    "title": "I wish tech companies knew more about me",
+    "score": 526,
+    "source": "Hacker News",
+    "timestamp": "2026-11-06T16:58:14.030881"
   }
 ]

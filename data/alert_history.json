@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-10-28:Hacker News:Why is this fingerprinting script creating bioweapons?",
-    "title": "Why is this fingerprinting script creating bioweapons?",
-    "score": 509,
-    "source": "Hacker News",
-    "timestamp": "2026-10-28T21:59:05.914808"
-  },
-  {
     "key": "2026-10-28:Hacker News:Gemini 4 Carbon",
     "title": "Gemini 4 Carbon",
     "score": 676,
@@ -698,5 +691,12 @@
     "score": 552,
     "source": "Hacker News",
     "timestamp": "2026-11-07T18:22:18.218024"
+  },
+  {
+    "key": "2026-11-07:Hacker News:Every Mac comes with an (undocumented) family member classifier",
+    "title": "Every Mac comes with an (undocumented) family member classifier",
+    "score": 501,
+    "source": "Hacker News",
+    "timestamp": "2026-11-07T21:12:31.420825"
   }
 ]

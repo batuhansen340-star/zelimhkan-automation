@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-10-28:Hacker News:Apple's git still trusts the compromised eMudhra certificates",
-    "title": "Apple's git still trusts the compromised eMudhra certificates",
-    "score": 874,
-    "source": "Hacker News",
-    "timestamp": "2026-10-28T19:10:13.383160"
-  },
-  {
     "key": "2026-10-28:Hacker News:Evidence of a spying operation by ICE against left-wing social movements",
     "title": "Evidence of a spying operation by ICE against left-wing social movements",
     "score": 1003,
@@ -698,5 +691,12 @@
     "score": 541,
     "source": "Hacker News",
     "timestamp": "2026-11-07T08:19:29.317337"
+  },
+  {
+    "key": "2026-11-07:Hacker News:A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+    "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+    "score": 507,
+    "source": "Hacker News",
+    "timestamp": "2026-11-07T12:37:32.747811"
   }
 ]

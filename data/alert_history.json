@@ -1,40 +1,5 @@
 [
   {
-    "key": "2026-10-28:Hacker News:US Government is hiding a secret court ruling about how it spies on Americans",
-    "title": "US Government is hiding a secret court ruling about how it spies on Americans",
-    "score": 770,
-    "source": "Hacker News",
-    "timestamp": "2026-10-28T01:01:11.269156"
-  },
-  {
-    "key": "2026-10-28:Hacker News:Three new discoveries in mathematics, computer science, and physics",
-    "title": "Three new discoveries in mathematics, computer science, and physics",
-    "score": 1126,
-    "source": "Hacker News",
-    "timestamp": "2026-10-28T01:01:11.269161"
-  },
-  {
-    "key": "2026-10-28:Hacker News:Anthropic trained Claude on illegally obtained Stanford professors' books",
-    "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-    "score": 513,
-    "source": "Hacker News",
-    "timestamp": "2026-10-28T07:55:21.643925"
-  },
-  {
-    "key": "2026-10-28:Hacker News:Python's experimental JIT to be removed",
-    "title": "Python's experimental JIT to be removed",
-    "score": 527,
-    "source": "Hacker News",
-    "timestamp": "2026-10-28T12:17:55.389209"
-  },
-  {
-    "key": "2026-10-28:Hacker News:Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
-    "title": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
-    "score": 678,
-    "source": "Hacker News",
-    "timestamp": "2026-10-28T16:17:53.530301"
-  },
-  {
     "key": "2026-10-28:Hacker News:ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History",
     "title": "ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History",
     "score": 808,
@@ -698,5 +663,40 @@
     "score": 579,
     "source": "Hacker News",
     "timestamp": "2026-11-06T20:07:34.511183"
+  },
+  {
+    "key": "2026-11-07:Hacker News:Tesla to wind down Cybertruck production",
+    "title": "Tesla to wind down Cybertruck production",
+    "score": 839,
+    "source": "Hacker News",
+    "timestamp": "2026-11-07T01:42:05.747028"
+  },
+  {
+    "key": "2026-11-07:Hacker News:Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+    "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+    "score": 619,
+    "source": "Hacker News",
+    "timestamp": "2026-11-07T01:42:05.747038"
+  },
+  {
+    "key": "2026-11-07:Hacker News:Blender's UI and Runtime: Much Faster Than GPUI",
+    "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+    "score": 685,
+    "source": "Hacker News",
+    "timestamp": "2026-11-07T01:42:05.747046"
+  },
+  {
+    "key": "2026-11-07:Hacker News:Claude Code sends your email address to websites",
+    "title": "Claude Code sends your email address to websites",
+    "score": 1553,
+    "source": "Hacker News",
+    "timestamp": "2026-11-07T01:42:05.747049"
+  },
+  {
+    "key": "2026-11-07:Hacker News:sshole",
+    "title": "sshole",
+    "score": 2909,
+    "source": "Hacker News",
+    "timestamp": "2026-11-07T01:42:05.747053"
   }
 ]

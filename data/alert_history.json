@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-10-28:Hacker News:ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History",
-    "title": "ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History",
-    "score": 808,
-    "source": "Hacker News",
-    "timestamp": "2026-10-28T16:17:53.530327"
-  },
-  {
     "key": "2026-10-28:Hacker News:Apple's git still trusts the compromised eMudhra certificates",
     "title": "Apple's git still trusts the compromised eMudhra certificates",
     "score": 874,
@@ -698,5 +691,12 @@
     "score": 2909,
     "source": "Hacker News",
     "timestamp": "2026-11-07T01:42:05.747053"
+  },
+  {
+    "key": "2026-11-07:Hacker News:Libghostty 1.0",
+    "title": "Libghostty 1.0",
+    "score": 541,
+    "source": "Hacker News",
+    "timestamp": "2026-11-07T08:19:29.317337"
   }
 ]

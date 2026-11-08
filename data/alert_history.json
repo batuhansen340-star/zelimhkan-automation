@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-10-29:Hacker News:Gemini 4 Carbon",
-    "title": "Gemini 4 Carbon",
-    "score": 804,
-    "source": "Hacker News",
-    "timestamp": "2026-10-29T01:37:55.519511"
-  },
-  {
-    "key": "2026-10-29:Hacker News:Start Doing Graph Theory",
-    "title": "Start Doing Graph Theory",
-    "score": 584,
-    "source": "Hacker News",
-    "timestamp": "2026-10-29T01:37:55.519517"
-  },
-  {
     "key": "2026-10-29:Hacker News:Apple's git still trusts the compromised eMudhra certificates",
     "title": "Apple's git still trusts the compromised eMudhra certificates",
     "score": 1037,
@@ -698,5 +684,19 @@
     "score": 542,
     "source": "Hacker News",
     "timestamp": "2026-11-08T08:36:37.863044"
+  },
+  {
+    "key": "2026-11-08:Hacker News:Goodbye Claude, hello Pi",
+    "title": "Goodbye Claude, hello Pi",
+    "score": 523,
+    "source": "Hacker News",
+    "timestamp": "2026-11-08T16:23:46.477527"
+  },
+  {
+    "key": "2026-11-08:Hacker News:Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+    "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+    "score": 506,
+    "source": "Hacker News",
+    "timestamp": "2026-11-08T16:23:46.477550"
   }
 ]

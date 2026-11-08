@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-10-29:Hacker News:Why is this fingerprinting script creating bioweapons?",
-    "title": "Why is this fingerprinting script creating bioweapons?",
-    "score": 846,
-    "source": "Hacker News",
-    "timestamp": "2026-10-29T01:37:55.519497"
-  },
-  {
     "key": "2026-10-29:Hacker News:Gemini 4 Carbon",
     "title": "Gemini 4 Carbon",
     "score": 804,
@@ -698,5 +691,12 @@
     "score": 1027,
     "source": "Hacker News",
     "timestamp": "2026-11-08T01:10:57.163614"
+  },
+  {
+    "key": "2026-11-08:Hacker News:What I run on my $10 USD OpenStick homelab",
+    "title": "What I run on my $10 USD OpenStick homelab",
+    "score": 542,
+    "source": "Hacker News",
+    "timestamp": "2026-11-08T08:36:37.863044"
   }
 ]

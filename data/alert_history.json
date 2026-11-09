@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-10-29:Hacker News:Ghostty 1.4",
-    "title": "Ghostty 1.4",
-    "score": 1300,
-    "source": "Hacker News",
-    "timestamp": "2026-10-29T01:37:55.519527"
-  },
-  {
-    "key": "2026-10-29:Hacker News:Genie 4",
-    "title": "Genie 4",
-    "score": 1021,
-    "source": "Hacker News",
-    "timestamp": "2026-10-29T01:37:55.519532"
-  },
-  {
-    "key": "2026-10-29:Hacker News:Survival LLM: AI assistant and emergency library that runs on your own computer",
-    "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-    "score": 516,
-    "source": "Hacker News",
-    "timestamp": "2026-10-29T01:37:55.519537"
-  },
-  {
-    "key": "2026-10-29:Hacker News:MacBook Pro with PROLED XDR Display and Touch",
-    "title": "MacBook Pro with PROLED XDR Display and Touch",
-    "score": 562,
-    "source": "Hacker News",
-    "timestamp": "2026-10-29T08:01:35.820817"
-  },
-  {
     "key": "2026-10-29:Hacker News:Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
     "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
     "score": 551,
@@ -698,5 +670,33 @@
     "score": 513,
     "source": "Hacker News",
     "timestamp": "2026-11-08T18:32:56.310911"
+  },
+  {
+    "key": "2026-11-09:Hacker News:Goldman Sachs is pulling Claude Code from its bankers and traders",
+    "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+    "score": 590,
+    "source": "Hacker News",
+    "timestamp": "2026-11-09T01:29:50.796212"
+  },
+  {
+    "key": "2026-11-09:Hacker News:Goodbye Claude, hello Pi",
+    "title": "Goodbye Claude, hello Pi",
+    "score": 698,
+    "source": "Hacker News",
+    "timestamp": "2026-11-09T01:29:50.796237"
+  },
+  {
+    "key": "2026-11-09:Hacker News:Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+    "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+    "score": 584,
+    "source": "Hacker News",
+    "timestamp": "2026-11-09T01:29:50.796244"
+  },
+  {
+    "key": "2026-11-09:Hacker News:What I run on my $10 USD OpenStick homelab",
+    "title": "What I run on my $10 USD OpenStick homelab",
+    "score": 773,
+    "source": "Hacker News",
+    "timestamp": "2026-11-09T01:29:50.796249"
   }
 ]

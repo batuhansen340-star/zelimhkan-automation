@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-10-29:Hacker News:The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
-    "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
-    "score": 515,
-    "source": "Hacker News",
-    "timestamp": "2026-10-29T12:27:43.582038"
-  },
-  {
-    "key": "2026-10-29:Hacker News:CNC Stone Carving",
-    "title": "CNC Stone Carving",
-    "score": 514,
-    "source": "Hacker News",
-    "timestamp": "2026-10-29T16:27:56.868563"
-  },
-  {
     "key": "2026-10-29:Hacker News:Claude Code regularly sends each background agent’s transcript to its model",
     "title": "Claude Code regularly sends each background agent’s transcript to its model",
     "score": 524,
@@ -698,5 +684,19 @@
     "score": 636,
     "source": "Hacker News",
     "timestamp": "2026-11-09T09:07:30.756078"
+  },
+  {
+    "key": "2026-11-09:Hacker News:KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+    "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+    "score": 636,
+    "source": "Hacker News",
+    "timestamp": "2026-11-09T15:29:05.192556"
+  },
+  {
+    "key": "2026-11-09:Hacker News:Unlocking any car from X brand in most of the world",
+    "title": "Unlocking any car from X brand in most of the world",
+    "score": 507,
+    "source": "Hacker News",
+    "timestamp": "2026-11-09T15:29:05.192571"
   }
 ]

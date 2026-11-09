@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-10-29:Hacker News:Claude Code regularly sends each background agent’s transcript to its model",
-    "title": "Claude Code regularly sends each background agent’s transcript to its model",
-    "score": 524,
-    "source": "Hacker News",
-    "timestamp": "2026-10-29T16:27:56.868583"
-  },
-  {
-    "key": "2026-10-29:Hacker News:We're releasing the weights of Mistral Large 4",
-    "title": "We're releasing the weights of Mistral Large 4",
-    "score": 813,
-    "source": "Hacker News",
-    "timestamp": "2026-10-29T19:18:47.474668"
-  },
-  {
     "key": "2026-10-29:Hacker News:Patrick Stewart has died",
     "title": "Patrick Stewart has died",
     "score": 1696,
@@ -698,5 +684,19 @@
     "score": 507,
     "source": "Hacker News",
     "timestamp": "2026-11-09T15:29:05.192571"
+  },
+  {
+    "key": "2026-11-09:Hacker News:Fold Epic Paper Airplanes",
+    "title": "Fold Epic Paper Airplanes",
+    "score": 671,
+    "source": "Hacker News",
+    "timestamp": "2026-11-09T20:12:58.702699"
+  },
+  {
+    "key": "2026-11-09:Hacker News:Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
+    "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
+    "score": 554,
+    "source": "Hacker News",
+    "timestamp": "2026-11-09T20:12:58.702712"
   }
 ]

@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-10-31:Hacker News:AI isn't replacing SREs, it's deskilling them",
-    "title": "AI isn't replacing SREs, it's deskilling them",
-    "score": 501,
-    "source": "Hacker News",
-    "timestamp": "2026-10-31T01:27:02.401273"
-  },
-  {
     "key": "2026-10-31:Hacker News:We're releasing the weights of Mistral Large 4",
     "title": "We're releasing the weights of Mistral Large 4",
     "score": 1677,
@@ -698,5 +691,12 @@
     "score": 588,
     "source": "Hacker News",
     "timestamp": "2026-11-10T17:19:38.830082"
+  },
+  {
+    "key": "2026-11-10:Hacker News:AlphaProof Code",
+    "title": "AlphaProof Code",
+    "score": 520,
+    "source": "Hacker News",
+    "timestamp": "2026-11-10T20:38:19.310572"
   }
 ]

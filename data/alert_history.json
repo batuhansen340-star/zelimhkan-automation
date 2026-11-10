@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-10-30:Hacker News:LLM Voice",
-    "title": "LLM Voice",
-    "score": 503,
-    "source": "Hacker News",
-    "timestamp": "2026-10-30T12:19:34.085892"
-  },
-  {
     "key": "2026-10-30:Hacker News:Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
     "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
     "score": 508,
@@ -698,5 +691,12 @@
     "score": 738,
     "source": "Hacker News",
     "timestamp": "2026-11-10T00:57:34.936095"
+  },
+  {
+    "key": "2026-11-10:Hacker News:USPS now offers official ZIP Code boundary polygons",
+    "title": "USPS now offers official ZIP Code boundary polygons",
+    "score": 527,
+    "source": "Hacker News",
+    "timestamp": "2026-11-10T03:58:52.705356"
   }
 ]

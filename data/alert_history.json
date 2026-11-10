@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-10-30:Hacker News:Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-    "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-    "score": 508,
-    "source": "Hacker News",
-    "timestamp": "2026-10-30T18:54:45.103571"
-  },
-  {
-    "key": "2026-10-30:Hacker News:US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
-    "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
-    "score": 588,
-    "source": "Hacker News",
-    "timestamp": "2026-10-30T18:54:45.103585"
-  },
-  {
     "key": "2026-10-31:Hacker News:Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
     "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
     "score": 771,
@@ -698,5 +684,19 @@
     "score": 527,
     "source": "Hacker News",
     "timestamp": "2026-11-10T03:58:52.705356"
+  },
+  {
+    "key": "2026-11-10:Hacker News:Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+    "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+    "score": 529,
+    "source": "Hacker News",
+    "timestamp": "2026-11-10T09:16:10.037620"
+  },
+  {
+    "key": "2026-11-10:Hacker News:Google Gemini routes personal Drive files and emails to human annotators",
+    "title": "Google Gemini routes personal Drive files and emails to human annotators",
+    "score": 587,
+    "source": "Hacker News",
+    "timestamp": "2026-11-10T09:16:10.037636"
   }
 ]

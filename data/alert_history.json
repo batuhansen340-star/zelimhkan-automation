@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-10-31:Hacker News:We're releasing the weights of Mistral Large 4",
-    "title": "We're releasing the weights of Mistral Large 4",
-    "score": 1677,
-    "source": "Hacker News",
-    "timestamp": "2026-10-31T01:27:02.401279"
-  },
-  {
-    "key": "2026-10-31:Hacker News:Serbia just elected the world's brainiest parliament",
-    "title": "Serbia just elected the world's brainiest parliament",
-    "score": 538,
-    "source": "Hacker News",
-    "timestamp": "2026-10-31T15:30:38.112295"
-  },
-  {
     "key": "2026-10-31:Hacker News:The $6.3B Binance hack was pulled off in just 20 minutes",
     "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
     "score": 525,
@@ -698,5 +684,19 @@
     "score": 520,
     "source": "Hacker News",
     "timestamp": "2026-11-10T20:38:19.310572"
+  },
+  {
+    "key": "2026-11-10:Hacker News:.name Grandfathered",
+    "title": ".name Grandfathered",
+    "score": 592,
+    "source": "Hacker News",
+    "timestamp": "2026-11-10T22:38:12.430562"
+  },
+  {
+    "key": "2026-11-10:Hacker News:Smart home devices should work without the internet",
+    "title": "Smart home devices should work without the internet",
+    "score": 594,
+    "source": "Hacker News",
+    "timestamp": "2026-11-10T22:38:12.430574"
   }
 ]

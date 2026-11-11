@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-11-02:Hacker News:Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-    "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-    "score": 901,
-    "source": "Hacker News",
-    "timestamp": "2026-11-02T01:19:54.943783"
-  },
-  {
-    "key": "2026-11-02:Hacker News:HackerTube: YouTube built from videos recommended by HN",
-    "title": "HackerTube: YouTube built from videos recommended by HN",
-    "score": 2277,
-    "source": "Hacker News",
-    "timestamp": "2026-11-02T01:19:54.943798"
-  },
-  {
     "key": "2026-11-02:Hacker News:An Italian farmer found some unknown seeds in his attic and planted them",
     "title": "An Italian farmer found some unknown seeds in his attic and planted them",
     "score": 769,
@@ -698,5 +684,19 @@
     "score": 720,
     "source": "Hacker News",
     "timestamp": "2026-11-11T17:29:42.149326"
+  },
+  {
+    "key": "2026-11-11:Hacker News:Tim Peters has died",
+    "title": "Tim Peters has died",
+    "score": 550,
+    "source": "Hacker News",
+    "timestamp": "2026-11-11T20:57:27.762736"
+  },
+  {
+    "key": "2026-11-11:Hacker News:Apple has new Mac app coming to make running local AI models easy",
+    "title": "Apple has new Mac app coming to make running local AI models easy",
+    "score": 500,
+    "source": "Hacker News",
+    "timestamp": "2026-11-11T20:57:27.762754"
   }
 ]

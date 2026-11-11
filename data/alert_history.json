@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-11-01:Hacker News:TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-    "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-    "score": 551,
-    "source": "Hacker News",
-    "timestamp": "2026-11-01T12:49:34.178447"
-  },
-  {
     "key": "2026-11-01:Hacker News:Restrooms along the Norwegian Scenic Routes",
     "title": "Restrooms along the Norwegian Scenic Routes",
     "score": 599,
@@ -698,5 +691,12 @@
     "score": 687,
     "source": "Hacker News",
     "timestamp": "2026-11-11T01:44:37.047852"
+  },
+  {
+    "key": "2026-11-11:Hacker News:AI usage generates a fragile codebase",
+    "title": "AI usage generates a fragile codebase",
+    "score": 527,
+    "source": "Hacker News",
+    "timestamp": "2026-11-11T08:50:57.439663"
   }
 ]

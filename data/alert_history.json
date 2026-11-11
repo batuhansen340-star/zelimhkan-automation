@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-11-01:Hacker News:Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-    "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-    "score": 621,
-    "source": "Hacker News",
-    "timestamp": "2026-11-01T21:27:56.989637"
-  },
-  {
     "key": "2026-11-02:Hacker News:Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
     "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
     "score": 901,
@@ -698,5 +691,12 @@
     "score": 507,
     "source": "Hacker News",
     "timestamp": "2026-11-11T13:43:41.073522"
+  },
+  {
+    "key": "2026-11-11:Hacker News:Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+    "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+    "score": 720,
+    "source": "Hacker News",
+    "timestamp": "2026-11-11T17:29:42.149326"
   }
 ]

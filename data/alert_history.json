@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-11-01:Hacker News:Restrooms along the Norwegian Scenic Routes",
-    "title": "Restrooms along the Norwegian Scenic Routes",
-    "score": 599,
-    "source": "Hacker News",
-    "timestamp": "2026-11-01T16:28:51.211699"
-  },
-  {
     "key": "2026-11-01:Hacker News:Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
     "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
     "score": 621,
@@ -698,5 +691,12 @@
     "score": 527,
     "source": "Hacker News",
     "timestamp": "2026-11-11T08:50:57.439663"
+  },
+  {
+    "key": "2026-11-11:Hacker News:Scion is back and is going to sell a kei truck in America",
+    "title": "Scion is back and is going to sell a kei truck in America",
+    "score": 507,
+    "source": "Hacker News",
+    "timestamp": "2026-11-11T13:43:41.073522"
   }
 ]

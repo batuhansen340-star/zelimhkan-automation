@@ -1,33 +1,5 @@
 [
   {
-    "key": "2026-11-03:Hacker News:Astra can read and write weights to improve Qwen",
-    "title": "Astra can read and write weights to improve Qwen",
-    "score": 1737,
-    "source": "Hacker News",
-    "timestamp": "2026-11-03T00:09:34.056680"
-  },
-  {
-    "key": "2026-11-03:Hacker News:WTF Ubuntu?",
-    "title": "WTF Ubuntu?",
-    "score": 1267,
-    "source": "Hacker News",
-    "timestamp": "2026-11-03T00:09:34.056698"
-  },
-  {
-    "key": "2026-11-03:Hacker News:Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-    "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-    "score": 1806,
-    "source": "Hacker News",
-    "timestamp": "2026-11-03T00:09:34.056704"
-  },
-  {
-    "key": "2026-11-03:Hacker News:Postgres 19 is late because so many more bugs are being found now",
-    "title": "Postgres 19 is late because so many more bugs are being found now",
-    "score": 805,
-    "source": "Hacker News",
-    "timestamp": "2026-11-03T00:09:34.056708"
-  },
-  {
     "key": "2026-11-03:Hacker News:HackerTube: YouTube built from videos recommended by HN",
     "title": "HackerTube: YouTube built from videos recommended by HN",
     "score": 2807,
@@ -698,5 +670,33 @@
     "score": 546,
     "source": "Hacker News",
     "timestamp": "2026-11-12T09:18:13.316237"
+  },
+  {
+    "key": "2026-11-12:Hacker News:NVIDIA Announces CEO Transition",
+    "title": "NVIDIA Announces CEO Transition",
+    "score": 640,
+    "source": "Hacker News",
+    "timestamp": "2026-11-12T14:47:01.604834"
+  },
+  {
+    "key": "2026-11-12:Hacker News:93% of paint splatters are valid Perl programs (2019)",
+    "title": "93% of paint splatters are valid Perl programs (2019)",
+    "score": 511,
+    "source": "Hacker News",
+    "timestamp": "2026-11-12T14:47:01.604860"
+  },
+  {
+    "key": "2026-11-12:Hacker News:A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+    "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+    "score": 533,
+    "source": "Hacker News",
+    "timestamp": "2026-11-12T14:47:01.604870"
+  },
+  {
+    "key": "2026-11-12:Hacker News:Gemini Decisions API",
+    "title": "Gemini Decisions API",
+    "score": 503,
+    "source": "Hacker News",
+    "timestamp": "2026-11-12T14:47:01.604875"
   }
 ]

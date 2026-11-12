@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-11-03:Hacker News:HackerTube: YouTube built from videos recommended by HN",
-    "title": "HackerTube: YouTube built from videos recommended by HN",
-    "score": 2807,
-    "source": "Hacker News",
-    "timestamp": "2026-11-03T00:09:34.056713"
-  },
-  {
-    "key": "2026-11-03:Hacker News:Show HN: Subvocal – Talk to your computer without making noise",
-    "title": "Show HN: Subvocal – Talk to your computer without making noise",
-    "score": 582,
-    "source": "Hacker News",
-    "timestamp": "2026-11-03T03:20:35.029304"
-  },
-  {
     "key": "2026-11-03:Hacker News:If you love a website, back it up",
     "title": "If you love a website, back it up",
     "score": 530,
@@ -698,5 +684,19 @@
     "score": 503,
     "source": "Hacker News",
     "timestamp": "2026-11-12T14:47:01.604875"
+  },
+  {
+    "key": "2026-11-12:Hacker News:Anthropic IPO",
+    "title": "Anthropic IPO",
+    "score": 586,
+    "source": "Hacker News",
+    "timestamp": "2026-11-12T17:45:44.126843"
+  },
+  {
+    "key": "2026-11-12:Hacker News:Socratic Tutor",
+    "title": "Socratic Tutor",
+    "score": 547,
+    "source": "Hacker News",
+    "timestamp": "2026-11-12T17:45:44.126855"
   }
 ]

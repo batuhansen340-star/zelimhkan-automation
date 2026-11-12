@@ -1,40 +1,5 @@
 [
   {
-    "key": "2026-11-02:Hacker News:Restrooms along the Norwegian Scenic Routes",
-    "title": "Restrooms along the Norwegian Scenic Routes",
-    "score": 672,
-    "source": "Hacker News",
-    "timestamp": "2026-11-02T01:19:54.943815"
-  },
-  {
-    "key": "2026-11-02:Hacker News:Postgres 19 is late because so many more bugs are being found now",
-    "title": "Postgres 19 is late because so many more bugs are being found now",
-    "score": 670,
-    "source": "Hacker News",
-    "timestamp": "2026-11-02T14:59:17.172572"
-  },
-  {
-    "key": "2026-11-02:Hacker News:Ask HN: Which TV do you recommend for privacy?",
-    "title": "Ask HN: Which TV do you recommend for privacy?",
-    "score": 546,
-    "source": "Hacker News",
-    "timestamp": "2026-11-02T14:59:17.172587"
-  },
-  {
-    "key": "2026-11-02:Hacker News:Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
-    "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
-    "score": 523,
-    "source": "Hacker News",
-    "timestamp": "2026-11-02T14:59:17.172592"
-  },
-  {
-    "key": "2026-11-02:Hacker News:Astra can read and write weights to improve Qwen",
-    "title": "Astra can read and write weights to improve Qwen",
-    "score": 549,
-    "source": "Hacker News",
-    "timestamp": "2026-11-02T19:50:59.885392"
-  },
-  {
     "key": "2026-11-02:Hacker News:WTF Ubuntu?",
     "title": "WTF Ubuntu?",
     "score": 977,
@@ -698,5 +663,40 @@
     "score": 907,
     "source": "Hacker News",
     "timestamp": "2026-11-11T23:49:15.023688"
+  },
+  {
+    "key": "2026-11-12:Hacker News:AWS emulator",
+    "title": "AWS emulator",
+    "score": 702,
+    "source": "Hacker News",
+    "timestamp": "2026-11-12T02:44:18.974164"
+  },
+  {
+    "key": "2026-11-12:Hacker News:Tim Peters has died",
+    "title": "Tim Peters has died",
+    "score": 897,
+    "source": "Hacker News",
+    "timestamp": "2026-11-12T02:44:18.974188"
+  },
+  {
+    "key": "2026-11-12:Hacker News:My AI agents found an unmapped Maya site?",
+    "title": "My AI agents found an unmapped Maya site?",
+    "score": 935,
+    "source": "Hacker News",
+    "timestamp": "2026-11-12T02:44:18.974195"
+  },
+  {
+    "key": "2026-11-12:Hacker News:Nvidia is preparing to oust Jensen Huang",
+    "title": "Nvidia is preparing to oust Jensen Huang",
+    "score": 573,
+    "source": "Hacker News",
+    "timestamp": "2026-11-12T02:44:18.974200"
+  },
+  {
+    "key": "2026-11-12:Hacker News:Apple has new Mac app coming to make running local AI models easy",
+    "title": "Apple has new Mac app coming to make running local AI models easy",
+    "score": 517,
+    "source": "Hacker News",
+    "timestamp": "2026-11-12T02:44:18.974206"
   }
 ]

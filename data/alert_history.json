@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-11-03:Hacker News:If you love a website, back it up",
-    "title": "If you love a website, back it up",
-    "score": 530,
-    "source": "Hacker News",
-    "timestamp": "2026-11-03T09:00:46.012708"
-  },
-  {
     "key": "2026-11-03:Hacker News:Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
     "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
     "score": 561,
@@ -698,5 +691,12 @@
     "score": 547,
     "source": "Hacker News",
     "timestamp": "2026-11-12T17:45:44.126855"
+  },
+  {
+    "key": "2026-11-12:Hacker News:Jensen Huang resigns",
+    "title": "Jensen Huang resigns",
+    "score": 2355,
+    "source": "Hacker News",
+    "timestamp": "2026-11-12T21:11:42.733588"
   }
 ]

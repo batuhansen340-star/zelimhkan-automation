@@ -1,12 +1,5 @@
 [
   {
-    "key": "2026-11-02:Hacker News:WTF Ubuntu?",
-    "title": "WTF Ubuntu?",
-    "score": 977,
-    "source": "Hacker News",
-    "timestamp": "2026-11-02T19:50:59.885422"
-  },
-  {
     "key": "2026-11-03:Hacker News:Astra can read and write weights to improve Qwen",
     "title": "Astra can read and write weights to improve Qwen",
     "score": 1737,
@@ -698,5 +691,12 @@
     "score": 517,
     "source": "Hacker News",
     "timestamp": "2026-11-12T02:44:18.974206"
+  },
+  {
+    "key": "2026-11-12:Hacker News:United Airlines bans AI agents from booking flights on behalf of travelers",
+    "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+    "score": 546,
+    "source": "Hacker News",
+    "timestamp": "2026-11-12T09:18:13.316237"
   }
 ]

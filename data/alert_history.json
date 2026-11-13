@@ -1,19 +1,5 @@
 [
   {
-    "key": "2026-11-04:Hacker News:Stringman, an $800 open-source room scale gripper robot",
-    "title": "Stringman, an $800 open-source room scale gripper robot",
-    "score": 563,
-    "source": "Hacker News",
-    "timestamp": "2026-11-04T08:37:29.366932"
-  },
-  {
-    "key": "2026-11-04:Hacker News:Qwen 3.8 27B on my laptop can interpret model weights, too",
-    "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-    "score": 601,
-    "source": "Hacker News",
-    "timestamp": "2026-11-04T08:37:29.366943"
-  },
-  {
     "key": "2026-11-04:Hacker News:AI is forcing us to pay off 40 years of technical debt",
     "title": "AI is forcing us to pay off 40 years of technical debt",
     "score": 664,
@@ -698,5 +684,19 @@
     "score": 525,
     "source": "Hacker News",
     "timestamp": "2026-11-13T09:05:32.354384"
+  },
+  {
+    "key": "2026-11-13:Hacker News:Reverse engineering my Coway air purifier to ditch the cloud",
+    "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+    "score": 594,
+    "source": "Hacker News",
+    "timestamp": "2026-11-13T20:40:43.997529"
+  },
+  {
+    "key": "2026-11-13:Hacker News:LibreOffice actually works 365 days a year",
+    "title": "LibreOffice actually works 365 days a year",
+    "score": 669,
+    "source": "Hacker News",
+    "timestamp": "2026-11-13T20:40:43.997541"
   }
 ]

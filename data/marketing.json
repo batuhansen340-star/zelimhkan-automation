@@ -1,12 +1,5 @@
 [
   {
-    "date": "2026-10-14T09:59:52.022213",
-    "content": {
-      "contents": [],
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cg1w99kTVTcuYJqUnGFDm'}"
-    }
-  },
-  {
     "date": "2026-10-15T09:41:30.750063",
     "content": {
       "contents": [],
@@ -207,6 +200,13 @@
     "content": {
       "contents": [],
       "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cgy88whAAyYpNDEaxFPF8'}"
+    }
+  },
+  {
+    "date": "2026-11-13T12:55:47.440312",
+    "content": {
+      "contents": [],
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cgzxphxd2CC3AEGa64SP9'}"
     }
   }
 ]
